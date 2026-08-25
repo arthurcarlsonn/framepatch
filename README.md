@@ -1,36 +1,151 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FrameCheck
 
-## Getting Started
+Frame rate performance verification for console libraries — search a game, get a
+straight answer about whether it runs at 30, 40, 60 or 120 FPS on your console.
 
-First, run the development server:
+## Stack
+
+- Next.js 16 (App Router, Turbopack) + React 19 + TypeScript
+- Tailwind CSS 4 with shadcn/ui (`radix-nova` preset, Radix primitives)
+- Game metadata from [IGDB](https://www.igdb.com) via the Twitch API
+- `next-themes` for light/dark, Outfit for type, `sonner` for toasts
+
+## Running it
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Where the data comes from
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+IGDB is the canonical game database and the join key everywhere is the **IGDB game id**.
+Every other source only enriches an existing IGDB record — no adapter may introduce a game
+IGDB does not have.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Source | Supplies | Auth |
+| --- | --- | --- |
+| **IGDB** | title, cover, screenshots, trailer, companies, genres, ESRB, critic score, popularity, per-platform release dates, alternative names, similar games, storefront ids | Twitch client id/secret |
+| **Xbox** (`displaycatalog.mp.microsoft.com`) | price, sale price, download size, editions, Series X\|S / One compatibility, 4K/HDR/VRR capabilities | none |
+| **Game Pass** (`catalog.gamepass.com`) | console / PC / EA Play availability | none |
+| **Nintendo** (store page + `api.ec.nintendo.com`) | price, sale price, NSUID, rom size, Switch vs Switch 2, compatibility note, editions | none |
+| **PlayStation** (storefront payload) | product id, concept id, canonical store URL | none |
+| **HowLongToBeat** | main / main+extra / completionist times | none |
+| **FrameCheck** | frame rate per console model, modes, patch history, verification source | — |
 
-## Learn More
+Download sizes come from the storefronts, never from us — the previously hand-entered
+`fileSizeGb` values were sample data and have been removed.
 
-To learn more about Next.js, take a look at the following resources:
+FrameCheck's own database stays the source of truth for everything frame-rate related:
+FPS targets, console model, quality/performance modes, patch version and date, performance
+notes and verification URLs. No external source is consulted for any of it.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Coverage from the last sync, out of 208 titles: Xbox 146, Game Pass 56, Nintendo 101,
+PlayStation 161 (identity only), HowLongToBeat 0.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Known ceilings
 
-## Deploy on Vercel
+Two sources return less than we would like, and the site is built to show that honestly
+rather than paper over it:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **PlayStation** — the `__NEXT_DATA__` payload on both concept and product pages carries
+  only `id`, `name` and `isSearchableOnStore`. Price, editions and download size load
+  client-side through a GraphQL endpoint that rejects any query whose hash is not on
+  Sony's server-side whitelist; a hash computed from the query text comes back
+  `"not whitelisted"`. The Apollo cache is also served inconsistently — the same URL
+  returns product entities on one request and an empty cache on the next — so the adapter
+  falls back to the route props for the id. It therefore returns identity data only
+  (product id, concept id, canonical URL), and `extract()` is the single function to
+  change if Sony restores those fields.
+- **HowLongToBeat** — both npm wrappers (`howlongtobeat`, `hltb`) were last published in
+  2022-23 and throw against the current site. HLTB now gates `/api/search/site` behind a
+  session token plus an `x-hp-key`/`x-hp-val` fingerprint; requests without it get 403
+  "invalid fingerprint", and requests with a valid token but a non-browser client get an
+  HTML 404. The adapter implements the real flow and fails gracefully — `data/howLongToBeat.json`
+  records the rejection per game and the site renders without playtimes — so times populate
+  with no further work if that check relaxes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Syncing
+
+```bash
+pnpm sync                        # every source, then regenerate
+pnpm sync --only=nintendoStore   # one adapter
+pnpm sync --skip=howLongToBeat   # leave one out
+pnpm sync --force                # refetch entries that are still fresh
+pnpm generate                    # regenerate from the cache without fetching
+```
+
+IGDB needs `TWITCH_CLIENT_ID` and `TWITCH_CLIENT_SECRET` in `.env.local` (gitignored) from
+<https://dev.twitch.tv/console/apps>. Nothing else needs credentials.
+
+### The cache is the source of truth
+
+`data/<source>.json` holds one entry per IGDB id with a `fetchedAt` stamp, and it is
+committed. A sync **merges** into it:
+
+- a game that succeeds is replaced;
+- a game that returns nothing records `data: null` so it is not retried every run;
+- a game that throws keeps its previous `data` and records `lastError`.
+
+So a storefront that changes shape or goes down degrades that field for that game and
+nothing else — the remaining sources still run, the build still succeeds, and the site
+serves the last values that synced. Nothing is fetched during a page request: the app
+imports only the generated TypeScript.
+
+Page fetches are cached for 30 days; prices refresh on every run (Xbox in batches of 20,
+Nintendo through one batched price call across all NSUIDs).
+
+### Adding a frame rate
+
+Add an entry to `FRAME_DATA` in `src/lib/frame-data.ts`, keyed by IGDB slug:
+
+```ts
+"cyberpunk-2077": {
+  fps: { ps5: [60, 60], xsx: [60, 30], switch: [40, 30] },   // [flagship model, secondary]
+  modes: { ps5: ["Performance mode", "Ray tracing performance"] },
+  native: ["ps5", "xsx", "switch"],
+  verdict: "Native current-gen build. Performance mode targets 60 FPS…",
+},
+```
+
+Backwards-compatible titles are listed on IGDB under their original platform — Bloodborne
+is "PS4" — so curated `fps` keys *add* consoles IGDB does not know about. IGDB's own
+platform list still counts, which is how a game can be listed on a console with no verified
+figure.
+
+### The generated split
+
+`igdb.generated.ts` is the lean list index that ships to the browser — only what lists,
+search and ranking need. `igdb-detail.generated.ts` holds summaries, screenshots and all
+storefront data, and is reachable only through `src/lib/game-detail.ts`, which is marked
+`server-only`. Merging the two would put several hundred KB of unused data in every page
+load.
+
+## Layout
+
+```
+scripts/sync.mjs        orchestrator: refresh every source, then generate
+scripts/generate.mjs    data/*.json → src/lib/*.generated.ts
+scripts/adapters/       igdb, xboxStore, gamePass, nintendoStore, playstationStore, howLongToBeat
+scripts/lib/            http (retry, pacing) and store (the data/ cache)
+data/                   the committed cache, one file per source
+src/lib/types.ts        Domain types + the console/model map
+src/lib/frame-data.ts   Curated frame rates, keyed by IGDB slug
+src/lib/games.ts        The join, plus every query helper (search, filters, rails)
+src/lib/game-detail.ts  server-only join with the long-form IGDB fields
+src/components/         Feature components; ui/ holds the shadcn primitives
+src/app/                /, /browse, /patches, /submit, /games/[slug]
+```
+
+### Console selection
+
+The selected console is not a route — it lives in `localStorage` and is read through
+`useSyncExternalStore` in `platform-provider.tsx`, so every list and verdict re-derives
+instantly when it changes, and the choice survives reloads.
+
+### Design notes
+
+- 8px radius throughout (`--radius: 0.5rem`); cards, buttons and inputs all match.
+- No decorative gradients anywhere, including hover states.
+- Frame rates use a semantic colour scale (`--fps-high/good/mid/low`) defined for both
+  themes rather than raw Tailwind colours.

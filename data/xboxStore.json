@@ -1,0 +1,3973 @@
+{
+  "source": "xboxStore",
+  "syncedAt": "2026-08-25T17:35:40.604Z",
+  "entries": {
+    "72": {
+      "slug": "portal-2",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BT2B17V20D1P",
+        "title": "Portal 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/BT2B17V20D1P",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 5868277760,
+        "installBytes": null,
+        "editions": [
+          "Portal 2"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "116": {
+      "slug": "star-wars-knights-of-the-old-republic",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BS8LFD7729CL",
+        "title": "STAR WARS™ - Knights of the Old Republic™",
+        "url": "https://www.xbox.com/en-US/games/store/_/BS8LFD7729CL",
+        "price": 9.99,
+        "msrp": 9.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 4694671360,
+        "installBytes": null,
+        "editions": [
+          "STAR WARS™ - Knights of the Old Republic™"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "118": {
+      "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BQ4GD4LDGLTB",
+        "title": "Star Wars KOTOR II",
+        "url": "https://www.xbox.com/en-US/games/store/_/BQ4GD4LDGLTB",
+        "price": 9.99,
+        "msrp": 9.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 5056991232,
+        "installBytes": null,
+        "editions": [
+          "Star Wars KOTOR II"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "359": {
+      "slug": "final-fantasy-xv",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NR0N2LZ6TC5",
+        "title": "FINAL FANTASY XV WINDOWS EDITION",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NR0N2LZ6TC5",
+        "price": 34.99,
+        "msrp": 34.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 92441314570,
+        "installBytes": 92596277248,
+        "editions": [
+          "FINAL FANTASY XV WINDOWS EDITION"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": [
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "386": {
+      "slug": "final-fantasy-xiv-online--1",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NGN7D8GJN02",
+        "title": "FINAL FANTASY XIV Online - Free Trial",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NGN7D8GJN02",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "434": {
+      "slug": "red-dead-redemption",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BWKLFHWT7DHC",
+        "title": "Red Dead Redemption",
+        "url": "https://www.xbox.com/en-US/games/store/_/BWKLFHWT7DHC",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 7946903552,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "498": {
+      "slug": "borderlands",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C0NDKFJXW9SZ",
+        "title": "Borderlands",
+        "url": "https://www.xbox.com/en-US/games/store/_/C0NDKFJXW9SZ",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 9134874624,
+        "installBytes": null,
+        "editions": [
+          "Borderlands"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "500": {
+      "slug": "batman-arkham-asylum",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "501": {
+      "slug": "batman-arkham-city",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "506": {
+      "slug": "sonic-generations",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "530": {
+      "slug": "hitman-absolution",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BXHQB8CKJNVR",
+        "title": "Hitman: Absolution",
+        "url": "https://www.xbox.com/en-US/games/store/_/BXHQB8CKJNVR",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8205459456,
+        "installBytes": null,
+        "editions": [
+          "Hitman: Absolution"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "545": {
+      "slug": "call-of-duty-black-ops",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BVMGCSX6XPC9",
+        "title": "Call of Duty®: Black Ops",
+        "url": "https://www.xbox.com/en-US/games/store/_/BVMGCSX6XPC9",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8047894528,
+        "installBytes": null,
+        "editions": [
+          "Call of Duty®: Black Ops"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "873": {
+      "slug": "saints-row-the-third",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C0NZWZF27K7W",
+        "title": "Saints Row®: The Third™",
+        "url": "https://www.xbox.com/en-US/games/store/_/C0NZWZF27K7W",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8753090560,
+        "installBytes": null,
+        "editions": [
+          "Saints Row®: The Third™"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "885": {
+      "slug": "super-meat-boy",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C1365LM1Q2DK",
+        "title": "Super Meat Boy",
+        "url": "https://www.xbox.com/en-US/games/store/_/C1365LM1Q2DK",
+        "price": 4.49,
+        "msrp": 14.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 619646976,
+        "installBytes": null,
+        "editions": [
+          "Super Meat Boy"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "974": {
+      "slug": "resident-evil-4",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "1011": {
+      "slug": "borderlands-2",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BRC33X34H2C9",
+        "title": "Borderlands 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/BRC33X34H2C9",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 15578742784,
+        "installBytes": null,
+        "editions": [
+          "Borderlands 2"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1020": {
+      "slug": "grand-theft-auto-v",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BPJ686W6S0NH",
+        "title": "Grand Theft Auto V (Xbox One)",
+        "url": "https://www.xbox.com/en-US/games/store/_/BPJ686W6S0NH",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 99273207808,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1122": {
+      "slug": "call-of-duty-black-ops-ii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "1262": {
+      "slug": "south-park-the-stick-of-truth",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C0QDQ0KX4HDV",
+        "title": "South Park™: The Stick of Truth ™",
+        "url": "https://www.xbox.com/en-US/games/store/_/C0QDQ0KX4HDV",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 5807669248,
+        "installBytes": null,
+        "editions": [
+          "South Park™: The Stick of Truth ™"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1331": {
+      "slug": "limbo",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PNG83MDD6SH",
+        "title": "LIMBO",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PNG83MDD6SH",
+        "price": 12.49,
+        "msrp": 12.49,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 113655808,
+        "installBytes": null,
+        "editions": [
+          "LIMBO"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "1334": {
+      "slug": "brothers-a-tale-of-two-sons",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PJ42FRWTGH1",
+        "title": "Brothers: a Tale of Two Sons",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PJ42FRWTGH1",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1154215936,
+        "installBytes": null,
+        "editions": [
+          "Brothers: a Tale of Two Sons"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "1384": {
+      "slug": "hotline-miami",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PPCS86WS28Z",
+        "title": "Hotline Miami",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PPCS86WS28Z",
+        "price": 9.99,
+        "msrp": 9.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 538054656,
+        "installBytes": null,
+        "editions": [
+          "Hotline Miami"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "1871": {
+      "slug": "the-walking-dead",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BR1ZD21DCXJR",
+        "title": "The Walking Dead",
+        "url": "https://www.xbox.com/en-US/games/store/_/BR1ZD21DCXJR",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1060966400,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1877": {
+      "slug": "cyberpunk-2077",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BX3M8L83BBRW",
+        "title": "Cyberpunk 2077",
+        "url": "https://www.xbox.com/en-US/games/store/_/BX3M8L83BBRW",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 68498726912,
+        "installBytes": null,
+        "editions": [
+          "Cyberpunk 2077"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "1879": {
+      "slug": "terraria",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BTNPS60N3114",
+        "title": "Terraria",
+        "url": "https://www.xbox.com/en-US/games/store/_/BTNPS60N3114",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 736047104,
+        "installBytes": null,
+        "editions": [
+          "Terraria"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1905": {
+      "slug": "fortnite",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BT5P2X999VH2",
+        "title": "Fortnite",
+        "url": "https://www.xbox.com/en-US/games/store/_/BT5P2X999VH2",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 60670398464,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "1910": {
+      "slug": "outlast",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BP3GH4D3HP2H",
+        "title": "Outlast",
+        "url": "https://www.xbox.com/en-US/games/store/_/BP3GH4D3HP2H",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 3819290624,
+        "installBytes": null,
+        "editions": [
+          "Outlast"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1911": {
+      "slug": "path-of-exile",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BWC95BZPFBS7",
+        "title": "Path of Exile",
+        "url": "https://www.xbox.com/en-US/games/store/_/BWC95BZPFBS7",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 79148281856,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "1942": {
+      "slug": "the-witcher-3-wild-hunt",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BR765873CQJD",
+        "title": "The Witcher 3: Wild Hunt",
+        "url": "https://www.xbox.com/en-US/games/store/_/BR765873CQJD",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 43917713408,
+        "installBytes": null,
+        "editions": [
+          "The Witcher 3: Wild Hunt"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "1970": {
+      "slug": "assassins-creed-iv-black-flag",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BRKMHZX1RCF2",
+        "title": "Assassin's Creed IV Black Flag",
+        "url": "https://www.xbox.com/en-US/games/store/_/BRKMHZX1RCF2",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 23934136320,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed IV Black Flag"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "1983": {
+      "slug": "bastion",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BVVP3LXMLP85",
+        "title": "Bastion",
+        "url": "https://www.xbox.com/en-US/games/store/_/BVVP3LXMLP85",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1403043840,
+        "installBytes": null,
+        "editions": [
+          "Bastion"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "2114": {
+      "slug": "tom-clancy-s-the-division",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BRGPD72KHM3Q",
+        "title": "Tom Clancy’s The Division",
+        "url": "https://www.xbox.com/en-US/games/store/_/BRGPD72KHM3Q",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 49158197248,
+        "installBytes": null,
+        "editions": [
+          "Tom Clancy’s The Division"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k"
+        ]
+      }
+    },
+    "2117": {
+      "slug": "dayz",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BSR9NLHVF1KL",
+        "title": "DayZ",
+        "url": "https://www.xbox.com/en-US/games/store/_/BSR9NLHVF1KL",
+        "price": 54.99,
+        "msrp": 54.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 15847301120,
+        "installBytes": null,
+        "editions": [
+          "DayZ"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "2126": {
+      "slug": "hotline-miami-2-wrong-number",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NRX55Z58QNV",
+        "title": "Hotline Miami 2: Wrong Number",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NRX55Z58QNV",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 4349210624,
+        "installBytes": null,
+        "editions": [
+          "Hotline Miami 2: Wrong Number"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "2155": {
+      "slug": "dark-souls",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "2903": {
+      "slug": "warframe",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BPS3XF74B9V1",
+        "title": "Warframe",
+        "url": "https://www.xbox.com/en-US/games/store/_/BPS3XF74B9V1",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 79153872896,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "2933": {
+      "slug": "kingdom-hearts-iii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C08MW8XHQN9G",
+        "title": "KINGDOM HEARTS Ⅲ",
+        "url": "https://www.xbox.com/en-US/games/store/_/C08MW8XHQN9G",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 48383348736,
+        "installBytes": null,
+        "editions": [
+          "KINGDOM HEARTS Ⅲ"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "3042": {
+      "slug": "dying-light",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BXN9LB6R3ZPG",
+        "title": "Dying Light",
+        "url": "https://www.xbox.com/en-US/games/store/_/BXN9LB6R3ZPG",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 36072792064,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "3097": {
+      "slug": "the-walking-dead-season-two",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C2DQXX0CB42F",
+        "title": "The Walking Dead: Season Two",
+        "url": "https://www.xbox.com/en-US/games/store/_/C2DQXX0CB42F",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 4787126272,
+        "installBytes": null,
+        "editions": [
+          "The Walking Dead: Season Two"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "3225": {
+      "slug": "no-man-s-sky",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BQVQTL3PCH05",
+        "title": "No Man's Sky",
+        "url": "https://www.xbox.com/en-US/games/store/_/BQVQTL3PCH05",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 29943087104,
+        "installBytes": null,
+        "editions": [
+          "No Man's Sky"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "4754": {
+      "slug": "alien-isolation",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "4843": {
+      "slug": "kingdom-come-deliverance",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P3T7HVKM6D0",
+        "title": "Kingdom Come: Deliverance",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P3T7HVKM6D0",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 79613956096,
+        "installBytes": null,
+        "editions": [
+          "Kingdom Come: Deliverance"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "5025": {
+      "slug": "to-the-moon",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N18Q862HS1C",
+        "title": "To the Moon",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N18Q862HS1C",
+        "price": 9.99,
+        "msrp": 9.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 2234564608,
+        "installBytes": null,
+        "editions": [
+          "To the Moon"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "5503": {
+      "slug": "batman-arkham-knight",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BSLX1RNXR6H7",
+        "title": "Batman™: Arkham Knight",
+        "url": "https://www.xbox.com/en-US/games/store/_/BSLX1RNXR6H7",
+        "price": 3.99,
+        "msrp": 19.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 50676191232,
+        "installBytes": null,
+        "editions": [
+          "Batman™: Arkham Knight"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "5606": {
+      "slug": "assassins-creed-unity",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BRQH27C9RGXS",
+        "title": "Assassin's Creed Unity",
+        "url": "https://www.xbox.com/en-US/games/store/_/BRQH27C9RGXS",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 42049703936,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed Unity"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "6707": {
+      "slug": "tales-from-the-borderlands",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BV5623GKKLGV",
+        "title": "Tales from the Borderlands",
+        "url": "https://www.xbox.com/en-US/games/store/_/BV5623GKKLGV",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Tales from the Borderlands"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "6801": {
+      "slug": "far-cry-4",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C0KJ40T9QD86",
+        "title": "Far Cry® 4",
+        "url": "https://www.xbox.com/en-US/games/store/_/C0KJ40T9QD86",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 30395682816,
+        "installBytes": null,
+        "editions": [
+          "Far Cry® 4"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "7205": {
+      "slug": "superhot",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BVZ0D05W8MP2",
+        "title": "SUPERHOT",
+        "url": "https://www.xbox.com/en-US/games/store/_/BVZ0D05W8MP2",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 3883495424,
+        "installBytes": null,
+        "editions": [
+          "SUPERHOT"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "7342": {
+      "slug": "inside",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C17GQF31D617",
+        "title": "INSIDE",
+        "url": "https://www.xbox.com/en-US/games/store/_/C17GQF31D617",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 2497540096,
+        "installBytes": null,
+        "editions": [
+          "INSIDE"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "7360": {
+      "slug": "rainbow-six-siege",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MV3SSL8ZPB7",
+        "title": "Tom Clancy's Rainbow Six Siege - Elite Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MV3SSL8ZPB7",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": [
+          "Capability4k"
+        ]
+      }
+    },
+    "7570": {
+      "slug": "assassins-creed-rogue",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": null
+    },
+    "7603": {
+      "slug": "hellblade-senuas-sacrifice",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NCLP4LV5K7Z",
+        "title": "Hellblade: Senua's Sacrifice",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NCLP4LV5K7Z",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 20243050496,
+        "installBytes": null,
+        "editions": [
+          "Hellblade: Senua's Sacrifice"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "8263": {
+      "slug": "assassins-creed-syndicate",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BXVQ8M4J9HNM",
+        "title": "Assassin's Creed Syndicate",
+        "url": "https://www.xbox.com/en-US/games/store/_/BXVQ8M4J9HNM",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 43854942208,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed Syndicate"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "9061": {
+      "slug": "cuphead",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NJRX71M5X9P",
+        "title": "Cuphead",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NJRX71M5X9P",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 5399841994,
+        "installBytes": 5357293568,
+        "editions": [
+          "Cuphead"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "9174": {
+      "slug": "little-nightmares",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BWD88K55MK5W",
+        "title": "Little Nightmares",
+        "url": "https://www.xbox.com/en-US/games/store/_/BWD88K55MK5W",
+        "price": 4.99,
+        "msrp": 19.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 12017795072,
+        "installBytes": null,
+        "editions": [
+          "Little Nightmares"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "9254": {
+      "slug": "subnautica",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BX3S1Q5DVHRD",
+        "title": "Subnautica",
+        "url": "https://www.xbox.com/en-US/games/store/_/BX3S1Q5DVHRD",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 5849042944,
+        "installBytes": null,
+        "editions": [
+          "Subnautica"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "9630": {
+      "slug": "fallout-4",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C3KLDKZBHNCZ",
+        "title": "Fallout 4",
+        "url": "https://www.xbox.com/en-US/games/store/_/C3KLDKZBHNCZ",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 39049744384,
+        "installBytes": null,
+        "editions": [
+          "Fallout 4"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "9727": {
+      "slug": "soma",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C23M2TC1ZFPJ",
+        "title": "SOMA",
+        "url": "https://www.xbox.com/en-US/games/store/_/C23M2TC1ZFPJ",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 18159505408,
+        "installBytes": null,
+        "editions": [
+          "SOMA"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "9730": {
+      "slug": "firewatch",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BQQKG9H2STC0",
+        "title": "Firewatch",
+        "url": "https://www.xbox.com/en-US/games/store/_/BQQKG9H2STC0",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 3461222400,
+        "installBytes": null,
+        "editions": [
+          "Firewatch"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "11118": {
+      "slug": "dishonored-2",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MW4RJDRSF78",
+        "title": "Dishonored 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MW4RJDRSF78",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 62242930688,
+        "installBytes": null,
+        "editions": [
+          "Dishonored 2"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "11133": {
+      "slug": "dark-souls-iii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BW2XDRNSCCPZ",
+        "title": "DARK SOULS™ III",
+        "url": "https://www.xbox.com/en-US/games/store/_/BW2XDRNSCCPZ",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 21000904704,
+        "installBytes": null,
+        "editions": [
+          "DARK SOULS™ III"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "11198": {
+      "slug": "rocket-league",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C125W9BG2K0V",
+        "title": "Rocket League®",
+        "url": "https://www.xbox.com/en-US/games/store/_/C125W9BG2K0V",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 50287767552,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "11233": {
+      "slug": "what-remains-of-edith-finch",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BSLGLG8P9T01",
+        "title": "What Remains of Edith Finch",
+        "url": "https://www.xbox.com/en-US/games/store/_/BSLGLG8P9T01",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 3703382016,
+        "installBytes": null,
+        "editions": [
+          "What Remains of Edith Finch"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "11737": {
+      "slug": "outer-wilds",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C596FKDKMQN7",
+        "title": "Outer Wilds",
+        "url": "https://www.xbox.com/en-US/games/store/_/C596FKDKMQN7",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 12128882688,
+        "installBytes": null,
+        "editions": [
+          "Outer Wilds"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "12517": {
+      "slug": "undertale",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PJGGX9XJXPB",
+        "title": "Undertale",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PJGGX9XJXPB",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 288874496,
+        "installBytes": null,
+        "editions": [
+          "Undertale"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "13182": {
+      "slug": "far-cry-primal",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BV6BRSLFJW3W",
+        "title": "FAR CRY PRIMAL",
+        "url": "https://www.xbox.com/en-US/games/store/_/BV6BRSLFJW3W",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 13651599360,
+        "installBytes": null,
+        "editions": [
+          "FAR CRY PRIMAL"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "14593": {
+      "slug": "hollow-knight",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PKM22F7C9K5",
+        "title": "Hollow Knight",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PKM22F7C9K5",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 7980294144,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "16992": {
+      "slug": "human-fall-flat",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MT4HS1CP72W",
+        "title": "Human: Fall Flat Legacy",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MT4HS1CP72W",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 682377216,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "17000": {
+      "slug": "stardew-valley",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MWR1NC6VQ6L",
+        "title": "Stardew Valley",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MWR1NC6VQ6L",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 727924736,
+        "installBytes": null,
+        "editions": [
+          "Stardew Valley"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "17269": {
+      "slug": "roblox",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NBLGGGZM6WM",
+        "title": "Roblox - Not Supported",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NBLGGGZM6WM",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 185405011,
+        "installBytes": 308736000,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "18866": {
+      "slug": "dead-by-daylight",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NMS4SFNBGBH",
+        "title": "Dead by Daylight Windows",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NMS4SFNBGBH",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 65401008128,
+        "installBytes": null,
+        "editions": [
+          "Dead by Daylight Windows"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "19085": {
+      "slug": "shadow-tactics-blades-of-the-shogun",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C0SX9NVMVQG9",
+        "title": "Shadow Tactics: Blades of the Shogun",
+        "url": "https://www.xbox.com/en-US/games/store/_/C0SX9NVMVQG9",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8192958464,
+        "installBytes": null,
+        "editions": [
+          "Shadow Tactics: Blades of the Shogun"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "19130": {
+      "slug": "sid-meiers-civilization-vi",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N4RSG99KV1X",
+        "title": "Sid Meier's Civilization VI",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N4RSG99KV1X",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 21672509440,
+        "installBytes": null,
+        "editions": [
+          "Sid Meier's Civilization VI"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "19164": {
+      "slug": "borderlands-3",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C34NB0F1B5WQ",
+        "title": "Borderlands 3",
+        "url": "https://www.xbox.com/en-US/games/store/_/C34NB0F1B5WQ",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 70603374592,
+        "installBytes": null,
+        "editions": [
+          "Borderlands 3"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "19562": {
+      "slug": "resident-evil-7-biohazard",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NBLGGH4SPK6",
+        "title": "RESIDENT EVIL 7 biohazard",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NBLGGH4SPK6",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 25243770051,
+        "installBytes": 25258713088,
+        "editions": [
+          "RESIDENT EVIL 7 biohazard"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "22917": {
+      "slug": "gris",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N6C6J7C3GTQ",
+        "title": "GRIS",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N6C6J7C3GTQ",
+        "price": 16.99,
+        "msrp": 16.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 7417856000,
+        "installBytes": null,
+        "editions": [
+          "GRIS"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "23733": {
+      "slug": "tunic",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NLRT31Z4RWM",
+        "title": "TUNIC",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NLRT31Z4RWM",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 3497754624,
+        "installBytes": null,
+        "editions": [
+          "TUNIC"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "25076": {
+      "slug": "red-dead-redemption-2",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BPSWGQBW7R3G",
+        "title": "Red Dead Redemption 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/BPSWGQBW7R3G",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 113197821952,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "25657": {
+      "slug": "destiny-2",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P9WJ5FW0GTD",
+        "title": "Destiny 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P9WJ5FW0GTD",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 181820334080,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "26226": {
+      "slug": "celeste",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BWMQL2RPWBHB",
+        "title": "Celeste",
+        "url": "https://www.xbox.com/en-US/games/store/_/BWMQL2RPWBHB",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1264963872,
+        "installBytes": 1210236928,
+        "editions": [
+          "Celeste"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "26602": {
+      "slug": "metaphor-refantazio",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N5DV8310XP7",
+        "title": "Metaphor: ReFantazio",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N5DV8310XP7",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 75591389184,
+        "installBytes": null,
+        "editions": [
+          "Metaphor: ReFantazio"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "26765": {
+      "slug": "octopath-traveler",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N9606CC950J",
+        "title": "OCTOPATH TRAVELER",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N9606CC950J",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 3666976768,
+        "installBytes": null,
+        "editions": [
+          "OCTOPATH TRAVELER"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "26855": {
+      "slug": "dead-cells",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BQSCNS1T8PHQ",
+        "title": "Dead Cells",
+        "url": "https://www.xbox.com/en-US/games/store/_/BQSCNS1T8PHQ",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 2688331776,
+        "installBytes": null,
+        "editions": [
+          "Dead Cells"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "27316": {
+      "slug": "a-plague-tale-innocence",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9ND0CG3LM22K",
+        "title": "A Plague Tale: Innocence - Windows 10",
+        "url": "https://www.xbox.com/en-US/games/store/_/9ND0CG3LM22K",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 44884963328,
+        "installBytes": null,
+        "editions": [
+          "A Plague Tale: Innocence - Windows 10"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "27789": {
+      "slug": "pubg-battlegrounds",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C0MN5DN8KR3F",
+        "title": "PUBG: BATTLEGROUNDS",
+        "url": "https://www.xbox.com/en-US/games/store/_/C0MN5DN8KR3F",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 28663627776,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "28540": {
+      "slug": "assassins-creed-origins",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BZGJRJC1FGF3",
+        "title": "Assassin's Creed Origins",
+        "url": "https://www.xbox.com/en-US/games/store/_/BZGJRJC1FGF3",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 53334720512,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed Origins"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "28552": {
+      "slug": "far-cry-5",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MVQXW1RJVCN",
+        "title": "Far Cry® 5",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MVQXW1RJVCN",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 10612736,
+        "installBytes": 42949672960,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "36616": {
+      "slug": "they-are-billions",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PLXV2VJR0QL",
+        "title": "They Are Billions",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PLXV2VJR0QL",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 2004914176,
+        "installBytes": null,
+        "editions": [
+          "They Are Billions"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": []
+      }
+    },
+    "36952": {
+      "slug": "wolfenstein-ii-the-new-colossus",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C4LLMHFQ1BXQ",
+        "title": "Wolfenstein® II: The New Colossus™",
+        "url": "https://www.xbox.com/en-US/games/store/_/C4LLMHFQ1BXQ",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 57854246912,
+        "installBytes": null,
+        "editions": [
+          "Wolfenstein® II: The New Colossus™"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k"
+        ]
+      }
+    },
+    "37001": {
+      "slug": "ori-and-the-will-of-the-wisps",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N8CD0XZKLP4",
+        "title": "Ori and the Will of the Wisps",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N8CD0XZKLP4",
+        "price": 9.89,
+        "msrp": 29.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 6889267200,
+        "installBytes": null,
+        "editions": [
+          "Ori and the Will of the Wisps"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "37016": {
+      "slug": "metro-exodus",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C1TBTQBVJMFL",
+        "title": "Metro Exodus",
+        "url": "https://www.xbox.com/en-US/games/store/_/C1TBTQBVJMFL",
+        "price": 4.49,
+        "msrp": 29.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 70329733120,
+        "installBytes": null,
+        "editions": [
+          "Metro Exodus"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "37777": {
+      "slug": "shadow-of-the-tomb-raider",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BRVK4W7RVCXR",
+        "title": "Shadow of the Tomb Raider",
+        "url": "https://www.xbox.com/en-US/games/store/_/BRVK4W7RVCXR",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 34481676288,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "40477": {
+      "slug": "slay-the-spire",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MZQR8317S3B",
+        "title": "Slay The Spire",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MZQR8317S3B",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 547528704,
+        "installBytes": null,
+        "editions": [
+          "Slay The Spire"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "55163": {
+      "slug": "resident-evil-village",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N2S04LGXXH4",
+        "title": "Resident Evil Village",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N2S04LGXXH4",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Resident Evil Village"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "59849": {
+      "slug": "la-noire",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BQDVBCS5Z4N1",
+        "title": "L.A. Noire",
+        "url": "https://www.xbox.com/en-US/games/store/_/BQDVBCS5Z4N1",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 18348068864,
+        "installBytes": null,
+        "editions": [
+          "L.A. Noire"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "74701": {
+      "slug": "star-wars-jedi-fallen-order",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PK2KH9WR7SB",
+        "title": "STAR WARS Jedi: Fallen Order™",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PK2KH9WR7SB",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "76253": {
+      "slug": "devil-may-cry-5",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BNLG5J5KDVJ3",
+        "title": "Devil May Cry 5",
+        "url": "https://www.xbox.com/en-US/games/store/_/BNLG5J5KDVJ3",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 38216155136,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "82090": {
+      "slug": "forza-horizon-4",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PNJXVCVWD4K",
+        "title": "Forza Horizon 4 Standard Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PNJXVCVWD4K",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "82117": {
+      "slug": "two-point-hospital",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N08S5VPC4SX",
+        "title": "Two Point Hospital™",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N08S5VPC4SX",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8927715328,
+        "installBytes": null,
+        "editions": [
+          "Two Point Hospital™"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "96437": {
+      "slug": "starfield",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NCJSXWZTP88",
+        "title": "Starfield",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NCJSXWZTP88",
+        "price": 49.99,
+        "msrp": 49.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 149123375104,
+        "installBytes": null,
+        "editions": [
+          "Starfield"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "103054": {
+      "slug": "assassins-creed-odyssey",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BW9TWC8L4JCS",
+        "title": "Assassin's Creed Odyssey",
+        "url": "https://www.xbox.com/en-US/games/store/_/BW9TWC8L4JCS",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 81463050240,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed Odyssey"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "103281": {
+      "slug": "halo-infinite",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NP1P1WFS0LB",
+        "title": "Halo Infinite",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NP1P1WFS0LB",
+        "price": 19.79,
+        "msrp": 59.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Halo Infinite"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "CapabilityVRR",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "103292": {
+      "slug": "gears-5",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C2KDNLT2H7DM",
+        "title": "Gears 5",
+        "url": "https://www.xbox.com/en-US/games/store/_/C2KDNLT2H7DM",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 105027358720,
+        "installBytes": null,
+        "editions": [
+          "Gears 5"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "103298": {
+      "slug": "doom-eternal",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PK09BL31FK1",
+        "title": "DOOM Eternal Standard Edition (PC)",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PK09BL31FK1",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "DOOM Eternal Standard Edition (PC)"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": [
+          "CapabilityHDR",
+          "CapabilityVRR"
+        ]
+      }
+    },
+    "103329": {
+      "slug": "control",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PL1J8PJKH29",
+        "title": "Control Standard Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PL1J8PJKH29",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 53890809856,
+        "installBytes": null,
+        "editions": [
+          "Control Standard Edition"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": [
+          "CapabilityHDR",
+          "CapabilityVRR"
+        ]
+      }
+    },
+    "103341": {
+      "slug": "overcooked-2",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PGB72NFG5JN",
+        "title": "Overcooked! 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PGB72NFG5JN",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8662454272,
+        "installBytes": null,
+        "editions": [
+          "Overcooked! 2"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "104967": {
+      "slug": "valheim",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NCBL78CG9N7",
+        "title": "Valheim (Game Preview)",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NCBL78CG9N7",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 2004885504,
+        "installBytes": null,
+        "editions": [
+          "Valheim (Game Preview)"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "107215": {
+      "slug": "snowrunner",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NP6WL1XQDBW",
+        "title": "SnowRunner - Windows",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NP6WL1XQDBW",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 72726867968,
+        "installBytes": null,
+        "editions": [
+          "SnowRunner - Windows"
+        ],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "110248": {
+      "slug": "stray",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NMPDQ2NRX34",
+        "title": "Stray",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NMPDQ2NRX34",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 6599618560,
+        "installBytes": null,
+        "editions": [
+          "Stray"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "111469": {
+      "slug": "among-us",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NG07QJNK38J",
+        "title": "Among Us",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NG07QJNK38J",
+        "price": 4.99,
+        "msrp": 4.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1153556480,
+        "installBytes": null,
+        "editions": [
+          "Among Us"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "113107": {
+      "slug": "sayonara-wild-hearts",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P0L4XR9D8L3",
+        "title": "Sayonara Wild Hearts",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P0L4XR9D8L3",
+        "price": 12.99,
+        "msrp": 12.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1113325568,
+        "installBytes": null,
+        "editions": [
+          "Sayonara Wild Hearts"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k"
+        ]
+      }
+    },
+    "113112": {
+      "slug": "hades--1",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P8DL6W0JBB8",
+        "title": "Hades",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P8DL6W0JBB8",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 8699244544,
+        "installBytes": null,
+        "editions": [
+          "Hades"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "113114": {
+      "slug": "the-outer-worlds",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BVTKN6CQ8W5F",
+        "title": "The Outer Worlds",
+        "url": "https://www.xbox.com/en-US/games/store/_/BVTKN6CQ8W5F",
+        "price": 24.99,
+        "msrp": 24.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 57715294208,
+        "installBytes": null,
+        "editions": [
+          "The Outer Worlds"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k"
+        ]
+      }
+    },
+    "115060": {
+      "slug": "dragons-dogma-ii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PJQMBMJ3154",
+        "title": "Dragon's Dogma 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PJQMBMJ3154",
+        "price": 29.99,
+        "msrp": 39.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 83538178048,
+        "installBytes": null,
+        "editions": [
+          "Dragon's Dogma 2"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "119133": {
+      "slug": "elden-ring",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P3J32CTXLRZ",
+        "title": "ELDEN RING",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P3J32CTXLRZ",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 78378323968,
+        "installBytes": null,
+        "editions": [
+          "ELDEN RING"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "119171": {
+      "slug": "baldurs-gate-iii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9ND58LQTG09T",
+        "title": "Baldur's Gate 3",
+        "url": "https://www.xbox.com/en-US/games/store/_/9ND58LQTG09T",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 156329627648,
+        "installBytes": null,
+        "editions": [
+          "Baldur's Gate 3"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "119177": {
+      "slug": "call-of-duty-modern-warfare",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NVQBQ3F6W9W",
+        "title": "Call of Duty®: Modern Warfare® - Digital Standard Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NVQBQ3F6W9W",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Call of Duty®: Modern Warfare® - Digital Standard Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "119277": {
+      "slug": "genshin-impact",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N7TFFRRZCC9",
+        "title": "Genshin Impact",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N7TFFRRZCC9",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 177247539200,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "121760": {
+      "slug": "little-nightmares-ii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C1H74N0TR8KT",
+        "title": "Little Nightmares II Enhanced Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/C1H74N0TR8KT",
+        "price": 9.89,
+        "msrp": 29.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 5054427136,
+        "installBytes": null,
+        "editions": [
+          "Little Nightmares II Enhanced Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "125165": {
+      "slug": "diablo-iv",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NQRCD3W41L3",
+        "title": "Diablo® IV",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NQRCD3W41L3",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 103169499136,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "125174": {
+      "slug": "overwatch--1",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "C1C4DZJPBC2V",
+        "title": "Overwatch®",
+        "url": "https://www.xbox.com/en-US/games/store/_/C1C4DZJPBC2V",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 123245481984,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "126459": {
+      "slug": "valorant",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NKCCHCFTHV2",
+        "title": "VALORANT PC",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NKCCHCFTHV2",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "131785": {
+      "slug": "amnesia-rebirth",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PMM21KVRD72",
+        "title": "Amnesia: Rebirth",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PMM21KVRD72",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 36619694080,
+        "installBytes": null,
+        "editions": [
+          "Amnesia: Rebirth"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "131890": {
+      "slug": "sea-of-stars",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NLLTTJZH40L",
+        "title": "Sea of Stars: Sunset Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NLLTTJZH40L",
+        "price": 34.99,
+        "msrp": 34.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 4933394432,
+        "installBytes": null,
+        "editions": [
+          "Sea of Stars: Sunset Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "133004": {
+      "slug": "assassins-creed-valhalla",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P4NJFH17MRT",
+        "title": "Assassin's Creed Valhalla",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P4NJFH17MRT",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 129042010112,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed Valhalla"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "134070": {
+      "slug": "mafia-definitive-edition",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NZC09NNR93L",
+        "title": "Mafia: Definitive Edition for XBOX One",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NZC09NNR93L",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 42087071744,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "134071": {
+      "slug": "mafia-ii-definitive-edition",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N000033SQDR",
+        "title": "Mafia II: Definitive Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N000033SQDR",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 47060045824,
+        "installBytes": null,
+        "editions": [
+          "Mafia II: Definitive Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "134073": {
+      "slug": "mafia-iii-definitive-edition",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BVZLS7XZ68KF",
+        "title": "Mafia III: Definitive Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/BVZLS7XZ68KF",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Mafia III: Definitive Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR"
+        ]
+      }
+    },
+    "134588": {
+      "slug": "kena-bridge-of-spirits",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NDNM3HX77R0",
+        "title": "Kena: Bridge of Spirits",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NDNM3HX77R0",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 10554388480,
+        "installBytes": null,
+        "editions": [
+          "Kena: Bridge of Spirits"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "135243": {
+      "slug": "it-takes-two",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NVQ4ZLJGMDV",
+        "title": "It Takes Two",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NVQ4ZLJGMDV",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "136604": {
+      "slug": "control-ultimate-edition",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P2WJCRJBMRM",
+        "title": "Control Ultimate Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P2WJCRJBMRM",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Control Ultimate Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k"
+        ]
+      }
+    },
+    "136625": {
+      "slug": "hogwarts-legacy",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MT5NJ5W7B8Z",
+        "title": "Hogwarts Legacy",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MT5NJ5W7B8Z",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 105314983936,
+        "installBytes": null,
+        "editions": [
+          "Hogwarts Legacy"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "136993": {
+      "slug": "gotham-knights",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "BT3611GR00CQ",
+        "title": "Gotham Knights",
+        "url": "https://www.xbox.com/en-US/games/store/_/BT3611GR00CQ",
+        "price": 6.99,
+        "msrp": 69.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 47614889984,
+        "installBytes": null,
+        "editions": [
+          "Gotham Knights"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "139090": {
+      "slug": "inscryption",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P8NSTDMZ11P",
+        "title": "Inscryption",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P8NSTDMZ11P",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 4124626944,
+        "installBytes": null,
+        "editions": [
+          "Inscryption"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "141503": {
+      "slug": "forza-horizon-5",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NKX70BBCDRN",
+        "title": "Forza Horizon 5 Standard Edition",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NKX70BBCDRN",
+        "price": 23.99,
+        "msrp": 59.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Forza Horizon 5 Standard Edition"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "142415": {
+      "slug": "indiana-jones-and-the-great-circle",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N8FQ28Z6QX3",
+        "title": "Indiana Jones and the Great Circle",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N8FQ28Z6QX3",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 128675557376,
+        "installBytes": null,
+        "editions": [
+          "Indiana Jones and the Great Circle"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "148241": {
+      "slug": "lies-of-p",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PCM4CMTPPGC",
+        "title": "Lies of P",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PCM4CMTPPGC",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 57743208448,
+        "installBytes": null,
+        "editions": [
+          "Lies of P"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "149657": {
+      "slug": "blue-prince",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PFRTPRQ569Q",
+        "title": "Blue Prince",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PFRTPRQ569Q",
+        "price": 29.99,
+        "msrp": 29.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 4278280192,
+        "installBytes": null,
+        "editions": [
+          "Blue Prince"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "152249": {
+      "slug": "marvels-guardians-of-the-galaxy",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P2GTDK0THPQ",
+        "title": "Marvel's Guardians of the Galaxy",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P2GTDK0THPQ",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 55180099584,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "152271": {
+      "slug": "citizen-sleeper",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N6F97F9WGL0",
+        "title": "Citizen Sleeper",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N6F97F9WGL0",
+        "price": 19.99,
+        "msrp": 19.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1638928384,
+        "installBytes": null,
+        "editions": [
+          "Citizen Sleeper"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "185246": {
+      "slug": "alan-wake-ii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PNZH065X7PV",
+        "title": "Alan Wake 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PNZH065X7PV",
+        "price": 59.99,
+        "msrp": 59.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 107401928704,
+        "installBytes": null,
+        "editions": [
+          "Alan Wake 2"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "185252": {
+      "slug": "warhammer-40000-space-marine-ii",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N9PCZWHVP2L",
+        "title": "Warhammer 40,000: Space Marine 2",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N9PCZWHVP2L",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 86632284160,
+        "installBytes": null,
+        "editions": [
+          "Warhammer 40,000: Space Marine 2"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "186725": {
+      "slug": "vampire-survivors",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PPLMHCJ91BW",
+        "title": "vampire survivors",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PPLMHCJ91BW",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 24179680,
+        "installBytes": 31879168,
+        "editions": [],
+        "optimizedFor": [],
+        "compatibleWith": [],
+        "capabilities": []
+      }
+    },
+    "201156": {
+      "slug": "star-wars-jedi-survivor",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PGC82V0DXFS",
+        "title": "STAR WARS Jedi: Survivor™",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PGC82V0DXFS",
+        "price": 10.49,
+        "msrp": 69.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": 143913709568,
+        "installBytes": null,
+        "editions": [
+          "STAR WARS Jedi: Survivor™"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "251833": {
+      "slug": "balatro",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PK087LNGJC5",
+        "title": "Balatro",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PK087LNGJC5",
+        "price": 14.99,
+        "msrp": 14.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 111280128,
+        "installBytes": null,
+        "editions": [
+          "Balatro"
+        ],
+        "optimizedFor": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen8",
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "ConsoleGen9Optimized",
+          "ConsoleCrossGen"
+        ]
+      }
+    },
+    "252826": {
+      "slug": "south-of-midnight",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NJCVGS6T30K",
+        "title": "South of Midnight",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NJCVGS6T30K",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 64915361792,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "252827": {
+      "slug": "star-wars-outlaws",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NLHVWSFB0FC",
+        "title": "Star Wars Outlaws",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NLHVWSFB0FC",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Star Wars Outlaws"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "275404": {
+      "slug": "the-exit-8",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9MWLQQK52CPP",
+        "title": "The Exit 8",
+        "url": "https://www.xbox.com/en-US/games/store/_/9MWLQQK52CPP",
+        "price": 3.99,
+        "msrp": 3.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 1509482496,
+        "installBytes": null,
+        "editions": [
+          "The Exit 8"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "279634": {
+      "slug": "dragon-ball-sparking-zero",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N7XMJJHNFC3",
+        "title": "DRAGON BALL Sparking! ZERO",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N7XMJJHNFC3",
+        "price": 49.99,
+        "msrp": 49.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 41594511360,
+        "installBytes": null,
+        "editions": [
+          "DRAGON BALL Sparking! ZERO"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "279661": {
+      "slug": "monster-hunter-wilds",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9NMT6XFN0LVD",
+        "title": "Monster Hunter Wilds",
+        "url": "https://www.xbox.com/en-US/games/store/_/9NMT6XFN0LVD",
+        "price": 39.99,
+        "msrp": 39.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 103960502272,
+        "installBytes": null,
+        "editions": [
+          "Monster Hunter Wilds"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "294041": {
+      "slug": "marvel-rivals",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N8PMW7QMD3D",
+        "title": "Marvel Rivals",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N8PMW7QMD3D",
+        "price": null,
+        "msrp": null,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 75382140928,
+        "installBytes": null,
+        "editions": [],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityVRR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "300976": {
+      "slug": "assassins-creed-shadows",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9P42LWGMC7K4",
+        "title": "Assassin's Creed Shadows",
+        "url": "https://www.xbox.com/en-US/games/store/_/9P42LWGMC7K4",
+        "price": 69.99,
+        "msrp": 69.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 158454906880,
+        "installBytes": null,
+        "editions": [
+          "Assassin's Creed Shadows"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "305152": {
+      "slug": "clair-obscur-expedition-33",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9PPT8K6GQHRZ",
+        "title": "Clair Obscur: Expedition 33",
+        "url": "https://www.xbox.com/en-US/games/store/_/9PPT8K6GQHRZ",
+        "price": 49.99,
+        "msrp": 49.99,
+        "onSale": false,
+        "currency": "USD",
+        "downloadBytes": 47272595456,
+        "installBytes": null,
+        "editions": [
+          "Clair Obscur: Expedition 33"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    },
+    "325594": {
+      "slug": "split-fiction",
+      "fetchedAt": "2026-08-25T17:35:40.600Z",
+      "data": {
+        "productId": "9N1WXXD1RL8D",
+        "title": "Split Fiction",
+        "url": "https://www.xbox.com/en-US/games/store/_/9N1WXXD1RL8D",
+        "price": 32.49,
+        "msrp": 49.99,
+        "onSale": true,
+        "currency": "USD",
+        "downloadBytes": null,
+        "installBytes": null,
+        "editions": [
+          "Split Fiction"
+        ],
+        "optimizedFor": [
+          "ConsoleGen9"
+        ],
+        "compatibleWith": [
+          "ConsoleGen9"
+        ],
+        "capabilities": [
+          "Capability4k",
+          "CapabilityHDR",
+          "ConsoleGen9Optimized"
+        ]
+      }
+    }
+  }
+}

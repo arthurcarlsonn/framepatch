@@ -1,0 +1,4081 @@
+{
+  "source": "nintendoStore",
+  "syncedAt": "2026-08-25T17:35:47.461Z",
+  "entries": {
+    "116": {
+      "slug": "star-wars-knights-of-the-old-republic",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000043209",
+        "sku": "7100043209",
+        "name": "STAR WARS™: Knights of the Old Republic™",
+        "url": "https://www.nintendo.com/games/detail/star-wars-knights-of-the-old-republic-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 12952010752
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12952010752
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "118": {
+      "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000045601",
+        "sku": "7100045601",
+        "name": "STAR WARS™: Knights of the Old Republic™ II: The Sith Lords",
+        "url": "https://www.nintendo.com/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 18490589184
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 18490589184
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "386": {
+      "slug": "final-fantasy-xiv-online--1",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000112610",
+        "sku": "7100112610",
+        "name": "FINAL FANTASY XIV Online",
+        "url": "https://www.nintendo.com/us/store/products/final-fantasy-xiv-online-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 116724334592
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "sales_termination"
+      }
+    },
+    "434": {
+      "slug": "red-dead-redemption",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000058660",
+        "sku": "7100058660",
+        "name": "Red Dead Redemption",
+        "url": "https://www.nintendo.com/us/store/products/red-dead-redemption-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 12471762944
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12666798080
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 49.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "500": {
+      "slug": "batman-arkham-asylum",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000045904",
+        "sku": "7100045904",
+        "name": "Batman: Arkham Asylum",
+        "url": "https://www.nintendo.com/us/store/products/batman-arkham-asylum-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 10101981184
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 10101981184
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 9.99,
+        "regularPrice": 24.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "501": {
+      "slug": "batman-arkham-city",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000045911",
+        "sku": "7100045911",
+        "name": "Batman: Arkham City",
+        "url": "https://www.nintendo.com/store/products/batman-arkham-city-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 13271826432
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 13271826432
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 9.99,
+        "regularPrice": 24.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "530": {
+      "slug": "hitman-absolution",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000094573",
+        "sku": "7100094573",
+        "name": "Hitman: Absolution",
+        "url": "https://www.nintendo.com/us/store/products/hitman-absolution-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 16745758720
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 16745758720
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "885": {
+      "slug": "super-meat-boy",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000001990",
+        "sku": "7100001990",
+        "name": "Super Meat Boy",
+        "url": "https://www.nintendo.com/games/detail/super-meat-boy-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 233832448
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 233832448
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1262": {
+      "slug": "south-park-the-stick-of-truth",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000011252",
+        "sku": "7100011252",
+        "name": "South Park™: The Stick of Truth™",
+        "url": "https://www.nintendo.com/games/detail/south-park-the-stick-of-truth-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 5959057408
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 5959057408
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1331": {
+      "slug": "limbo",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000005802",
+        "sku": "7100005802",
+        "name": "LIMBO",
+        "url": "https://www.nintendo.com/games/detail/limbo-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 231735296
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 231735296
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 12.49,
+        "regularPrice": 12.49,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1334": {
+      "slug": "brothers-a-tale-of-two-sons",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000016192",
+        "sku": "7100016192",
+        "name": "Brothers: A Tale of Two Sons",
+        "url": "https://www.nintendo.com/games/detail/brothers-a-tale-of-two-sons-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 4232052736
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4232052736
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1879": {
+      "slug": "terraria",
+      "data": null,
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-08-25T17:35:42.249Z"
+    },
+    "1905": {
+      "slug": "fortnite",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000010192",
+        "sku": "7100010192",
+        "name": "Fortnite",
+        "url": "https://www.nintendo.com/us/store/products/fortnite-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "NOT_COMPATIBLE",
+          "caption": "Incompatible."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 20378025984
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 33554432
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 0,
+        "regularPrice": 0,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1906": {
+      "slug": "gone-home",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000009422",
+        "sku": "7100009422",
+        "name": "Gone Home",
+        "url": "https://www.nintendo.com/games/detail/gone-home-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3265265664
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3265265664
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1942": {
+      "slug": "the-witcher-3-wild-hunt",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000033071",
+        "sku": "7100033071",
+        "name": "The Witcher 3: Wild Hunt",
+        "url": "https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 26112688128
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 26112688128
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "1970": {
+      "slug": "assassins-creed-iv-black-flag",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": null
+    },
+    "1983": {
+      "slug": "bastion",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000010936",
+        "sku": "7100010936",
+        "name": "Bastion",
+        "url": "https://www.nintendo.com/games/detail/bastion-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1044381696
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1044381696
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "2350": {
+      "slug": "mario-kart-8",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": null
+    },
+    "2903": {
+      "slug": "warframe",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000009425",
+        "sku": "7100009425",
+        "name": "Warframe",
+        "url": "https://www.nintendo.com/us/store/products/warframe-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "NOT_COMPATIBLE",
+          "caption": "Incompatible."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 24138219520
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 317718528
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 0,
+        "regularPrice": 0,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "3097": {
+      "slug": "the-walking-dead-season-two",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000014767",
+        "sku": "7100014767",
+        "name": "The Walking Dead: Season Two",
+        "url": "https://www.nintendo.com/games/detail/the-walking-dead-season-two-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 5857345536
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 5857345536
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "3225": {
+      "slug": "no-man-s-sky",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70050000057983",
+        "sku": "7500057983",
+        "name": "No Man's Sky – Nintendo Switch™ 2 Edition upgrade pack",
+        "url": "https://www.nintendo.com/us/store/products/no-mans-sky-nintendo-switch-2-edition-upgrade-pack-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 5242880000
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3145728
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [],
+        "price": 0,
+        "regularPrice": 0,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "4754": {
+      "slug": "alien-isolation",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000020818",
+        "sku": "7100020818",
+        "name": "Alien: Isolation",
+        "url": "https://www.nintendo.com/games/detail/alien-isolation-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 19087228928
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 19087228928
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "5025": {
+      "slug": "to-the-moon",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000023414",
+        "sku": "7100023414",
+        "name": "To the Moon",
+        "url": "https://www.nintendo.com/games/detail/to-the-moon-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 862978048
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 862978048
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 11.99,
+        "regularPrice": 11.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "5503": {
+      "slug": "batman-arkham-knight",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000045916",
+        "sku": "7100045916",
+        "name": "Batman: Arkham Knight",
+        "url": "https://www.nintendo.com/store/products/batman-arkham-knight-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 28880928768
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 28779216896
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 9.99,
+        "regularPrice": 24.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "6707": {
+      "slug": "tales-from-the-borderlands",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000030250",
+        "sku": "7100030250",
+        "name": "Tales from the Borderlands",
+        "url": "https://www.nintendo.com/games/detail/tales-from-the-borderlands-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7553941504
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 7553941504
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 24.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "7046": {
+      "slug": "factorio",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000056818",
+        "sku": "7100056818",
+        "name": "Factorio",
+        "url": "https://www.nintendo.com/store/products/factorio-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 2767192064
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2824863744
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 35,
+        "regularPrice": 35,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "7205": {
+      "slug": "superhot",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000020726",
+        "sku": "7100020726",
+        "name": "SUPERHOT",
+        "url": "https://www.nintendo.com/games/detail/superhot-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3198156800
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3198156800
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "7342": {
+      "slug": "inside",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000005804",
+        "sku": "7100005804",
+        "name": "INSIDE",
+        "url": "https://www.nintendo.com/games/detail/inside-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1568669696
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1568669696
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "7346": {
+      "slug": "the-legend-of-zelda-breath-of-the-wild",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000000025",
+        "sku": "7100000025",
+        "name": "The Legend of Zelda™: Breath of the Wild",
+        "url": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 15480127488
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 15546187776
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "7570": {
+      "slug": "assassins-creed-rogue",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70050000017105",
+        "sku": "7500017105",
+        "name": "Assassin’s Creed® Rogue",
+        "url": "https://www.nintendo.com/us/store/products/assassins-creed-rogue-70050000017105-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7680819200
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 7680819200
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [],
+        "price": 0,
+        "regularPrice": 0,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "7603": {
+      "slug": "hellblade-senuas-sacrifice",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000016062",
+        "sku": "7100016062",
+        "name": "Hellblade: Senua's Sacrifice",
+        "url": "https://www.nintendo.com/games/detail/hellblade-senuas-sacrifice-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 19719520256
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 19719520256
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "9061": {
+      "slug": "cuphead",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000016330",
+        "sku": "7100016330",
+        "name": "Cuphead",
+        "url": "https://www.nintendo.com/games/detail/cuphead-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3814719488
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3814719488
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "9254": {
+      "slug": "subnautica",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000030089",
+        "sku": "7100030089",
+        "name": "Subnautica",
+        "url": "https://www.nintendo.com/games/detail/subnautica-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6447693824
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 11689525248
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "9727": {
+      "slug": "soma",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000098552",
+        "sku": "7100098552",
+        "name": "SOMA",
+        "url": "https://www.nintendo.com/us/store/products/soma-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 15062794240
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 15102640128
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "9730": {
+      "slug": "firewatch",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000007926",
+        "sku": "7100007926",
+        "name": "Firewatch",
+        "url": "https://www.nintendo.com/games/detail/firewatch-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 2300575744
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2300575744
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "11198": {
+      "slug": "rocket-league",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000000457",
+        "sku": "7100000457",
+        "name": "Rocket League®",
+        "url": "https://www.nintendo.com/us/store/products/rocket-league-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 26761756672
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 26761756672
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 0,
+        "regularPrice": 0,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "11233": {
+      "slug": "what-remains-of-edith-finch",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000019333",
+        "sku": "7100019333",
+        "name": "What Remains of Edith Finch",
+        "url": "https://www.nintendo.com/games/detail/what-remains-of-edith-finch-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 2447376384
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2447376384
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "11737": {
+      "slug": "outer-wilds",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000038712",
+        "sku": "7100038712",
+        "name": "Outer Wilds",
+        "url": "https://www.nintendo.com/games/detail/outer-wilds-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6558842880
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 6558842880
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "12517": {
+      "slug": "undertale",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000009921",
+        "sku": "7100009921",
+        "name": "Undertale",
+        "url": "https://www.nintendo.com/games/detail/undertale-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 230686720
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 230686720
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "14593": {
+      "slug": "hollow-knight",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000003208",
+        "sku": "7100003208",
+        "name": "Hollow Knight",
+        "url": "https://www.nintendo.com/us/store/products/hollow-knight-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1421869056
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1564475392
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 15,
+        "regularPrice": 15,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "16992": {
+      "slug": "human-fall-flat",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000001204",
+        "sku": "7100001204",
+        "name": "Human: Fall Flat",
+        "url": "https://www.nintendo.com/games/detail/human-fall-flat-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 2363490304
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3943694336
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "17000": {
+      "slug": "stardew-valley",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000001801",
+        "sku": "7100001801",
+        "name": "Stardew Valley",
+        "url": "https://www.nintendo.com/games/detail/stardew-valley-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1635778560
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2405433344
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "18866": {
+      "slug": "dead-by-daylight",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000016124",
+        "sku": "7100016124",
+        "name": "Dead by Daylight",
+        "url": "https://www.nintendo.com/us/store/products/dead-by-daylight-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 25395462144
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 25395462144
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 10.5,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "19085": {
+      "slug": "shadow-tactics-blades-of-the-shogun",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000115483",
+        "sku": "7100115483",
+        "name": "Shadow Tactics: Blades of the Shogun",
+        "url": "https://www.nintendo.com/us/store/products/shadow-tactics-blades-of-the-shogun-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 9336520704
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 25.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "19130": {
+      "slug": "sid-meiers-civilization-vi",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000013704",
+        "sku": "7100013704",
+        "name": "Sid Meier’s Civilization VI",
+        "url": "https://www.nintendo.com/us/store/products/sid-meiers-civilization-vi-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 18222153728
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 18222153728
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 5.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "22917": {
+      "slug": "gris",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000014006",
+        "sku": "7100014006",
+        "name": "GRIS",
+        "url": "https://www.nintendo.com/games/detail/gris-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 4189061120
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4189061120
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 16.99,
+        "regularPrice": 16.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "23733": {
+      "slug": "tunic",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000045589",
+        "sku": "7100045589",
+        "name": "TUNIC",
+        "url": "https://www.nintendo.com/store/products/tunic-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3148873728
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3148873728
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "26226": {
+      "slug": "celeste",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000006442",
+        "sku": "7100006442",
+        "name": "Celeste",
+        "url": "https://www.nintendo.com/games/detail/celeste-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1654652928
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1654652928
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "26758": {
+      "slug": "super-mario-odyssey",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000001130",
+        "sku": "7100001130",
+        "name": "Super Mario Odyssey™",
+        "url": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6023020544
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 6115295232
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode",
+          "3002",
+          "3003"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "26759": {
+      "slug": "arms",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000000392",
+        "sku": "7100000392",
+        "name": "ARMS™",
+        "url": "https://www.nintendo.com/games/detail/arms-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3483369472
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3501195264
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "26765": {
+      "slug": "octopath-traveler",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000001618",
+        "sku": "7100001618",
+        "name": "Octopath Traveler™ ",
+        "url": "https://www.nintendo.com/games/detail/octopath-traveler-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3328180224
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3328180224
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "26855": {
+      "slug": "dead-cells",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000007706",
+        "sku": "7100007706",
+        "name": "Dead Cells",
+        "url": "https://www.nintendo.com/games/detail/dead-cells-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 2577399808
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2577399808
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "36616": {
+      "slug": "they-are-billions",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000098996",
+        "sku": "7100098996",
+        "name": "They are Billions",
+        "url": "https://www.nintendo.com/us/store/products/they-are-billions-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1561329664
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "36952": {
+      "slug": "wolfenstein-ii-the-new-colossus",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000005065",
+        "sku": "7100005065",
+        "name": "Wolfenstein II®: The New Colossus™",
+        "url": "https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 23568842752
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 23568842752
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "37001": {
+      "slug": "ori-and-the-will-of-the-wisps",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000034725",
+        "sku": "7100034725",
+        "name": "Ori and the Will of the Wisps",
+        "url": "https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 4657774592
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4657774592
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "37136": {
+      "slug": "metroid-prime-4-beyond",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000084766",
+        "sku": "7100084766",
+        "name": "Metroid Prime™ 4: Beyond",
+        "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 28292677632
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 29693575168
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "40477": {
+      "slug": "slay-the-spire",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000012389",
+        "sku": "7100012389",
+        "name": "Slay the Spire",
+        "url": "https://www.nintendo.com/games/detail/slay-the-spire-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 571473920
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 571473920
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "59849": {
+      "slug": "la-noire",
+      "data": null,
+      "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/la-noire-switch/",
+      "lastErrorAt": "2026-08-25T17:35:42.249Z"
+    },
+    "82117": {
+      "slug": "two-point-hospital",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000019381",
+        "sku": "7100019381",
+        "name": "Two Point Hospital™",
+        "url": "https://www.nintendo.com/us/store/products/two-point-hospital-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 4100980736
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4100980736
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "sales_termination"
+      }
+    },
+    "90101": {
+      "slug": "super-smash-bros-ultimate",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000012332",
+        "sku": "7100012332",
+        "name": "Super Smash Bros.™ Ultimate",
+        "url": "https://www.nintendo.com/games/detail/super-smash-bros-ultimate-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 18583912448
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 18583912448
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "103298": {
+      "slug": "doom-eternal",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70070000011025",
+        "sku": "7700011025",
+        "name": "DOOM® Eternal",
+        "url": "https://www.nintendo.com/games/detail/doom-eternal-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": null,
+        "romSizes": [],
+        "editions": [
+          "ROM Bundle",
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "103341": {
+      "slug": "overcooked-2",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000003402",
+        "sku": "7100003402",
+        "name": "Overcooked! 2",
+        "url": "https://www.nintendo.com/games/detail/overcooked-2-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6643777536
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12604932096
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "104967": {
+      "slug": "valheim",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000098088",
+        "sku": "7100098088",
+        "name": "Valheim",
+        "url": "https://www.nintendo.com/us/store/products/valheim-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 220200960
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "unreleased"
+      }
+    },
+    "107215": {
+      "slug": "snowrunner",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000036415",
+        "sku": "7100036415",
+        "name": "SnowRunner",
+        "url": "https://www.nintendo.com/games/detail/snowrunner-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 15672016896
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 15672016896
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "110248": {
+      "slug": "stray",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000080625",
+        "sku": "7100080625",
+        "name": "Stray",
+        "url": "https://www.nintendo.com/us/store/products/stray-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6097469440
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 6097469440
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "111469": {
+      "slug": "among-us",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000036098",
+        "sku": "7100036098",
+        "name": "Among Us",
+        "url": "https://www.nintendo.com/games/detail/among-us-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1377828864
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1377828864
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 5,
+        "regularPrice": 5,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "113107": {
+      "slug": "sayonara-wild-hearts",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000009142",
+        "sku": "7100009142",
+        "name": "Sayonara Wild Hearts",
+        "url": "https://www.nintendo.com/games/detail/sayonara-wild-hearts-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1282408448
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1517289472
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 12.99,
+        "regularPrice": 12.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "113112": {
+      "slug": "hades--1",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000033131",
+        "sku": "7100033131",
+        "name": "Hades",
+        "url": "https://www.nintendo.com/games/detail/hades-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6196035584
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 6196035584
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "113114": {
+      "slug": "the-outer-worlds",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000028872",
+        "sku": "7100028872",
+        "name": "The Outer Worlds",
+        "url": "https://www.nintendo.com/games/detail/the-outer-worlds-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 18556649472
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 18556649472
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "114795": {
+      "slug": "apex-legends",
+      "data": null,
+      "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/apex-legends-switch/",
+      "lastErrorAt": "2026-08-25T17:35:42.249Z"
+    },
+    "115289": {
+      "slug": "hollow-knight-silksong",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000020840",
+        "sku": "7100020840",
+        "name": "Hollow Knight: Silksong",
+        "url": "https://www.nintendo.com/us/store/products/hollow-knight-silksong-switch",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3114270720
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4433379328
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "119313": {
+      "slug": "fall-guys",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000042975",
+        "sku": "7100042975",
+        "name": "Fall Guys",
+        "url": "https://www.nintendo.com/us/store/products/fall-guys-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 2625634304
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2625634304
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 0,
+        "regularPrice": 0,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "119388": {
+      "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000063714",
+        "sku": "7100063714",
+        "name": "The Legend of Zelda™: Tears of the Kingdom",
+        "url": "https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 17688428544
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 17776508928
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Collector's Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "121760": {
+      "slug": "little-nightmares-ii",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000021688",
+        "sku": "7100021688",
+        "name": "Little Nightmares II",
+        "url": "https://www.nintendo.com/us/store/products/little-nightmares-ii-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7054819328
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 7054819328
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "125174": {
+      "slug": "overwatch--1",
+      "data": null,
+      "lastError": "HTTP 404 for https://www.nintendo.com/us/store/products/overwatch-2-switch/?srsltid=AfmBOopZqB68R9focsbAipvXoaG81CPZk2q_wWq92istCVchKDXgIyJi",
+      "lastErrorAt": "2026-08-25T17:35:42.249Z"
+    },
+    "131785": {
+      "slug": "amnesia-rebirth",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000121559",
+        "sku": "7100121559",
+        "name": "Amnesia: Rebirth",
+        "url": "https://www.nintendo.com/us/store/products/amnesia-rebirth-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 21393047552
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "131890": {
+      "slug": "sea-of-stars",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000046189",
+        "sku": "7100046189",
+        "name": "Sea of Stars",
+        "url": "https://www.nintendo.com/games/detail/sea-of-stars-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 5714739200
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 5714739200
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 34.99,
+        "regularPrice": 34.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "133236": {
+      "slug": "final-fantasy-vii-rebirth",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000112477",
+        "sku": "7100112477",
+        "name": "FINAL FANTASY VII REBIRTH",
+        "url": "https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 98268348416
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "134588": {
+      "slug": "kena-bridge-of-spirits",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000115683",
+        "sku": "7100115683",
+        "name": "Kena: Bridge of Spirits",
+        "url": "https://www.nintendo.com/us/store/products/kena-bridge-of-spirits-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 14288945152
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "134612": {
+      "slug": "pragmata",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000101665",
+        "sku": "7100101665",
+        "name": "PRAGMATA",
+        "url": "https://www.nintendo.com/us/store/products/pragmata-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 14188281856
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "135243": {
+      "slug": "it-takes-two",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70070000014924",
+        "sku": "7700014924",
+        "name": "It Takes Two",
+        "url": "https://www.nintendo.com/store/products/it-takes-two-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": null,
+        "romSizes": [],
+        "editions": [
+          "ROM Bundle",
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "136625": {
+      "slug": "hogwarts-legacy",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000014724",
+        "sku": "7100014724",
+        "name": "Hogwarts Legacy",
+        "url": "https://www.nintendo.com/us/store/products/hogwarts-legacy-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 18345885696
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 18345885696
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "139090": {
+      "slug": "inscryption",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000051034",
+        "sku": "7100051034",
+        "name": "Inscryption",
+        "url": "https://www.nintendo.com/store/products/inscryption-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 4409262080
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4409262080
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "142415": {
+      "slug": "indiana-jones-and-the-great-circle",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000098812",
+        "sku": "7100098812",
+        "name": "Indiana Jones and the Great Circle™",
+        "url": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 61504225280
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "143613": {
+      "slug": "splatoon-3",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000046395",
+        "sku": "7100046395",
+        "name": "Splatoon™ 3",
+        "url": "https://www.nintendo.com/store/products/splatoon-3-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 10600054784
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 10662969344
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "149657": {
+      "slug": "blue-prince",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000109038",
+        "sku": "7100109038",
+        "name": "Blue Prince",
+        "url": "https://www.nintendo.com/us/store/products/blue-prince-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 4131389440
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "152271": {
+      "slug": "citizen-sleeper",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000050716",
+        "sku": "7100050716",
+        "name": "Citizen Sleeper",
+        "url": "https://www.nintendo.com/store/products/citizen-sleeper-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1711276032
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 2879389696
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "171233": {
+      "slug": "deltarune",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000096640",
+        "sku": "7100096640",
+        "name": "DELTARUNE",
+        "url": "https://www.nintendo.com/us/store/products/deltarune-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1025507328
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "186725": {
+      "slug": "vampire-survivors",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000059002",
+        "sku": "7100059002",
+        "name": "Vampire Survivors",
+        "url": "https://www.nintendo.com/store/products/vampire-survivors-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1061158912
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 1146093568
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 4.99,
+        "regularPrice": 4.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "191411": {
+      "slug": "xenoblade-chronicles-3",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000053336",
+        "sku": "7100053336",
+        "name": "Xenoblade Chronicles™ 3",
+        "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 15421407232
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 15422455808
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "191930": {
+      "slug": "pokemon-violet",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000053971",
+        "sku": "7100053971",
+        "name": "Pokémon™ Violet",
+        "url": "https://www.nintendo.com/store/products/pokemon-violet-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 10672406528
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 10891558912
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Physical Edition - US",
+          "Physical Edition + DLC - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "191931": {
+      "slug": "pokemon-scarlet",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000053966",
+        "sku": "7100053966",
+        "name": "Pokémon™ Scarlet",
+        "url": "https://www.nintendo.com/store/products/pokemon-scarlet-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 10672406528
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 10891558912
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Physical Edition - US",
+          "Physical Edition + DLC - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "203722": {
+      "slug": "dave-the-diver",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000060372",
+        "sku": "7100060372",
+        "name": "DAVE THE DIVER",
+        "url": "https://www.nintendo.com/store/products/dave-the-diver-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 4704960512
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 9485418496
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "228525": {
+      "slug": "hades-ii",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000105526",
+        "sku": "7100105526",
+        "name": "Hades II – Nintendo Switch™ 2 Edition",
+        "url": "https://www.nintendo.com/us/store/products/hades-ii-nintendo-switch-2-edition-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7492075520
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 11610882048
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "251833": {
+      "slug": "balatro",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000072051",
+        "sku": "7100072051",
+        "name": "Balatro",
+        "url": "https://www.nintendo.com/us/store/products/balatro-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 187695104
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 187695104
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "252827": {
+      "slug": "star-wars-outlaws",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000095790",
+        "sku": "7100095790",
+        "name": "Star Wars Outlaws Gold Edition",
+        "url": "https://www.nintendo.com/us/store/products/star-wars-outlaws-gold-edition-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 20862468096
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "262529": {
+      "slug": "little-nightmares-iii--1",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000062725",
+        "sku": "7100062725",
+        "name": "Little Nightmares III",
+        "url": "https://www.nintendo.com/us/store/products/little-nightmares-iii-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 9702473728
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 9702473728
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "275404": {
+      "slug": "the-exit-8",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000079118",
+        "sku": "7100079118",
+        "name": "The Exit 8",
+        "url": "https://www.nintendo.com/us/store/products/the-exit-8-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 1777336320
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3006267392
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 3.99,
+        "regularPrice": 3.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "279634": {
+      "slug": "dragon-ball-sparking-zero",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000102127",
+        "sku": "7100102127",
+        "name": "DRAGON BALL: Sparking! ZERO",
+        "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 9740222464
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 16518217728
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "288327": {
+      "slug": "pokemon-legends-z-a",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000094234",
+        "sku": "7100094234",
+        "name": "Pokémon™ Legends: Z-A",
+        "url": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6463422464
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12091129856
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "294661": {
+      "slug": "content-warning",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000110768",
+        "sku": "7100110768",
+        "name": "Content Warning",
+        "url": "https://www.nintendo.com/us/store/products/content-warning-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 629145600
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 756023296
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "300976": {
+      "slug": "assassins-creed-shadows",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000101043",
+        "sku": "7100101043",
+        "name": "Assassin's Creed Shadows",
+        "url": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 74038902784
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "306149": {
+      "slug": "the-legend-of-zelda-echoes-of-wisdom",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000084618",
+        "sku": "7100084618",
+        "name": "The Legend of Zelda™: Echoes of Wisdom",
+        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 6018826240
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 6125780992
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "314265": {
+      "slug": "reanimal",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000109876",
+        "sku": "7100109876",
+        "name": "REANIMAL",
+        "url": "https://www.nintendo.com/us/store/products/reanimal-switch-2/?srsltid=AfmBOoo_8z37nRrael8TC454YWxxtl3oYlPSFnjT-t2Sc1U_PcIGLuBt",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 9714008064
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode",
+          "3002",
+          "3003"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "325594": {
+      "slug": "split-fiction",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000097434",
+        "sku": "7100097434",
+        "name": "Split Fiction",
+        "url": "https://www.nintendo.com/us/store/products/split-fiction-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 74335649792
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode",
+          "3003"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "325609": {
+      "slug": "dispatch--3",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000110051",
+        "sku": "7100110051",
+        "name": "Dispatch Nintendo Switch 2 Edition",
+        "url": "https://www.nintendo.com/us/store/products/dispatch-nintendo-switch-2-edition-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 11762925568
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 29461839872
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 23.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "338067": {
+      "slug": "mario-kart-world",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": null
+    },
+    "338106": {
+      "slug": "donkey-kong-bananza",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": null
+    },
+    "347668": {
+      "slug": "resident-evil-requiem",
+      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "data": {
+        "nsuid": "70010000101675",
+        "sku": "7100101675",
+        "name": "Resident Evil Requiem",
+        "url": "https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 30851203072
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    }
+  }
+}
