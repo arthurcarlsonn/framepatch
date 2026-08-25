@@ -45,6 +45,7 @@ const STORE_SITES = {
 /** external_games sources that give us a storefront product id. */
 const MICROSOFT_SOURCES = new Set([11, 31]);
 const PLAYSTATION_SOURCE = 36;
+const STEAM_SOURCE = 1;
 
 /** IGDB popularity type 3, "Playing" — a far better ranking signal than rating counts. */
 const POPULARITY_TYPE = 3;
@@ -226,10 +227,12 @@ function linksOf(game) {
   const microsoft = externals.find((e) => MICROSOFT_SOURCES.has(e.external_game_source));
   const playstation = externals.find((e) => e.external_game_source === PLAYSTATION_SOURCE);
   const site = (type) => (game.websites ?? []).find((w) => w.type === type)?.url ?? null;
+  const steam = externals.find((e) => e.external_game_source === STEAM_SOURCE);
   return {
     xboxProductId: microsoft?.uid ?? null,
     playstationUrl: playstation?.url ?? site(23),
     nintendoUrl: site(24),
+    steamUrl: steam?.url ?? site(13),
   };
 }
 

@@ -1,35 +1,45 @@
 {
   "source": "playstationStore",
-  "syncedAt": "2026-08-25T17:35:47.464Z",
+  "syncedAt": "2026-08-25T18:13:01.130Z",
   "entries": {
     "359": {
       "slug": "final-fantasy-xv",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0082-CUSA01633_00-FFXVROYALEDITION",
         "conceptId": "201597",
-        "name": null,
+        "name": "FINAL FANTASY XV ROYAL EDITION",
         "url": "https://store.playstation.com/en-us/concept/201597",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 34.99,
+        "regularPrice": 34.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "386": {
       "slug": "final-fantasy-xiv-online--1",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0082-PPSA02954_00-STARTEREDITION00",
         "conceptId": "201579",
-        "name": null,
+        "name": "FINAL FANTASY XIV Online - Starter Edition",
         "url": "https://store.playstation.com/en-us/concept/201579",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "434": {
@@ -38,133 +48,178 @@
       "data": {
         "productId": "UP1004-PPSA30528_00-REDEMPTION000001",
         "conceptId": null,
-        "name": null,
+        "name": "Red Dead Redemption (PS4 & PS5)",
         "url": "https://store.playstation.com/en-us/product/UP1004-PPSA30528_00-REDEMPTION000001",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "545": {
       "slug": "call-of-duty-black-ops",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-PPSA34501_00-CODBO1GAME000001",
         "conceptId": "10017657",
-        "name": null,
+        "name": "Call of Duty®: Black Ops",
         "url": "https://store.playstation.com/en-us/concept/10017657",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "885": {
       "slug": "super-meat-boy",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1055-CUSA02845_00-SUPERMEATBOY0000",
         "conceptId": "204051",
-        "name": null,
+        "name": "Super Meat Boy",
         "url": "https://store.playstation.com/en-us/concept/204051",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1020": {
       "slug": "grand-theft-auto-v",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1004-PPSA03420_00-GTAOSTANDALONE01",
         "conceptId": "201930",
-        "name": null,
+        "name": "Grand Theft Auto Online (PlayStation®5)",
         "url": "https://store.playstation.com/en-us/concept/201930",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1081": {
       "slug": "the-elder-scrolls-online",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-PPSA02017_00-ESOMORROWINDBUND",
         "conceptId": "204861",
-        "name": null,
+        "name": "The Elder Scrolls Online: Standard Edition",
         "url": "https://store.playstation.com/en-us/concept/204861",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1122": {
       "slug": "call-of-duty-black-ops-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-PPSA34502_00-CODBO2GAME000001",
         "conceptId": "10017658",
-        "name": null,
+        "name": "Call of Duty®: Black Ops II",
         "url": "https://store.playstation.com/en-us/concept/10017658",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1262": {
       "slug": "south-park-the-stick-of-truth",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA04768_00-SOUTHPARKTSOT001",
         "conceptId": "204162",
-        "name": null,
+        "name": "South Park™: The Stick of Truth™",
         "url": "https://store.playstation.com/en-us/concept/204162",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "1331": {
       "slug": "limbo",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2054-CUSA01664_00-PLAYDEADD11LIMBO",
         "conceptId": "202533",
-        "name": null,
+        "name": "LIMBO",
         "url": "https://store.playstation.com/en-us/concept/202533",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 12.49,
+        "regularPrice": 12.49,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1334": {
       "slug": "brothers-a-tale-of-two-sons",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4040-CUSA02297_00-BROTHERSLICENSE4",
         "conceptId": "200617",
-        "name": null,
+        "name": "Brothers: a Tale of two Sons",
         "url": "https://store.playstation.com/en-us/concept/200617",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1384": {
@@ -178,223 +233,298 @@
       "data": {
         "productId": "UP2026-CUSA01019_00-TWDS10000000GAME",
         "conceptId": null,
-        "name": null,
+        "name": "The Walking Dead: The Complete First Season",
         "url": "https://store.playstation.com/en-us/product/UP2026-CUSA01019_00-TWDS10000000GAME",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1877": {
       "slug": "cyberpunk-2077",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4497-PPSA03974_00-0000000000000CP1",
         "conceptId": "234567",
-        "name": null,
+        "name": "Cyberpunk 2077",
         "url": "https://store.playstation.com/en-us/concept/234567",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "1879": {
       "slug": "terraria",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4040-CUSA00740_00-TERRARIA00000001",
         "conceptId": "205080",
-        "name": null,
+        "name": "Terraria – PlayStation®4 Edition",
         "url": "https://store.playstation.com/en-us/concept/205080",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "1905": {
       "slug": "fortnite",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1477-PPSA01922_00-FNBNDL0000000000",
         "conceptId": "228748",
-        "name": null,
+        "name": "Fortnite",
         "url": "https://store.playstation.com/en-us/concept/228748",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "1910": {
       "slug": "outlast",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2113-CUSA00325_00-OUTLAST000000000",
         "conceptId": "203196",
-        "name": null,
+        "name": "Outlast",
         "url": "https://store.playstation.com/en-us/concept/203196",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 3.74,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1911": {
       "slug": "path-of-exile",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4781-PPSA21416_00-GGGPS5GAMEFULL01",
         "conceptId": "231987",
-        "name": null,
+        "name": "Path of Exile",
         "url": "https://store.playstation.com/en-us/concept/231987",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "1942": {
       "slug": "the-witcher-3-wild-hunt",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4497-PPSA03972_00-00000000000GOTY7",
         "conceptId": "204794",
-        "name": null,
+        "name": "The Witcher 3: Wild Hunt – Complete Edition",
         "url": "https://store.playstation.com/en-us/concept/204794",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "1970": {
       "slug": "assassins-creed-iv-black-flag",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA00010_00-AC4GAMEPS4000001",
         "conceptId": "200089",
-        "name": null,
+        "name": "Assassin’s Creed® IV Black Flag™",
         "url": "https://store.playstation.com/en-us/concept/200089",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "1983": {
       "slug": "bastion",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2125-CUSA02052_00-BASTIONGAME00000",
         "conceptId": "200404",
-        "name": null,
+        "name": "Bastion",
         "url": "https://store.playstation.com/en-us/concept/200404",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "2114": {
       "slug": "tom-clancy-s-the-division",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA01810_00-THEDIVISION00001",
         "conceptId": "204941",
-        "name": null,
+        "name": "Tom Clancy’s The Division™",
         "url": "https://store.playstation.com/en-us/concept/204941",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "2117": {
       "slug": "dayz",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2739-CUSA15510_00-DAYZ000000000001",
         "conceptId": "221850",
-        "name": null,
+        "name": "DayZ",
         "url": "https://store.playstation.com/en-us/concept/221850",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 54.99,
+        "regularPrice": 54.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "2126": {
       "slug": "hotline-miami-2-wrong-number",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3643-PPSA11355_00-3716880328179244",
         "conceptId": "10006547",
-        "name": null,
+        "name": "Hotline Miami 2: Wrong Number",
         "url": "https://store.playstation.com/en-us/concept/10006547",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 2.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "2903": {
       "slug": "warframe",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2097-PPSA01737_00-WARFRAMEPS500000",
         "conceptId": "205342",
-        "name": null,
+        "name": "Warframe",
         "url": "https://store.playstation.com/en-us/concept/205342",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "2933": {
       "slug": "kingdom-hearts-iii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0082-CUSA12031_00-KINGDOMHEARTSX30",
         "conceptId": "208810",
-        "name": null,
+        "name": "KINGDOM HEARTS III",
         "url": "https://store.playstation.com/en-us/concept/208810",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "3042": {
       "slug": "dying-light",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1018-CUSA00078_00-DLCLASSICEDITION",
         "conceptId": "201129",
-        "name": null,
+        "name": "Dying Light - Essentials Edition",
         "url": "https://store.playstation.com/en-us/concept/201129",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "3070": {
@@ -416,180 +546,240 @@
       "slug": "the-walking-dead-season-two",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2026-CUSA01017_00-TWDS20000000GAME",
         "conceptId": "204873",
-        "name": null,
+        "name": "The Walking Dead: Season Two",
         "url": "https://store.playstation.com/en-us/concept/204873",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "3225": {
       "slug": "no-man-s-sky",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2034-PPSA02110_00-NOMANSSKYHG00001",
         "conceptId": "216600",
-        "name": null,
+        "name": "No Man's Sky PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/216600",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "4754": {
       "slug": "alien-isolation",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0177-CUSA00363_00-ALIENISOLATIONP4",
         "conceptId": "200213",
-        "name": null,
+        "name": "Alien: Isolation",
         "url": "https://store.playstation.com/en-us/concept/200213",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "4843": {
       "slug": "kingdom-come-deliverance",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP4062-PPSA28731_00-0405812491993057",
         "conceptId": "227410",
-        "name": null,
+        "name": "Kingdom Come: Deliverance",
         "url": "https://store.playstation.com/en-us/concept/227410",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "5025": {
       "slug": "to-the-moon",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP0600-PPSA25205_00-0548147438841681",
         "conceptId": "10012096",
-        "name": null,
+        "name": "To the Moon",
         "url": "https://store.playstation.com/en-us/concept/10012096",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 9.99,
+        "regularPrice": 9.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "5503": {
       "slug": "batman-arkham-knight",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1018-CUSA00133_00-BATMANARKHAMKNHT",
         "conceptId": "200472",
-        "name": null,
+        "name": "Batman™: Arkham Knight",
         "url": "https://store.playstation.com/en-us/concept/200472",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 4.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "5606": {
       "slug": "assassins-creed-unity",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA00663_00-AC4GAMEPS4000001",
         "conceptId": "200088",
-        "name": null,
+        "name": "Assassin's Creed Unity",
         "url": "https://store.playstation.com/en-us/concept/200088",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 7.49,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "6707": {
       "slug": "tales-from-the-borderlands",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1001-CUSA03817_00-TFTBL0000000GAME",
         "conceptId": "204836",
-        "name": null,
+        "name": "Tales from the Borderlands",
         "url": "https://store.playstation.com/en-us/concept/204836",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "6801": {
       "slug": "far-cry-4",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA00496_00-FC4GAMEPS4000001",
         "conceptId": "201624",
-        "name": null,
+        "name": "Far Cry® 4  ",
         "url": "https://store.playstation.com/en-us/concept/201624",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "7205": {
       "slug": "superhot",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2613-CUSA09030_00-USSUPERHOTGAME00",
         "conceptId": "228844",
-        "name": null,
+        "name": "SUPERHOT",
         "url": "https://store.playstation.com/en-us/concept/228844",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "7334": {
       "slug": "bloodborne",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-CUSA00900_00-BLOODBORNE000000",
         "conceptId": "200520",
-        "name": null,
+        "name": "Bloodborne™",
         "url": "https://store.playstation.com/en-us/concept/200520",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "7342": {
       "slug": "inside",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2054-CUSA05297_00-INSIDE0000000000",
         "conceptId": "223663",
-        "name": null,
+        "name": "INSIDE",
         "url": "https://store.playstation.com/en-us/concept/223663",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "7603": {
@@ -611,705 +801,940 @@
       "slug": "overwatch",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-PPSA07805_00-OWORIGINS0000000",
         "conceptId": "216627",
-        "name": null,
+        "name": "Overwatch®",
         "url": "https://store.playstation.com/en-us/concept/216627",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "8263": {
       "slug": "assassins-creed-syndicate",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA02389_00-ACVICTORYGAMEPS4",
         "conceptId": "212339",
-        "name": null,
+        "name": "Assassin's Creed Syndicate",
         "url": "https://store.playstation.com/en-us/concept/212339",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "9061": {
       "slug": "cuphead",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP8062-CUSA20499_00-CUPHEAD000000000",
         "conceptId": "10001369",
-        "name": null,
+        "name": "Cuphead",
         "url": "https://store.playstation.com/en-us/concept/10001369",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "9174": {
       "slug": "little-nightmares",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0700-PPSA10738_00-LITTLENIGHTMARES",
         "conceptId": "223059",
-        "name": null,
+        "name": "Little Nightmares Enhanced Edition",
         "url": "https://store.playstation.com/en-us/concept/223059",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "9254": {
       "slug": "subnautica",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP5245-PPSA02452_00-6063362694848820",
         "conceptId": "232883",
-        "name": null,
+        "name": "Subnautica PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/232883",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "9630": {
       "slug": "fallout-4",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-PPSA09016_00-FALLOUT4FULLGAME",
         "conceptId": "201511",
-        "name": null,
+        "name": "Fallout 4",
         "url": "https://store.playstation.com/en-us/concept/201511",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "9727": {
       "slug": "soma",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1192-CUSA03333_00-HPL3SOMAGAME2015",
         "conceptId": "204320",
-        "name": null,
+        "name": "SOMA",
         "url": "https://store.playstation.com/en-us/concept/204320",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "9730": {
       "slug": "firewatch",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0146-CUSA04107_00-FIREWATCH0000000",
         "conceptId": "216211",
-        "name": null,
+        "name": "Firewatch",
         "url": "https://store.playstation.com/en-us/concept/216211",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "11118": {
       "slug": "dishonored-2",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-CUSA03642_00-DISHONORED2NAMER",
         "conceptId": "201017",
-        "name": null,
+        "name": "Dishonored 2",
         "url": "https://store.playstation.com/en-us/concept/201017",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "11133": {
       "slug": "dark-souls-iii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0700-CUSA03388_00-DARKSOULS3000000",
         "conceptId": "201190",
-        "name": null,
+        "name": "DARK SOULS™ III",
         "url": "https://store.playstation.com/en-us/concept/201190",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "11156": {
       "slug": "horizon-zero-dawn",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA13428_00-HORIZONREMASTER1",
         "conceptId": "221727",
-        "name": null,
+        "name": "Horizon Zero Dawn™ Remastered",
         "url": "https://store.playstation.com/en-us/concept/221727",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "11198": {
       "slug": "rocket-league",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2002-CUSA01163_00-ROCKETLEAGUENA01",
         "conceptId": "203715",
-        "name": null,
+        "name": "Rocket League®",
         "url": "https://store.playstation.com/en-us/concept/203715",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "11233": {
       "slug": "what-remains-of-edith-finch",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2470-PPSA06207_00-EFINCHPS5SIEA000",
         "conceptId": "211984",
-        "name": null,
+        "name": "What Remains of Edith Finch",
         "url": "https://store.playstation.com/en-us/concept/211984",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "11737": {
       "slug": "outer-wilds",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2470-PPSA08101_00-OUTERWILDSSIEA00",
         "conceptId": "229826",
-        "name": null,
+        "name": "Outer Wilds",
         "url": "https://store.playstation.com/en-us/concept/229826",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "12517": {
       "slug": "undertale",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3893-CUSA08801_00-TFSHVCUTPS400084",
         "conceptId": "228887",
-        "name": null,
+        "name": "Undertale",
         "url": "https://store.playstation.com/en-us/concept/228887",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "13182": {
       "slug": "far-cry-primal",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA03352_00-PRIMALGAME000001",
         "conceptId": "201634",
-        "name": null,
+        "name": "Far Cry® Primal",
         "url": "https://store.playstation.com/en-us/concept/201634",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "14593": {
       "slug": "hollow-knight",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1822-PPSA34970_00-HOLLOWKNIGHTPS50",
         "conceptId": "232654",
-        "name": null,
+        "name": "Hollow Knight Voidheart Edition",
         "url": "https://store.playstation.com/en-us/concept/232654",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "16992": {
       "slug": "human-fall-flat",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4395-PPSA02431_00-HFFGAME000000PS5",
         "conceptId": "227139",
-        "name": null,
+        "name": "Human: Fall Flat PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/227139",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "17000": {
       "slug": "stardew-valley",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2456-CUSA06840_00-STARDEW00000SIEA",
         "conceptId": "227229",
-        "name": null,
+        "name": "Stardew Valley",
         "url": "https://store.playstation.com/en-us/concept/227229",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "17269": {
       "slug": "roblox",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1821-PPSA10990_00-1887411884729257",
         "conceptId": "223118",
-        "name": null,
+        "name": "Roblox",
         "url": "https://store.playstation.com/en-us/concept/223118",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "18866": {
       "slug": "dead-by-daylight",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3509-PPSA02048_00-DEADBYDAYLIGHT00",
         "conceptId": "227319",
-        "name": null,
+        "name": "Dead by Daylight PS4® & PS5®",
         "url": "https://store.playstation.com/en-us/concept/227319",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 11.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1789023540000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "19085": {
       "slug": "shadow-tactics-blades-of-the-shogun",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1440-PPSA30364_00-SHADOWTACTICSNA5",
         "conceptId": "227190",
-        "name": null,
+        "name": "Shadow Tactics: Blades of the Shogun",
         "url": "https://store.playstation.com/en-us/concept/227190",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "19130": {
       "slug": "sid-meiers-civilization-vi",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1001-CUSA15322_00-CIV6BASE00000000",
         "conceptId": "233594",
-        "name": null,
+        "name": "Sid Meier's Civilization VI",
         "url": "https://store.playstation.com/en-us/concept/233594",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "19164": {
       "slug": "borderlands-3",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1001-PPSA01462_00-0000000OAKNGSIEA",
         "conceptId": "227478",
-        "name": null,
+        "name": "Borderlands 3 PS4™ &  PS5™",
         "url": "https://store.playstation.com/en-us/concept/227478",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "19560": {
       "slug": "god-of-war--1",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-CUSA07408_00-00000000GODOFWAR",
         "conceptId": "227770",
-        "name": null,
+        "name": "God of War",
         "url": "https://store.playstation.com/en-us/concept/227770",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "19561": {
       "slug": "days-gone",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA28180_00-DAYSGONEREMASTER",
         "conceptId": "229018",
-        "name": null,
+        "name": "Days Gone Remastered",
         "url": "https://store.playstation.com/en-us/concept/229018",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "19562": {
       "slug": "resident-evil-7-biohazard",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0102-PPSA04400_00-BH70000000000001",
         "conceptId": "220037",
-        "name": null,
+        "name": "RESIDENT EVIL 7 biohazard",
         "url": "https://store.playstation.com/en-us/concept/220037",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "22917": {
       "slug": "gris",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3643-PPSA09803_00-0213898888783272",
         "conceptId": "234650",
-        "name": null,
+        "name": "GRIS | PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/234650",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 16.99,
+        "regularPrice": 16.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "23733": {
       "slug": "tunic",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0406-PPSA03054_00-3390974934506823",
         "conceptId": "10002475",
-        "name": null,
+        "name": "TUNIC",
         "url": "https://store.playstation.com/en-us/concept/10002475",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "25076": {
       "slug": "red-dead-redemption-2",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1004-CUSA03041_00-REDEMPTIONFULL02",
         "conceptId": "209441",
-        "name": null,
+        "name": "Red Dead Redemption 2",
         "url": "https://store.playstation.com/en-us/concept/209441",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "25657": {
       "slug": "destiny-2",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-PPSA02409_00-DESTINYTHEGAME02",
         "conceptId": "221852",
-        "name": null,
+        "name": "Destiny 2 PS4™ & PS5™",
         "url": "https://store.playstation.com/en-us/concept/221852",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "26192": {
       "slug": "the-last-of-us-part-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA10662_00-THELASTOFUSPART2",
         "conceptId": "230079",
-        "name": null,
+        "name": "The Last of Us™ Part II Remastered",
         "url": "https://store.playstation.com/en-us/concept/230079",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "26226": {
       "slug": "celeste",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2120-CUSA11302_00-CELESTEXXCELESTE",
         "conceptId": "231477",
-        "name": null,
+        "name": "Celeste",
         "url": "https://store.playstation.com/en-us/concept/231477",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "26602": {
       "slug": "metaphor-refantazio",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0177-PPSA20800_00-METAPHORNA000001",
         "conceptId": "10001029",
-        "name": null,
+        "name": "Metaphor: ReFantazio PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/10001029",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "26765": {
       "slug": "octopath-traveler",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0082-PPSA18286_00-OCTOPATH1PS5N000",
         "conceptId": "10009066",
-        "name": null,
+        "name": "OCTOPATH TRAVELER PS4＆PS5",
         "url": "https://store.playstation.com/en-us/concept/10009066",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "26855": {
       "slug": "dead-cells",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4016-PPSA15552_00-DEADCELLSPS5SIEA",
         "conceptId": "231053",
-        "name": null,
+        "name": "Dead Cells (PS4® & PS5®)",
         "url": "https://store.playstation.com/en-us/concept/231053",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "27316": {
       "slug": "a-plague-tale-innocence",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4133-PPSA02388_00-APLAGUETALEGAME0",
         "conceptId": "231037",
-        "name": null,
+        "name": "A Plague Tale: Innocence",
         "url": "https://store.playstation.com/en-us/concept/231037",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "27789": {
       "slug": "pubg-battlegrounds",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP5082-PPSA27363_00-PUBGPS5000000000",
         "conceptId": "232860",
-        "name": null,
+        "name": "PUBG: BATTLEGROUNDS",
         "url": "https://store.playstation.com/en-us/concept/232860",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "28540": {
       "slug": "assassins-creed-origins",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA05855_00-GAMEACEMPIRE0000",
         "conceptId": "222066",
-        "name": null,
+        "name": "Assassin's Creed Origins",
         "url": "https://store.playstation.com/en-us/concept/222066",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 8.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "28552": {
       "slug": "far-cry-5",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA05904_00-FARCRY5GAME00000",
         "conceptId": "221692",
-        "name": null,
+        "name": "Far Cry 5",
         "url": "https://store.playstation.com/en-us/concept/221692",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 8.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "36616": {
       "slug": "they-are-billions",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2106-CUSA13463_00-THEYAREBILLIONS0",
         "conceptId": "232722",
-        "name": null,
+        "name": "They Are Billions",
         "url": "https://store.playstation.com/en-us/concept/232722",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "36952": {
       "slug": "wolfenstein-ii-the-new-colossus",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-CUSA07384_00-COLOSSUSFULLGAME",
         "conceptId": "229533",
-        "name": null,
+        "name": "Wolfenstein® II: The New Colossus™",
         "url": "https://store.playstation.com/en-us/concept/229533",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 5.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "37016": {
       "slug": "metro-exodus",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2047-PPSA02395_00-METROEXODUS0GEN9",
         "conceptId": "231769",
-        "name": null,
+        "name": "Metro Exodus",
         "url": "https://store.playstation.com/en-us/concept/231769",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 27.29,
+        "regularPrice": 27.29,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "40477": {
       "slug": "slay-the-spire",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3864-CUSA15289_00-SLAYTHESPIREGAME",
         "conceptId": "233476",
-        "name": null,
+        "name": "Slay the Spire",
         "url": "https://store.playstation.com/en-us/concept/233476",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "55163": {
       "slug": "resident-evil-village",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0102-PPSA01556_00-VILLAGEFULLGAMEX",
         "conceptId": "235235",
-        "name": null,
+        "name": "Resident Evil Village PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/235235",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "59849": {
       "slug": "la-noire",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1004-CUSA09084_00-LANOIRE000000PS4",
         "conceptId": "229788",
-        "name": null,
+        "name": "L.A. Noire",
         "url": "https://store.playstation.com/en-us/concept/229788",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "74701": {
       "slug": "star-wars-jedi-fallen-order",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0006-PPSA02198_00-RESPAWNSWBIRDDOG",
         "conceptId": "232345",
-        "name": null,
+        "name": "STAR WARS Jedi: Fallen Order™",
         "url": "https://store.playstation.com/en-us/concept/232345",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "75235": {
@@ -1318,343 +1743,458 @@
       "data": {
         "productId": "UP9000-CUSA11456_00-GHOSTDIRECTORPS4",
         "conceptId": null,
-        "name": null,
+        "name": "Ghost of Tsushima DIRECTOR’S CUT",
         "url": "https://store.playstation.com/en-us/product/UP9000-CUSA11456_00-GHOSTDIRECTORPS4",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "76882": {
       "slug": "sekiro-shadows-die-twice",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-CUSA12047_00-SEKIROGAME000001",
         "conceptId": "232898",
-        "name": null,
+        "name": "Sekiro™: Shadows Die Twice - Game of the Year Edition",
         "url": "https://store.playstation.com/en-us/concept/232898",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "82117": {
       "slug": "two-point-hospital",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0177-CUSA16081_00-8982731268567377",
         "conceptId": "234969",
-        "name": null,
+        "name": "Two Point Hospital: JUMBO Edition",
         "url": "https://store.playstation.com/en-us/concept/234969",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "96437": {
       "slug": "starfield",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-PPSA24884_00-HELIUM0000000000",
         "conceptId": "10011934",
-        "name": null,
+        "name": "Starfield",
         "url": "https://store.playstation.com/en-us/concept/10011934",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "103054": {
       "slug": "assassins-creed-odyssey",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-CUSA09311_00-GAME000000000000",
         "conceptId": "229601",
-        "name": null,
+        "name": "Assassin's Creed® Odyssey",
         "url": "https://store.playstation.com/en-us/concept/229601",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 11.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "103298": {
       "slug": "doom-eternal",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-PPSA01981_00-DOOMETERNALBUNDL",
         "conceptId": "232624",
-        "name": null,
+        "name": "DOOM Eternal Standard Edition",
         "url": "https://store.playstation.com/en-us/concept/232624",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "103341": {
       "slug": "overcooked-2",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4064-CUSA10940_00-OVERCOOKED200000",
         "conceptId": "231121",
-        "name": null,
+        "name": "Overcooked! 2",
         "url": "https://store.playstation.com/en-us/concept/231121",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 6.24,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "107215": {
       "slug": "snowrunner",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4133-PPSA04930_00-SNOWRUNNER5YEARE",
         "conceptId": "234959",
-        "name": null,
+        "name": "SnowRunner - 5-Year Anniversary Edition",
         "url": "https://store.playstation.com/en-us/concept/234959",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 129.99,
+        "regularPrice": 129.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "110248": {
       "slug": "stray",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2470-PPSA02100_00-STRAYSIEA0000000",
         "conceptId": "10001114",
-        "name": null,
+        "name": "Stray",
         "url": "https://store.playstation.com/en-us/concept/10001114",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "111469": {
       "slug": "among-us",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP7032-PPSA03595_00-AMONGUS5SIEA0001",
         "conceptId": "10002811",
-        "name": null,
+        "name": "Among Us",
         "url": "https://store.playstation.com/en-us/concept/10002811",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 4.99,
+        "regularPrice": 4.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "112874": {
       "slug": "horizon-forbidden-west",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA04072_00-FORBIDDENWESTPS5",
         "conceptId": "10000886",
-        "name": null,
+        "name": "Horizon Forbidden West™",
         "url": "https://store.playstation.com/en-us/concept/10000886",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "112875": {
       "slug": "god-of-war-ragnarok",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA08329_00-GOWRAGNAROK00000",
         "conceptId": "10001850",
-        "name": null,
+        "name": "God of War Ragnarök",
         "url": "https://store.playstation.com/en-us/concept/10001850",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "113107": {
       "slug": "sayonara-wild-hearts",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2470-PPSA27614_00-0466810510398026",
         "conceptId": "233247",
-        "name": null,
+        "name": "Sayonara Wild Hearts",
         "url": "https://store.playstation.com/en-us/concept/233247",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 12.99,
+        "regularPrice": 12.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "113112": {
       "slug": "hades--1",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP2125-PPSA03355_00-3466019145463410",
         "conceptId": "10002648",
-        "name": null,
+        "name": "Hades",
         "url": "https://store.playstation.com/en-us/concept/10002648",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "113114": {
       "slug": "the-outer-worlds",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4581-CUSA16285_00-THEOUTERWORLDS01",
         "conceptId": "232817",
-        "name": null,
+        "name": "The Outer Worlds",
         "url": "https://store.playstation.com/en-us/concept/232817",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "114795": {
       "slug": "apex-legends",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0006-PPSA04873_00-APEXLEGENDRSPWN1",
         "conceptId": "232352",
-        "name": null,
+        "name": "Apex Legends™ PS5",
         "url": "https://store.playstation.com/en-us/concept/232352",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "115060": {
       "slug": "dragons-dogma-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0102-PPSA09663_00-DD2GAME000000000",
         "conceptId": "10005844",
-        "name": null,
+        "name": "Dragon's Dogma 2",
         "url": "https://store.playstation.com/en-us/concept/10005844",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1789023540000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "115289": {
       "slug": "hollow-knight-silksong",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP1805-PPSA12544_00-HKSILKSONGPS5000",
         "conceptId": "10005908",
-        "name": null,
+        "name": "Hollow Knight: Silksong",
         "url": "https://store.playstation.com/en-us/concept/10005908",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "117170": {
       "slug": "stellar-blade",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA13196_00-STELLARBLADE0000",
         "conceptId": "10006891",
-        "name": null,
+        "name": "Stellar Blade™",
         "url": "https://store.playstation.com/en-us/concept/10006891",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "119133": {
       "slug": "elden-ring",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0700-PPSA04610_00-ELDENRING0000000",
         "conceptId": "10000333",
-        "name": null,
+        "name": "ELDEN RING PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/10000333",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "119171": {
       "slug": "baldurs-gate-iii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3526-PPSA14001_00-0507384846053057",
         "conceptId": "10007460",
-        "name": null,
+        "name": "Baldur's Gate 3",
         "url": "https://store.playstation.com/en-us/concept/10007460",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "119177": {
       "slug": "call-of-duty-modern-warfare",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-CUSA08829_00-CODMWTHEGAME0001",
         "conceptId": "229182",
-        "name": null,
+        "name": "Call of Duty®: Modern Warfare®",
         "url": "https://store.playstation.com/en-us/concept/229182",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "119277": {
       "slug": "genshin-impact",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP6262-PPSA02562_00-OSRELSIEAGENSHIN",
         "conceptId": "10000896",
-        "name": null,
+        "name": "Genshin Impact",
         "url": "https://store.playstation.com/en-us/concept/10000896",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "119313": {
@@ -1666,765 +2206,1020 @@
       "slug": "little-nightmares-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0700-PPSA02200_00-LITTLENIGHTS2000",
         "conceptId": "232583",
-        "name": null,
+        "name": "Little Nightmares II PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/232583",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "125165": {
       "slug": "diablo-iv",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0002-PPSA02442_00-DIVBASEGAME00000",
         "conceptId": "231761",
-        "name": null,
+        "name": "Diablo® IV - Standard Edition",
         "url": "https://store.playstation.com/en-us/concept/231761",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "126459": {
       "slug": "valorant",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3993-PPSA20676_00-VALORANT00000000",
         "conceptId": "10010048",
-        "name": null,
+        "name": "VALORANT",
         "url": "https://store.playstation.com/en-us/concept/10010048",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "127044": {
       "slug": "marvels-spider-man-2",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA03016_00-MARVELSPIDERMAN2",
         "conceptId": "10002456",
-        "name": null,
+        "name": "Marvel’s Spider-Man 2",
         "url": "https://store.playstation.com/en-us/concept/10002456",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "131785": {
       "slug": "amnesia-rebirth",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1192-CUSA19254_00-AMNESIAREBIRTH20",
         "conceptId": "10000474",
-        "name": null,
+        "name": "Amnesia: Rebirth",
         "url": "https://store.playstation.com/en-us/concept/10000474",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "131890": {
       "slug": "sea-of-stars",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3463-PPSA07586_00-8119804844737273",
         "conceptId": "10004226",
-        "name": null,
+        "name": "Sea of Stars: Sunset Edition",
         "url": "https://store.playstation.com/en-us/concept/10004226",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 34.99,
+        "regularPrice": 34.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "132516": {
       "slug": "phasmophobia",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP7789-PPSA09030_00-5648706170853559",
         "conceptId": "10005673",
-        "name": null,
+        "name": "Phasmophobia",
         "url": "https://store.playstation.com/en-us/concept/10005673",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "133004": {
       "slug": "assassins-creed-valhalla",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-PPSA01491_00-GAME000000000000",
         "conceptId": "10000237",
-        "name": null,
+        "name": "Assassin's Creed Valhalla",
         "url": "https://store.playstation.com/en-us/concept/10000237",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "133236": {
       "slug": "final-fantasy-vii-rebirth",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0082-PPSA08666_00-0783148264580163",
         "conceptId": "10003999",
-        "name": null,
+        "name": "FINAL FANTASY VII REBIRTH",
         "url": "https://store.playstation.com/en-us/concept/10003999",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "134070": {
       "slug": "mafia-definitive-edition",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1001-PPSA36393_00-MAFIA1DEPS500000",
         "conceptId": "235302",
-        "name": null,
+        "name": "Mafia: Definitive Edition for PS5®",
         "url": "https://store.playstation.com/en-us/concept/235302",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 5.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "134071": {
       "slug": "mafia-ii-definitive-edition",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1001-CUSA16990_00-MAFIATWOREMASTER",
         "conceptId": "234770",
-        "name": null,
+        "name": "Mafia II: Definitive Edition",
         "url": "https://store.playstation.com/en-us/concept/234770",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "134073": {
       "slug": "mafia-iii-definitive-edition",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1001-CUSA03652_00-MAFIA3DEFINITIVE",
         "conceptId": "208723",
-        "name": null,
+        "name": "Mafia III: Definitive Edition",
         "url": "https://store.playstation.com/en-us/concept/208723",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "134582": {
       "slug": "ratchet-and-clank-rift-apart",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA01473_00-RATCHETCLANKRIFT",
         "conceptId": "10000669",
-        "name": null,
+        "name": "Ratchet & Clank: Rift Apart",
         "url": "https://store.playstation.com/en-us/concept/10000669",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "134584": {
       "slug": "returnal",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA01284_00-RETURNALGAME0001",
         "conceptId": "10000176",
-        "name": null,
+        "name": "Returnal",
         "url": "https://store.playstation.com/en-us/concept/10000176",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "134588": {
       "slug": "kena-bridge-of-spirits",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4364-PPSA01746_00-KENAAMST00000005",
         "conceptId": "10001235",
-        "name": null,
+        "name": "Kena: Bridge of Spirits PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/10001235",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "134612": {
       "slug": "pragmata",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0102-PPSA02530_00-PRAGMATA00000000",
         "conceptId": "10002075",
-        "name": null,
+        "name": "PRAGMATA",
         "url": "https://store.playstation.com/en-us/concept/10002075",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "135243": {
       "slug": "it-takes-two",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0006-PPSA02342_00-ITTAKESTWORETAIL",
         "conceptId": "234689",
-        "name": null,
+        "name": "It Takes Two PS4™ & PS5™",
         "url": "https://store.playstation.com/en-us/concept/234689",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "136604": {
       "slug": "control-ultimate-edition",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4040-PPSA01949_00-CONTROLUEPS50000",
         "conceptId": "231819",
-        "name": null,
+        "name": "CONTROL Ultimate Edition",
         "url": "https://store.playstation.com/en-us/concept/231819",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "136625": {
       "slug": "hogwarts-legacy",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1018-PPSA01593_00-HOGWARTSLEGACY01",
         "conceptId": "232447",
-        "name": null,
+        "name": "Hogwarts Legacy PS5 Version",
         "url": "https://store.playstation.com/en-us/concept/232447",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "136993": {
       "slug": "gotham-knights",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1018-PPSA02223_00-GOTHAMKNIGHTS000",
         "conceptId": "233383",
-        "name": null,
+        "name": "Gotham Knights",
         "url": "https://store.playstation.com/en-us/concept/233383",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "139090": {
       "slug": "inscryption",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3643-PPSA07022_00-3600510866394395",
         "conceptId": "10004707",
-        "name": null,
+        "name": "Inscryption",
         "url": "https://store.playstation.com/en-us/concept/10004707",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "141114": {
       "slug": "007-first-light",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP3969-PPSA11386_00-007FIRSTLIGHT000",
         "conceptId": "10006560",
-        "name": null,
+        "name": "007 First Light",
         "url": "https://store.playstation.com/en-us/concept/10006560",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "141503": {
       "slug": "forza-horizon-5",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP6312-PPSA22327_00-0629872585919347",
         "conceptId": "10010647",
-        "name": null,
+        "name": "Forza Horizon 5 Standard Edition",
         "url": "https://store.playstation.com/en-us/concept/10010647",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "142415": {
       "slug": "indiana-jones-and-the-great-circle",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1003-PPSA26786_00-INDIANAJONESATGC",
         "conceptId": "10012238",
-        "name": null,
+        "name": "Indiana Jones and the Great Circle",
         "url": "https://store.playstation.com/en-us/concept/10012238",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "148241": {
       "slug": "lies-of-p",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1685-PPSA10261_00-4396566144501976",
         "conceptId": "10006052",
-        "name": null,
+        "name": "Lies of P",
         "url": "https://store.playstation.com/en-us/concept/10006052",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "149657": {
       "slug": "blue-prince",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP2187-PPSA25009_00-BLUEPRINCE000000",
         "conceptId": "10012002",
-        "name": null,
+        "name": "Blue Prince",
         "url": "https://store.playstation.com/en-us/concept/10012002",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 17.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "152249": {
       "slug": "marvels-guardians-of-the-galaxy",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0082-PPSA01748_00-DXM0000000000001",
         "conceptId": "234665",
-        "name": null,
+        "name": "Marvel's Guardians of the Galaxy PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/234665",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "152271": {
       "slug": "citizen-sleeper",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP5480-PPSA13630_00-CITIZENSLEEPER00",
         "conceptId": "10007275",
-        "name": null,
+        "name": "Citizen Sleeper",
         "url": "https://store.playstation.com/en-us/concept/10007275",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "168670": {
       "slug": "uncharted-legacy-of-thieves-collection",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP9000-PPSA05389_00-UNCHARTED4R00000",
         "conceptId": "205354",
-        "name": null,
+        "name": "UNCHARTED: Legacy of Thieves Collection",
         "url": "https://store.playstation.com/en-us/concept/205354",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "171233": {
       "slug": "deltarune",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "JP0215-PPSA27093_00-TFSHVCDRPS500084",
         "conceptId": "233495",
-        "name": null,
+        "name": "DELTARUNE PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/233495",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 24.99,
+        "regularPrice": 24.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "185246": {
       "slug": "alan-wake-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP1477-PPSA02571_00-ALANWAKE20000000",
         "conceptId": "10002065",
-        "name": null,
+        "name": "Alan Wake 2",
         "url": "https://store.playstation.com/en-us/concept/10002065",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 59.99,
+        "regularPrice": 59.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "185252": {
       "slug": "warhammer-40000-space-marine-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP4133-PPSA04452_00-SMARINESIIEDYEA2",
         "conceptId": "10003330",
-        "name": null,
+        "name": "Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition",
         "url": "https://store.playstation.com/en-us/concept/10003330",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 129.99,
+        "regularPrice": 129.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "186725": {
       "slug": "vampire-survivors",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EB0324-PPSA21703_00-0027916840515656",
         "conceptId": "10010458",
-        "name": null,
+        "name": "Vampire Survivors",
         "url": "https://store.playstation.com/en-us/concept/10010458",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 4.99,
+        "regularPrice": 4.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "201156": {
       "slug": "star-wars-jedi-survivor",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0006-PPSA07783_00-APPLEJACKGAME000",
         "conceptId": "10005114",
-        "name": null,
+        "name": "STAR WARS Jedi: Survivor™",
         "url": "https://store.playstation.com/en-us/concept/10005114",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "203722": {
       "slug": "dave-the-diver",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP8236-PPSA19115_00-0015587721224151",
         "conceptId": "10009413",
-        "name": null,
+        "name": "DAVE THE DIVER",
         "url": "https://store.playstation.com/en-us/concept/10009413",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 19.99,
+        "regularPrice": 19.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "228525": {
       "slug": "hades-ii",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP4484-PPSA36082_00-0912328937643383",
         "conceptId": "10018449",
-        "name": null,
+        "name": "Hades II",
         "url": "https://store.playstation.com/en-us/concept/10018449",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "251833": {
       "slug": "balatro",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP3639-PPSA21401_00-0767712965312971",
         "conceptId": "10010334",
-        "name": null,
+        "name": "Balatro",
         "url": "https://store.playstation.com/en-us/concept/10010334",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 14.99,
+        "regularPrice": 14.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "252826": {
       "slug": "south-of-midnight",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP6312-PPSA29642_00-0031868794271950",
         "conceptId": "10014874",
-        "name": null,
+        "name": "South of Midnight Weaver's Edition",
         "url": "https://store.playstation.com/en-us/concept/10014874",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 25.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "252827": {
       "slug": "star-wars-outlaws",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-PPSA08261_00-GAME000000000000",
         "conceptId": "10005323",
-        "name": null,
+        "name": "Star Wars Outlaws",
         "url": "https://store.playstation.com/en-us/concept/10005323",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "262529": {
       "slug": "little-nightmares-iii--1",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0700-PPSA05144_00-LITTLENIGHTS3000",
         "conceptId": "10003713",
-        "name": null,
+        "name": "Little Nightmares III PS4 & PS5",
         "url": "https://store.playstation.com/en-us/concept/10003713",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "275404": {
       "slug": "the-exit-8",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "JP0122-PPSA23276_00-0712963327800940",
         "conceptId": "10011105",
-        "name": null,
+        "name": "The Exit 8",
         "url": "https://store.playstation.com/en-us/concept/10011105",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 3.99,
+        "regularPrice": 3.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "279634": {
       "slug": "dragon-ball-sparking-zero",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0700-PPSA15211_00-DRAGONBALLSPARK0",
         "conceptId": "10007902",
-        "name": null,
+        "name": "DRAGON BALL: Sparking! ZERO",
         "url": "https://store.playstation.com/en-us/concept/10007902",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "279661": {
       "slug": "monster-hunter-wilds",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0102-PPSA07862_00-MHWILDSSTANDARD0",
         "conceptId": "10005176",
-        "name": null,
+        "name": "Monster Hunter Wilds",
         "url": "https://store.playstation.com/en-us/concept/10005176",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "294041": {
       "slug": "marvel-rivals",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UB0335-PPSA21669_00-0320312678245089",
         "conceptId": "10010451",
-        "name": null,
+        "name": "Marvel Rivals",
         "url": "https://store.playstation.com/en-us/concept/10010451",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 0,
+        "regularPrice": 0,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": true,
+        "plusIncluded": false
       }
     },
     "294661": {
       "slug": "content-warning",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EB1722-PPSA29789_00-0450913655011817",
         "conceptId": "10014968",
-        "name": null,
+        "name": "Content Warning",
         "url": "https://store.playstation.com/en-us/concept/10014968",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 7.99,
+        "regularPrice": 9.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": true,
+        "currency": "USD",
+        "saleEnds": "1787813940000",
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "300976": {
       "slug": "assassins-creed-shadows",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0001-PPSA20396_00-GAME000000000000",
         "conceptId": "10009909",
-        "name": null,
+        "name": "Assassin’s Creed Shadows",
         "url": "https://store.playstation.com/en-us/concept/10009909",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "305152": {
       "slug": "clair-obscur-expedition-33",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP7579-PPSA17599_00-EXP33000000PS5EU",
         "conceptId": "10008503",
-        "name": null,
+        "name": "Clair Obscur: Expedition 33",
         "url": "https://store.playstation.com/en-us/concept/10008503",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 45.19,
+        "regularPrice": 45.19,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "314265": {
       "slug": "reanimal",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "EP4389-PPSA23372_00-ANIMALGAMEGLOBAL",
         "conceptId": "10010999",
-        "name": null,
+        "name": "REANIMAL",
         "url": "https://store.playstation.com/en-us/concept/10010999",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 39.99,
+        "regularPrice": 39.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "325594": {
       "slug": "split-fiction",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0006-PPSA08560_00-SPLITSTANDARDED0",
         "conceptId": "10005449",
-        "name": null,
+        "name": "Split Fiction",
         "url": "https://store.playstation.com/en-us/concept/10005449",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 49.99,
+        "regularPrice": 49.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     },
     "325609": {
       "slug": "dispatch--3",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "HP7386-PPSA27158_00-0022337374597692",
         "conceptId": "10013259",
-        "name": null,
+        "name": "Dispatch",
         "url": "https://store.playstation.com/en-us/concept/10013259",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": true
       }
     },
     "347668": {
       "slug": "resident-evil-requiem",
       "fetchedAt": "2026-08-25T17:27:41.856Z",
       "data": {
-        "productId": null,
+        "productId": "UP0102-PPSA30803_00-REREQUIEM0000000",
         "conceptId": "10015533",
-        "name": null,
+        "name": "Resident Evil Requiem",
         "url": "https://store.playstation.com/en-us/concept/10015533",
         "isSearchable": null,
-        "price": null,
-        "regularPrice": null,
+        "price": 69.99,
+        "regularPrice": 69.99,
         "editions": [],
-        "downloadBytes": null
+        "downloadBytes": null,
+        "discounted": false,
+        "currency": "USD",
+        "saleEnds": null,
+        "isFree": false,
+        "plusIncluded": false
       }
     }
   }

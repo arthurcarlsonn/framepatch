@@ -59,10 +59,47 @@ function playstationOf(record) {
     productId: record.productId,
     conceptId: record.conceptId,
     url: record.url,
-    // Sony serves price and size only through a whitelisted GraphQL call; see the adapter.
-    price: record.price,
+    price: record.price ?? null,
+    regularPrice: record.regularPrice ?? null,
+    discounted: Boolean(record.discounted),
+    currency: record.currency ?? "USD",
+    plusIncluded: Boolean(record.plusIncluded),
+    editions: record.editions ?? [],
+    // The store exposes no download size on any of its operations.
     sizeGb: record.downloadBytes ? toGb(record.downloadBytes) : null,
   };
+}
+
+function steamOf(record) {
+  if (!record) return null;
+  return {
+    appId: record.appId,
+    url: record.url,
+    price: record.price ?? null,
+    regularPrice: record.regularPrice ?? null,
+    discounted: Boolean(record.discounted),
+    discountPercent: record.discountPercent ?? 0,
+    currency: record.currency ?? "USD",
+    sizeGb: null,
+  };
+}
+
+/** Nintendo console label → the short form used in the availability chips. */
+const NINTENDO_LABEL = { "Nintendo Switch": "Switch", "Nintendo Switch 2": "Switch 2" };
+
+/**
+ * IGDB's platform list misses consoles that a storefront confirms — 42 titles are sold on
+ * Series X|S with IGDB listing only Xbox One. Where a platform's own catalogue names a
+ * console, it wins.
+ */
+function mergeAvailability(igdbList, xbox, nintendo) {
+  const merged = new Set(igdbList);
+  for (const gen of xbox?.compatibleWith ?? []) merged.add(GEN_LABEL[gen] ?? gen);
+  for (const gen of xbox?.optimizedFor ?? []) merged.add(GEN_LABEL[gen] ?? gen);
+  for (const platform of nintendo?.platforms ?? []) {
+    merged.add(NINTENDO_LABEL[platform] ?? platform);
+  }
+  return [...merged];
 }
 
 function render(header, imports, body) {
@@ -74,12 +111,13 @@ export async function generate() {
   const records = Object.values(igdb.entries).map((e) => e.data).filter(Boolean);
   if (records.length === 0) throw new Error("data/igdb.json is empty — run `pnpm sync` first");
 
-  const [xbox, gamePass, nintendo, playstation, hltb] = await Promise.all([
+  const [xbox, gamePass, nintendo, playstation, hltb, steam] = await Promise.all([
     loadData("xboxStore"),
     loadData("gamePass"),
     loadData("nintendoStore"),
     loadData("playstationStore"),
     loadData("howLongToBeat"),
+    loadData("steamStore"),
   ]);
 
   const date = new Date().toISOString().slice(0, 10);
@@ -89,6 +127,7 @@ export async function generate() {
     `Game Pass ${gamePass.size}`,
     `Nintendo ${nintendo.size}`,
     `PlayStation ${playstation.size}`,
+    `Steam ${steam.size}`,
     `HLTB ${hltb.size}`,
   ].join(" · ");
 
@@ -104,14 +143,24 @@ export async function generate() {
     const pass = gamePass.get(id);
     index.push({ ...record.index, gamePass: pass ? (pass.console ? "console" : "pc") : null });
 
+    const xboxListing = xboxOf(xbox.get(id));
+    const nintendoListing = nintendoOf(nintendo.get(id));
     const store = {
-      xbox: xboxOf(xbox.get(id)),
-      nintendo: nintendoOf(nintendo.get(id)),
+      xbox: xboxListing,
+      nintendo: nintendoListing,
       playstation: playstationOf(playstation.get(id)),
+      steam: steamOf(steam.get(id)),
       gamePassTiers: pass ?? null,
       playtime: hltb.get(id) ?? null,
     };
-    detail.push([record.index.slug, { ...record.detail, ...store }]);
+    detail.push([
+      record.index.slug,
+      {
+        ...record.detail,
+        availability: mergeAvailability(record.detail.availability, xboxListing, nintendoListing),
+        ...store,
+      },
+    ]);
   }
 
   await writeFile(

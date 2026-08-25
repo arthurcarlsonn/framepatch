@@ -16,8 +16,15 @@ import { fetchCatalogue } from "./adapters/igdb.mjs";
 import { fetchGamePassCatalog } from "./adapters/game-pass.mjs";
 import { fetchPlaytimes } from "./adapters/how-long-to-beat.mjs";
 import { fetchNintendoPrices, fetchNintendoProduct } from "./adapters/nintendo-store.mjs";
-import { fetchPlaystationProduct } from "./adapters/playstation-store.mjs";
+import {
+  currentBuildId,
+  fetchPlaystationProduct,
+  refreshPlaystationPrice,
+} from "./adapters/playstation-store.mjs";
+import { appIdFrom, fetchSteamPrices } from "./adapters/steam-store.mjs";
 import { fetchXboxProducts } from "./adapters/xbox-store.mjs";
+import { readFile } from "node:fs/promises";
+
 import { loadData, readSource, syncEntries, writeSource } from "./lib/store.mjs";
 import { generate } from "./generate.mjs";
 
@@ -159,6 +166,21 @@ if (wanted("nintendoStore")) {
 
 if (wanted("playstationStore")) {
   console.log("playstationStore — storefront payload…");
+
+  // The query hashes are tied to a store deploy; say so loudly before a run wastes time.
+  try {
+    const queries = JSON.parse(await readFile(new URL("../data/playstation-queries.json", import.meta.url), "utf8"));
+    const live = await currentBuildId();
+    if (live && live !== queries.buildId) {
+      console.warn(
+        `  ! PlayStation store is on build ${live}, hashes were captured on ${queries.buildId}.` +
+          "\n    If prices come back empty, re-capture with `pnpm ps:hashes`.",
+      );
+    }
+  } catch {
+    // A failed check is not a reason to skip the sync.
+  }
+
   const withUrls = limit(games.filter((g) => g.links?.playstationUrl));
   const stats = await syncEntries(
     "playstationStore",
@@ -167,6 +189,47 @@ if (wanted("playstationStore")) {
     { force, maxAgeDays: 30 },
   );
   report("playstationStore", stats);
+
+  // Identity is stable; prices are not. Refresh them for everything already identified.
+  const table = await readSource("playstationStore");
+  let refreshed = 0;
+  let priceFailures = 0;
+  for (const entry of Object.values(table.entries)) {
+    if (!entry.data?.productId && !entry.data?.conceptId) continue;
+    try {
+      entry.data = await refreshPlaystationPrice(entry.data);
+      refreshed++;
+    } catch (error) {
+      priceFailures++;
+      if (priceFailures === 1) console.warn(`  ! ${error.message}`);
+    }
+  }
+  table.syncedAt = new Date().toISOString();
+  await writeSource("playstationStore", table);
+  console.log(`  playstationStore: ${refreshed} prices refreshed${priceFailures ? `, ${priceFailures} failed` : ""}`);
+}
+
+// ── steam ─────────────────────────────────────────────────────────────────────
+
+if (wanted("steamStore")) {
+  console.log("steamStore — appdetails…");
+  const withApps = limit(
+    games
+      .map((g) => ({ ...g, appId: appIdFrom(g.links?.steamUrl) }))
+      .filter((g) => g.appId),
+  );
+  try {
+    const prices = await fetchSteamPrices([...new Set(withApps.map((g) => g.appId))]);
+    const stats = await syncEntries(
+      "steamStore",
+      withApps,
+      async (game) => prices.get(game.appId) ?? null,
+      { force, maxAgeDays: 0 },
+    );
+    report("steamStore", stats);
+  } catch (error) {
+    console.warn(`  ! steamStore unavailable, keeping cached data: ${error.message}`);
+  }
 }
 
 // ── howlongtobeat ─────────────────────────────────────────────────────────────

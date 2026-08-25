@@ -29,7 +29,8 @@ IGDB does not have.
 | **Xbox** (`displaycatalog.mp.microsoft.com`) | price, sale price, download size, editions, Series X\|S / One compatibility, 4K/HDR/VRR capabilities | none |
 | **Game Pass** (`catalog.gamepass.com`) | console / PC / EA Play availability | none |
 | **Nintendo** (store page + `api.ec.nintendo.com`) | price, sale price, NSUID, rom size, Switch vs Switch 2, compatibility note, editions | none |
-| **PlayStation** (storefront payload) | product id, concept id, canonical store URL | none |
+| **PlayStation** (storefront payload + store GraphQL) | price, sale price, PS Plus Game Catalog membership, editions, product id, concept id, store URL | none |
+| **Steam** (`appdetails`) | price, sale price, discount percent | none |
 | **HowLongToBeat** | main / main+extra / completionist times | none |
 | **FrameCheck** | frame rate per console model, modes, patch history, verification source | — |
 
@@ -41,22 +42,29 @@ FPS targets, console model, quality/performance modes, patch version and date, p
 notes and verification URLs. No external source is consulted for any of it.
 
 Coverage from the last sync, out of 208 titles: Xbox 146, Game Pass 56, Nintendo 101,
-PlayStation 161 (identity only), HowLongToBeat 0.
+PlayStation 161, Steam 162, HowLongToBeat 0. 184 titles have a price on at least one store.
+
+Platform availability is a merge, not a copy. IGDB's platform list misses consoles a
+storefront confirms — 42 titles are sold on Series X\|S with IGDB listing only Xbox One —
+so where a platform's own catalogue names a console, it wins. PlayStation exposes no
+PS4/PS5 split on any of its operations, so that side stays IGDB-sourced.
 
 ### Known ceilings
 
-Two sources return less than we would like, and the site is built to show that honestly
-rather than paper over it:
+- **PlayStation query hashes rotate.** The store's GraphQL endpoint allowlists persisted
+  query hashes server-side, and the client computes them at runtime rather than shipping
+  them, so a hash cannot be derived offline — reproducing one from the query text in the
+  bundle does not match, with or without Apollo's `__typename` injection. The four hashes
+  we need live in `data/playstation-queries.json`, captured from the store's own requests,
+  alongside the `buildId` they came from. A sync compares that against the live build and
+  warns before the run; `pnpm ps:hashes` checks staleness and prints the capture steps.
+  Requests also need an `apollo-require-preflight` header or the endpoint refuses them as
+  CSRF. Download size and the PS4/PS5 split are not exposed by any operation.
 
-- **PlayStation** — the `__NEXT_DATA__` payload on both concept and product pages carries
-  only `id`, `name` and `isSearchableOnStore`. Price, editions and download size load
-  client-side through a GraphQL endpoint that rejects any query whose hash is not on
-  Sony's server-side whitelist; a hash computed from the query text comes back
-  `"not whitelisted"`. The Apollo cache is also served inconsistently — the same URL
-  returns product entities on one request and an empty cache on the next — so the adapter
-  falls back to the route props for the id. It therefore returns identity data only
-  (product id, concept id, canonical URL), and `extract()` is the single function to
-  change if Sony restores those fields.
+  Note the price lives on the right CTA, not the first one: a title in the PS Plus Game
+  Catalog leads with an upsell CTA quoting `discountedValue: 0`, which reads as free. The
+  adapter picks the applicable, non-free, priced CTA and treats the upsell as the PS Plus
+  flag instead.
 - **HowLongToBeat** — both npm wrappers (`howlongtobeat`, `hltb`) were last published in
   2022-23 and throw against the current site. HLTB now gates `/api/search/site` behind a
   session token plus an `x-hp-key`/`x-hp-val` fingerprint; requests without it get 403

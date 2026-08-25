@@ -1,10 +1,10 @@
 {
   "source": "igdb",
-  "syncedAt": "2026-08-25T17:35:36.455Z",
+  "syncedAt": "2026-08-25T18:04:42.881Z",
   "entries": {
     "71": {
       "slug": "portal",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 71,
@@ -93,13 +93,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/400"
         }
       }
     },
     "72": {
       "slug": "portal-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 72,
@@ -198,13 +199,14 @@
         "links": {
           "xboxProductId": "BT2B17V20D1P",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/620"
         }
       }
     },
     "111": {
       "slug": "amnesia-the-dark-descent",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 111,
@@ -308,13 +310,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/57300"
         }
       }
     },
     "116": {
       "slug": "star-wars-knights-of-the-old-republic",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 116,
@@ -414,13 +417,14 @@
         "links": {
           "xboxProductId": "BS8LFD7729CL",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/star-wars-knights-of-the-old-republic-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/star-wars-knights-of-the-old-republic-switch/",
+          "steamUrl": "https://store.steampowered.com/app/32370"
         }
       }
     },
     "118": {
       "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 118,
@@ -523,13 +527,14 @@
         "links": {
           "xboxProductId": "BQ4GD4LDGLTB",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch/",
+          "steamUrl": "https://store.steampowered.com/app/208580"
         }
       }
     },
     "359": {
       "slug": "final-fantasy-xv",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 359,
@@ -647,13 +652,14 @@
         "links": {
           "xboxProductId": "9NR0N2LZ6TC5",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201597",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION"
         }
       }
     },
     "386": {
       "slug": "final-fantasy-xiv-online--1",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 386,
@@ -773,13 +779,14 @@
         "links": {
           "xboxProductId": "9NGN7D8GJN02",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201579",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/final-fantasy-xiv-online-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/final-fantasy-xiv-online-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/39210"
         }
       }
     },
     "434": {
       "slug": "red-dead-redemption",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 434,
@@ -882,13 +889,14 @@
         "links": {
           "xboxProductId": "BWKLFHWT7DHC",
           "playstationUrl": "https://store.playstation.com/en-us/product/UP1004-PPSA30528_00-REDEMPTION000001",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/red-dead-redemption-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/red-dead-redemption-switch/",
+          "steamUrl": "https://store.steampowered.com/app/2668510/Red_Dead_Redemption/"
         }
       }
     },
     "481": {
       "slug": "silent-hill-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 481,
@@ -953,13 +961,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "498": {
       "slug": "borderlands",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 498,
@@ -1062,13 +1071,14 @@
         "links": {
           "xboxProductId": "C0NDKFJXW9SZ",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/8980"
         }
       }
     },
     "500": {
       "slug": "batman-arkham-asylum",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 500,
@@ -1158,13 +1168,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d802534307f6",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/batman-arkham-asylum-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/batman-arkham-asylum-switch/",
+          "steamUrl": "https://store.steampowered.com/app/35010"
         }
       }
     },
     "501": {
       "slug": "batman-arkham-city",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 501,
@@ -1259,13 +1270,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d80257520802",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/batman-arkham-city-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/batman-arkham-city-switch/",
+          "steamUrl": "https://store.steampowered.com/app/57400"
         }
       }
     },
     "506": {
       "slug": "sonic-generations",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 506,
@@ -1355,13 +1367,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d80253450848",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/71340"
         }
       }
     },
     "530": {
       "slug": "hitman-absolution",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 530,
@@ -1457,13 +1470,14 @@
         "links": {
           "xboxProductId": "BXHQB8CKJNVR",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/hitman-absolution-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/hitman-absolution-switch/",
+          "steamUrl": "https://store.steampowered.com/app/203140"
         }
       }
     },
     "545": {
       "slug": "call-of-duty-black-ops",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 545,
@@ -1574,13 +1588,14 @@
         "links": {
           "xboxProductId": "BVMGCSX6XPC9",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10017657",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/42710"
         }
       }
     },
     "873": {
       "slug": "saints-row-the-third",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 873,
@@ -1682,13 +1697,14 @@
         "links": {
           "xboxProductId": "C0NZWZF27K7W",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/55230"
         }
       }
     },
     "885": {
       "slug": "super-meat-boy",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 885,
@@ -1795,13 +1811,14 @@
         "links": {
           "xboxProductId": "C1365LM1Q2DK",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204051",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/super-meat-boy-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/super-meat-boy-switch/",
+          "steamUrl": "https://store.steampowered.com/app/40800"
         }
       }
     },
     "974": {
       "slug": "resident-evil-4",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 974,
@@ -1869,13 +1886,14 @@
         "links": {
           "xboxProductId": "66acd000-77fe-1000-9115-d8024343081c",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "1011": {
       "slug": "borderlands-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1011,
@@ -1987,13 +2005,14 @@
         "links": {
           "xboxProductId": "BRC33X34H2C9",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/49520"
         }
       }
     },
     "1020": {
       "slug": "grand-theft-auto-v",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1020,
@@ -2119,13 +2138,14 @@
         "links": {
           "xboxProductId": "BPJ686W6S0NH",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201930",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/271590"
         }
       }
     },
     "1081": {
       "slug": "the-elder-scrolls-online",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1081,
@@ -2251,13 +2271,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/204861",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/306130"
         }
       }
     },
     "1122": {
       "slug": "call-of-duty-black-ops-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1122,
@@ -2361,13 +2382,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d802415608c3",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10017658",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/202970"
         }
       }
     },
     "1262": {
       "slug": "south-park-the-stick-of-truth",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1262,
@@ -2484,13 +2506,14 @@
         "links": {
           "xboxProductId": "C0QDQ0KX4HDV",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204162",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/south-park-the-stick-of-truth-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/south-park-the-stick-of-truth-switch/",
+          "steamUrl": "https://store.steampowered.com/app/213670"
         }
       }
     },
     "1331": {
       "slug": "limbo",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1331,
@@ -2605,13 +2628,14 @@
         "links": {
           "xboxProductId": "9PNG83MDD6SH",
           "playstationUrl": "https://store.playstation.com/en-us/concept/202533",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/limbo-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/limbo-switch/",
+          "steamUrl": "https://store.steampowered.com/app/48000"
         }
       }
     },
     "1334": {
       "slug": "brothers-a-tale-of-two-sons",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1334,
@@ -2732,13 +2756,14 @@
         "links": {
           "xboxProductId": "9PJ42FRWTGH1",
           "playstationUrl": "https://store.playstation.com/en-us/concept/200617",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/brothers-a-tale-of-two-sons-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/brothers-a-tale-of-two-sons-switch/",
+          "steamUrl": "https://store.steampowered.com/app/225080"
         }
       }
     },
     "1384": {
       "slug": "hotline-miami",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1384,
@@ -2854,13 +2879,14 @@
         "links": {
           "xboxProductId": "9PPCS86WS28Z",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005940",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/219150"
         }
       }
     },
     "1871": {
       "slug": "the-walking-dead",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1871,
@@ -2976,13 +3002,14 @@
         "links": {
           "xboxProductId": "BR1ZD21DCXJR",
           "playstationUrl": "https://store.playstation.com/en-us/product/UP2026-CUSA01019_00-TWDS10000000GAME",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/207610"
         }
       }
     },
     "1877": {
       "slug": "cyberpunk-2077",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1877,
@@ -3110,13 +3137,14 @@
         "links": {
           "xboxProductId": "BX3M8L83BBRW",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234567",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1091500"
         }
       }
     },
     "1879": {
       "slug": "terraria",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1879,
@@ -3247,13 +3275,14 @@
         "links": {
           "xboxProductId": "BTNPS60N3114",
           "playstationUrl": "https://store.playstation.com/en-us/concept/205080",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/terraria-3ds/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/terraria-3ds/",
+          "steamUrl": "https://store.steampowered.com/app/105600"
         }
       }
     },
     "1905": {
       "slug": "fortnite",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1905,
@@ -3393,13 +3422,14 @@
         "links": {
           "xboxProductId": "BT5P2X999VH2",
           "playstationUrl": "https://store.playstation.com/en-us/concept/228748",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/fortnite-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/fortnite-switch/",
+          "steamUrl": null
         }
       }
     },
     "1906": {
       "slug": "gone-home",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1906,
@@ -3499,13 +3529,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/gone-home-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/gone-home-switch/",
+          "steamUrl": "https://store.steampowered.com/app/232430"
         }
       }
     },
     "1910": {
       "slug": "outlast",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1910,
@@ -3620,13 +3651,14 @@
         "links": {
           "xboxProductId": "BP3GH4D3HP2H",
           "playstationUrl": "https://store.playstation.com/en-us/concept/203196",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/238320"
         }
       }
     },
     "1911": {
       "slug": "path-of-exile",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1911,
@@ -3737,13 +3769,14 @@
         "links": {
           "xboxProductId": "BWC95BZPFBS7",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231987",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/238960"
         }
       }
     },
     "1942": {
       "slug": "the-witcher-3-wild-hunt",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1942,
@@ -3874,13 +3907,14 @@
         "links": {
           "xboxProductId": "BR765873CQJD",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204794",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-switch/",
+          "steamUrl": "https://store.steampowered.com/app/292030"
         }
       }
     },
     "1970": {
       "slug": "assassins-creed-iv-black-flag",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1970,
@@ -4002,13 +4036,14 @@
         "links": {
           "xboxProductId": "BRKMHZX1RCF2",
           "playstationUrl": "https://store.playstation.com/en-us/concept/200089",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/assassins-creed-iv-black-flag-wii-u/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/assassins-creed-iv-black-flag-wii-u/",
+          "steamUrl": "https://store.steampowered.com/app/242050"
         }
       }
     },
     "1983": {
       "slug": "bastion",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 1983,
@@ -4125,13 +4160,14 @@
         "links": {
           "xboxProductId": "BVVP3LXMLP85",
           "playstationUrl": "https://store.playstation.com/en-us/concept/200404",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/bastion-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/bastion-switch/",
+          "steamUrl": "https://store.steampowered.com/app/107100"
         }
       }
     },
     "2114": {
       "slug": "tom-clancy-s-the-division",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2114,
@@ -4255,13 +4291,14 @@
         "links": {
           "xboxProductId": "BRGPD72KHM3Q",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204941",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/365590"
         }
       }
     },
     "2117": {
       "slug": "dayz",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2117,
@@ -4388,13 +4425,14 @@
         "links": {
           "xboxProductId": "BSR9NLHVF1KL",
           "playstationUrl": "https://store.playstation.com/en-us/concept/221850",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/221100"
         }
       }
     },
     "2126": {
       "slug": "hotline-miami-2-wrong-number",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2126,
@@ -4509,13 +4547,14 @@
         "links": {
           "xboxProductId": "9NRX55Z58QNV",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10006547",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/274170"
         }
       }
     },
     "2155": {
       "slug": "dark-souls",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2155,
@@ -4608,13 +4647,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d8024e4d083a",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "2350": {
       "slug": "mario-kart-8",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2350,
@@ -4698,13 +4738,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/mario-kart-8-wii-u/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/mario-kart-8-wii-u/",
+          "steamUrl": null
         }
       }
     },
     "2903": {
       "slug": "warframe",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2903,
@@ -4844,13 +4885,14 @@
         "links": {
           "xboxProductId": "BPS3XF74B9V1",
           "playstationUrl": "https://store.playstation.com/en-us/concept/205342",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/warframe-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/warframe-switch/",
+          "steamUrl": "https://store.steampowered.com/app/230410"
         }
       }
     },
     "2933": {
       "slug": "kingdom-hearts-iii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 2933,
@@ -4972,13 +5014,14 @@
         "links": {
           "xboxProductId": "C08MW8XHQN9G",
           "playstationUrl": "https://store.playstation.com/en-us/concept/208810",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/"
         }
       }
     },
     "3042": {
       "slug": "dying-light",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 3042,
@@ -5099,13 +5142,14 @@
         "links": {
           "xboxProductId": "BXN9LB6R3ZPG",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201129",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/239140"
         }
       }
     },
     "3070": {
       "slug": "euro-truck-simulator-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 3070,
@@ -5220,13 +5264,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10009049",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/227300"
         }
       }
     },
     "3097": {
       "slug": "the-walking-dead-season-two",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 3097,
@@ -5346,13 +5391,14 @@
         "links": {
           "xboxProductId": "C2DQXX0CB42F",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204873",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/the-walking-dead-season-two-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/the-walking-dead-season-two-switch/",
+          "steamUrl": "https://store.steampowered.com/app/261030"
         }
       }
     },
     "3225": {
       "slug": "no-man-s-sky",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 3225,
@@ -5491,13 +5537,14 @@
         "links": {
           "xboxProductId": "BQVQTL3PCH05",
           "playstationUrl": "https://store.playstation.com/en-us/concept/216600",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/no-mans-sky-nintendo-switch-2-edition-upgrade-pack-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/no-mans-sky-nintendo-switch-2-edition-upgrade-pack-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/275850"
         }
       }
     },
     "4754": {
       "slug": "alien-isolation",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 4754,
@@ -5616,13 +5663,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d8025345085e",
           "playstationUrl": "https://store.playstation.com/en-us/concept/200213",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/alien-isolation-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/alien-isolation-switch/",
+          "steamUrl": "https://store.steampowered.com/app/214490"
         }
       }
     },
     "4843": {
       "slug": "kingdom-come-deliverance",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 4843,
@@ -5748,13 +5796,14 @@
         "links": {
           "xboxProductId": "9P3T7HVKM6D0",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227410",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/379430"
         }
       }
     },
     "5025": {
       "slug": "to-the-moon",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 5025,
@@ -5875,13 +5924,14 @@
         "links": {
           "xboxProductId": "9N18Q862HS1C",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10012096",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/to-the-moon-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/to-the-moon-switch/",
+          "steamUrl": "https://store.steampowered.com/app/206440"
         }
       }
     },
     "5503": {
       "slug": "batman-arkham-knight",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 5503,
@@ -5999,13 +6049,14 @@
         "links": {
           "xboxProductId": "BSLX1RNXR6H7",
           "playstationUrl": "https://store.playstation.com/en-us/concept/200472",
-          "nintendoUrl": "https://www.nintendo.com/store/products/batman-arkham-knight-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/batman-arkham-knight-switch/",
+          "steamUrl": "https://store.steampowered.com/app/208650"
         }
       }
     },
     "5606": {
       "slug": "assassins-creed-unity",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 5606,
@@ -6132,13 +6183,14 @@
         "links": {
           "xboxProductId": "BRQH27C9RGXS",
           "playstationUrl": "https://store.playstation.com/en-us/concept/200088",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/289650"
         }
       }
     },
     "6707": {
       "slug": "tales-from-the-borderlands",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 6707,
@@ -6255,13 +6307,14 @@
         "links": {
           "xboxProductId": "BV5623GKKLGV",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204836",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/tales-from-the-borderlands-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/tales-from-the-borderlands-switch/",
+          "steamUrl": "https://store.steampowered.com/app/330830"
         }
       }
     },
     "6801": {
       "slug": "far-cry-4",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 6801,
@@ -6382,13 +6435,14 @@
         "links": {
           "xboxProductId": "C0KJ40T9QD86",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201624",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/298110"
         }
       }
     },
     "7046": {
       "slug": "factorio",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7046,
@@ -6492,13 +6546,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/factorio-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/factorio-switch/",
+          "steamUrl": "https://store.steampowered.com/app/427520"
         }
       }
     },
     "7205": {
       "slug": "superhot",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7205,
@@ -6610,13 +6665,14 @@
         "links": {
           "xboxProductId": "BVZ0D05W8MP2",
           "playstationUrl": "https://store.playstation.com/en-us/concept/228844",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/superhot-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/superhot-switch/",
+          "steamUrl": "https://store.steampowered.com/app/322500"
         }
       }
     },
     "7334": {
       "slug": "bloodborne",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7334,
@@ -6702,13 +6758,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/200520",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "7342": {
       "slug": "inside",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7342,
@@ -6827,13 +6884,14 @@
         "links": {
           "xboxProductId": "C17GQF31D617",
           "playstationUrl": "https://store.playstation.com/en-us/concept/223663",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/inside-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/inside-switch/",
+          "steamUrl": "https://store.steampowered.com/app/304430"
         }
       }
     },
     "7344": {
       "slug": "ori-and-the-blind-forest",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7344,
@@ -6930,13 +6988,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/261570"
         }
       }
     },
     "7346": {
       "slug": "the-legend-of-zelda-breath-of-the-wild",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7346,
@@ -7025,13 +7084,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/",
+          "steamUrl": null
         }
       }
     },
     "7360": {
       "slug": "rainbow-six-siege",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7360,
@@ -7145,13 +7205,14 @@
         "links": {
           "xboxProductId": "9MV3SSL8ZPB7",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/359550"
         }
       }
     },
     "7444": {
       "slug": "shovel-knight",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7444,
@@ -7252,13 +7313,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/589500"
         }
       }
     },
     "7570": {
       "slug": "assassins-creed-rogue",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7570,
@@ -7355,13 +7417,14 @@
         "links": {
           "xboxProductId": "xbox36066acd000-77fe-1000-9115-d802555308ce",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/assassins-creed-rogue-70050000017105-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/assassins-creed-rogue-70050000017105-switch/",
+          "steamUrl": "https://store.steampowered.com/app/311560"
         }
       }
     },
     "7603": {
       "slug": "hellblade-senuas-sacrifice",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 7603,
@@ -7487,13 +7550,14 @@
         "links": {
           "xboxProductId": "9NCLP4LV5K7Z",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227151",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/hellblade-senuas-sacrifice-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/hellblade-senuas-sacrifice-switch/",
+          "steamUrl": "https://store.steampowered.com/app/414340"
         }
       }
     },
     "8173": {
       "slug": "overwatch",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 8173,
@@ -7600,13 +7664,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/216627",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "8263": {
       "slug": "assassins-creed-syndicate",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 8263,
@@ -7726,13 +7791,14 @@
         "links": {
           "xboxProductId": "BXVQ8M4J9HNM",
           "playstationUrl": "https://store.playstation.com/en-us/concept/212339",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/368500"
         }
       }
     },
     "9061": {
       "slug": "cuphead",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 9061,
@@ -7859,13 +7925,14 @@
         "links": {
           "xboxProductId": "9NJRX71M5X9P",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10001369",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/cuphead-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/cuphead-switch/",
+          "steamUrl": "https://store.steampowered.com/app/268910"
         }
       }
     },
     "9174": {
       "slug": "little-nightmares",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 9174,
@@ -7979,13 +8046,14 @@
         "links": {
           "xboxProductId": "BWD88K55MK5W",
           "playstationUrl": "https://store.playstation.com/en-us/concept/223059",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/424840"
         }
       }
     },
     "9254": {
       "slug": "subnautica",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 9254,
@@ -8115,13 +8183,14 @@
         "links": {
           "xboxProductId": "BX3S1Q5DVHRD",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232883",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/subnautica-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/subnautica-switch/",
+          "steamUrl": "https://store.steampowered.com/app/264710"
         }
       }
     },
     "9630": {
       "slug": "fallout-4",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 9630,
@@ -8238,13 +8307,14 @@
         "links": {
           "xboxProductId": "C3KLDKZBHNCZ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201511",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/377160"
         }
       }
     },
     "9727": {
       "slug": "soma",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 9727,
@@ -8362,13 +8432,14 @@
         "links": {
           "xboxProductId": "C23M2TC1ZFPJ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/204320",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/soma-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/soma-switch/",
+          "steamUrl": "https://store.steampowered.com/app/282140"
         }
       }
     },
     "9730": {
       "slug": "firewatch",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 9730,
@@ -8485,13 +8556,14 @@
         "links": {
           "xboxProductId": "BQQKG9H2STC0",
           "playstationUrl": "https://store.playstation.com/en-us/concept/216211",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/firewatch-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/firewatch-switch/",
+          "steamUrl": "https://store.steampowered.com/app/383870"
         }
       }
     },
     "11118": {
       "slug": "dishonored-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 11118,
@@ -8597,13 +8669,14 @@
         "links": {
           "xboxProductId": "9MW4RJDRSF78",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201017",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/403640"
         }
       }
     },
     "11133": {
       "slug": "dark-souls-iii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 11133,
@@ -8706,13 +8779,14 @@
         "links": {
           "xboxProductId": "BW2XDRNSCCPZ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201190",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/374320"
         }
       }
     },
     "11156": {
       "slug": "horizon-zero-dawn",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 11156,
@@ -8810,13 +8884,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/221727",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "11198": {
       "slug": "rocket-league",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 11198,
@@ -8950,13 +9025,14 @@
         "links": {
           "xboxProductId": "C125W9BG2K0V",
           "playstationUrl": "https://store.playstation.com/en-us/concept/203715",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/rocket-league-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/rocket-league-switch/",
+          "steamUrl": "https://store.steampowered.com/app/252950"
         }
       }
     },
     "11233": {
       "slug": "what-remains-of-edith-finch",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 11233,
@@ -9088,13 +9164,14 @@
         "links": {
           "xboxProductId": "BSLGLG8P9T01",
           "playstationUrl": "https://store.playstation.com/en-us/concept/211984",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/what-remains-of-edith-finch-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/what-remains-of-edith-finch-switch/",
+          "steamUrl": "https://store.steampowered.com/app/501300"
         }
       }
     },
     "11737": {
       "slug": "outer-wilds",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 11737,
@@ -9217,13 +9294,14 @@
         "links": {
           "xboxProductId": "C596FKDKMQN7",
           "playstationUrl": "https://store.playstation.com/en-us/concept/229826",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/outer-wilds-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/outer-wilds-switch/",
+          "steamUrl": "https://store.steampowered.com/app/753640"
         }
       }
     },
     "12517": {
       "slug": "undertale",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 12517,
@@ -9339,13 +9417,14 @@
         "links": {
           "xboxProductId": "9PJGGX9XJXPB",
           "playstationUrl": "https://store.playstation.com/en-us/concept/228887",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/undertale-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/undertale-switch/",
+          "steamUrl": "https://store.steampowered.com/app/391540"
         }
       }
     },
     "13182": {
       "slug": "far-cry-primal",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 13182,
@@ -9464,13 +9543,14 @@
         "links": {
           "xboxProductId": "BV6BRSLFJW3W",
           "playstationUrl": "https://store.playstation.com/en-us/concept/201634",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/371660"
         }
       }
     },
     "14593": {
       "slug": "hollow-knight",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 14593,
@@ -9596,13 +9676,14 @@
         "links": {
           "xboxProductId": "9PKM22F7C9K5",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232654",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/hollow-knight-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/hollow-knight-switch/",
+          "steamUrl": "https://store.steampowered.com/app/367520"
         }
       }
     },
     "16992": {
       "slug": "human-fall-flat",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 16992,
@@ -9742,13 +9823,14 @@
         "links": {
           "xboxProductId": "9MT4HS1CP72W",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227139",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/human-fall-flat-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/human-fall-flat-switch/",
+          "steamUrl": "https://store.steampowered.com/app/477160"
         }
       }
     },
     "17000": {
       "slug": "stardew-valley",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 17000,
@@ -9879,13 +9961,14 @@
         "links": {
           "xboxProductId": "9MWR1NC6VQ6L",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227229",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/stardew-valley-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/stardew-valley-switch/",
+          "steamUrl": "https://store.steampowered.com/app/413150"
         }
       }
     },
     "17269": {
       "slug": "roblox",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 17269,
@@ -9993,13 +10076,14 @@
         "links": {
           "xboxProductId": "9NBLGGGZM6WM",
           "playstationUrl": "https://store.playstation.com/en-us/concept/223118",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "18866": {
       "slug": "dead-by-daylight",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 18866,
@@ -10134,13 +10218,14 @@
         "links": {
           "xboxProductId": "9NMS4SFNBGBH",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227319",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/dead-by-daylight-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/dead-by-daylight-switch/",
+          "steamUrl": "https://store.steampowered.com/app/381210"
         }
       }
     },
     "19085": {
       "slug": "shadow-tactics-blades-of-the-shogun",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 19085,
@@ -10260,13 +10345,14 @@
         "links": {
           "xboxProductId": "C0SX9NVMVQG9",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227190",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/shadow-tactics-blades-of-the-shogun-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/shadow-tactics-blades-of-the-shogun-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/418240"
         }
       }
     },
     "19130": {
       "slug": "sid-meiers-civilization-vi",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 19130,
@@ -10385,13 +10471,14 @@
         "links": {
           "xboxProductId": "9N4RSG99KV1X",
           "playstationUrl": "https://store.playstation.com/en-us/concept/233594",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/sid-meiers-civilization-vi-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/sid-meiers-civilization-vi-switch/",
+          "steamUrl": "https://store.steampowered.com/app/289070"
         }
       }
     },
     "19164": {
       "slug": "borderlands-3",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 19164,
@@ -10513,13 +10600,14 @@
         "links": {
           "xboxProductId": "C34NB0F1B5WQ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/227478",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/397540"
         }
       }
     },
     "19560": {
       "slug": "god-of-war--1",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 19560,
@@ -10627,13 +10715,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/227770",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1593500"
         }
       }
     },
     "19561": {
       "slug": "days-gone",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 19561,
@@ -10734,13 +10823,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/229018",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1259420"
         }
       }
     },
     "19562": {
       "slug": "resident-evil-7-biohazard",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 19562,
@@ -10861,13 +10951,14 @@
         "links": {
           "xboxProductId": "9NBLGGH4SPK6",
           "playstationUrl": "https://store.playstation.com/en-us/concept/220037",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/418370"
         }
       }
     },
     "22917": {
       "slug": "gris",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 22917,
@@ -10990,13 +11081,14 @@
         "links": {
           "xboxProductId": "9N6C6J7C3GTQ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234650",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/gris-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/gris-switch/",
+          "steamUrl": "https://store.steampowered.com/app/683320"
         }
       }
     },
     "23733": {
       "slug": "tunic",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 23733,
@@ -11129,13 +11221,14 @@
         "links": {
           "xboxProductId": "9NLRT31Z4RWM",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10002475",
-          "nintendoUrl": "https://www.nintendo.com/store/products/tunic-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/tunic-switch/",
+          "steamUrl": "https://store.steampowered.com/app/553420"
         }
       }
     },
     "25076": {
       "slug": "red-dead-redemption-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 25076,
@@ -11251,13 +11344,14 @@
         "links": {
           "xboxProductId": "BPSWGQBW7R3G",
           "playstationUrl": "https://store.playstation.com/en-us/concept/209441",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1174180"
         }
       }
     },
     "25657": {
       "slug": "destiny-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 25657,
@@ -11389,13 +11483,14 @@
         "links": {
           "xboxProductId": "9P9WJ5FW0GTD",
           "playstationUrl": "https://store.playstation.com/en-us/concept/221852",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1085660"
         }
       }
     },
     "26192": {
       "slug": "the-last-of-us-part-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26192,
@@ -11485,13 +11580,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/230079",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "26226": {
       "slug": "celeste",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26226,
@@ -11605,13 +11701,14 @@
         "links": {
           "xboxProductId": "BWMQL2RPWBHB",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231477",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/celeste-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/celeste-switch/",
+          "steamUrl": "https://store.steampowered.com/app/504230"
         }
       }
     },
     "26602": {
       "slug": "metaphor-refantazio",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26602,
@@ -11721,13 +11818,14 @@
         "links": {
           "xboxProductId": "9N5DV8310XP7",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10001029",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2679460"
         }
       }
     },
     "26758": {
       "slug": "super-mario-odyssey",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26758,
@@ -11819,13 +11917,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/",
+          "steamUrl": null
         }
       }
     },
     "26759": {
       "slug": "arms",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26759,
@@ -11904,13 +12003,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/arms-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/arms-switch/",
+          "steamUrl": null
         }
       }
     },
     "26765": {
       "slug": "octopath-traveler",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26765,
@@ -12031,13 +12131,14 @@
         "links": {
           "xboxProductId": "9N9606CC950J",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10009066",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/octopath-traveler-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/octopath-traveler-switch/",
+          "steamUrl": "https://store.steampowered.com/app/921570"
         }
       }
     },
     "26855": {
       "slug": "dead-cells",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 26855,
@@ -12157,13 +12258,14 @@
         "links": {
           "xboxProductId": "BQSCNS1T8PHQ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231053",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/dead-cells-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/dead-cells-switch/",
+          "steamUrl": "https://store.steampowered.com/app/588650"
         }
       }
     },
     "27316": {
       "slug": "a-plague-tale-innocence",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 27316,
@@ -12280,13 +12382,14 @@
         "links": {
           "xboxProductId": "9ND0CG3LM22K",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231037",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/752590"
         }
       }
     },
     "27789": {
       "slug": "pubg-battlegrounds",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 27789,
@@ -12410,13 +12513,14 @@
         "links": {
           "xboxProductId": "C0MN5DN8KR3F",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232860",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/578080"
         }
       }
     },
     "28540": {
       "slug": "assassins-creed-origins",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 28540,
@@ -12533,13 +12637,14 @@
         "links": {
           "xboxProductId": "BZGJRJC1FGF3",
           "playstationUrl": "https://store.playstation.com/en-us/concept/222066",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/582160"
         }
       }
     },
     "28552": {
       "slug": "far-cry-5",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 28552,
@@ -12664,13 +12769,14 @@
         "links": {
           "xboxProductId": "9MVQXW1RJVCN",
           "playstationUrl": "https://store.playstation.com/en-us/concept/221692",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/552520"
         }
       }
     },
     "36616": {
       "slug": "they-are-billions",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 36616,
@@ -12774,13 +12880,14 @@
         "links": {
           "xboxProductId": "9PLXV2VJR0QL",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232722",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/they-are-billions-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/they-are-billions-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/644930"
         }
       }
     },
     "36952": {
       "slug": "wolfenstein-ii-the-new-colossus",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 36952,
@@ -12895,13 +13002,14 @@
         "links": {
           "xboxProductId": "C4LLMHFQ1BXQ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/229533",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/wolfenstein-ii-the-new-colossus-switch/",
+          "steamUrl": "https://store.steampowered.com/app/612880"
         }
       }
     },
     "37001": {
       "slug": "ori-and-the-will-of-the-wisps",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 37001,
@@ -13001,13 +13109,14 @@
         "links": {
           "xboxProductId": "9N8CD0XZKLP4",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1057090"
         }
       }
     },
     "37016": {
       "slug": "metro-exodus",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 37016,
@@ -13128,13 +13237,14 @@
         "links": {
           "xboxProductId": "C1TBTQBVJMFL",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231769",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1449560"
         }
       }
     },
     "37136": {
       "slug": "metroid-prime-4-beyond",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 37136,
@@ -13218,13 +13328,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
+          "steamUrl": null
         }
       }
     },
     "37777": {
       "slug": "shadow-of-the-tomb-raider",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 37777,
@@ -13326,13 +13437,14 @@
         "links": {
           "xboxProductId": "BRVK4W7RVCXR",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/750920"
         }
       }
     },
     "40477": {
       "slug": "slay-the-spire",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 40477,
@@ -13442,13 +13554,14 @@
         "links": {
           "xboxProductId": "9MZQR8317S3B",
           "playstationUrl": "https://store.playstation.com/en-us/concept/233476",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/slay-the-spire-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/slay-the-spire-switch/",
+          "steamUrl": "https://store.steampowered.com/app/646570"
         }
       }
     },
     "55163": {
       "slug": "resident-evil-village",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 55163,
@@ -13571,13 +13684,14 @@
         "links": {
           "xboxProductId": "9N2S04LGXXH4",
           "playstationUrl": "https://store.playstation.com/en-us/concept/235235",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1196590"
         }
       }
     },
     "59849": {
       "slug": "la-noire",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 59849,
@@ -13677,13 +13791,14 @@
         "links": {
           "xboxProductId": "BQDVBCS5Z4N1",
           "playstationUrl": "https://store.playstation.com/en-us/concept/229788",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/la-noire-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/la-noire-switch/",
+          "steamUrl": null
         }
       }
     },
     "74701": {
       "slug": "star-wars-jedi-fallen-order",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 74701,
@@ -13797,13 +13912,14 @@
         "links": {
           "xboxProductId": "9PK2KH9WR7SB",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232345",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1172380"
         }
       }
     },
     "75235": {
       "slug": "ghost-of-tsushima",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 75235,
@@ -13893,13 +14009,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/product/UP9000-CUSA11456_00-GHOSTDIRECTORPS4",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "76253": {
       "slug": "devil-may-cry-5",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 76253,
@@ -14007,13 +14124,14 @@
         "links": {
           "xboxProductId": "BNLG5J5KDVJ3",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/601150"
         }
       }
     },
     "76882": {
       "slug": "sekiro-shadows-die-twice",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 76882,
@@ -14108,13 +14226,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/232898",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/814380"
         }
       }
     },
     "82090": {
       "slug": "forza-horizon-4",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 82090,
@@ -14220,13 +14339,14 @@
         "links": {
           "xboxProductId": "9PNJXVCVWD4K",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1293830"
         }
       }
     },
     "82117": {
       "slug": "two-point-hospital",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 82117,
@@ -14357,13 +14477,14 @@
         "links": {
           "xboxProductId": "9N08S5VPC4SX",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234969",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/two-point-hospital-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/two-point-hospital-switch/",
+          "steamUrl": "https://store.steampowered.com/app/535930"
         }
       }
     },
     "90101": {
       "slug": "super-smash-bros-ultimate",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 90101,
@@ -14453,13 +14574,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/games/detail/super-smash-bros-ultimate-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/super-smash-bros-ultimate-switch/",
+          "steamUrl": null
         }
       }
     },
     "96437": {
       "slug": "starfield",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 96437,
@@ -14560,13 +14682,14 @@
         "links": {
           "xboxProductId": "9NCJSXWZTP88",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10011934",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1716740"
         }
       }
     },
     "103054": {
       "slug": "assassins-creed-odyssey",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 103054,
@@ -14684,13 +14807,14 @@
         "links": {
           "xboxProductId": "BW9TWC8L4JCS",
           "playstationUrl": "https://store.playstation.com/en-us/concept/229601",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/379050/"
         }
       }
     },
     "103281": {
       "slug": "halo-infinite",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 103281,
@@ -14796,13 +14920,14 @@
         "links": {
           "xboxProductId": "9NP1P1WFS0LB",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1708091"
         }
       }
     },
     "103292": {
       "slug": "gears-5",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 103292,
@@ -14904,13 +15029,14 @@
         "links": {
           "xboxProductId": "C2KDNLT2H7DM",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1097840"
         }
       }
     },
     "103298": {
       "slug": "doom-eternal",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 103298,
@@ -15041,13 +15167,14 @@
         "links": {
           "xboxProductId": "9PK09BL31FK1",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232624",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/doom-eternal-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/doom-eternal-switch/",
+          "steamUrl": "https://store.steampowered.com/app/782330"
         }
       }
     },
     "103329": {
       "slug": "control",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 103329,
@@ -15163,13 +15290,14 @@
         "links": {
           "xboxProductId": "9PL1J8PJKH29",
           "playstationUrl": null,
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/870780"
         }
       }
     },
     "103341": {
       "slug": "overcooked-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 103341,
@@ -15301,13 +15429,14 @@
         "links": {
           "xboxProductId": "9PGB72NFG5JN",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231121",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/overcooked-2-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/overcooked-2-switch/",
+          "steamUrl": "https://store.steampowered.com/app/728880"
         }
       }
     },
     "104967": {
       "slug": "valheim",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 104967,
@@ -15422,13 +15551,14 @@
         "links": {
           "xboxProductId": "9NCBL78CG9N7",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/valheim-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/valheim-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/892970"
         }
       }
     },
     "107215": {
       "slug": "snowrunner",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 107215,
@@ -15569,13 +15699,14 @@
         "links": {
           "xboxProductId": "9NP6WL1XQDBW",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234959",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/snowrunner-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/snowrunner-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1465360"
         }
       }
     },
     "110248": {
       "slug": "stray",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 110248,
@@ -15703,13 +15834,14 @@
         "links": {
           "xboxProductId": "9NMPDQ2NRX34",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10001114",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/stray-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/stray-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1332010"
         }
       }
     },
     "111469": {
       "slug": "among-us",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 111469,
@@ -15839,13 +15971,14 @@
         "links": {
           "xboxProductId": "9NG07QJNK38J",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10002811",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/among-us-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/among-us-switch/",
+          "steamUrl": "https://store.steampowered.com/app/945360"
         }
       }
     },
     "112874": {
       "slug": "horizon-forbidden-west",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 112874,
@@ -15941,13 +16074,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000886",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "112875": {
       "slug": "god-of-war-ragnarok",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 112875,
@@ -16051,13 +16185,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10001850",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2322010"
         }
       }
     },
     "113107": {
       "slug": "sayonara-wild-hearts",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 113107,
@@ -16165,13 +16300,14 @@
         "links": {
           "xboxProductId": "9P0L4XR9D8L3",
           "playstationUrl": "https://store.playstation.com/en-us/concept/233247",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/sayonara-wild-hearts-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/sayonara-wild-hearts-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1122720"
         }
       }
     },
     "113112": {
       "slug": "hades--1",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 113112,
@@ -16293,13 +16429,14 @@
         "links": {
           "xboxProductId": "9P8DL6W0JBB8",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10002648",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/hades-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/hades-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1145360"
         }
       }
     },
     "113114": {
       "slug": "the-outer-worlds",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 113114,
@@ -16428,13 +16565,14 @@
         "links": {
           "xboxProductId": "BVTKN6CQ8W5F",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232817",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/the-outer-worlds-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/the-outer-worlds-switch/",
+          "steamUrl": "https://store.steampowered.com/app/578650"
         }
       }
     },
     "114795": {
       "slug": "apex-legends",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 114795,
@@ -16574,13 +16712,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/232352",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/apex-legends-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/apex-legends-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1172470"
         }
       }
     },
     "115060": {
       "slug": "dragons-dogma-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 115060,
@@ -16684,13 +16823,14 @@
         "links": {
           "xboxProductId": "9PJQMBMJ3154",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005844",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2054970"
         }
       }
     },
     "115289": {
       "slug": "hollow-knight-silksong",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 115289,
@@ -16823,13 +16963,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005908",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/hollow-knight-silksong-switch"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/hollow-knight-silksong-switch",
+          "steamUrl": "https://store.steampowered.com/app/1030300"
         }
       }
     },
     "117170": {
       "slug": "stellar-blade",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 117170,
@@ -16929,13 +17070,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10006891",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/3489700"
         }
       }
     },
     "119133": {
       "slug": "elden-ring",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 119133,
@@ -17066,13 +17208,14 @@
         "links": {
           "xboxProductId": "9P3J32CTXLRZ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000333",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1245620"
         }
       }
     },
     "119171": {
       "slug": "baldurs-gate-iii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 119171,
@@ -17187,13 +17330,14 @@
         "links": {
           "xboxProductId": "9ND58LQTG09T",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10007460",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1086940"
         }
       }
     },
     "119177": {
       "slug": "call-of-duty-modern-warfare",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 119177,
@@ -17309,13 +17453,14 @@
         "links": {
           "xboxProductId": "9NVQBQ3F6W9W",
           "playstationUrl": "https://store.playstation.com/en-us/concept/229182",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2000950"
         }
       }
     },
     "119277": {
       "slug": "genshin-impact",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 119277,
@@ -17429,13 +17574,14 @@
         "links": {
           "xboxProductId": "9N7TFFRRZCC9",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000896",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "119313": {
       "slug": "fall-guys",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 119313,
@@ -17567,13 +17713,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/235079",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/fall-guys-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/fall-guys-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1097150"
         }
       }
     },
     "119388": {
       "slug": "the-legend-of-zelda-tears-of-the-kingdom",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 119388,
@@ -17658,13 +17805,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
+          "steamUrl": null
         }
       }
     },
     "121760": {
       "slug": "little-nightmares-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 121760,
@@ -17782,13 +17930,14 @@
         "links": {
           "xboxProductId": "C1H74N0TR8KT",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232583",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/little-nightmares-ii-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/little-nightmares-ii-switch/",
+          "steamUrl": "https://store.steampowered.com/app/860510"
         }
       }
     },
     "125165": {
       "slug": "diablo-iv",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 125165,
@@ -17909,13 +18058,14 @@
         "links": {
           "xboxProductId": "9NQRCD3W41L3",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231761",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2344520"
         }
       }
     },
     "125174": {
       "slug": "overwatch--1",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 125174,
@@ -18044,13 +18194,14 @@
         "links": {
           "xboxProductId": "C1C4DZJPBC2V",
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/overwatch-2-switch/?srsltid=AfmBOopZqB68R9focsbAipvXoaG81CPZk2q_wWq92istCVchKDXgIyJi"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/overwatch-2-switch/?srsltid=AfmBOopZqB68R9focsbAipvXoaG81CPZk2q_wWq92istCVchKDXgIyJi",
+          "steamUrl": "https://store.steampowered.com/app/2357570"
         }
       }
     },
     "126459": {
       "slug": "valorant",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 126459,
@@ -18156,13 +18307,14 @@
         "links": {
           "xboxProductId": "9NKCCHCFTHV2",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10010048",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "127044": {
       "slug": "marvels-spider-man-2",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 127044,
@@ -18263,13 +18415,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10002456",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2651280"
         }
       }
     },
     "131785": {
       "slug": "amnesia-rebirth",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 131785,
@@ -18390,13 +18543,14 @@
         "links": {
           "xboxProductId": "9PMM21KVRD72",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000474",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/amnesia-rebirth-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/amnesia-rebirth-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/999220"
         }
       }
     },
     "131890": {
       "slug": "sea-of-stars",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 131890,
@@ -18525,13 +18679,14 @@
         "links": {
           "xboxProductId": "9NLLTTJZH40L",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10004226",
-          "nintendoUrl": "https://www.nintendo.com/games/detail/sea-of-stars-switch/"
+          "nintendoUrl": "https://www.nintendo.com/games/detail/sea-of-stars-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1244090"
         }
       }
     },
     "132516": {
       "slug": "phasmophobia",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 132516,
@@ -18644,13 +18799,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005673",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/739630"
         }
       }
     },
     "133004": {
       "slug": "assassins-creed-valhalla",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 133004,
@@ -18766,13 +18922,14 @@
         "links": {
           "xboxProductId": "9P4NJFH17MRT",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000237",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2208920"
         }
       }
     },
     "133236": {
       "slug": "final-fantasy-vii-rebirth",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 133236,
@@ -18889,13 +19046,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10003999",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/2909400"
         }
       }
     },
     "134070": {
       "slug": "mafia-definitive-edition",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134070,
@@ -19015,13 +19173,14 @@
         "links": {
           "xboxProductId": "9NZC09NNR93L",
           "playstationUrl": "https://store.playstation.com/en-us/concept/235302",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1030840"
         }
       }
     },
     "134071": {
       "slug": "mafia-ii-definitive-edition",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134071,
@@ -19126,13 +19285,14 @@
         "links": {
           "xboxProductId": "9N000033SQDR",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234770",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1030830,50130"
         }
       }
     },
     "134073": {
       "slug": "mafia-iii-definitive-edition",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134073,
@@ -19235,13 +19395,14 @@
         "links": {
           "xboxProductId": "BVZLS7XZ68KF",
           "playstationUrl": "https://store.playstation.com/en-us/concept/208723",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/360430"
         }
       }
     },
     "134582": {
       "slug": "ratchet-and-clank-rift-apart",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134582,
@@ -19340,13 +19501,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000669",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1895880"
         }
       }
     },
     "134584": {
       "slug": "returnal",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134584,
@@ -19448,13 +19610,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10000176",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1649240"
         }
       }
     },
     "134588": {
       "slug": "kena-bridge-of-spirits",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134588,
@@ -19579,13 +19742,14 @@
         "links": {
           "xboxProductId": "9NDNM3HX77R0",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10001235",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/kena-bridge-of-spirits-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/kena-bridge-of-spirits-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/1954200"
         }
       }
     },
     "134612": {
       "slug": "pragmata",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 134612,
@@ -19694,13 +19858,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10002075",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/pragmata-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/pragmata-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/3357650"
         }
       }
     },
     "135243": {
       "slug": "it-takes-two",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 135243,
@@ -19830,13 +19995,14 @@
         "links": {
           "xboxProductId": "9NVQ4ZLJGMDV",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234689",
-          "nintendoUrl": "https://www.nintendo.com/store/products/it-takes-two-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/it-takes-two-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1426210"
         }
       }
     },
     "136604": {
       "slug": "control-ultimate-edition",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 136604,
@@ -19962,13 +20128,14 @@
         "links": {
           "xboxProductId": "9P2WJCRJBMRM",
           "playstationUrl": "https://store.playstation.com/en-us/concept/231819",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/870780"
         }
       }
     },
     "136625": {
       "slug": "hogwarts-legacy",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 136625,
@@ -20102,13 +20269,14 @@
         "links": {
           "xboxProductId": "9MT5NJ5W7B8Z",
           "playstationUrl": "https://store.playstation.com/en-us/concept/232447",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/hogwarts-legacy-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/hogwarts-legacy-switch/",
+          "steamUrl": "https://store.steampowered.com/app/990080"
         }
       }
     },
     "136993": {
       "slug": "gotham-knights",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 136993,
@@ -20219,13 +20387,14 @@
         "links": {
           "xboxProductId": "BT3611GR00CQ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/233383",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1496790"
         }
       }
     },
     "139090": {
       "slug": "inscryption",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 139090,
@@ -20353,13 +20522,14 @@
         "links": {
           "xboxProductId": "9P8NSTDMZ11P",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10004707",
-          "nintendoUrl": "https://www.nintendo.com/store/products/inscryption-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/inscryption-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1092790"
         }
       }
     },
     "141114": {
       "slug": "007-first-light",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 141114,
@@ -20467,13 +20637,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10006560",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/3768760"
         }
       }
     },
     "141503": {
       "slug": "forza-horizon-5",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 141503,
@@ -20580,13 +20751,14 @@
         "links": {
           "xboxProductId": "9NKX70BBCDRN",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10010647",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1551360"
         }
       }
     },
     "142415": {
       "slug": "indiana-jones-and-the-great-circle",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 142415,
@@ -20703,13 +20875,14 @@
         "links": {
           "xboxProductId": "9N8FQ28Z6QX3",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10012238",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/2677660"
         }
       }
     },
     "143613": {
       "slug": "splatoon-3",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 143613,
@@ -20797,13 +20970,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/splatoon-3-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/splatoon-3-switch/",
+          "steamUrl": null
         }
       }
     },
     "148241": {
       "slug": "lies-of-p",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 148241,
@@ -20916,13 +21090,14 @@
         "links": {
           "xboxProductId": "9PCM4CMTPPGC",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10006052",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1627720"
         }
       }
     },
     "149657": {
       "slug": "blue-prince",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 149657,
@@ -21032,13 +21207,14 @@
         "links": {
           "xboxProductId": "9PFRTPRQ569Q",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10012002",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/blue-prince-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/blue-prince-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/1569580"
         }
       }
     },
     "152249": {
       "slug": "marvels-guardians-of-the-galaxy",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 152249,
@@ -21155,13 +21331,14 @@
         "links": {
           "xboxProductId": "9P2GTDK0THPQ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/234665",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1088850"
         }
       }
     },
     "152271": {
       "slug": "citizen-sleeper",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 152271,
@@ -21291,13 +21468,14 @@
         "links": {
           "xboxProductId": "9N6F97F9WGL0",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10007275",
-          "nintendoUrl": "https://www.nintendo.com/store/products/citizen-sleeper-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/citizen-sleeper-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1578650"
         }
       }
     },
     "168670": {
       "slug": "uncharted-legacy-of-thieves-collection",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 168670,
@@ -21392,13 +21570,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/205354",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1659420"
         }
       }
     },
     "171233": {
       "slug": "deltarune",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 171233,
@@ -21510,13 +21689,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/233495",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/deltarune-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/deltarune-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/1671210"
         }
       }
     },
     "185246": {
       "slug": "alan-wake-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 185246,
@@ -21622,13 +21802,14 @@
         "links": {
           "xboxProductId": "9PNZH065X7PV",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10002065",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": null
         }
       }
     },
     "185252": {
       "slug": "warhammer-40000-space-marine-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 185252,
@@ -21741,13 +21922,14 @@
         "links": {
           "xboxProductId": "9N9PCZWHVP2L",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10003330",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2183900"
         }
       }
     },
     "186725": {
       "slug": "vampire-survivors",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 186725,
@@ -21881,13 +22063,14 @@
         "links": {
           "xboxProductId": "9PPLMHCJ91BW",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10010458",
-          "nintendoUrl": "https://www.nintendo.com/store/products/vampire-survivors-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/vampire-survivors-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1794680"
         }
       }
     },
     "191411": {
       "slug": "xenoblade-chronicles-3",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 191411,
@@ -21971,13 +22154,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-switch/",
+          "steamUrl": null
         }
       }
     },
     "191930": {
       "slug": "pokemon-violet",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 191930,
@@ -22064,13 +22248,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/pokemon-violet-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/pokemon-violet-switch/",
+          "steamUrl": null
         }
       }
     },
     "191931": {
       "slug": "pokemon-scarlet",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 191931,
@@ -22163,13 +22348,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/store/products/pokemon-scarlet-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/pokemon-scarlet-switch/",
+          "steamUrl": null
         }
       }
     },
     "201156": {
       "slug": "star-wars-jedi-survivor",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 201156,
@@ -22285,13 +22471,14 @@
         "links": {
           "xboxProductId": "9PGC82V0DXFS",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005114",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1774580"
         }
       }
     },
     "203722": {
       "slug": "dave-the-diver",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 203722,
@@ -22417,13 +22604,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10009413",
-          "nintendoUrl": "https://www.nintendo.com/store/products/dave-the-diver-switch/"
+          "nintendoUrl": "https://www.nintendo.com/store/products/dave-the-diver-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1868140"
         }
       }
     },
     "228525": {
       "slug": "hades-ii",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 228525,
@@ -22543,13 +22731,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10018449",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/hades-ii-nintendo-switch-2-edition-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/hades-ii-nintendo-switch-2-edition-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/1145350"
         }
       }
     },
     "251833": {
       "slug": "balatro",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 251833,
@@ -22671,13 +22860,14 @@
         "links": {
           "xboxProductId": "9PK087LNGJC5",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10010334",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/balatro-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/balatro-switch/",
+          "steamUrl": "https://store.steampowered.com/app/2379780"
         }
       }
     },
     "252826": {
       "slug": "south-of-midnight",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 252826,
@@ -22780,13 +22970,14 @@
         "links": {
           "xboxProductId": "9NJCVGS6T30K",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10014874",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1934570"
         }
       }
     },
     "252827": {
       "slug": "star-wars-outlaws",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 252827,
@@ -22899,13 +23090,14 @@
         "links": {
           "xboxProductId": "9NLHVWSFB0FC",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005323",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/star-wars-outlaws-gold-edition-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/star-wars-outlaws-gold-edition-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/2842040"
         }
       }
     },
     "262529": {
       "slug": "little-nightmares-iii--1",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 262529,
@@ -23039,13 +23231,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10003713",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/little-nightmares-iii-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/little-nightmares-iii-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1392860"
         }
       }
     },
     "275404": {
       "slug": "the-exit-8",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 275404,
@@ -23162,13 +23355,14 @@
         "links": {
           "xboxProductId": "9MWLQQK52CPP",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10011105",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/the-exit-8-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/the-exit-8-switch/",
+          "steamUrl": "https://store.steampowered.com/app/2653790"
         }
       }
     },
     "279634": {
       "slug": "dragon-ball-sparking-zero",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 279634,
@@ -23281,13 +23475,14 @@
         "links": {
           "xboxProductId": "9N7XMJJHNFC3",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10007902",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-switch/",
+          "steamUrl": "https://store.steampowered.com/app/1790600"
         }
       }
     },
     "279661": {
       "slug": "monster-hunter-wilds",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 279661,
@@ -23395,13 +23590,14 @@
         "links": {
           "xboxProductId": "9NMT6XFN0LVD",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005176",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2246340"
         }
       }
     },
     "288327": {
       "slug": "pokemon-legends-z-a",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 288327,
@@ -23485,13 +23681,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/",
+          "steamUrl": null
         }
       }
     },
     "294041": {
       "slug": "marvel-rivals",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 294041,
@@ -23610,13 +23807,14 @@
         "links": {
           "xboxProductId": "9N8PMW7QMD3D",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10010451",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/2767030"
         }
       }
     },
     "294661": {
       "slug": "content-warning",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 294661,
@@ -23735,13 +23933,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10014968",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/content-warning-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/content-warning-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/2881650"
         }
       }
     },
     "300976": {
       "slug": "assassins-creed-shadows",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 300976,
@@ -23856,13 +24055,14 @@
         "links": {
           "xboxProductId": "9P42LWGMC7K4",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10009909",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/3159330"
         }
       }
     },
     "305152": {
       "slug": "clair-obscur-expedition-33",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 305152,
@@ -23973,13 +24173,14 @@
         "links": {
           "xboxProductId": "9PPT8K6GQHRZ",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10008503",
-          "nintendoUrl": null
+          "nintendoUrl": null,
+          "steamUrl": "https://store.steampowered.com/app/1903340"
         }
       }
     },
     "306149": {
       "slug": "the-legend-of-zelda-echoes-of-wisdom",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 306149,
@@ -24062,13 +24263,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/",
+          "steamUrl": null
         }
       }
     },
     "314265": {
       "slug": "reanimal",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 314265,
@@ -24183,13 +24385,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10010999",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/reanimal-switch-2/?srsltid=AfmBOoo_8z37nRrael8TC454YWxxtl3oYlPSFnjT-t2Sc1U_PcIGLuBt"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/reanimal-switch-2/?srsltid=AfmBOoo_8z37nRrael8TC454YWxxtl3oYlPSFnjT-t2Sc1U_PcIGLuBt",
+          "steamUrl": "https://store.steampowered.com/app/2129530"
         }
       }
     },
     "325594": {
       "slug": "split-fiction",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 325594,
@@ -24311,13 +24514,14 @@
         "links": {
           "xboxProductId": "9N1WXXD1RL8D",
           "playstationUrl": "https://store.playstation.com/en-us/concept/10005449",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/split-fiction-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/split-fiction-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/2001120"
         }
       }
     },
     "325609": {
       "slug": "dispatch--3",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 325609,
@@ -24430,13 +24634,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10013259",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/dispatch-nintendo-switch-2-edition-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/dispatch-nintendo-switch-2-edition-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/2592160"
         }
       }
     },
     "338067": {
       "slug": "mario-kart-world",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 338067,
@@ -24526,13 +24731,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-2-mario-kart-world-121472/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-2-mario-kart-world-121472/",
+          "steamUrl": null
         }
       }
     },
     "338106": {
       "slug": "donkey-kong-bananza",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 338106,
@@ -24618,13 +24824,14 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": null,
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-2-donkey-kong-bananza-121485/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/nintendo-switch-2-donkey-kong-bananza-121485/",
+          "steamUrl": null
         }
       }
     },
     "347668": {
       "slug": "resident-evil-requiem",
-      "fetchedAt": "2026-08-25T17:35:36.455Z",
+      "fetchedAt": "2026-08-25T18:04:42.881Z",
       "data": {
         "index": {
           "igdbId": 347668,
@@ -24742,7 +24949,8 @@
         "links": {
           "xboxProductId": null,
           "playstationUrl": "https://store.playstation.com/en-us/concept/10015533",
-          "nintendoUrl": "https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/"
+          "nintendoUrl": "https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/",
+          "steamUrl": "https://store.steampowered.com/app/3764200"
         }
       }
     }

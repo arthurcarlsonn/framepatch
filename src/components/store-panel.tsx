@@ -26,7 +26,7 @@ function rowsFor(game: FullGame): Row[] {
       label: "PlayStation Store",
       url: game.playstation.url,
       price: game.playstation.price,
-      was: null,
+      was: game.playstation.discounted ? game.playstation.regularPrice : null,
       sizeGb: game.playstation.sizeGb,
     });
   }
@@ -49,7 +49,17 @@ function rowsFor(game: FullGame): Row[] {
     });
   }
 
-  // IGDB's link list fills in the PC stores, which have no catalogue adapter.
+  if (game.steam) {
+    rows.push({
+      label: "Steam",
+      url: game.steam.url,
+      price: game.steam.price,
+      was: game.steam.discounted ? game.steam.regularPrice : null,
+      sizeGb: null,
+    });
+  }
+
+  // IGDB's link list fills in the remaining PC stores, which have no catalogue adapter.
   const seen = new Set(rows.map((r) => r.label));
   for (const store of game.stores) {
     if (!seen.has(store.label)) {
@@ -62,7 +72,8 @@ function rowsFor(game: FullGame): Row[] {
 export function StorePanel({ game }: { game: FullGame }) {
   const rows = rowsFor(game);
   const pass = game.gamePassTiers;
-  if (rows.length === 0 && !pass) return null;
+  const plus = game.playstation?.plusIncluded ?? false;
+  if (rows.length === 0 && !pass && !plus) return null;
 
   return (
     <section className="surface p-5">
@@ -70,17 +81,21 @@ export function StorePanel({ game }: { game: FullGame }) {
         Where to buy
       </h2>
 
-      {pass ? (
-        <div className="border-fps-good/30 bg-fps-good-soft mb-4 flex items-center gap-3 rounded-lg border p-3">
-          <Badge className="bg-fps-good/15 text-fps-good ring-fps-good/25 rounded-md ring-1 ring-inset">
-            Game Pass
-          </Badge>
-          <p className="text-sm">
-            Included with Game Pass on{" "}
-            {[pass.console && "console", pass.pc && "PC", pass.eaPlay && "EA Play"]
-              .filter(Boolean)
-              .join(" and ")}
-          </p>
+      {pass || plus ? (
+        <div className="mb-4 space-y-2">
+          {pass ? (
+            <SubscriptionRow label="Game Pass">
+              Included with Game Pass on{" "}
+              {[pass.console && "console", pass.pc && "PC", pass.eaPlay && "EA Play"]
+                .filter(Boolean)
+                .join(" and ")}
+            </SubscriptionRow>
+          ) : null}
+          {plus ? (
+            <SubscriptionRow label="PS Plus">
+              Included with the PlayStation Plus Game Catalog
+            </SubscriptionRow>
+          ) : null}
         </div>
       ) : null}
 
@@ -125,6 +140,17 @@ export function StorePanel({ game }: { game: FullGame }) {
         US prices from each platform&apos;s own catalogue, cached at the last sync.
       </p>
     </section>
+  );
+}
+
+function SubscriptionRow({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div className="border-fps-good/30 bg-fps-good-soft flex items-center gap-3 rounded-lg border p-3">
+      <Badge className="bg-fps-good/15 text-fps-good ring-fps-good/25 shrink-0 rounded-md ring-1 ring-inset">
+        {label}
+      </Badge>
+      <p className="text-sm">{children}</p>
+    </div>
   );
 }
 

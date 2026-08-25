@@ -75,7 +75,21 @@ export type NintendoListing = StoreListing & {
   editions: string[];
 };
 
-export type PlaystationListing = StoreListing & { conceptId: string | null };
+export type PlaystationListing = StoreListing & {
+  conceptId: string | null;
+  regularPrice: number | null;
+  discounted: boolean;
+  /** Included in the PS Plus Game Catalog — Sony's equivalent of Game Pass. */
+  plusIncluded: boolean;
+  editions: string[];
+};
+
+export type SteamListing = StoreListing & {
+  appId: string;
+  regularPrice: number | null;
+  discounted: boolean;
+  discountPercent: number;
+};
 
 export type Playtime = {
   id: number | null;
@@ -116,6 +130,7 @@ export type GameDetailData = IgdbDetail & {
   xbox: XboxListing | null;
   nintendo: NintendoListing | null;
   playstation: PlaystationListing | null;
+  steam: SteamListing | null;
   gamePassTiers: { console: boolean; pc: boolean; eaPlay: boolean } | null;
   playtime: Playtime | null;
 };

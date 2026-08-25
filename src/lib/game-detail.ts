@@ -20,6 +20,7 @@ const EMPTY: GameDetailData = {
   xbox: null,
   nintendo: null,
   playstation: null,
+  steam: null,
   gamePassTiers: null,
   playtime: null,
 };

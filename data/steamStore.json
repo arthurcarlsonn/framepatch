@@ -1,0 +1,2192 @@
+{
+  "source": "steamStore",
+  "syncedAt": "2026-08-25T18:05:10.712Z",
+  "entries": {
+    "71": {
+      "slug": "portal",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "400",
+        "url": "https://store.steampowered.com/app/400",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "72": {
+      "slug": "portal-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "620",
+        "url": "https://store.steampowered.com/app/620",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "111": {
+      "slug": "amnesia-the-dark-descent",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "57300",
+        "url": "https://store.steampowered.com/app/57300",
+        "price": 1.99,
+        "regularPrice": 19.99,
+        "discounted": true,
+        "discountPercent": 90,
+        "currency": "USD"
+      }
+    },
+    "116": {
+      "slug": "star-wars-knights-of-the-old-republic",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "32370",
+        "url": "https://store.steampowered.com/app/32370",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "118": {
+      "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "208580",
+        "url": "https://store.steampowered.com/app/208580",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "359": {
+      "slug": "final-fantasy-xv",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "637650",
+        "url": "https://store.steampowered.com/app/637650",
+        "price": 34.99,
+        "regularPrice": 34.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "386": {
+      "slug": "final-fantasy-xiv-online--1",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "39210",
+        "url": "https://store.steampowered.com/app/39210",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "434": {
+      "slug": "red-dead-redemption",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2668510",
+        "url": "https://store.steampowered.com/app/2668510",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "498": {
+      "slug": "borderlands",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "8980",
+        "url": "https://store.steampowered.com/app/8980",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "500": {
+      "slug": "batman-arkham-asylum",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "35010",
+        "url": "https://store.steampowered.com/app/35010",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "501": {
+      "slug": "batman-arkham-city",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "506": {
+      "slug": "sonic-generations",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "530": {
+      "slug": "hitman-absolution",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "203140",
+        "url": "https://store.steampowered.com/app/203140",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "545": {
+      "slug": "call-of-duty-black-ops",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "42710",
+        "url": "https://store.steampowered.com/app/42710",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "873": {
+      "slug": "saints-row-the-third",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "55230",
+        "url": "https://store.steampowered.com/app/55230",
+        "price": 2.49,
+        "regularPrice": 9.99,
+        "discounted": true,
+        "discountPercent": 75,
+        "currency": "USD"
+      }
+    },
+    "885": {
+      "slug": "super-meat-boy",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "40800",
+        "url": "https://store.steampowered.com/app/40800",
+        "price": 2.39,
+        "regularPrice": 14.99,
+        "discounted": true,
+        "discountPercent": 84,
+        "currency": "USD"
+      }
+    },
+    "1011": {
+      "slug": "borderlands-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "49520",
+        "url": "https://store.steampowered.com/app/49520",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1020": {
+      "slug": "grand-theft-auto-v",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "1081": {
+      "slug": "the-elder-scrolls-online",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "306130",
+        "url": "https://store.steampowered.com/app/306130",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1122": {
+      "slug": "call-of-duty-black-ops-ii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "202970",
+        "url": "https://store.steampowered.com/app/202970",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1262": {
+      "slug": "south-park-the-stick-of-truth",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "213670",
+        "url": "https://store.steampowered.com/app/213670",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1331": {
+      "slug": "limbo",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "48000",
+        "url": "https://store.steampowered.com/app/48000",
+        "price": 12.49,
+        "regularPrice": 12.49,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1334": {
+      "slug": "brothers-a-tale-of-two-sons",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "225080",
+        "url": "https://store.steampowered.com/app/225080",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1384": {
+      "slug": "hotline-miami",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "219150",
+        "url": "https://store.steampowered.com/app/219150",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1871": {
+      "slug": "the-walking-dead",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "207610",
+        "url": "https://store.steampowered.com/app/207610",
+        "price": 1.49,
+        "regularPrice": 14.99,
+        "discounted": true,
+        "discountPercent": 90,
+        "currency": "USD"
+      }
+    },
+    "1877": {
+      "slug": "cyberpunk-2077",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1091500",
+        "url": "https://store.steampowered.com/app/1091500",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1879": {
+      "slug": "terraria",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "105600",
+        "url": "https://store.steampowered.com/app/105600",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1906": {
+      "slug": "gone-home",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "232430",
+        "url": "https://store.steampowered.com/app/232430",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1910": {
+      "slug": "outlast",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "238320",
+        "url": "https://store.steampowered.com/app/238320",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1911": {
+      "slug": "path-of-exile",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "1942": {
+      "slug": "the-witcher-3-wild-hunt",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "292030",
+        "url": "https://store.steampowered.com/app/292030",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1970": {
+      "slug": "assassins-creed-iv-black-flag",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "242050",
+        "url": "https://store.steampowered.com/app/242050",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "1983": {
+      "slug": "bastion",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "107100",
+        "url": "https://store.steampowered.com/app/107100",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "2114": {
+      "slug": "tom-clancy-s-the-division",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "365590",
+        "url": "https://store.steampowered.com/app/365590",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "2117": {
+      "slug": "dayz",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "221100",
+        "url": "https://store.steampowered.com/app/221100",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "2126": {
+      "slug": "hotline-miami-2-wrong-number",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "274170",
+        "url": "https://store.steampowered.com/app/274170",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "2903": {
+      "slug": "warframe",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "2933": {
+      "slug": "kingdom-hearts-iii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2552450",
+        "url": "https://store.steampowered.com/app/2552450",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "3042": {
+      "slug": "dying-light",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "239140",
+        "url": "https://store.steampowered.com/app/239140",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "3070": {
+      "slug": "euro-truck-simulator-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "227300",
+        "url": "https://store.steampowered.com/app/227300",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "3097": {
+      "slug": "the-walking-dead-season-two",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "261030",
+        "url": "https://store.steampowered.com/app/261030",
+        "price": 3.74,
+        "regularPrice": 14.99,
+        "discounted": true,
+        "discountPercent": 75,
+        "currency": "USD"
+      }
+    },
+    "3225": {
+      "slug": "no-man-s-sky",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "275850",
+        "url": "https://store.steampowered.com/app/275850",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "4754": {
+      "slug": "alien-isolation",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "214490",
+        "url": "https://store.steampowered.com/app/214490",
+        "price": 11.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "discountPercent": 70,
+        "currency": "USD"
+      }
+    },
+    "4843": {
+      "slug": "kingdom-come-deliverance",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "379430",
+        "url": "https://store.steampowered.com/app/379430",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "5025": {
+      "slug": "to-the-moon",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "206440",
+        "url": "https://store.steampowered.com/app/206440",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "5503": {
+      "slug": "batman-arkham-knight",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "208650",
+        "url": "https://store.steampowered.com/app/208650",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "5606": {
+      "slug": "assassins-creed-unity",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "289650",
+        "url": "https://store.steampowered.com/app/289650",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "6707": {
+      "slug": "tales-from-the-borderlands",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "330830",
+        "url": "https://store.steampowered.com/app/330830",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "6801": {
+      "slug": "far-cry-4",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "298110",
+        "url": "https://store.steampowered.com/app/298110",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "7046": {
+      "slug": "factorio",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "427520",
+        "url": "https://store.steampowered.com/app/427520",
+        "price": 35,
+        "regularPrice": 35,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "7205": {
+      "slug": "superhot",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "322500",
+        "url": "https://store.steampowered.com/app/322500",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "7342": {
+      "slug": "inside",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "304430",
+        "url": "https://store.steampowered.com/app/304430",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "7344": {
+      "slug": "ori-and-the-blind-forest",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "7360": {
+      "slug": "rainbow-six-siege",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "7444": {
+      "slug": "shovel-knight",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "589500",
+        "url": "https://store.steampowered.com/app/589500",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "7570": {
+      "slug": "assassins-creed-rogue",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "311560",
+        "url": "https://store.steampowered.com/app/311560",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "7603": {
+      "slug": "hellblade-senuas-sacrifice",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "414340",
+        "url": "https://store.steampowered.com/app/414340",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "8263": {
+      "slug": "assassins-creed-syndicate",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "368500",
+        "url": "https://store.steampowered.com/app/368500",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "9061": {
+      "slug": "cuphead",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "268910",
+        "url": "https://store.steampowered.com/app/268910",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "9174": {
+      "slug": "little-nightmares",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "424840",
+        "url": "https://store.steampowered.com/app/424840",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "9254": {
+      "slug": "subnautica",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "264710",
+        "url": "https://store.steampowered.com/app/264710",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "9630": {
+      "slug": "fallout-4",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "377160",
+        "url": "https://store.steampowered.com/app/377160",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "9727": {
+      "slug": "soma",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "282140",
+        "url": "https://store.steampowered.com/app/282140",
+        "price": 5.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 80,
+        "currency": "USD"
+      }
+    },
+    "9730": {
+      "slug": "firewatch",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "383870",
+        "url": "https://store.steampowered.com/app/383870",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "11118": {
+      "slug": "dishonored-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "403640",
+        "url": "https://store.steampowered.com/app/403640",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "11133": {
+      "slug": "dark-souls-iii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "374320",
+        "url": "https://store.steampowered.com/app/374320",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "11198": {
+      "slug": "rocket-league",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "11233": {
+      "slug": "what-remains-of-edith-finch",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "501300",
+        "url": "https://store.steampowered.com/app/501300",
+        "price": 4.99,
+        "regularPrice": 19.99,
+        "discounted": true,
+        "discountPercent": 75,
+        "currency": "USD"
+      }
+    },
+    "11737": {
+      "slug": "outer-wilds",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "753640",
+        "url": "https://store.steampowered.com/app/753640",
+        "price": 14.99,
+        "regularPrice": 24.99,
+        "discounted": true,
+        "discountPercent": 40,
+        "currency": "USD"
+      }
+    },
+    "12517": {
+      "slug": "undertale",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "391540",
+        "url": "https://store.steampowered.com/app/391540",
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "13182": {
+      "slug": "far-cry-primal",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "371660",
+        "url": "https://store.steampowered.com/app/371660",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "14593": {
+      "slug": "hollow-knight",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "367520",
+        "url": "https://store.steampowered.com/app/367520",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "16992": {
+      "slug": "human-fall-flat",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "477160",
+        "url": "https://store.steampowered.com/app/477160",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "17000": {
+      "slug": "stardew-valley",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "413150",
+        "url": "https://store.steampowered.com/app/413150",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "18866": {
+      "slug": "dead-by-daylight",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "381210",
+        "url": "https://store.steampowered.com/app/381210",
+        "price": 7.99,
+        "regularPrice": 19.99,
+        "discounted": true,
+        "discountPercent": 60,
+        "currency": "USD"
+      }
+    },
+    "19085": {
+      "slug": "shadow-tactics-blades-of-the-shogun",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "418240",
+        "url": "https://store.steampowered.com/app/418240",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "19130": {
+      "slug": "sid-meiers-civilization-vi",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "289070",
+        "url": "https://store.steampowered.com/app/289070",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "19164": {
+      "slug": "borderlands-3",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "397540",
+        "url": "https://store.steampowered.com/app/397540",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "19560": {
+      "slug": "god-of-war--1",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1593500",
+        "url": "https://store.steampowered.com/app/1593500",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "19561": {
+      "slug": "days-gone",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1259420",
+        "url": "https://store.steampowered.com/app/1259420",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "19562": {
+      "slug": "resident-evil-7-biohazard",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "418370",
+        "url": "https://store.steampowered.com/app/418370",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "22917": {
+      "slug": "gris",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "683320",
+        "url": "https://store.steampowered.com/app/683320",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "23733": {
+      "slug": "tunic",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "553420",
+        "url": "https://store.steampowered.com/app/553420",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "25076": {
+      "slug": "red-dead-redemption-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1174180",
+        "url": "https://store.steampowered.com/app/1174180",
+        "price": 14.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "discountPercent": 75,
+        "currency": "USD"
+      }
+    },
+    "25657": {
+      "slug": "destiny-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "26226": {
+      "slug": "celeste",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "504230",
+        "url": "https://store.steampowered.com/app/504230",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "26602": {
+      "slug": "metaphor-refantazio",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2679460",
+        "url": "https://store.steampowered.com/app/2679460",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "26765": {
+      "slug": "octopath-traveler",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "921570",
+        "url": "https://store.steampowered.com/app/921570",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "26855": {
+      "slug": "dead-cells",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "588650",
+        "url": "https://store.steampowered.com/app/588650",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "27316": {
+      "slug": "a-plague-tale-innocence",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "752590",
+        "url": "https://store.steampowered.com/app/752590",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "27789": {
+      "slug": "pubg-battlegrounds",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "28540": {
+      "slug": "assassins-creed-origins",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "582160",
+        "url": "https://store.steampowered.com/app/582160",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "28552": {
+      "slug": "far-cry-5",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "552520",
+        "url": "https://store.steampowered.com/app/552520",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "36616": {
+      "slug": "they-are-billions",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "644930",
+        "url": "https://store.steampowered.com/app/644930",
+        "price": 26.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 10,
+        "currency": "USD"
+      }
+    },
+    "36952": {
+      "slug": "wolfenstein-ii-the-new-colossus",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "612880",
+        "url": "https://store.steampowered.com/app/612880",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "37001": {
+      "slug": "ori-and-the-will-of-the-wisps",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1057090",
+        "url": "https://store.steampowered.com/app/1057090",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "37016": {
+      "slug": "metro-exodus",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1449560",
+        "url": "https://store.steampowered.com/app/1449560",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "37777": {
+      "slug": "shadow-of-the-tomb-raider",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "750920",
+        "url": "https://store.steampowered.com/app/750920",
+        "price": 5.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "discountPercent": 85,
+        "currency": "USD"
+      }
+    },
+    "40477": {
+      "slug": "slay-the-spire",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "646570",
+        "url": "https://store.steampowered.com/app/646570",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "55163": {
+      "slug": "resident-evil-village",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1196590",
+        "url": "https://store.steampowered.com/app/1196590",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "74701": {
+      "slug": "star-wars-jedi-fallen-order",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1172380",
+        "url": "https://store.steampowered.com/app/1172380",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "76253": {
+      "slug": "devil-may-cry-5",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "601150",
+        "url": "https://store.steampowered.com/app/601150",
+        "price": 7.49,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 75,
+        "currency": "USD"
+      }
+    },
+    "76882": {
+      "slug": "sekiro-shadows-die-twice",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "814380",
+        "url": "https://store.steampowered.com/app/814380",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "82090": {
+      "slug": "forza-horizon-4",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "82117": {
+      "slug": "two-point-hospital",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "535930",
+        "url": "https://store.steampowered.com/app/535930",
+        "price": 7.49,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 75,
+        "currency": "USD"
+      }
+    },
+    "96437": {
+      "slug": "starfield",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1716740",
+        "url": "https://store.steampowered.com/app/1716740",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "103054": {
+      "slug": "assassins-creed-odyssey",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "379050",
+        "url": "https://store.steampowered.com/app/379050",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "103281": {
+      "slug": "halo-infinite",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1708091",
+        "url": "https://store.steampowered.com/app/1708091",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "103292": {
+      "slug": "gears-5",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1097840",
+        "url": "https://store.steampowered.com/app/1097840",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "103298": {
+      "slug": "doom-eternal",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "782330",
+        "url": "https://store.steampowered.com/app/782330",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "103329": {
+      "slug": "control",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "870780",
+        "url": "https://store.steampowered.com/app/870780",
+        "price": 3.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "discountPercent": 90,
+        "currency": "USD"
+      }
+    },
+    "103341": {
+      "slug": "overcooked-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "728880",
+        "url": "https://store.steampowered.com/app/728880",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "104967": {
+      "slug": "valheim",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "892970",
+        "url": "https://store.steampowered.com/app/892970",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "107215": {
+      "slug": "snowrunner",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1465360",
+        "url": "https://store.steampowered.com/app/1465360",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "110248": {
+      "slug": "stray",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1332010",
+        "url": "https://store.steampowered.com/app/1332010",
+        "price": 14.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 50,
+        "currency": "USD"
+      }
+    },
+    "111469": {
+      "slug": "among-us",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "945360",
+        "url": "https://store.steampowered.com/app/945360",
+        "price": 4.99,
+        "regularPrice": 4.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "112875": {
+      "slug": "god-of-war-ragnarok",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2322010",
+        "url": "https://store.steampowered.com/app/2322010",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "113107": {
+      "slug": "sayonara-wild-hearts",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1122720",
+        "url": "https://store.steampowered.com/app/1122720",
+        "price": 6.49,
+        "regularPrice": 12.99,
+        "discounted": true,
+        "discountPercent": 50,
+        "currency": "USD"
+      }
+    },
+    "113112": {
+      "slug": "hades--1",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1145360",
+        "url": "https://store.steampowered.com/app/1145360",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "113114": {
+      "slug": "the-outer-worlds",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "114795": {
+      "slug": "apex-legends",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "115060": {
+      "slug": "dragons-dogma-ii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2054970",
+        "url": "https://store.steampowered.com/app/2054970",
+        "price": 29.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "discountPercent": 25,
+        "currency": "USD"
+      }
+    },
+    "115289": {
+      "slug": "hollow-knight-silksong",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1030300",
+        "url": "https://store.steampowered.com/app/1030300",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "117170": {
+      "slug": "stellar-blade",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "3489700",
+        "url": "https://store.steampowered.com/app/3489700",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "119133": {
+      "slug": "elden-ring",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1245620",
+        "url": "https://store.steampowered.com/app/1245620",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "119171": {
+      "slug": "baldurs-gate-iii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1086940",
+        "url": "https://store.steampowered.com/app/1086940",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "119177": {
+      "slug": "call-of-duty-modern-warfare",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2000950",
+        "url": "https://store.steampowered.com/app/2000950",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "119313": {
+      "slug": "fall-guys",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "121760": {
+      "slug": "little-nightmares-ii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "860510",
+        "url": "https://store.steampowered.com/app/860510",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "125165": {
+      "slug": "diablo-iv",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2344520",
+        "url": "https://store.steampowered.com/app/2344520",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "125174": {
+      "slug": "overwatch--1",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "127044": {
+      "slug": "marvels-spider-man-2",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2651280",
+        "url": "https://store.steampowered.com/app/2651280",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "131785": {
+      "slug": "amnesia-rebirth",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "999220",
+        "url": "https://store.steampowered.com/app/999220",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "131890": {
+      "slug": "sea-of-stars",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1244090",
+        "url": "https://store.steampowered.com/app/1244090",
+        "price": 34.99,
+        "regularPrice": 34.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "132516": {
+      "slug": "phasmophobia",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "739630",
+        "url": "https://store.steampowered.com/app/739630",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "133004": {
+      "slug": "assassins-creed-valhalla",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2208920",
+        "url": "https://store.steampowered.com/app/2208920",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "133236": {
+      "slug": "final-fantasy-vii-rebirth",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2909400",
+        "url": "https://store.steampowered.com/app/2909400",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "134070": {
+      "slug": "mafia-definitive-edition",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1030840",
+        "url": "https://store.steampowered.com/app/1030840",
+        "price": 6.39,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "discountPercent": 84,
+        "currency": "USD"
+      }
+    },
+    "134071": {
+      "slug": "mafia-ii-definitive-edition",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1030830",
+        "url": "https://store.steampowered.com/app/1030830",
+        "price": 5.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 80,
+        "currency": "USD"
+      }
+    },
+    "134073": {
+      "slug": "mafia-iii-definitive-edition",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "360430",
+        "url": "https://store.steampowered.com/app/360430",
+        "price": 5.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 80,
+        "currency": "USD"
+      }
+    },
+    "134582": {
+      "slug": "ratchet-and-clank-rift-apart",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1895880",
+        "url": "https://store.steampowered.com/app/1895880",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "134584": {
+      "slug": "returnal",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1649240",
+        "url": "https://store.steampowered.com/app/1649240",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "134588": {
+      "slug": "kena-bridge-of-spirits",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1954200",
+        "url": "https://store.steampowered.com/app/1954200",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "134612": {
+      "slug": "pragmata",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "3357650",
+        "url": "https://store.steampowered.com/app/3357650",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "135243": {
+      "slug": "it-takes-two",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1426210",
+        "url": "https://store.steampowered.com/app/1426210",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "136604": {
+      "slug": "control-ultimate-edition",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "870780",
+        "url": "https://store.steampowered.com/app/870780",
+        "price": 3.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "discountPercent": 90,
+        "currency": "USD"
+      }
+    },
+    "136625": {
+      "slug": "hogwarts-legacy",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "990080",
+        "url": "https://store.steampowered.com/app/990080",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "136993": {
+      "slug": "gotham-knights",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1496790",
+        "url": "https://store.steampowered.com/app/1496790",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "139090": {
+      "slug": "inscryption",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1092790",
+        "url": "https://store.steampowered.com/app/1092790",
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "141114": {
+      "slug": "007-first-light",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "3768760",
+        "url": "https://store.steampowered.com/app/3768760",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "141503": {
+      "slug": "forza-horizon-5",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1551360",
+        "url": "https://store.steampowered.com/app/1551360",
+        "price": 23.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "discountPercent": 60,
+        "currency": "USD"
+      }
+    },
+    "142415": {
+      "slug": "indiana-jones-and-the-great-circle",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2677660",
+        "url": "https://store.steampowered.com/app/2677660",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "148241": {
+      "slug": "lies-of-p",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1627720",
+        "url": "https://store.steampowered.com/app/1627720",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "149657": {
+      "slug": "blue-prince",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1569580",
+        "url": "https://store.steampowered.com/app/1569580",
+        "price": 17.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "discountPercent": 40,
+        "currency": "USD"
+      }
+    },
+    "152249": {
+      "slug": "marvels-guardians-of-the-galaxy",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1088850",
+        "url": "https://store.steampowered.com/app/1088850",
+        "price": 8.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "discountPercent": 85,
+        "currency": "USD"
+      }
+    },
+    "152271": {
+      "slug": "citizen-sleeper",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1578650",
+        "url": "https://store.steampowered.com/app/1578650",
+        "price": 5.99,
+        "regularPrice": 19.99,
+        "discounted": true,
+        "discountPercent": 70,
+        "currency": "USD"
+      }
+    },
+    "168670": {
+      "slug": "uncharted-legacy-of-thieves-collection",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1659420",
+        "url": "https://store.steampowered.com/app/1659420",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "171233": {
+      "slug": "deltarune",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1671210",
+        "url": "https://store.steampowered.com/app/1671210",
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "185252": {
+      "slug": "warhammer-40000-space-marine-ii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2183900",
+        "url": "https://store.steampowered.com/app/2183900",
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "186725": {
+      "slug": "vampire-survivors",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1794680",
+        "url": "https://store.steampowered.com/app/1794680",
+        "price": 4.99,
+        "regularPrice": 4.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "201156": {
+      "slug": "star-wars-jedi-survivor",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1774580",
+        "url": "https://store.steampowered.com/app/1774580",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "203722": {
+      "slug": "dave-the-diver",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1868140",
+        "url": "https://store.steampowered.com/app/1868140",
+        "price": 9.99,
+        "regularPrice": 19.99,
+        "discounted": true,
+        "discountPercent": 50,
+        "currency": "USD"
+      }
+    },
+    "228525": {
+      "slug": "hades-ii",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1145350",
+        "url": "https://store.steampowered.com/app/1145350",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "251833": {
+      "slug": "balatro",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2379780",
+        "url": "https://store.steampowered.com/app/2379780",
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "252826": {
+      "slug": "south-of-midnight",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1934570",
+        "url": "https://store.steampowered.com/app/1934570",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "252827": {
+      "slug": "star-wars-outlaws",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2842040",
+        "url": "https://store.steampowered.com/app/2842040",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "262529": {
+      "slug": "little-nightmares-iii--1",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1392860",
+        "url": "https://store.steampowered.com/app/1392860",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "275404": {
+      "slug": "the-exit-8",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2653790",
+        "url": "https://store.steampowered.com/app/2653790",
+        "price": 3.99,
+        "regularPrice": 3.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "279634": {
+      "slug": "dragon-ball-sparking-zero",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1790600",
+        "url": "https://store.steampowered.com/app/1790600",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "279661": {
+      "slug": "monster-hunter-wilds",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2246340",
+        "url": "https://store.steampowered.com/app/2246340",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "294041": {
+      "slug": "marvel-rivals",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": null
+    },
+    "294661": {
+      "slug": "content-warning",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2881650",
+        "url": "https://store.steampowered.com/app/2881650",
+        "price": 4.95,
+        "regularPrice": 7.99,
+        "discounted": true,
+        "discountPercent": 38,
+        "currency": "USD"
+      }
+    },
+    "300976": {
+      "slug": "assassins-creed-shadows",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "3159330",
+        "url": "https://store.steampowered.com/app/3159330",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "305152": {
+      "slug": "clair-obscur-expedition-33",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "1903340",
+        "url": "https://store.steampowered.com/app/1903340",
+        "price": 47.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "discountPercent": 20,
+        "currency": "USD"
+      }
+    },
+    "314265": {
+      "slug": "reanimal",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2129530",
+        "url": "https://store.steampowered.com/app/2129530",
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "325594": {
+      "slug": "split-fiction",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2001120",
+        "url": "https://store.steampowered.com/app/2001120",
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "325609": {
+      "slug": "dispatch--3",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "2592160",
+        "url": "https://store.steampowered.com/app/2592160",
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    },
+    "347668": {
+      "slug": "resident-evil-requiem",
+      "fetchedAt": "2026-08-25T18:05:10.700Z",
+      "data": {
+        "appId": "3764200",
+        "url": "https://store.steampowered.com/app/3764200",
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "discountPercent": 0,
+        "currency": "USD"
+      }
+    }
+  }
+}
