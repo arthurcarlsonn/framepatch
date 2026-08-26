@@ -1,0 +1,108 @@
+name: sync
+
+# One workflow, not two. Both `sync` and `enrich` end by regenerating
+# src/lib/*.generated.ts and pushing, so running them as separate schedules
+# races on the push and silently drops a run's work.
+on:
+  schedule:
+    # Daily, off-peak. Catalogue refresh + patch detection + a capped verify pass.
+    - cron: "0 7 * * *"
+    # Sunday, larger budget, to drain the never-verified backlog.
+    - cron: "0 5 * * 0"
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "Firecrawl credit ceiling for this run"
+        default: "500"
+      max:
+        description: "Titles to consider"
+        default: "25"
+      force:
+        description: "Re-verify even fresh titles"
+        type: boolean
+        default: false
+
+# A slow run must never overlap the next day's — the second would checkout
+# a tree the first is about to push over.
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+      TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+      CRAWLORA_API_KEY: ${{ secrets.CRAWLORA_API_KEY }}
+      FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # Sunday drains backlog; every other day stays cheap. Manual runs use their inputs.
+      - name: Size the run
+        id: plan
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "budget=${{ inputs.budget }}" >> "$GITHUB_OUTPUT"
+            echo "max=${{ inputs.max }}" >> "$GITHUB_OUTPUT"
+            echo "force=${{ inputs.force && '--force' || '' }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(date -u +%u)" = "7" ]; then
+            echo "budget=2000" >> "$GITHUB_OUTPUT"
+            echo "max=100"     >> "$GITHUB_OUTPUT"
+            echo "force="      >> "$GITHUB_OUTPUT"
+          else
+            echo "budget=500" >> "$GITHUB_OUTPUT"
+            echo "max=25"     >> "$GITHUB_OUTPUT"
+            echo "force="     >> "$GITHUB_OUTPUT"
+          fi
+
+      # Free. Each source is independent, so a broken adapter leaves its cache in place.
+      # Marked continue-on-error so a storefront outage cannot block patch detection below;
+      # the step still shows as failed in the run summary.
+      - name: Catalogue and prices
+        continue-on-error: true
+        run: pnpm sync
+
+      # Free — no search, no extraction. psPatches carries maxAgeDays 1, so this is the
+      # daily heartbeat that decides which titles are worth spending on.
+      - name: Patch detection
+        run: pnpm enrich --patches-only
+
+      # The only metered step. --budget is the hard ceiling; --skip-patches avoids
+      # re-running the stage above. Titles still fresh are skipped for free inside
+      # syncEntries, so cost tracks what actually changed.
+      - name: Verify frame rates
+        continue-on-error: true
+        run: |
+          pnpm enrich \
+            --skip-patches \
+            --max=${{ steps.plan.outputs.max }} \
+            --budget=${{ steps.plan.outputs.budget }} \
+            ${{ steps.plan.outputs.force }}
+
+      - name: Commit
+        run: |
+          git config user.name  "framepatch-sync"
+          git config user.email "actions@github.com"
+          git add data src/lib
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "chore: sync $(date -u +%Y-%m-%d)"
+          git push
