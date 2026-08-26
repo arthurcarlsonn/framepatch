@@ -42,7 +42,7 @@ export function SiteFooter() {
                 <ZapIcon className="size-3.5 fill-white text-white" />
               </span>
               <span className="font-heading font-bold tracking-[-0.02em]">
-                Frame<span className="text-primary">Check</span>
+                Frame<span className="text-primary">Patch</span>
               </span>
             </div>
             <p className="text-muted-foreground mt-3 text-sm leading-relaxed">
@@ -73,7 +73,7 @@ export function SiteFooter() {
         </div>
 
         <div className="border-border/70 text-muted-foreground mt-10 flex flex-col gap-2 border-t pt-6 text-xs sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} FrameCheck. Not affiliated with Sony, Microsoft or Nintendo.</p>
+          <p>© {new Date().getFullYear()} FramePatch. Not affiliated with Sony, Microsoft or Nintendo.</p>
           <p>
             Game data from{" "}
             <a

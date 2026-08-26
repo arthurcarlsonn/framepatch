@@ -11,6 +11,9 @@
  *
  * Each source is independent: one that fails or changes shape leaves its previous cached
  * values in place and the remaining sources still run.
+ *
+ * Frame rates are not synced here — they are verified by `pnpm enrich`, which is metered and
+ * runs on its own cadence. See scripts/enrich.mjs.
  */
 import { fetchCatalogue } from "./adapters/igdb.mjs";
 import { fetchGamePassCatalog } from "./adapters/game-pass.mjs";
@@ -22,11 +25,15 @@ import {
   refreshPlaystationPrice,
 } from "./adapters/playstation-store.mjs";
 import { appIdFrom, fetchSteamPrices } from "./adapters/steam-store.mjs";
+import { CrawloraAuthError, creditsLeft, fetchPlaystation } from "./adapters/crawlora.mjs";
 import { fetchXboxProducts } from "./adapters/xbox-store.mjs";
 import { readFile } from "node:fs/promises";
 
 import { loadData, readSource, syncEntries, writeSource } from "./lib/store.mjs";
 import { generate } from "./generate.mjs";
+import { loadEnv } from "./lib/env.mjs";
+
+await loadEnv();
 
 const args = process.argv.slice(2);
 const flag = (name) => args.find((a) => a.startsWith(`--${name}=`))?.split("=")[1];
@@ -189,6 +196,43 @@ if (wanted("playstationStore")) {
     { force, maxAgeDays: 30 },
   );
   report("playstationStore", stats);
+}
+
+// ── crawlora: the PS4/PS5 split, editions, and a price the hashes cannot break ──
+
+if (wanted("crawlora")) {
+  console.log("crawlora — PlayStation platforms and editions…");
+  // The PlayStation table is already keyed by IGDB id, so the ids carry straight over.
+  const psTable = await readSource("playstationStore");
+  const targets = limit(
+    Object.entries(psTable.entries)
+      .filter(([, entry]) => entry.data?.conceptId || entry.data?.productId)
+      .map(([igdbId, entry]) => ({
+        igdbId: Number(igdbId),
+        slug: entry.slug,
+        conceptId: entry.data.conceptId,
+        productId: entry.data.productId,
+      })),
+  );
+
+  console.log(`  ${targets.length} titles to check — metered at 2 credits each, ~5 calls/minute.`);
+  try {
+    const stats = await syncEntries(
+      "crawlora",
+      targets,
+      async (game) => fetchPlaystation({ conceptId: game.conceptId, productId: game.productId }),
+      // Platforms and editions barely move; the free GraphQL pass keeps prices current.
+      { force, maxAgeDays: 30, onProgress: () => {} },
+    );
+    report("crawlora", stats);
+    console.log(`  daily credits remaining: ${creditsLeft() ?? "unknown"}`);
+  } catch (error) {
+    if (error instanceof CrawloraAuthError) console.warn(`  ! ${error.message}`);
+    else console.warn(`  ! crawlora unavailable, keeping cached data: ${error.message}`);
+  }
+}
+
+if (wanted("playstationStore")) {
 
   // Identity is stable; prices are not. Refresh them for everything already identified.
   const table = await readSource("playstationStore");

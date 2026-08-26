@@ -1,9 +1,8 @@
-import { FRAME_DATA, type FrameData } from "./frame-data";
+import { fpsChangingPatch, fpsRecordFor, platformsIn, strongest } from "./fps";
 import { DATA_SYNCED_AT, IGDB_GAMES } from "./igdb.generated";
 import {
-  PLATFORMS,
   type AppType,
-  type ConsoleTarget,
+  type FpsRecord,
   type Game,
   type IgdbGame,
   type PatchEvent,
@@ -45,69 +44,63 @@ export function imageUrl(imageId: string, size: ImageSize) {
   return `https://images.igdb.com/igdb/image/upload/${size}/${imageId}.jpg`;
 }
 
-function buildTargets(frame: FrameData): ConsoleTarget[] {
-  const out: ConsoleTarget[] = [];
-  for (const platform of PLATFORMS) {
-    const pair = frame.fps[platform.id];
-    if (!pair) continue;
-    const modes = frame.modes?.[platform.id];
-    platform.models.forEach((model, i) => {
-      out.push({ model, platform: platform.id, fps: pair[i], mode: modes?.[i], primary: i === 0 });
-    });
+/**
+ * Patch timeline for a game page: every patch the record carries, newest first, with the
+ * game's release added as the closing entry.
+ */
+function buildHistory(record: FpsRecord, releaseDate: string | null): PatchEvent[] {
+  const events = record.patches
+    .filter((p) => p.date)
+    .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
+    .map((p) => ({ date: formatMonth(p.date!), label: p.label, url: p.url }));
+  const launch = releaseDate ? formatMonth(releaseDate) : null;
+  if (launch && !events.some((e) => e.date === launch)) {
+    events.push({ date: launch, label: "Launch", url: null });
   }
-  return out;
-}
-
-function buildHistory(frame: FrameData, releaseDate: string | null): PatchEvent[] {
-  if (frame.history) return frame.history;
-  const events: PatchEvent[] = [];
-  if (frame.patch) {
-    const best = Math.max(...Object.values(frame.fps).map((p) => p[0]));
-    events.push({
-      date: frame.patch.date,
-      label: frame.prevFps
-        ? `${frame.prevFps} FPS to ${best} FPS via ${frame.patch.type.toLowerCase()}`
-        : frame.patch.type,
-    });
-  }
-  if (releaseDate) events.push({ date: formatMonth(releaseDate), label: "Launch" });
   return events;
 }
 
 function buildGame(igdb: IgdbGame): Game {
-  const frame = FRAME_DATA[igdb.slug];
+  const record = fpsRecordFor(igdb.slug);
 
   // Backwards-compatible titles are listed on IGDB under their original platform (Bloodborne
-  // is "PS4"), so curated frame data adds consoles IGDB does not know about — but IGDB's own
+  // is "PS4"), so a frame rate record adds consoles IGDB does not know about — but IGDB's own
   // list still counts, which is how a title can be listed on a console with no verified figure.
-  const consoles = [
-    ...new Set([...(frame ? (Object.keys(frame.fps) as PlatformId[]) : []), ...igdb.consoles]),
-  ];
+  const consoles = [...new Set([...(record ? platformsIn(record) : []), ...igdb.consoles])];
 
   const appType: Partial<Record<PlatformId, AppType>> = {};
   for (const id of consoles) {
-    appType[id] = frame?.native?.includes(id) ? "native" : "backcompat";
+    const entry = record?.entries.find((e) => e.platform === id && e.primary);
+    appType[id] = entry?.appType === "native" ? "native" : "backcompat";
   }
+
+  const targets = record?.entries ?? [];
+  const patch = record ? fpsChangingPatch(record) : undefined;
 
   return {
     ...igdb,
     consoles,
-    verified: Boolean(frame),
+    verified: targets.some((t) => t.fps > 0),
     appType,
-    targets: frame ? buildTargets(frame) : [],
-    verdict: frame?.verdict ?? null,
-    patch: frame?.patch
+    targets,
+    verdict: record?.verdict ?? null,
+    patch: patch
       ? {
-          type: frame.patch.type,
-          date: frame.patch.date,
-          verified: frame.patch.verified ?? frame.patch.date,
-          source: frame.patch.source ?? "Official patch notes",
+          type: patch.label,
+          date: patch.date ? formatMonth(patch.date) : "",
+          verified: record?.lastVerified ? formatMonth(record.lastVerified) : "",
+          source: patch.publisher ?? "Official patch notes",
+          url: patch.url,
         }
       : undefined,
-    previousFps: frame?.prevFps,
-    note: frame?.note,
-    requested: frame?.requested,
-    history: frame ? buildHistory(frame, igdb.releaseDate) : [],
+    patchIso: patch?.date ?? null,
+    previousFps: patch?.previousFps ?? undefined,
+    note: record?.note ?? undefined,
+    requested: record?.requested,
+    history: record ? buildHistory(record, igdb.releaseDate) : [],
+    confidence: record ? strongest(targets.map((t) => t.confidence)) : "unknown",
+    evidence: record?.evidence ?? [],
+    lastVerified: record?.lastVerified ?? null,
   };
 }
 
@@ -125,7 +118,7 @@ export function targetsFor(game: Game, platform: PlatformId) {
 
 /**
  * Frame rate the headline verdict is based on: the platform's flagship model.
- * `0` means FrameCheck has no verified figure yet.
+ * `0` means FramePatch has no verified figure yet.
  */
 export function headlineFps(game: Game, platform: PlatformId) {
   return targetsFor(game, platform).find((t) => t.primary)?.fps ?? 0;
@@ -137,7 +130,7 @@ export function isOnPlatform(game: Game, platform: PlatformId) {
 
 /** Frame data can cover one console and not another — Elden Ring is verified on PS5, not Switch. */
 export function verifiedOn(game: Game, platform: PlatformId) {
-  return targetsFor(game, platform).length > 0;
+  return targetsFor(game, platform).some((t) => t.fps > 0);
 }
 
 export function appTypeLabel(game: Game, platform: PlatformId) {
@@ -271,7 +264,7 @@ const byPopularity = (a: Game, b: Game) => b.popularity - a.popularity || b.rati
 export function recentlyUpgraded(platform: PlatformId) {
   return verifiedFor(platform)
     .filter((g) => g.previousFps && headlineFps(g, platform) > g.previousFps)
-    .sort((a, b) => monthKey(b.patch?.date ?? "") - monthKey(a.patch?.date ?? ""));
+    .sort((a, b) => (b.patchIso ?? "").localeCompare(a.patchIso ?? ""));
 }
 
 export function popularAt(platform: PlatformId, fps: number) {

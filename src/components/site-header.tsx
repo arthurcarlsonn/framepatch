@@ -35,7 +35,7 @@ export function SiteHeader() {
               <ZapIcon className="size-4 fill-white text-white" strokeWidth={2} />
             </span>
             <span className="font-heading text-[17px] font-bold tracking-[-0.02em]">
-              Frame<span className="text-primary">Check</span>
+              Frame<span className="text-primary">Patch</span>
             </span>
           </Link>
 

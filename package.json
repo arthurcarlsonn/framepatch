@@ -1,5 +1,5 @@
 {
-  "name": "framecheck",
+  "name": "framepatch",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,9 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "sync": "node scripts/sync.mjs",
+    "sync": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/sync.mjs",
     "generate": "node scripts/generate.mjs",
-    "ps:hashes": "node scripts/ps-hashes.mjs"
+    "ps:hashes": "node scripts/ps-hashes.mjs",
+    "enrich": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/enrich.mjs",
+    "enrich:patches": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/enrich.mjs --patches-only"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

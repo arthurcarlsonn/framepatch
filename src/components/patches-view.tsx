@@ -8,14 +8,17 @@ import { FpsBadge } from "@/components/fps-badge";
 import { GameCover } from "@/components/game-cover";
 import { usePlatform } from "@/components/platform-provider";
 import { Badge } from "@/components/ui/badge";
-import { appTypeLabel, gamesFor, headlineFps, monthKey } from "@/lib/games";
+import { appTypeLabel, gamesFor, headlineFps, monthKey, verifiedOn } from "@/lib/games";
 import { PLATFORM_LABEL, type Game } from "@/lib/types";
 
 export function PatchesView() {
   const { platform } = usePlatform();
 
   const groups = useMemo(() => {
-    const patched = gamesFor(platform).filter((g) => g.patch);
+    // Two guards, both about not contradicting the rest of the site: an undated patch cannot
+    // be grouped under a month, and a patch on a title with no verified figure would announce
+    // an upgrade on a page that says "awaiting verification".
+    const patched = gamesFor(platform).filter((g) => g.patch?.date && verifiedOn(g, platform));
     const map = new Map<string, Game[]>();
     for (const game of patched) {
       const key = game.patch!.date;

@@ -4,8 +4,8 @@ import { createContext, useCallback, useContext, useSyncExternalStore } from "re
 
 import type { PlatformId } from "@/lib/types";
 
-const STORAGE_KEY = "framecheck.platform";
-const CHANGE_EVENT = "framecheck:platform-change";
+const STORAGE_KEY = "framepatch.platform";
+const CHANGE_EVENT = "framepatch:platform-change";
 
 function isPlatform(value: unknown): value is PlatformId {
   return value === "ps5" || value === "xsx" || value === "switch";

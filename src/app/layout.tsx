@@ -21,13 +21,32 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const SITE = "https://framepatch.app";
+const DESCRIPTION =
+  "Instant frame rate performance verification for PS5, Xbox Series X|S and Nintendo Switch libraries.";
+
 export const metadata: Metadata = {
+  // Without this, every relative canonical and Open Graph URL stays relative and social
+  // cards resolve against nothing.
+  metadataBase: new URL(SITE),
   title: {
-    default: "FrameCheck — Console frame rate verification",
-    template: "%s · FrameCheck",
+    default: "FramePatch — Console frame rate verification",
+    template: "%s · FramePatch",
   },
-  description:
-    "Instant frame rate performance verification for PS5, Xbox Series X|S and Nintendo Switch libraries.",
+  description: DESCRIPTION,
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    siteName: "FramePatch",
+    url: SITE,
+    title: "FramePatch — Console frame rate verification",
+    description: DESCRIPTION,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "FramePatch — Console frame rate verification",
+    description: DESCRIPTION,
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

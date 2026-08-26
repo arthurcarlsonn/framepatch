@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 
 export type FpsTier = "high" | "good" | "mid" | "low" | "unknown";
 
-/** `0` FPS means FrameCheck has no verified figure for this title yet. */
+/** `0` FPS means FramePatch has no verified figure for this title yet. */
 export function fpsTier(fps: number): FpsTier {
   if (fps === 0) return "unknown";
   if (fps >= 120) return "high";

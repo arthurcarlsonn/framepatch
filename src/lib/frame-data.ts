@@ -19,7 +19,7 @@ export type FrameData = {
 };
 
 /**
- * FrameCheck's own layer, keyed by IGDB slug.
+ * FramePatch's own layer, keyed by IGDB slug.
  *
  * IGDB supplies every other field on a game — title, cover, companies, genres, ratings,
  * store links — but it has no frame rate data, so this is hand-curated and verified.
@@ -116,7 +116,7 @@ export const FRAME_DATA: Record<string, FrameData> = {
   },
   "bloodborne": {
     fps: { ps5: [30, 30] },
-    verdict: "Locked to 30 FPS through backwards compatibility. The most requested frame rate patch on FrameCheck.",
+    verdict: "Locked to 30 FPS through backwards compatibility. The most requested frame rate patch on FramePatch.",
     note: "No frame rate patch",
     requested: true,
   },

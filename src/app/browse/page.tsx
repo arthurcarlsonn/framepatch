@@ -5,7 +5,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 
 export const metadata = {
   title: "Browse games",
-  description: "Every console game with verified frame rate data on FrameCheck.",
+  description: "Every console game with verified frame rate data on FramePatch.",
 };
 
 export default function Page() {

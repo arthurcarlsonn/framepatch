@@ -8,6 +8,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 import { CURATED_SLUGS } from "../../src/lib/frame-data.ts";
+import { loadEnv } from "../lib/env.mjs";
 import { sleep } from "../lib/http.mjs";
 import { ROOT } from "../lib/store.mjs";
 
@@ -16,7 +17,7 @@ const TOKEN_CACHE = path.join(ROOT, ".igdb-token.json");
 /** Ratings below this are mostly obscure entries with thin metadata. */
 const MIN_RATING_COUNT = 60;
 
-/** IGDB platform id → the console FrameCheck groups it under. */
+/** IGDB platform id → the console FramePatch groups it under. */
 const PLATFORM_OF = { 167: "ps5", 169: "xsx", 130: "switch", 508: "switch" };
 /** IGDB platform id → the label shown in "Platform availability". */
 const AVAILABILITY = {
@@ -91,14 +92,8 @@ const GAME_FIELDS = [
 
 // ── auth ──────────────────────────────────────────────────────────────────────
 
-async function loadEnv() {
-  const file = path.join(ROOT, ".env.local");
-  if (existsSync(file)) {
-    for (const line of (await readFile(file, "utf8")).split("\n")) {
-      const match = /^\s*([A-Z_]+)\s*=\s*(.*)\s*$/.exec(line);
-      if (match && !process.env[match[1]]) process.env[match[1]] = match[2].trim();
-    }
-  }
+async function credentials() {
+  await loadEnv();
   const id = process.env.TWITCH_CLIENT_ID;
   const secret = process.env.TWITCH_CLIENT_SECRET;
   if (!id || !secret) {
@@ -184,15 +179,26 @@ async function fetchPopularity(client, ids) {
   return scores;
 }
 
+/** IGDB caps a single query at 500 rows, so anything wider has to page. */
+const PAGE = 500;
+
 async function fetchPopular(client, perPlatform) {
   const out = [];
   for (const platform of DISCOVERY_PLATFORMS) {
-    const rows = await igdb(
-      client,
-      "games",
-      `fields ${GAME_FIELDS}; where platforms = (${platform.id}) & game_type = 0 & cover != null ` +
-        `& total_rating_count >= ${MIN_RATING_COUNT}; sort total_rating_count desc; limit ${perPlatform};`,
-    );
+    const rows = [];
+    while (rows.length < perPlatform) {
+      const limit = Math.min(PAGE, perPlatform - rows.length);
+      const page = await igdb(
+        client,
+        "games",
+        `fields ${GAME_FIELDS}; where platforms = (${platform.id}) & game_type = 0 & cover != null ` +
+          `& total_rating_count >= ${MIN_RATING_COUNT}; sort total_rating_count desc; ` +
+          `limit ${limit}; offset ${rows.length};`,
+      );
+      rows.push(...page);
+      // Short page means the platform is exhausted, not that we hit the cap.
+      if (page.length < limit) break;
+    }
     console.log(`  ${platform.label}: ${rows.length} popular titles`);
     out.push(...rows);
   }
@@ -265,7 +271,7 @@ function releaseDatesOf(game) {
 
 /**
  * IGDB stores multiplayer modes per platform and coverage is patchy, so prefer a record for
- * a console FrameCheck tracks and fall back to whatever exists.
+ * a console FramePatch tracks and fall back to whatever exists.
  */
 function multiplayerOf(game) {
   const modes = game.multiplayer_modes ?? [];
@@ -352,8 +358,8 @@ function toRecord(game, esrbMap) {
  * console. Returns `{ index, detail, links }` records keyed by IGDB id.
  */
 export async function fetchCatalogue({ curatedOnly = false, perPlatform = 70 } = {}) {
-  const credentials = await loadEnv();
-  const client = { id: credentials.id, token: await getToken(credentials) };
+  const creds = await credentials();
+  const client = { id: creds.id, token: await getToken(creds) };
   const esrbMap = await fetchEsrbMap(client);
 
   const curated = await fetchCurated(client);

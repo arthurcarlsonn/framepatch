@@ -1,133 +1,190 @@
 {
   "source": "gamePass",
-  "syncedAt": "2026-08-25T17:35:42.247Z",
+  "syncedAt": "2026-08-26T13:49:38.418Z",
   "entries": {
     "72": {
       "slug": "portal-2",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "79": {
+      "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "83": {
+      "slug": "baldur-s-gate-dark-alliance",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "116": {
       "slug": "star-wars-knights-of-the-old-republic",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "118": {
       "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "148": {
+      "slug": "star-wars-republic-commando",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "152": {
+      "slug": "star-wars-jedi-knight-ii-jedi-outcast",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "153": {
+      "slug": "star-wars-jedi-knight-jedi-academy",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "154": {
+      "slug": "star-wars-episode-i-racer",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "320": {
+      "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "359": {
       "slug": "final-fantasy-xv",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "386": {
       "slug": "final-fantasy-xiv-online--1",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "434": {
       "slug": "red-dead-redemption",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "498": {
       "slug": "borderlands",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "500": {
       "slug": "batman-arkham-asylum",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "501": {
       "slug": "batman-arkham-city",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "506": {
       "slug": "sonic-generations",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "530": {
       "slug": "hitman-absolution",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "545": {
       "slug": "call-of-duty-black-ops",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "576": {
+      "slug": "dc-universe-online",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "769": {
+      "slug": "lara-croft-and-the-guardian-of-light",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "873": {
       "slug": "saints-row-the-third",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "885": {
       "slug": "super-meat-boy",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "974": {
       "slug": "resident-evil-4",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1011": {
       "slug": "borderlands-2",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1020": {
       "slug": "grand-theft-auto-v",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1122": {
       "slug": "call-of-duty-black-ops-ii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1262": {
       "slug": "south-park-the-stick-of-truth",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": false,
-        "eaPlay": false
-      }
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
     },
     "1331": {
       "slug": "limbo",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": false,
-        "pc": true,
-        "eaPlay": false
-      }
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
     },
     "1334": {
       "slug": "brothers-a-tale-of-two-sons",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1337": {
+      "slug": "torchlight-ii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1338": {
+      "slug": "prison-architect",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1384": {
       "slug": "hotline-miami",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1547": {
+      "slug": "virtua-fighter-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1722": {
+      "slug": "mega-man-9",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1871": {
       "slug": "the-walking-dead",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1877": {
       "slug": "cyberpunk-2077",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
@@ -136,16 +193,12 @@
     },
     "1879": {
       "slug": "terraria",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": false,
-        "eaPlay": false
-      }
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
     },
     "1905": {
       "slug": "fortnite",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
@@ -154,36 +207,62 @@
     },
     "1910": {
       "slug": "outlast",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1911": {
       "slug": "path-of-exile",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1912": {
+      "slug": "warface",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1942": {
       "slug": "the-witcher-3-wild-hunt",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "1970": {
       "slug": "assassins-creed-iv-black-flag",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": false,
-        "eaPlay": false
-      }
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1976": {
+      "slug": "call-of-juarez-gunslinger",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
     },
     "1983": {
       "slug": "bastion",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "1991": {
+      "slug": "fez",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2049": {
+      "slug": "slender-the-arrival",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2050": {
+      "slug": "lego-marvel-super-heroes",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2058": {
+      "slug": "payday-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "2114": {
       "slug": "tom-clancy-s-the-division",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
@@ -192,7 +271,7 @@
     },
     "2117": {
       "slug": "dayz",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
@@ -201,191 +280,668 @@
     },
     "2126": {
       "slug": "hotline-miami-2-wrong-number",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2130": {
+      "slug": "dust-an-elysian-tail",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "2155": {
       "slug": "dark-souls",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2165": {
+      "slug": "war-thunder",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "2291": {
+      "slug": "thomas-was-alone",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2599": {
+      "slug": "game-dev-tycoon",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2638": {
+      "slug": "the-incredible-adventures-of-van-helsing",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "2903": {
       "slug": "warframe",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "2924": {
+      "slug": "broken-sword-5-the-serpents-curse",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "2933": {
       "slug": "kingdom-hearts-iii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "3042": {
-      "slug": "dying-light",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "2939": {
+      "slug": "the-vanishing-of-ethan-carter",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "3097": {
-      "slug": "the-walking-dead-season-two",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "2990": {
+      "slug": "machinarium",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3019": {
+      "slug": "starbound",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3020": {
+      "slug": "shadowrun-returns",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "3042": {
+      "slug": "dying-light",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3087": {
+      "slug": "broken-age",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": false,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "3097": {
+      "slug": "the-walking-dead-season-two",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3173": {
+      "slug": "risk-of-rain",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3221": {
+      "slug": "rogue-legacy",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "3225": {
       "slug": "no-man-s-sky",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
+        "eaPlay": false
+      }
+    },
+    "3227": {
+      "slug": "nuclear-throne",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3239": {
+      "slug": "space-engineers",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "3772": {
+      "slug": "wreckfest",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
     "4754": {
       "slug": "alien-isolation",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "4788": {
+      "slug": "octodad-dadliest-catch",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "4840": {
+      "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "4843": {
       "slug": "kingdom-come-deliverance",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
-        "console": false,
-        "pc": true,
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
+    "4848": {
+      "slug": "max-the-curse-of-brotherhood",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "5025": {
       "slug": "to-the-moon",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5060": {
+      "slug": "deponia",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5062": {
+      "slug": "chaos-on-deponia",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5064": {
+      "slug": "goodbye-deponia",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "5503": {
       "slug": "batman-arkham-knight",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "5508": {
+      "slug": "the-banner-saga",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5541": {
+      "slug": "sherlock-holmes-crimes-punishments",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5574": {
+      "slug": "7-days-to-die",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "5606": {
       "slug": "assassins-creed-unity",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "5607": {
+      "slug": "smite",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5772": {
+      "slug": "steamworld-dig",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "5973": {
+      "slug": "broforce",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6005": {
+      "slug": "kingdom-rush",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6032": {
+      "slug": "borderlands-the-pre-sequel",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6164": {
+      "slug": "the-testament-of-sherlock-holmes",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6185": {
+      "slug": "syberia-ii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6292": {
+      "slug": "black-desert",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6415": {
+      "slug": "grid-autosport",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "6705": {
+      "slug": "a-hat-in-time",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "6707": {
       "slug": "tales-from-the-borderlands",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "6801": {
       "slug": "far-cry-4",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": false,
-        "eaPlay": false
-      }
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7098": {
+      "slug": "naruto-shippuden-ultimate-ninja-storm-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7120": {
+      "slug": "nier",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
     },
     "7205": {
       "slug": "superhot",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "7342": {
-      "slug": "inside",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "7291": {
+      "slug": "hunt-showdown-1896",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7325": {
+      "slug": "lara-croft-and-the-temple-of-osiris",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "7327": {
+      "slug": "valiant-hearts-the-great-war",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "7329": {
+      "slug": "dead-island-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "7342": {
+      "slug": "inside",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "7352": {
+      "slug": "abzu",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "7360": {
       "slug": "rainbow-six-siege",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7386": {
+      "slug": "the-talos-principle",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "7570": {
       "slug": "assassins-creed-rogue",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7578": {
+      "slug": "i-have-no-mouth-and-i-must-scream",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "7603": {
       "slug": "hellblade-senuas-sacrifice",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": false,
-        "pc": true,
-        "eaPlay": false
-      }
-    },
-    "8263": {
-      "slug": "assassins-creed-syndicate",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "7605": {
+      "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7621": {
+      "slug": "rime",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7709": {
+      "slug": "salt-and-sanctuary",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7725": {
+      "slug": "resident-evil-revelations-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7878": {
+      "slug": "unturned--1",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7886": {
+      "slug": "crypt-of-the-necrodancer",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "7965": {
+      "slug": "kholat",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8263": {
+      "slug": "assassins-creed-syndicate",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "8288": {
+      "slug": "the-banner-saga-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8339": {
+      "slug": "minecraft-story-mode",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8347": {
+      "slug": "the-long-dark",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "8366": {
+      "slug": "sniper-elite-iii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8430": {
+      "slug": "shantae-and-the-pirates-curse",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8440": {
+      "slug": "the-bridge",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8652": {
+      "slug": "axiom-verge",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8729": {
+      "slug": "vampyr",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8739": {
+      "slug": "monaco-whats-yours-is-mine",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8751": {
+      "slug": "stranded-deep",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "8965": {
+      "slug": "darkest-dungeon",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9047": {
+      "slug": "besiege",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "9061": {
       "slug": "cuphead",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9136": {
+      "slug": "gorogoa",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "9174": {
       "slug": "little-nightmares",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9176": {
+      "slug": "call-of-cthulhu",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "9254": {
       "slug": "subnautica",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9527": {
+      "slug": "speedrunners",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9608": {
+      "slug": "mount-and-blade-ii-bannerlord",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "9630": {
       "slug": "fallout-4",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9643": {
+      "slug": "return-of-the-obra-dinn",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9667": {
+      "slug": "american-truck-simulator",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9683": {
+      "slug": "dungeon-of-the-endless",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9727": {
+      "slug": "soma",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9728": {
+      "slug": "trove",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9730": {
+      "slug": "firewatch",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9732": {
+      "slug": "the-flame-in-the-flood",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "9918": {
+      "slug": "lego-jurassic-world",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10031": {
+      "slug": "yooka-laylee",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10148": {
+      "slug": "night-in-the-woods",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10232": {
+      "slug": "thimbleweed-park",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10239": {
+      "slug": "ark-survival-evolved",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10760": {
+      "slug": "bloodstained-ritual-of-the-night",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10910": {
+      "slug": "lego-worlds",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10919": {
+      "slug": "xcom-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "10960": {
+      "slug": "thumper",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11078": {
+      "slug": "shantae-half-genie-hero",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11118": {
+      "slug": "dishonored-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "11119": {
+      "slug": "fallout-shelter",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11133": {
+      "slug": "dark-souls-iii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11137": {
+      "slug": "sea-of-thieves",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11161": {
+      "slug": "south-park-the-fractured-but-whole",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11162": {
+      "slug": "for-honor",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "11171": {
+      "slug": "tom-clancys-ghost-recon-wildlands",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "11177": {
+      "slug": "gang-beasts",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
-    "9727": {
-      "slug": "soma",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "9730": {
-      "slug": "firewatch",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "11118": {
-      "slug": "dishonored-2",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": false,
-        "pc": true,
-        "eaPlay": false
-      }
-    },
-    "11133": {
-      "slug": "dark-souls-iii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "11182": {
+      "slug": "enter-the-gungeon",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "11198": {
       "slug": "rocket-league",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
@@ -394,174 +950,819 @@
     },
     "11233": {
       "slug": "what-remains-of-edith-finch",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11423": {
+      "slug": "this-is-the-police",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11544": {
+      "slug": "paladins",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11560": {
+      "slug": "aer-memories-of-old",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11563": {
+      "slug": "sherlock-holmes-the-devils-daughter",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11582": {
+      "slug": "stellaris",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "11737": {
       "slug": "outer-wilds",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "11821": {
+      "slug": "fran-bow",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "12070": {
+      "slug": "party-hard",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "12511": {
+      "slug": "battle-chasers-nightwar",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "12517": {
       "slug": "undertale",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "12520": {
+      "slug": "lovers-in-a-dangerous-spacetime",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "12597": {
+      "slug": "owlboy",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "13163": {
+      "slug": "syberia-3",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "13182": {
       "slug": "far-cry-primal",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "13205": {
+      "slug": "astroneer",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "13226": {
+      "slug": "keep-talking-and-nobody-explodes",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "13677": {
+      "slug": "downwell",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14389": {
+      "slug": "friday-the-13th-the-game",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14390": {
+      "slug": "outlast-ii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14394": {
+      "slug": "battle-brothers",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14404": {
+      "slug": "kona",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14587": {
+      "slug": "oxenfree",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "14593": {
       "slug": "hollow-knight",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "14741": {
+      "slug": "psychonauts-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "14746": {
+      "slug": "batman-the-telltale-series",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14758": {
+      "slug": "ace-combat-7-skies-unknown",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "14761": {
+      "slug": "rain-world",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "15465": {
+      "slug": "va-11-hall-a-cyberpunk-bartender-action",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "15563": {
+      "slug": "clicker-heroes",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "15931": {
+      "slug": "punch-club",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "16136": {
+      "slug": "the-final-station",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "16612": {
+      "slug": "twelve-minutes",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "16992": {
       "slug": "human-fall-flat",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "17000": {
-      "slug": "stardew-valley",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
-        "console": false,
+        "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "17000": {
+      "slug": "stardew-valley",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "17001": {
+      "slug": "ashen--1",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "17026": {
+      "slug": "furi",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "17032": {
+      "slug": "darkwood",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "17269": {
       "slug": "roblox",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18020": {
+      "slug": "visage",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18158": {
+      "slug": "ultimate-chicken-horse",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18167": {
+      "slug": "hello-neighbor",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18182": {
+      "slug": "momodora-reverie-under-the-moonlight",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18225": {
+      "slug": "the-sinking-city",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18311": {
+      "slug": "the-turing-test",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18366": {
+      "slug": "sniper-elite-4",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18433": {
+      "slug": "overcooked",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18484": {
+      "slug": "clustertruck",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "18857": {
+      "slug": "ruiner",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "18866": {
       "slug": "dead-by-daylight",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
-        "console": false,
-        "pc": true,
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
+    "18927": {
+      "slug": "hue",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19000": {
+      "slug": "the-walking-dead-a-new-frontier",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19082": {
+      "slug": "the-jackbox-party-pack-3",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "19085": {
       "slug": "shadow-tactics-blades-of-the-shogun",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "19130": {
       "slug": "sid-meiers-civilization-vi",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "19164": {
       "slug": "borderlands-3",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
+    },
+    "19220": {
+      "slug": "snake-pass",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19241": {
+      "slug": "unravel-two",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19300": {
+      "slug": "deponia-doomsday",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19449": {
+      "slug": "dragon-ball-xenoverse-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "19520": {
+      "slug": "far-lone-sails",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19554": {
+      "slug": "steep",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
     },
     "19562": {
       "slug": "resident-evil-7-biohazard",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "19635": {
+      "slug": "naruto-ultimate-ninja-storm",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19696": {
+      "slug": "worms-wmd",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19817": {
+      "slug": "scorn",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "19935": {
+      "slug": "wizard-of-legend",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "20150": {
+      "slug": "katana-zero",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "20326": {
+      "slug": "deliver-us-the-moon",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "20329": {
+      "slug": "figment",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "20331": {
+      "slug": "for-the-king",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "20910": {
+      "slug": "world-war-z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "20927": {
+      "slug": "911-operator",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "21062": {
+      "slug": "sonic-mania",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "21063": {
+      "slug": "sonic-forces",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "21593": {
+      "slug": "lords-of-the-fallen--2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "21604": {
+      "slug": "old-mans-journey",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "21623": {
+      "slug": "tricky-towers",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "21642": {
+      "slug": "totally-accurate-battle-simulator",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "22739": {
+      "slug": "uno--1",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "22783": {
+      "slug": "the-sexy-brutale",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "22917": {
+      "slug": "gris",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "23733": {
+      "slug": "tunic",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "24426": {
+      "slug": "forgotton-anne",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "24654": {
+      "slug": "new-world-aeternum--1",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "24881": {
+      "slug": "kingdom-new-lands",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "24985": {
+      "slug": "golf-with-your-friends",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25076": {
+      "slug": "red-dead-redemption-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25580": {
+      "slug": "forager",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25653": {
+      "slug": "the-escapists-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25657": {
+      "slug": "destiny-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25837": {
+      "slug": "the-pedestrian",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25901": {
+      "slug": "my-friend-pedro",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "25935": {
+      "slug": "the-artful-escape",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26226": {
+      "slug": "celeste",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26381": {
+      "slug": "thehunter-call-of-the-wild",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26602": {
+      "slug": "metaphor-refantazio",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26673": {
+      "slug": "omori",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26765": {
+      "slug": "octopath-traveler",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26820": {
+      "slug": "blasphemous",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26855": {
+      "slug": "dead-cells",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": false,
         "pc": true,
         "eaPlay": false
       }
     },
-    "22917": {
-      "slug": "gris",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "26940": {
+      "slug": "the-banner-saga-3",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "23733": {
-      "slug": "tunic",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "26950": {
+      "slug": "marvels-avengers",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "26970": {
+      "slug": "minit",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27011": {
+      "slug": "serious-sam-4",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27082": {
+      "slug": "raft",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27092": {
+      "slug": "greedfall",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27094": {
+      "slug": "stories-untold",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27117": {
+      "slug": "into-the-breach",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27134": {
+      "slug": "deep-rock-galactic",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
-    "25076": {
-      "slug": "red-dead-redemption-2",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "27310": {
+      "slug": "we-were-here",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
-    },
-    "25657": {
-      "slug": "destiny-2",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "26226": {
-      "slug": "celeste",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "26602": {
-      "slug": "metaphor-refantazio",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "26765": {
-      "slug": "octopath-traveler",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "26855": {
-      "slug": "dead-cells",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": false,
-        "eaPlay": false
-      }
     },
     "27316": {
       "slug": "a-plague-tale-innocence",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
+    },
+    "27324": {
+      "slug": "the-gardens-between",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27367": {
+      "slug": "yokus-island-express",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27384": {
+      "slug": "graveyard-keeper",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27433": {
+      "slug": "steamworld-dig-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27436": {
+      "slug": "kingdom-two-crowns",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "27448": {
+      "slug": "superhot-mind-control-delete",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "27717": {
+      "slug": "late-shift",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27719": {
+      "slug": "ape-out",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27729": {
+      "slug": "mordhau",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27744": {
+      "slug": "house-flipper",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "27771": {
+      "slug": "moonlighter",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
     },
     "27789": {
       "slug": "pubg-battlegrounds",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "27792": {
+      "slug": "pc-building-simulator",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "28311": {
+      "slug": "bendy-and-the-ink-machine",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "28380": {
+      "slug": "darksiders-iii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "28512": {
+      "slug": "risk-of-rain-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "28540": {
       "slug": "assassins-creed-origins",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "28552": {
+      "slug": "far-cry-5",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
-    "28552": {
-      "slug": "far-cry-5",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "28815": {
+      "slug": "lego-marvel-super-heroes-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "28856": {
+      "slug": "the-crew-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "30208": {
+      "slug": "dragon-age-the-veilguard",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": true
+      }
+    },
+    "31558": {
+      "slug": "wwe-2k18",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "34705": {
+      "slug": "iconoclasts",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "34894": {
+      "slug": "crossout",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "35282": {
+      "slug": "crosscode",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "36198": {
+      "slug": "children-of-morta",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "36550": {
+      "slug": "yakuza-like-a-dragon",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "36616": {
       "slug": "they-are-billions",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "36649": {
+      "slug": "tropico-6",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "36766": {
+      "slug": "qube-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "36911": {
+      "slug": "dragon-ball-fighterz",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "36952": {
       "slug": "wolfenstein-ii-the-new-colossus",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
-        "console": true,
-        "pc": false,
+        "console": false,
+        "pc": true,
         "eaPlay": false
       }
     },
     "37001": {
       "slug": "ori-and-the-will-of-the-wisps",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
@@ -570,144 +1771,478 @@
     },
     "37016": {
       "slug": "metro-exodus",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "37777": {
       "slug": "shadow-of-the-tomb-raider",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "40477": {
       "slug": "slay-the-spire",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "55163": {
-      "slug": "resident-evil-village",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": true,
-        "eaPlay": false
-      }
-    },
-    "59849": {
-      "slug": "la-noire",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "41025": {
+      "slug": "somerville",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "74701": {
-      "slug": "star-wars-jedi-fallen-order",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "43165": {
+      "slug": "my-time-at-portia",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "76253": {
-      "slug": "devil-may-cry-5",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "46800": {
+      "slug": "maneater",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
-    "82090": {
-      "slug": "forza-horizon-4",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "82117": {
-      "slug": "two-point-hospital",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "96437": {
-      "slug": "starfield",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": true,
-        "eaPlay": false
-      }
-    },
-    "103054": {
-      "slug": "assassins-creed-odyssey",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "51524": {
+      "slug": "the-walking-dead-the-final-season",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
-    "103281": {
-      "slug": "halo-infinite",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "51525": {
+      "slug": "batman-the-enemy-within",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "51528": {
+      "slug": "telling-lies",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "54486": {
+      "slug": "we-were-here-too",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "54789": {
+      "slug": "mudrunner",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "54842": {
+      "slug": "biomutant",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "55047": {
+      "slug": "the-dark-pictures-anthology-man-of-medan",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "55080": {
+      "slug": "donut-county",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "55163": {
+      "slug": "resident-evil-village",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "55189": {
+      "slug": "warhammer-vermintide-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "55190": {
+      "slug": "pikuniku",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "55984": {
+      "slug": "blacksad-under-the-skin",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "59849": {
+      "slug": "la-noire",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "62151": {
+      "slug": "life-is-strange-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "68447": {
+      "slug": "superliminal",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "71628": {
+      "slug": "the-messenger",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "72813": {
+      "slug": "untitled-goose-game",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "74701": {
+      "slug": "star-wars-jedi-fallen-order",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": true
+      }
+    },
+    "75234": {
+      "slug": "guacamelee-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "75239": {
+      "slug": "spelunky-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "75247": {
+      "slug": "the-red-strings-club",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "76253": {
+      "slug": "devil-may-cry-5",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "76723": {
+      "slug": "mega-man-11",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "76747": {
+      "slug": "atomic-heart",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "78511": {
+      "slug": "forza-motorsport--1",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "79864": {
+      "slug": "the-talos-principle-ii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "79995": {
+      "slug": "sable",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "82090": {
+      "slug": "forza-horizon-4",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "82117": {
+      "slug": "two-point-hospital",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "89354": {
+      "slug": "supraland",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "89560": {
+      "slug": "mutant-year-zero-road-to-eden",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "90055": {
+      "slug": "carrion",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "90099": {
+      "slug": "tom-clancys-the-division-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "90107": {
+      "slug": "layers-of-fear-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "96437": {
+      "slug": "starfield",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "100413": {
+      "slug": "watch-dogs-legion",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "101176": {
+      "slug": "bloodstained-curse-of-the-moon",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "101440": {
+      "slug": "stalker-2-heart-of-chornobyl",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "101461": {
+      "slug": "green-hell",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "102058": {
+      "slug": "outriders",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "102420": {
+      "slug": "dicey-dungeons",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "102584": {
+      "slug": "dying-light-2-stay-human",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "103020": {
+      "slug": "fallout-76",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "103054": {
+      "slug": "assassins-creed-odyssey",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "103244": {
+      "slug": "signalis",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "103281": {
+      "slug": "halo-infinite",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "103291": {
+      "slug": "gears-tactics",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "103292": {
       "slug": "gears-5",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "103298": {
       "slug": "doom-eternal",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "103301": {
+      "slug": "wolfenstein-youngblood",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": false,
         "pc": true,
         "eaPlay": false
       }
+    },
+    "103320": {
+      "slug": "the-forgotten-city",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
     },
     "103329": {
       "slug": "control",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "103341": {
-      "slug": "overcooked-2",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
-        "console": false,
-        "pc": true,
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
+    "103341": {
+      "slug": "overcooked-2",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "103380": {
+      "slug": "bloons-td-6",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "104967": {
       "slug": "valheim",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "104971": {
+      "slug": "ai-the-somnium-files",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "105049": {
+      "slug": "remnant-from-the-ashes",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "105322": {
+      "slug": "pummel-party",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "106847": {
+      "slug": "coffee-talk",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "106987": {
+      "slug": "torchlight-iii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "107215": {
       "slug": "snowrunner",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
-        "console": false,
-        "pc": true,
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
+    "107262": {
+      "slug": "streets-of-rage-4",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "108778": {
+      "slug": "little-misfortune",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "110248": {
       "slug": "stray",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "110474": {
+      "slug": "minecraft-dungeons",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "110846": {
+      "slug": "trine-4-the-nightmare-prince",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "111469": {
       "slug": "among-us",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "111837": {
+      "slug": "cloudpunk",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "111846": {
+      "slug": "void-bastards",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "112916": {
+      "slug": "mortal-kombat-11",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "113107": {
       "slug": "sayonara-wild-hearts",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
+    },
+    "113108": {
+      "slug": "journey-to-the-savage-planet",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "113111": {
+      "slug": "far-cry-new-dawn",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
     },
     "113112": {
       "slug": "hades--1",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
@@ -716,162 +2251,595 @@
     },
     "113114": {
       "slug": "the-outer-worlds",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "113115": {
+      "slug": "the-last-campfire",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "113598": {
+      "slug": "deathloop",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "113866": {
+      "slug": "moving-out",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "114009": {
+      "slug": "dragon-ball-z-kakarot",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "114285": {
+      "slug": "nba-2k20",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "114455": {
+      "slug": "pacify",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "115060": {
+      "slug": "dragons-dogma-ii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "115425": {
+      "slug": "darkest-dungeon-ii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "116200": {
+      "slug": "back-4-blood",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "116238": {
+      "slug": "sniper-elite-5",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "116753": {
+      "slug": "a-short-hike",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "117294": {
+      "slug": "throne-and-liberty",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "117533": {
+      "slug": "river-city-girls",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "118193": {
+      "slug": "toem",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "118218": {
+      "slug": "tom-clancys-ghost-recon-breakpoint",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
-    "115060": {
-      "slug": "dragons-dogma-ii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
     "119133": {
       "slug": "elden-ring",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "119171": {
       "slug": "baldurs-gate-iii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "119177": {
       "slug": "call-of-duty-modern-warfare",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "119244": {
+      "slug": "darksiders-genesis",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "119270": {
+      "slug": "tales-of-arise",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "119277": {
       "slug": "genshin-impact",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "119295": {
+      "slug": "microsoft-flight-simulator",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "119298": {
+      "slug": "blair-witch",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "119304": {
+      "slug": "spiritfarer",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "119305": {
+      "slug": "lego-star-wars-the-skywalker-saga",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "119308": {
+      "slug": "ghostwire-tokyo",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "119357": {
+      "slug": "immortals-fenyx-rising",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "121752": {
+      "slug": "ghostrunner",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "121760": {
       "slug": "little-nightmares-ii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "121947": {
+      "slug": "the-suicide-of-rachel-foster",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "122120": {
+      "slug": "the-dark-pictures-anthology-little-hope",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "122666": {
+      "slug": "teardown",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "122729": {
+      "slug": "yes-your-grace",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "122766": {
+      "slug": "pilgrims",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "124954": {
+      "slug": "crusader-kings-iii",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
     "125165": {
       "slug": "diablo-iv",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "125166": {
+      "slug": "battlefield-2042",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": null
     },
     "125174": {
       "slug": "overwatch--1",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
       "data": {
         "console": true,
         "pc": true,
+        "eaPlay": false
+      }
+    },
+    "125624": {
+      "slug": "grounded",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "125764": {
+      "slug": "guilty-gear-strive",
+      "fetchedAt": "2026-08-26T13:49:38.417Z",
+      "data": null
+    },
+    "126290": {
+      "slug": "far-cry-6",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
     "126459": {
       "slug": "valorant",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": false,
-        "pc": true,
-        "eaPlay": false
-      }
-    },
-    "131785": {
-      "slug": "amnesia-rebirth",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "131890": {
-      "slug": "sea-of-stars",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "133004": {
-      "slug": "assassins-creed-valhalla",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "127342": {
+      "slug": "hellblade-ii-senuas-saga",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "127743": {
+      "slug": "lake",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "128097": {
+      "slug": "turnip-boy-commits-tax-evasion",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "129483": {
+      "slug": "monster-train",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "131785": {
+      "slug": "amnesia-rebirth",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "131890": {
+      "slug": "sea-of-stars",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "132058": {
+      "slug": "rogue-legacy-2",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "133004": {
+      "slug": "assassins-creed-valhalla",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "133301": {
+      "slug": "dirt-5",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": true
+      }
+    },
+    "133302": {
+      "slug": "scarlet-nexus",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "133306": {
+      "slug": "call-of-the-sea",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "133307": {
+      "slug": "the-ascent",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "133308": {
+      "slug": "the-medium",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
     "134070": {
       "slug": "mafia-definitive-edition",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "134071": {
       "slug": "mafia-ii-definitive-edition",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "134073": {
       "slug": "mafia-iii-definitive-edition",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "134101": {
+      "slug": "fifa-21",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "134560": {
+      "slug": "metal-hellsinger",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "134588": {
       "slug": "kena-bridge-of-spirits",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "134595": {
+      "slug": "hitman-3",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "134602": {
+      "slug": "bugsnax",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "134706": {
+      "slug": "star-wars-squadrons",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "135243": {
       "slug": "it-takes-two",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": true
+      }
+    },
+    "135254": {
+      "slug": "crash-bandicoot-4-its-about-time",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "135789": {
+      "slug": "townscaper",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
-    "136604": {
-      "slug": "control-ultimate-edition",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "136625": {
-      "slug": "hogwarts-legacy",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "135994": {
+      "slug": "avowed",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
+        "eaPlay": false
+      }
+    },
+    "135995": {
+      "slug": "as-dusk-falls",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "135998": {
+      "slug": "warhammer-40000-darktide",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "136000": {
+      "slug": "the-gunk",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "136604": {
+      "slug": "control-ultimate-edition",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "136625": {
+      "slug": "hogwarts-legacy",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
         "eaPlay": false
       }
     },
     "136993": {
       "slug": "gotham-knights",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "137001": {
+      "slug": "call-of-duty-black-ops-cold-war",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "138590": {
+      "slug": "powerwash-simulator",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "138858": {
+      "slug": "ender-lilies-quietus-of-the-knights",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "138906": {
+      "slug": "the-invincible",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "138950": {
+      "slug": "monster-hunter-rise",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "139090": {
       "slug": "inscryption",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
+    },
+    "140617": {
+      "slug": "the-dark-pictures-anthology-house-of-ashes",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
     },
     "141503": {
       "slug": "forza-horizon-5",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "141533": {
+      "slug": "loop-hero",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "141538": {
+      "slug": "the-callisto-protocol",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "141543": {
+      "slug": "road-96",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "141547": {
+      "slug": "evil-west",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "141704": {
+      "slug": "venba",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "142415": {
+      "slug": "indiana-jones-and-the-great-circle",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
-    "142415": {
-      "slug": "indiana-jones-and-the-great-circle",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "143612": {
+      "slug": "neon-white",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "144022": {
+      "slug": "sifu",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "144072": {
+      "slug": "hot-wheels-unleashed",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "144465": {
+      "slug": "teenage-mutant-ninja-turtles-shredders-revenge",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "144765": {
+      "slug": "life-is-strange-true-colors",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "145089": {
+      "slug": "nobody-saves-the-world",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "145099": {
+      "slug": "deaths-door",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "145937": {
+      "slug": "little-kitty-big-city",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
@@ -880,36 +2848,175 @@
     },
     "148241": {
       "slug": "lies-of-p",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "149657": {
       "slug": "blue-prince",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "150010": {
+      "slug": "sonic-frontiers",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "151665": {
+      "slug": "palworld",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "152061": {
+      "slug": "tiny-tinas-wonderlands",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "152071": {
+      "slug": "planet-of-lana",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "152124": {
+      "slug": "bramble-the-mountain-king",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "152180": {
+      "slug": "a-little-to-the-left",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "152203": {
+      "slug": "trek-to-yomi",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "152242": {
+      "slug": "a-plague-tale-requiem",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
     "152249": {
       "slug": "marvels-guardians-of-the-galaxy",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "152271": {
       "slug": "citizen-sleeper",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "154775": {
+      "slug": "robocop-rogue-city",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "154986": {
+      "slug": "fifa-22",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "159029": {
+      "slug": "xdefiant",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "159298": {
+      "slug": "yu-gi-oh-master-duel",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "164867": {
+      "slug": "dredge",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "165067": {
+      "slug": "call-of-duty-vanguard",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "165346": {
+      "slug": "saints-row--1",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "165347": {
+      "slug": "marvels-midnight-suns",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "165351": {
+      "slug": "cult-of-the-lamb",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "165390": {
+      "slug": "blasphemous-ii",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "166722": {
+      "slug": "the-case-of-the-golden-idol",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "166824": {
+      "slug": "indika",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "176057": {
+      "slug": "poppy-playtime",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "178361": {
+      "slug": "the-dark-pictures-anthology-the-devil-in-me",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "182278": {
+      "slug": "multiversus",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "185246": {
       "slug": "alan-wake-ii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "185252": {
       "slug": "warhammer-40000-space-marine-ii",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
@@ -918,30 +3025,234 @@
     },
     "186725": {
       "slug": "vampire-survivors",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "201156": {
-      "slug": "star-wars-jedi-survivor",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": {
-        "console": true,
-        "pc": false,
-        "eaPlay": true
-      }
-    },
-    "251833": {
-      "slug": "balatro",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "191435": {
+      "slug": "animal-well",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "191692": {
+      "slug": "street-fighter-6",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "194404": {
+      "slug": "the-quarry",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "194821": {
+      "slug": "nine-sols",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "195517": {
+      "slug": "return-to-monkey-island",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "198499": {
+      "slug": "chants-of-sennaar",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "199116": {
+      "slug": "brotato",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "201156": {
+      "slug": "star-wars-jedi-survivor",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": true
+      }
+    },
+    "204618": {
+      "slug": "high-on-life",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "204623": {
+      "slug": "pentiment",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "204627": {
+      "slug": "cocoon",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "204628": {
+      "slug": "wo-long-fallen-dynasty",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "205780": {
+      "slug": "fifa-23",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "208476": {
+      "slug": "the-first-descendant",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "213639": {
+      "slug": "my-hero-ultra-rumble",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "214417": {
+      "slug": "the-finals",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "215060": {
+      "slug": "assassins-creed-mirage",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
+    "217554": {
+      "slug": "octopath-traveler-ii",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "217590": {
+      "slug": "tekken-8",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "217623": {
+      "slug": "like-a-dragon-infinite-wealth",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "219442": {
+      "slug": "need-for-speed-unbound",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": true
+      }
+    },
+    "228258": {
+      "slug": "amnesia-the-bunker",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "228535": {
+      "slug": "remnant-ii",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "228539": {
+      "slug": "banishers-ghosts-of-new-eden",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "228542": {
+      "slug": "armored-core-vi-fires-of-rubicon",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "233585": {
+      "slug": "hi-fi-rush",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "239392": {
+      "slug": "mortal-kombat-1--1",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "250621": {
+      "slug": "neva",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "251833": {
+      "slug": "balatro",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "252476": {
+      "slug": "prince-of-persia-the-lost-crown",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": false,
+        "eaPlay": false
+      }
+    },
     "252826": {
       "slug": "south-of-midnight",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
@@ -950,50 +3261,89 @@
     },
     "252827": {
       "slug": "star-wars-outlaws",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": false,
         "eaPlay": false
       }
     },
+    "252836": {
+      "slug": "jusant",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "252837": {
+      "slug": "still-wakes-the-deep",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "256092": {
+      "slug": "ea-sports-fc-24",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
     "275404": {
       "slug": "the-exit-8",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "279634": {
       "slug": "dragon-ball-sparking-zero",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "279661": {
       "slug": "monster-hunter-wilds",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "290911": {
+      "slug": "nobody-wants-to-die",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
     "294041": {
       "slug": "marvel-rivals",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     },
-    "300976": {
-      "slug": "assassins-creed-shadows",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
-      "data": null
-    },
-    "305152": {
-      "slug": "clair-obscur-expedition-33",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+    "298526": {
+      "slug": "kingdom-come-deliverance-ii",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": {
         "console": true,
         "pc": true,
         "eaPlay": false
       }
     },
+    "300976": {
+      "slug": "assassins-creed-shadows",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "302156": {
+      "slug": "call-of-duty-black-ops-6",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
+    "305152": {
+      "slug": "clair-obscur-expedition-33",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": {
+        "console": true,
+        "pc": true,
+        "eaPlay": false
+      }
+    },
+    "308698": {
+      "slug": "ea-sports-fc-25",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
+      "data": null
+    },
     "325594": {
       "slug": "split-fiction",
-      "fetchedAt": "2026-08-25T17:35:42.246Z",
+      "fetchedAt": "2026-08-26T13:49:38.418Z",
       "data": null
     }
   }

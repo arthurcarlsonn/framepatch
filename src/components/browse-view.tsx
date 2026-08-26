@@ -88,7 +88,7 @@ export function BrowseView() {
         </h1>
         <p className="text-muted-foreground mt-2 text-[15px]">
           {games.length} {games.length === 1 ? "title" : "titles"} indexed from IGDB, with
-          FrameCheck frame rate verification layered on top.
+          FramePatch frame rate verification layered on top.
         </p>
       </header>
 

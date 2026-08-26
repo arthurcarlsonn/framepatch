@@ -5,14 +5,73 @@ export const USER_AGENT =
 
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const lastCallByHost = new Map();
+/** Next free send slot per host. */
+const nextSlotByHost = new Map();
 
-/** Keeps at least `gapMs` between calls to the same host so we stay a polite client. */
+/**
+ * Keeps at least `gapMs` between calls to the same host, and does so correctly when several
+ * callers are in flight at once.
+ *
+ * The obvious version — read the last call time, sleep the difference, then stamp the clock —
+ * works only when one caller is ever waiting. Twenty concurrent callers all read the same
+ * timestamp, all compute the same delay, all sleep in parallel, and all fire together: the
+ * gap turns into a burst, which is exactly what a rate limiter counts.
+ *
+ * So each caller *reserves* its slot instead. The read-and-write happens with no `await`
+ * between, which on a single-threaded runtime makes it atomic, so every caller gets its own
+ * slot `gapMs` after the last one. That makes this a real limiter for the host — the size of
+ * any worker pool above it changes throughput not at all.
+ */
 async function pace(url, gapMs) {
   const host = new URL(url).host;
-  const wait = (lastCallByHost.get(host) ?? 0) + gapMs - Date.now();
-  if (wait > 0) await sleep(wait);
-  lastCallByHost.set(host, Date.now());
+  const now = Date.now();
+  const slot = Math.max(now, nextSlotByHost.get(host) ?? 0);
+  nextSlotByHost.set(host, slot + gapMs * (backoffByHost.get(host) ?? 1));
+  if (slot > now) await sleep(slot - now);
+}
+
+/**
+ * Adaptive pacing.
+ *
+ * A configured gap is a guess about someone else's rate limit, and the guess is usually
+ * wrong: the published number may not match the enforced one, it can differ per endpoint,
+ * and a burst can leave an account in a cooldown far longer than the window suggests. Rather
+ * than tune a constant by trial and error, widen the gap whenever the host pushes back and
+ * let it drift home while it does not.
+ *
+ * Multiplicative widening, gentle linear recovery — the same shape as TCP congestion control,
+ * for the same reason: overshooting is expensive and cheap to avoid.
+ */
+const backoffByHost = new Map();
+const streakByHost = new Map();
+
+const MAX_BACKOFF = 12;
+/** Successes needed before easing off, so recovery cannot outrun the limiter's window. */
+const RECOVERY_STREAK = 25;
+
+function widen(host) {
+  streakByHost.set(host, 0);
+  const next = Math.min((backoffByHost.get(host) ?? 1) * 1.6, MAX_BACKOFF);
+  backoffByHost.set(host, next);
+  // Push the queue out too, so callers already holding a slot do not pile straight back in.
+  nextSlotByHost.set(host, Math.max(nextSlotByHost.get(host) ?? 0, Date.now() + 2_000));
+}
+
+function narrow(host) {
+  const current = backoffByHost.get(host) ?? 1;
+  if (current <= 1) return;
+  const streak = (streakByHost.get(host) ?? 0) + 1;
+  if (streak < RECOVERY_STREAK) {
+    streakByHost.set(host, streak);
+    return;
+  }
+  streakByHost.set(host, 0);
+  backoffByHost.set(host, Math.max(1, current * 0.85));
+}
+
+/** Current gap multiplier per host — worth logging at the end of a long run. */
+export function pacingState() {
+  return Object.fromEntries([...backoffByHost].map(([host, mult]) => [host, Number(mult.toFixed(2))]));
 }
 
 export class HttpError extends Error {
@@ -21,6 +80,19 @@ export class HttpError extends Error {
     this.status = status;
     this.body = body;
   }
+}
+
+/**
+ * How long a 429 wants us to wait, from the `Retry-After` header or from the delay APIs
+ * often state in the body instead. Guessing an exponential backoff against a limiter that
+ * has already told you the answer just burns the retries.
+ */
+function retryAfterMs(res, body) {
+  const header = Number(res.headers.get("retry-after"));
+  if (Number.isFinite(header) && header > 0) return Math.min(header, 120) * 1000;
+  const stated = /retry after (\d+)\s*s/i.exec(body ?? "");
+  if (stated) return Math.min(Number(stated[1]), 120) * 1000;
+  return null;
 }
 
 /**
@@ -40,11 +112,15 @@ export async function request(url, { method = "GET", headers = {}, body, gapMs =
         body,
         signal: controller.signal,
       });
-      if (res.ok) return res;
+      if (res.ok) {
+        narrow(new URL(url).host);
+        return res;
+      }
       const text = await res.text().catch(() => "");
       if (res.status === 429 || res.status >= 500) {
         lastError = new HttpError(res.status, url, text);
-        await sleep(800 * (attempt + 1));
+        if (res.status === 429) widen(new URL(url).host);
+        await sleep(retryAfterMs(res, text) ?? 800 * (attempt + 1));
         continue;
       }
       throw new HttpError(res.status, url, text);

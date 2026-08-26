@@ -42,30 +42,67 @@ export async function writeSource(source, table) {
 /**
  * Runs `task` for each game and folds the results into the cached table.
  *
+ * Pass `isStale(existing, game)` to invalidate a single cached entry regardless of its age,
+ * `checkpointEvery` to flush the table mid-run so a long pass survives an interruption, and
+ * `concurrency` to run several games at once. Concurrency defaults to 1: the storefront
+ * adapters are deliberately paced, and only the enrichment worker is slow enough to want it.
+ *
  * A task may return a record (stored), `null` (this source has nothing for the game —
  * remembered so we do not retry it every run), or throw (kept as an error, previous data
  * preserved). One failing game never fails the run.
  */
-export async function syncEntries(source, games, task, { force = false, maxAgeDays = 7, onProgress } = {}) {
+export async function syncEntries(
+  source,
+  games,
+  task,
+  { force = false, maxAgeDays = 7, onProgress, isStale, checkpointEvery = 0, concurrency = 1 } = {},
+) {
   const table = await readSource(source);
   const now = Date.now();
   const maxAge = maxAgeDays * 24 * 60 * 60 * 1000;
   const stats = { ok: 0, skipped: 0, empty: 0, failed: 0 };
 
+  // Freshness is decided up front so the workers only ever see real work.
+  const pending = [];
   for (const game of games) {
     const key = String(game.igdbId);
     const existing = table.entries[key];
-    const fresh = existing?.fetchedAt && now - Date.parse(existing.fetchedAt) < maxAge;
+    const fresh =
+      existing?.fetchedAt &&
+      now - Date.parse(existing.fetchedAt) < maxAge &&
+      // An age check alone cannot see a game that shipped a patch yesterday. `isStale` lets a
+      // caller invalidate one entry on its own terms — see scripts/enrich.mjs.
+      !isStale?.(existing, game);
     if (!force && fresh) {
       stats.skipped++;
       continue;
     }
+    pending.push({ game, key, existing });
+  }
 
+  let settled = 0;
+  let writing = false;
+
+  // Two checkpoints must not overlap: they serialise the same table, and a half-written
+  // cache is worse than a slightly older one. Skipping is safe — the next one catches up.
+  const checkpoint = async () => {
+    if (writing) return;
+    writing = true;
+    try {
+      table.source = source;
+      table.syncedAt = new Date().toISOString();
+      await writeSource(source, table);
+    } finally {
+      writing = false;
+    }
+  };
+
+  const runOne = async ({ game, key, existing }) => {
     try {
       const data = await task(game);
       table.entries[key] = {
         slug: game.slug,
-        fetchedAt: new Date(now).toISOString(),
+        fetchedAt: new Date().toISOString(),
         data: data ?? null,
       };
       if (data) stats.ok++;
@@ -76,12 +113,24 @@ export async function syncEntries(source, games, task, { force = false, maxAgeDa
         ...(existing ?? { slug: game.slug, data: null }),
         slug: game.slug,
         lastError: `${error.message}`.slice(0, 200),
-        lastErrorAt: new Date(now).toISOString(),
+        lastErrorAt: new Date().toISOString(),
       };
       stats.failed++;
     }
+
+    settled++;
     onProgress?.(stats);
-  }
+    if (checkpointEvery && settled % checkpointEvery === 0) await checkpoint();
+  };
+
+  // A fixed pool rather than a chunked barrier, so a slow game never idles the others.
+  let cursor = 0;
+  const workers = Math.max(1, Math.min(concurrency, pending.length));
+  await Promise.all(
+    Array.from({ length: workers }, async () => {
+      while (cursor < pending.length) await runOne(pending[cursor++]);
+    }),
+  );
 
   table.source = source;
   table.syncedAt = new Date().toISOString();

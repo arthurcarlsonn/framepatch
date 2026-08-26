@@ -32,6 +32,7 @@ import {
 } from "@/components/ui/breadcrumb";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
+import { CONFIDENCE_LABEL } from "@/lib/fps";
 import {
   appTypeLabel,
   formatDate,
@@ -42,7 +43,13 @@ import {
   targetsFor,
   verifiedOn,
 } from "@/lib/games";
-import { PLATFORM_LABEL, PLATFORMS, type FullGame, type Game } from "@/lib/types";
+import {
+  PLATFORM_LABEL,
+  PLATFORMS,
+  type ConsoleTarget,
+  type FullGame,
+  type Game,
+} from "@/lib/types";
 import { cn } from "@/lib/utils";
 
 const ALL_PLATFORM_LABELS = [
@@ -229,15 +236,7 @@ export function GameDetail({ game }: { game: FullGame }) {
               </h2>
               <div className="surface divide-border/70 divide-y overflow-hidden">
                 {targets.map((t) => (
-                  <div key={t.model} className="flex items-center justify-between gap-4 px-4 py-3.5">
-                    <div className="min-w-0">
-                      <p className="text-sm font-medium">{t.model}</p>
-                      {t.mode ? (
-                        <p className="text-muted-foreground mt-0.5 text-xs">{t.mode}</p>
-                      ) : null}
-                    </div>
-                    <FpsBadge fps={t.fps} />
-                  </div>
+                  <ModelRow key={t.modelId} target={t} />
                 ))}
               </div>
               {game.verdict ? (
@@ -248,16 +247,25 @@ export function GameDetail({ game }: { game: FullGame }) {
 
           {isVerified && game.patch ? (
             <section className="surface grid gap-5 p-5 sm:grid-cols-2">
-              <Field label="Patch type" value={game.patch.type} />
-              <Field label="Date of update" value={game.patch.date} />
-              <Field label="Last verified" value={game.patch.verified} />
+              <Field label="What changed" value={game.patch.type} />
+              <Field label="Date of update" value={game.patch.date || "Not stated"} />
+              <Field label="Last verified" value={game.patch.verified || "—"} />
               <Field
                 label="Validation source"
                 value={
-                  <span className="text-primary inline-flex items-center gap-1.5 font-medium">
-                    {game.patch.source}
-                    <ExternalLinkIcon className="size-3.5" />
-                  </span>
+                  game.patch.url ? (
+                    <a
+                      href={game.patch.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-primary hover:text-primary/80 inline-flex items-center gap-1.5 font-medium underline-offset-4 transition-colors hover:underline"
+                    >
+                      {game.patch.source}
+                      <ExternalLinkIcon className="size-3.5" />
+                    </a>
+                  ) : (
+                    game.patch.source
+                  )
                 }
               />
             </section>
@@ -282,6 +290,8 @@ export function GameDetail({ game }: { game: FullGame }) {
 
           <StorePanel game={game} />
 
+          <SourceList game={game} />
+
           {isVerified && game.history.length > 0 ? (
             <section className="surface p-5">
               <h2 className="text-muted-foreground mb-4 text-[11px] font-semibold tracking-[0.09em] uppercase">
@@ -298,7 +308,19 @@ export function GameDetail({ game }: { game: FullGame }) {
                       )}
                     />
                     <p className="text-sm font-medium">{event.date}</p>
-                    <p className="text-muted-foreground text-sm">{event.label}</p>
+                    {event.url ? (
+                      <a
+                        href={event.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-muted-foreground hover:text-foreground inline-flex items-center gap-1.5 text-sm underline-offset-4 transition-colors hover:underline"
+                      >
+                        {event.label}
+                        <ExternalLinkIcon className="size-3" />
+                      </a>
+                    ) : (
+                      <p className="text-muted-foreground text-sm">{event.label}</p>
+                    )}
                   </li>
                 ))}
               </ol>
@@ -321,6 +343,95 @@ export function GameDetail({ game }: { game: FullGame }) {
   );
 }
 
+const APP_TYPE_LABEL = {
+  native: "Native app",
+  backcompat: "Backwards compatible",
+  unknown: "App type unconfirmed",
+};
+
+/** One console model: its headline figure, then every mode a source actually documented. */
+function ModelRow({ target }: { target: ConsoleTarget }) {
+  const detailed = target.modes.filter((m) => m.name !== "Default" || m.resolution || m.note);
+
+  return (
+    <div className="px-4 py-3.5">
+      <div className="flex items-center justify-between gap-4">
+        <div className="min-w-0">
+          <p className="text-sm font-medium">{target.model}</p>
+          <p className="text-muted-foreground mt-0.5 text-xs">
+            {APP_TYPE_LABEL[target.appType]} · {CONFIDENCE_LABEL[target.confidence]}
+          </p>
+        </div>
+        <FpsBadge fps={target.fps} />
+      </div>
+
+      {detailed.length > 0 ? (
+        <dl className="border-border/60 mt-3 space-y-2 border-t pt-3">
+          {detailed.map((mode) => (
+            <div key={mode.name}>
+              <div className="flex items-baseline justify-between gap-3 text-xs">
+                <dt className="text-muted-foreground">
+                  {mode.name}
+                  {mode.resolution ? ` · ${mode.resolution}` : ""}
+                </dt>
+                <dd className="font-medium tabular-nums">
+                  {mode.targetFps
+                    ? `${mode.unlocked ? "up to " : ""}${mode.targetFps} FPS${mode.vrr ? " · VRR" : ""}`
+                    : "Frame rate not stated"}
+                </dd>
+              </div>
+              {mode.note ? (
+                <p className="text-muted-foreground/80 mt-0.5 text-[11px]">{mode.note}</p>
+              ) : null}
+            </div>
+          ))}
+        </dl>
+      ) : null}
+    </div>
+  );
+}
+
+/**
+ * Every figure above rests on something a reader can open. A record with no sources is a
+ * hand-curated entry, which carries its own verification — see src/lib/fps.ts.
+ */
+function SourceList({ game }: { game: FullGame }) {
+  if (game.evidence.length === 0) return null;
+
+  return (
+    <section className="surface p-5">
+      <h2 className="text-muted-foreground mb-4 text-[11px] font-semibold tracking-[0.09em] uppercase">
+        Sources
+      </h2>
+      <ol className="space-y-4">
+        {game.evidence.map((source) => (
+          <li key={source.url}>
+            <a
+              href={source.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:text-primary/80 inline-flex items-center gap-1.5 text-sm font-medium underline-offset-4 transition-colors hover:underline"
+            >
+              {source.publisher ?? source.title ?? source.url}
+              <ExternalLinkIcon className="size-3.5" />
+            </a>
+            {source.quote ? (
+              <p className="text-muted-foreground border-border/70 mt-1.5 border-l-2 pl-3 text-sm italic">
+                {source.quote}
+              </p>
+            ) : null}
+          </li>
+        ))}
+      </ol>
+      {game.lastVerified ? (
+        <p className="text-muted-foreground mt-4 text-xs">
+          Last verified {formatDate(game.lastVerified)}
+        </p>
+      ) : null}
+    </section>
+  );
+}
+
 function VerdictBanner({
   fps,
   label,
@@ -337,11 +448,14 @@ function VerdictBanner({
   const accent =
     tier === "high" ? "text-fps-high" : tier === "mid" ? "text-fps-mid" : "text-fps-good";
 
+  const sources = game.evidence.length;
   const subtitle = game.patch
     ? `${game.patch.type} — ${game.patch.source}.`
     : locked
       ? "No frame rate patch has been released for this title."
-      : `${appTypeLabel(game, platform)} build verified by FrameCheck.`;
+      : sources > 0
+        ? `${appTypeLabel(game, platform)} · ${CONFIDENCE_LABEL[game.confidence]}, ${sources} ${sources === 1 ? "source" : "sources"}.`
+        : `${appTypeLabel(game, platform)} build verified by FramePatch.`;
 
   return (
     <div
@@ -420,8 +534,8 @@ function NotOnPlatform({ game }: { game: FullGame }) {
       </h1>
       <p className="text-muted-foreground mt-2 text-sm">
         {available.length > 0
-          ? `FrameCheck has data for ${available.map((p) => p.name).join(", ")}. Switch consoles to see it.`
-          : "FrameCheck does not track this title on any current-gen console."}
+          ? `FramePatch has data for ${available.map((p) => p.name).join(", ")}. Switch consoles to see it.`
+          : "FramePatch does not track this title on any current-gen console."}
       </p>
       {available.length > 0 ? (
         <div className="mt-6 flex justify-center">

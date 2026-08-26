@@ -1,0 +1,4086 @@
+{
+  "source": "crawlora",
+  "syncedAt": "2026-08-25T19:10:48.432Z",
+  "entries": {
+    "359": {
+      "slug": "final-fantasy-xv",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0082-CUSA01633_00-FFXVROYALEDITION",
+        "conceptId": "201597",
+        "name": "FINAL FANTASY XV",
+        "url": "https://store.playstation.com/en-us/concept/201597",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "SQUARE ENIX CO. LTD.",
+        "releaseDate": "2016-11-29T00:00:00Z",
+        "editions": [
+          "FINAL FANTASY XV ROYAL EDITION",
+          "FINAL FANTASY XV MULTIPLAYER: COMRADES"
+        ],
+        "price": 34.99,
+        "regularPrice": 34.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "386": {
+      "slug": "final-fantasy-xiv-online--1",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0082-PPSA02954_00-STARTEREDITION00",
+        "conceptId": "201579",
+        "name": "FINAL FANTASY XIV Online",
+        "url": "https://store.playstation.com/en-us/concept/201579",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "SQUARE ENIX CO. LTD.",
+        "releaseDate": "2021-05-25T10:00:00Z",
+        "editions": [
+          "Starter Edition",
+          "Complete Edition",
+          "Complete Collector’s Ed.",
+          "Free Trial",
+          "PS5 Upgrade Edition"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "434": {
+      "slug": "red-dead-redemption",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1004-PPSA30528_00-REDEMPTION000001",
+        "conceptId": "10006164",
+        "name": "Red Dead Redemption (PS4 & PS5)",
+        "url": "https://store.playstation.com/en-us/product/UP1004-PPSA30528_00-REDEMPTION000001",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Rockstar Games",
+        "releaseDate": "2025-12-02T05:00:00Z",
+        "editions": [],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "545": {
+      "slug": "call-of-duty-black-ops",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-PPSA34501_00-CODBO1GAME000001",
+        "conceptId": "10017657",
+        "name": "Call of Duty®: Black Ops",
+        "url": "https://store.playstation.com/en-us/concept/10017657",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Activision",
+        "releaseDate": "2026-07-09T17:00:00Z",
+        "editions": [
+          "Call of Duty®: Black Ops"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "885": {
+      "slug": "super-meat-boy",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1055-CUSA02845_00-SUPERMEATBOY0000",
+        "conceptId": "204051",
+        "name": "Super Meat Boy!",
+        "url": "https://store.playstation.com/en-us/concept/204051",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Nycrama LLC",
+        "releaseDate": "2015-10-05T00:00:00Z",
+        "editions": [
+          "Super Meat Boy"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1020": {
+      "slug": "grand-theft-auto-v",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1004-PPSA03420_00-GTAOSTANDALONE01",
+        "conceptId": "201930",
+        "name": "Grand Theft Auto V (PlayStation®5)",
+        "url": "https://store.playstation.com/en-us/concept/201930",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Rockstar Games",
+        "releaseDate": "2014-11-18T00:00:00Z",
+        "editions": [
+          "Grand Theft Auto Online (PlayStation®5)",
+          "Grand Theft Auto V (PS4™ & PS5™)",
+          "Grand Theft Auto V and Great White Shark Card Bundle"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1081": {
+      "slug": "the-elder-scrolls-online",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-PPSA02017_00-ESOMORROWINDBUND",
+        "conceptId": "204861",
+        "name": "The Elder Scrolls Online",
+        "url": "https://store.playstation.com/en-us/concept/204861",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2015-06-08T00:00:00Z",
+        "editions": [
+          "Deluxe Edition",
+          "Standard Edition",
+          "The Elder Scrolls Online (PS4)",
+          "The Elder Scrolls Online (PS5)"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1122": {
+      "slug": "call-of-duty-black-ops-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-PPSA34502_00-CODBO2GAME000001",
+        "conceptId": "10017658",
+        "name": "Call of Duty®: Black Ops II",
+        "url": "https://store.playstation.com/en-us/concept/10017658",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Activision",
+        "releaseDate": "2026-07-09T17:00:00Z",
+        "editions": [
+          "Call of Duty®: Black Ops II"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1262": {
+      "slug": "south-park-the-stick-of-truth",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA04768_00-SOUTHPARKTSOT001",
+        "conceptId": "204162",
+        "name": "South Park™: The Stick of Truth™",
+        "url": "https://store.playstation.com/en-us/concept/204162",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2018-02-13T00:00:00Z",
+        "editions": [
+          "South Park™: The Stick of Truth™"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1331": {
+      "slug": "limbo",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2054-CUSA01664_00-PLAYDEADD11LIMBO",
+        "conceptId": "202533",
+        "name": "LIMBO",
+        "url": "https://store.playstation.com/en-us/concept/202533",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Playdead ApS",
+        "releaseDate": "2015-02-24T00:00:00Z",
+        "editions": [
+          "LIMBO",
+          "LIMBO & INSIDE Bundle"
+        ],
+        "price": 12.49,
+        "regularPrice": 12.49,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1334": {
+      "slug": "brothers-a-tale-of-two-sons",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4040-CUSA02297_00-BROTHERSLICENSE4",
+        "conceptId": "200617",
+        "name": "Brothers : a Tale of Two Sons",
+        "url": "https://store.playstation.com/en-us/concept/200617",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "505 Games",
+        "releaseDate": "2015-08-11T00:00:00Z",
+        "editions": [
+          "Brothers: a Tale of two Sons"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1871": {
+      "slug": "the-walking-dead",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2026-CUSA01019_00-TWDS10000000GAME",
+        "conceptId": "204868",
+        "name": "The Walking Dead: The Complete First Season",
+        "url": "https://store.playstation.com/en-us/product/UP2026-CUSA01019_00-TWDS10000000GAME",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "SKYBOUND INTERACTIVE LLC",
+        "releaseDate": "2014-10-14T00:00:00Z",
+        "editions": [],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1877": {
+      "slug": "cyberpunk-2077",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4497-PPSA03974_00-0000000000000CP1",
+        "conceptId": "234567",
+        "name": "Cyberpunk 2077",
+        "url": "https://store.playstation.com/en-us/concept/234567",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "CD PROJEKT SA",
+        "releaseDate": "2020-12-10T06:00:00Z",
+        "editions": [
+          "Cyberpunk 2077",
+          "Cyberpunk 2077: Ultimate Edition (PS5)",
+          "Cyberpunk 2077"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1879": {
+      "slug": "terraria",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4040-CUSA00740_00-TERRARIA00000001",
+        "conceptId": "205080",
+        "name": "Terraria – PlayStation®4 Edition",
+        "url": "https://store.playstation.com/en-us/concept/205080",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "505 Games",
+        "releaseDate": "2014-11-11T00:00:00Z",
+        "editions": [
+          "Terraria – PlayStation®4 Edition",
+          "Terraria: PS4™ Edition Demo"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1905": {
+      "slug": "fortnite",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1477-PPSA01922_00-FNBNDL0000000000",
+        "conceptId": "228748",
+        "name": "Fortnite",
+        "url": "https://store.playstation.com/en-us/concept/228748",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Epic Games",
+        "releaseDate": "2017-07-20T00:00:00Z",
+        "editions": [
+          "Fortnite",
+          "Fortnite Battle Royale",
+          "Fortnite Festival",
+          "Fortnite OG",
+          "Fortnite Save the World",
+          "LEGO® Fortnite Brick Life"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "1910": {
+      "slug": "outlast",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2113-CUSA00325_00-OUTLAST000000000",
+        "conceptId": "203196",
+        "name": "Outlast",
+        "url": "https://store.playstation.com/en-us/concept/203196",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Red Barrels",
+        "releaseDate": "2014-02-04T00:00:00Z",
+        "editions": [
+          "Outlast",
+          "Outlast: Bundle of Terror"
+        ],
+        "price": 3.74,
+        "regularPrice": 14.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "1911": {
+      "slug": "path-of-exile",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4781-PPSA21416_00-GGGPS5GAMEFULL01",
+        "conceptId": "231987",
+        "name": "Path of Exile",
+        "url": "https://store.playstation.com/en-us/concept/231987",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "GRINDING GEAR GAMES LIMITED",
+        "releaseDate": "2019-03-25T00:00:00Z",
+        "editions": [
+          "Path of Exile: Path of Exile 2 Founder's Pack - Path of Exile 2 Early Access",
+          "Path of Exile",
+          "Path of Exile"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "1942": {
+      "slug": "the-witcher-3-wild-hunt",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4497-PPSA03972_00-00000000000GOTY7",
+        "conceptId": "204794",
+        "name": "The Witcher 3: Wild Hunt",
+        "url": "https://store.playstation.com/en-us/concept/204794",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "CD PROJEKT SA",
+        "releaseDate": "2022-12-14T05:00:00Z",
+        "editions": [
+          "The Witcher 3: Wild Hunt – Complete Edition",
+          "The Witcher 3: Wild Hunt"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1970": {
+      "slug": "assassins-creed-iv-black-flag",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA00010_00-AC4GAMEPS4000001",
+        "conceptId": "200089",
+        "name": "Assassin's Creed® IV Black Flag",
+        "url": "https://store.playstation.com/en-us/concept/200089",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2013-11-15T00:00:00Z",
+        "editions": [
+          "Assassin’s Creed® IV Black Flag™",
+          "Assassin’s Creed®IV Black Flag™ Gold Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "1983": {
+      "slug": "bastion",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2125-CUSA02052_00-BASTIONGAME00000",
+        "conceptId": "200404",
+        "name": "Bastion",
+        "url": "https://store.playstation.com/en-us/concept/200404",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Supergiant Games, LLC",
+        "releaseDate": "2015-04-06T00:00:00Z",
+        "editions": [
+          "Bastion"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "2114": {
+      "slug": "tom-clancy-s-the-division",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA01810_00-THEDIVISION00001",
+        "conceptId": "204941",
+        "name": "Tom Clancy's The Division™",
+        "url": "https://store.playstation.com/en-us/concept/204941",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2016-03-08T00:00:00Z",
+        "editions": [
+          "Tom Clancy’s The Division™",
+          "Tom Clancy’s The Division - Definitive Edition",
+          "Tom Clancy's The Division® Premium Credits Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "2117": {
+      "slug": "dayz",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2739-CUSA15510_00-DAYZ000000000001",
+        "conceptId": "221850",
+        "name": "DayZ",
+        "url": "https://store.playstation.com/en-us/concept/221850",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "BOHEMIA INTERACTIVE A.S.",
+        "releaseDate": "2019-05-29T00:00:00Z",
+        "editions": [
+          "DayZ",
+          "DayZ Cool Edition"
+        ],
+        "price": 54.99,
+        "regularPrice": 54.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "2126": {
+      "slug": "hotline-miami-2-wrong-number",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3643-PPSA11355_00-3716880328179244",
+        "conceptId": "10006547",
+        "name": "Hotline Miami 2: Wrong Number",
+        "url": "https://store.playstation.com/en-us/concept/10006547",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Devolver Digital",
+        "releaseDate": "2023-10-23T16:00:00Z",
+        "editions": [
+          "Hotline Miami 2: Wrong Number"
+        ],
+        "price": 2.99,
+        "regularPrice": 14.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "2903": {
+      "slug": "warframe",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2097-PPSA01737_00-WARFRAMEPS500000",
+        "conceptId": "205342",
+        "name": "Warframe",
+        "url": "https://store.playstation.com/en-us/concept/205342",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Digital Extremes",
+        "releaseDate": "2013-11-12T00:00:00Z",
+        "editions": [
+          "Warframe (PS5)",
+          "Warframe"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "2933": {
+      "slug": "kingdom-hearts-iii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0082-CUSA12031_00-KINGDOMHEARTSX30",
+        "conceptId": "208810",
+        "name": "KINGDOM HEARTS Ⅲ",
+        "url": "https://store.playstation.com/en-us/concept/208810",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "SQUARE ENIX CO. LTD.",
+        "releaseDate": "2019-01-29T00:00:00Z",
+        "editions": [
+          "KINGDOM HEARTS III",
+          "KINGDOM HEARTS All-In-One Package"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "3042": {
+      "slug": "dying-light",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1018-CUSA00078_00-DLCLASSICEDITION",
+        "conceptId": "201129",
+        "name": "Dying Light",
+        "url": "https://store.playstation.com/en-us/concept/201129",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Warner Bros. Interactive",
+        "releaseDate": "2015-01-27T00:00:00Z",
+        "editions": [
+          "Essentials Edition",
+          "Definitive Edition",
+          "Dying Light"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "3070": {
+      "slug": "euro-truck-simulator-2",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "10009049",
+        "conceptId": "10009049",
+        "name": "Euro Truck Simulator 2",
+        "url": "https://store.playstation.com/en-us/concept/10009049",
+        "platforms": [],
+        "publisher": "SCS SOFTWARE",
+        "releaseDate": null,
+        "editions": []
+      }
+    },
+    "3097": {
+      "slug": "the-walking-dead-season-two",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2026-CUSA01017_00-TWDS20000000GAME",
+        "conceptId": "204873",
+        "name": "The Walking Dead: Season 2",
+        "url": "https://store.playstation.com/en-us/concept/204873",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Telltale",
+        "releaseDate": "2014-10-20T00:00:00Z",
+        "editions": [
+          "The Walking Dead: Season Two"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "3225": {
+      "slug": "no-man-s-sky",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2034-PPSA02110_00-NOMANSSKYHG00001",
+        "conceptId": "216600",
+        "name": "No Man's Sky",
+        "url": "https://store.playstation.com/en-us/concept/216600",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Hello Games LTD",
+        "releaseDate": "2016-08-08T00:00:00Z",
+        "editions": [
+          "No Man's Sky PS4 & PS5"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "4754": {
+      "slug": "alien-isolation",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0177-CUSA00363_00-ALIENISOLATIONP4",
+        "conceptId": "200213",
+        "name": "Alien: Isolation™",
+        "url": "https://store.playstation.com/en-us/concept/200213",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "SEGA of America, Inc.",
+        "releaseDate": "2014-10-06T00:00:00Z",
+        "editions": [
+          "Alien: Isolation",
+          "Alien: Isolation - THE COLLECTION"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "4843": {
+      "slug": "kingdom-come-deliverance",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP4062-PPSA28731_00-0405812491993057",
+        "conceptId": "227410",
+        "name": "Kingdom Come: Deliverance",
+        "url": "https://store.playstation.com/en-us/concept/227410",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Deep Silver",
+        "releaseDate": "2018-02-13T00:00:00Z",
+        "editions": [
+          "Kingdom Come: Deliverance - Royal Edition",
+          "Kingdom Come: Deliverance",
+          "Kingdom Come: Deliverance Royal Edition",
+          "Kingdom Come: Deliverance"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "5025": {
+      "slug": "to-the-moon",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP0600-PPSA25205_00-0548147438841681",
+        "conceptId": "10012096",
+        "name": "To the Moon",
+        "url": "https://store.playstation.com/en-us/concept/10012096",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Serenity Forge",
+        "releaseDate": "2024-10-08T16:00:00Z",
+        "editions": [
+          "To the Moon",
+          "To the Moon: Sigmund Minisode 1 (Holiday Special)",
+          "To the Moon: Sigmund Minisode 2 (Holiday Special)"
+        ],
+        "price": 9.99,
+        "regularPrice": 9.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "5503": {
+      "slug": "batman-arkham-knight",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1018-CUSA00133_00-BATMANARKHAMKNHT",
+        "conceptId": "200472",
+        "name": "BATMAN™: ARKHAM KNIGHT",
+        "url": "https://store.playstation.com/en-us/concept/200472",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Warner Bros. Interactive",
+        "releaseDate": "2015-06-22T00:00:00Z",
+        "editions": [
+          "Batman™: Arkham Knight",
+          "Batman: Arkham Collection",
+          "Batman™: Arkham Knight Premium Edition"
+        ],
+        "price": 4.99,
+        "regularPrice": 19.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "5606": {
+      "slug": "assassins-creed-unity",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA00663_00-AC4GAMEPS4000001",
+        "conceptId": "200088",
+        "name": "Assassin's Creed® Unity",
+        "url": "https://store.playstation.com/en-us/concept/200088",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2014-11-11T00:00:00Z",
+        "editions": [
+          "Assassin's Creed Unity"
+        ],
+        "price": 7.49,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "6707": {
+      "slug": "tales-from-the-borderlands",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1001-CUSA03817_00-TFTBL0000000GAME",
+        "conceptId": "204836",
+        "name": "Tales from the Borderlands",
+        "url": "https://store.playstation.com/en-us/concept/204836",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "2K",
+        "releaseDate": "2021-02-17T01:00:00Z",
+        "editions": [
+          "Tales from the Borderlands"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "6801": {
+      "slug": "far-cry-4",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA00496_00-FC4GAMEPS4000001",
+        "conceptId": "201624",
+        "name": "Far Cry® 4",
+        "url": "https://store.playstation.com/en-us/concept/201624",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2014-11-18T00:00:00Z",
+        "editions": [
+          "Far Cry® 4  ",
+          "Gold Edition",
+          "Far Cry® 4 Demo"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "7205": {
+      "slug": "superhot",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2613-CUSA09030_00-USSUPERHOTGAME00",
+        "conceptId": "228844",
+        "name": "SUPERHOT",
+        "url": "https://store.playstation.com/en-us/concept/228844",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "SUPERHOT Sp. z o.o.",
+        "releaseDate": "2017-07-20T00:00:00Z",
+        "editions": [
+          "SUPERHOT"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "7334": {
+      "slug": "bloodborne",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-CUSA00900_00-BLOODBORNE000000",
+        "conceptId": "200520",
+        "name": "Bloodborne™",
+        "url": "https://store.playstation.com/en-us/concept/200520",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2015-03-23T00:00:00Z",
+        "editions": [
+          "Bloodborne™",
+          "Bloodborne™ Complete Edition Bundle"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "7342": {
+      "slug": "inside",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2054-CUSA05297_00-INSIDE0000000000",
+        "conceptId": "223663",
+        "name": "INSIDE",
+        "url": "https://store.playstation.com/en-us/concept/223663",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Playdead ApS",
+        "releaseDate": "2016-08-22T00:00:00Z",
+        "editions": [
+          "INSIDE"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "7603": {
+      "slug": "hellblade-senuas-sacrifice",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "227151",
+        "conceptId": "227151",
+        "name": "Hellblade: Senua's Sacrifice™",
+        "url": "https://store.playstation.com/en-us/concept/227151",
+        "platforms": [],
+        "publisher": "NINJA THEORY LIMITED",
+        "releaseDate": "2017-08-07T00:00:00Z",
+        "editions": []
+      }
+    },
+    "8173": {
+      "slug": "overwatch",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-PPSA07805_00-OWORIGINS0000000",
+        "conceptId": "216627",
+        "name": "Overwatch®",
+        "url": "https://store.playstation.com/en-us/concept/216627",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Blizzard Entertainment, Inc.",
+        "releaseDate": "2022-10-04T18:00:00Z",
+        "editions": [
+          "Overwatch®",
+          "Overwatch®"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "8263": {
+      "slug": "assassins-creed-syndicate",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA02389_00-ACVICTORYGAMEPS4",
+        "conceptId": "212339",
+        "name": "Assassin's Creed® Syndicate",
+        "url": "https://store.playstation.com/en-us/concept/212339",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2015-10-22T00:00:00Z",
+        "editions": [
+          "Assassin's Creed Syndicate",
+          "Assassin’s Creed® Syndicate Gold Edition",
+          "Assassin's Creed Triple Pack: Black Flag, Unity, Syndicate"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "9061": {
+      "slug": "cuphead",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP8062-CUSA20499_00-CUPHEAD000000000",
+        "conceptId": "10001369",
+        "name": "Cuphead",
+        "url": "https://store.playstation.com/en-us/concept/10001369",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "StudioMDHR Entertainment",
+        "releaseDate": "2020-06-28T04:00:00Z",
+        "editions": [
+          "Cuphead",
+          "Cuphead & The Delicious Last Course"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "9174": {
+      "slug": "little-nightmares",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0700-PPSA10738_00-LITTLENIGHTMARES",
+        "conceptId": "223059",
+        "name": "Little Nightmares",
+        "url": "https://store.playstation.com/en-us/concept/223059",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bandai Namco Entertainment America Inc.",
+        "releaseDate": "2017-04-27T00:00:00Z",
+        "editions": [
+          "Complete Edition",
+          "Standard Edition"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "9254": {
+      "slug": "subnautica",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP5245-PPSA02452_00-6063362694848820",
+        "conceptId": "232883",
+        "name": "Subnautica",
+        "url": "https://store.playstation.com/en-us/concept/232883",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Unknown Worlds Entertainment, Inc.",
+        "releaseDate": "2018-12-04T00:00:00Z",
+        "editions": [
+          "Subnautica PS4 & PS5"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "9630": {
+      "slug": "fallout-4",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-PPSA09016_00-FALLOUT4FULLGAME",
+        "conceptId": "201511",
+        "name": "Fallout 4",
+        "url": "https://store.playstation.com/en-us/concept/201511",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2015-11-10T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Anniversary Edition",
+          "Fallout 4 AE + Skyrim AE",
+          "G.O.T.Y. Edition"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "9727": {
+      "slug": "soma",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1192-CUSA03333_00-HPL3SOMAGAME2015",
+        "conceptId": "204320",
+        "name": "SOMA",
+        "url": "https://store.playstation.com/en-us/concept/204320",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Frictional Games AB",
+        "releaseDate": "2015-09-21T00:00:00Z",
+        "editions": [
+          "SOMA",
+          "Frictional Collection"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "9730": {
+      "slug": "firewatch",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0146-CUSA04107_00-FIREWATCH0000000",
+        "conceptId": "216211",
+        "name": "Firewatch",
+        "url": "https://store.playstation.com/en-us/concept/216211",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Campo Santo",
+        "releaseDate": "2016-02-09T00:00:00Z",
+        "editions": [
+          "Firewatch",
+          "Firewatch Dynamic Theme Bundle"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "11118": {
+      "slug": "dishonored-2",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-CUSA03642_00-DISHONORED2NAMER",
+        "conceptId": "201017",
+        "name": "Dishonored 2",
+        "url": "https://store.playstation.com/en-us/concept/201017",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2016-11-11T00:00:00Z",
+        "editions": [
+          "Dishonored 2",
+          "Dishonored 2 Demo"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "11133": {
+      "slug": "dark-souls-iii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0700-CUSA03388_00-DARKSOULS3000000",
+        "conceptId": "201190",
+        "name": "DARK SOULS™ III",
+        "url": "https://store.playstation.com/en-us/concept/201190",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Bandai Namco Entertainment America Inc.",
+        "releaseDate": "2016-04-11T00:00:00Z",
+        "editions": [
+          "DARK SOULS™ III",
+          "DARK SOULS™ III - Deluxe Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "11156": {
+      "slug": "horizon-zero-dawn",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA13428_00-HORIZONREMASTER1",
+        "conceptId": "221727",
+        "name": "Horizon Zero Dawn™",
+        "url": "https://store.playstation.com/en-us/concept/221727",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2017-12-05T00:00:00Z",
+        "editions": [
+          "Horizon Zero Dawn™ Remastered",
+          "Horizon Zero Dawn: Complete Edition"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "11198": {
+      "slug": "rocket-league",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2002-CUSA01163_00-ROCKETLEAGUENA01",
+        "conceptId": "203715",
+        "name": "Rocket League®",
+        "url": "https://store.playstation.com/en-us/concept/203715",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Psyonix Inc",
+        "releaseDate": "2015-07-06T00:00:00Z",
+        "editions": [
+          "Rocket League®"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "11233": {
+      "slug": "what-remains-of-edith-finch",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2470-PPSA06207_00-EFINCHPS5SIEA000",
+        "conceptId": "211984",
+        "name": "What Remains of Edith Finch",
+        "url": "https://store.playstation.com/en-us/concept/211984",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Annapurna Interactive",
+        "releaseDate": "2017-04-24T00:00:00Z",
+        "editions": [
+          "What Remains of Edith Finch"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "11737": {
+      "slug": "outer-wilds",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2470-PPSA08101_00-OUTERWILDSSIEA00",
+        "conceptId": "229826",
+        "name": "Outer Wilds",
+        "url": "https://store.playstation.com/en-us/concept/229826",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Annapurna Interactive",
+        "releaseDate": "2019-10-14T00:00:00Z",
+        "editions": [
+          "Outer Wilds",
+          "Archaeologist Edition"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "12517": {
+      "slug": "undertale",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3893-CUSA08801_00-TFSHVCUTPS400084",
+        "conceptId": "228887",
+        "name": "Undertale",
+        "url": "https://store.playstation.com/en-us/concept/228887",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "8-4, Ltd.",
+        "releaseDate": "2017-08-14T00:00:00Z",
+        "editions": [
+          "Undertale",
+          "Undertale"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "13182": {
+      "slug": "far-cry-primal",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA03352_00-PRIMALGAME000001",
+        "conceptId": "201634",
+        "name": "Far Cry® Primal",
+        "url": "https://store.playstation.com/en-us/concept/201634",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2016-02-23T00:00:00Z",
+        "editions": [
+          "Far Cry® Primal",
+          "Apex Edition",
+          "FAR CRY 4 + FAR CRY PRIMAL BUNDLE"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "14593": {
+      "slug": "hollow-knight",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1822-PPSA34970_00-HOLLOWKNIGHTPS50",
+        "conceptId": "232654",
+        "name": "Hollow Knight",
+        "url": "https://store.playstation.com/en-us/concept/232654",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Team Cherry Pty Ltd",
+        "releaseDate": "2018-09-24T00:00:00Z",
+        "editions": [
+          "Hollow Knight Voidheart Edition"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "16992": {
+      "slug": "human-fall-flat",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4395-PPSA02431_00-HFFGAME000000PS5",
+        "conceptId": "227139",
+        "name": "Human Fall Flat",
+        "url": "https://store.playstation.com/en-us/concept/227139",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Curve Digital",
+        "releaseDate": "2021-06-24T13:00:00Z",
+        "editions": [
+          "Human: Fall Flat PS4 & PS5",
+          "Human Fall Flat VR",
+          "Human Fall Flat Franchise Bundle"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "17000": {
+      "slug": "stardew-valley",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2456-CUSA06840_00-STARDEW00000SIEA",
+        "conceptId": "227229",
+        "name": "Stardew Valley",
+        "url": "https://store.playstation.com/en-us/concept/227229",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "ConcernedApe LLC",
+        "releaseDate": "2016-12-13T00:00:00Z",
+        "editions": [
+          "Stardew Valley"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "17269": {
+      "slug": "roblox",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1821-PPSA10990_00-1887411884729257",
+        "conceptId": "223118",
+        "name": "Roblox",
+        "url": "https://store.playstation.com/en-us/concept/223118",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "ROBLOX Corporation",
+        "releaseDate": "2023-10-10T22:00:00Z",
+        "editions": [
+          "Roblox",
+          "Roblox"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "18866": {
+      "slug": "dead-by-daylight",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3509-PPSA02048_00-DEADBYDAYLIGHT00",
+        "conceptId": "227319",
+        "name": "Dead by Daylight",
+        "url": "https://store.playstation.com/en-us/concept/227319",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Starbreeze Publishing AB",
+        "releaseDate": "2017-06-19T00:00:00Z",
+        "editions": [
+          "Dead by Daylight PS4® & PS5®",
+          "Gold Edition",
+          "Jason Edition",
+          "10th Anniversary Edition"
+        ],
+        "price": 11.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1789023540000
+      }
+    },
+    "19085": {
+      "slug": "shadow-tactics-blades-of-the-shogun",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1440-PPSA30364_00-SHADOWTACTICSNA5",
+        "conceptId": "227190",
+        "name": "Shadow Tactics",
+        "url": "https://store.playstation.com/en-us/concept/227190",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "DAEDALIC ENTERTAINMENT GMBH",
+        "releaseDate": "2017-07-31T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "Shadow Tactics: Game+Theme"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "19130": {
+      "slug": "sid-meiers-civilization-vi",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1001-CUSA15322_00-CIV6BASE00000000",
+        "conceptId": "233594",
+        "name": "Sid Meier's Civilization VI",
+        "url": "https://store.playstation.com/en-us/concept/233594",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "2K",
+        "releaseDate": null,
+        "editions": [
+          "Sid Meier's Civilization VI",
+          "Civilization® VI Anthology",
+          "Civilization® VI Platinum"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "19164": {
+      "slug": "borderlands-3",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1001-PPSA01462_00-0000000OAKNGSIEA",
+        "conceptId": "227478",
+        "name": "Borderlands 3",
+        "url": "https://store.playstation.com/en-us/concept/227478",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "2K",
+        "releaseDate": "2020-11-09T13:00:00Z",
+        "editions": [
+          "Borderlands 3",
+          "Ultimate Edition",
+          "Super Deluxe Edition",
+          "Next Level Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "19560": {
+      "slug": "god-of-war--1",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-CUSA07408_00-00000000GODOFWAR",
+        "conceptId": "227770",
+        "name": "God of War",
+        "url": "https://store.playstation.com/en-us/concept/227770",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2018-04-19T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe Edition",
+          "God of War - Digital Comic Book Issue 1"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "19561": {
+      "slug": "days-gone",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA28180_00-DAYSGONEREMASTER",
+        "conceptId": "229018",
+        "name": "DAYS GONE",
+        "url": "https://store.playstation.com/en-us/concept/229018",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2025-04-25T05:00:00Z",
+        "editions": [
+          "Days Gone Remastered",
+          "Days Gone",
+          "Days Gone Digital Deluxe Edition"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "19562": {
+      "slug": "resident-evil-7-biohazard",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0102-PPSA04400_00-BH70000000000001",
+        "conceptId": "220037",
+        "name": "RESIDENT EVIL 7 biohazard",
+        "url": "https://store.playstation.com/en-us/concept/220037",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Capcom U.S.A., Inc.",
+        "releaseDate": "2017-01-24T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Gold Edition"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "22917": {
+      "slug": "gris",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3643-PPSA09803_00-0213898888783272",
+        "conceptId": "234650",
+        "name": "GRIS",
+        "url": "https://store.playstation.com/en-us/concept/234650",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Devolver Digital",
+        "releaseDate": "2019-11-26T00:00:00Z",
+        "editions": [
+          "GRIS | PS4 & PS5",
+          "GRIS",
+          "GRIS + Neva Bundle"
+        ],
+        "price": 16.99,
+        "regularPrice": 16.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "23733": {
+      "slug": "tunic",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0406-PPSA03054_00-3390974934506823",
+        "conceptId": "10002475",
+        "name": "TUNIC",
+        "url": "https://store.playstation.com/en-us/concept/10002475",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Finji",
+        "releaseDate": "2022-09-30T00:00:00Z",
+        "editions": [
+          "TUNIC"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "25076": {
+      "slug": "red-dead-redemption-2",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1004-CUSA03041_00-REDEMPTIONFULL02",
+        "conceptId": "209441",
+        "name": "Red Dead Redemption 2",
+        "url": "https://store.playstation.com/en-us/concept/209441",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Rockstar Games",
+        "releaseDate": "2018-10-25T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Ultimate Edition",
+          "Standard Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "25657": {
+      "slug": "destiny-2",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-PPSA02409_00-DESTINYTHEGAME02",
+        "conceptId": "221852",
+        "name": "Destiny 2",
+        "url": "https://store.playstation.com/en-us/concept/221852",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bungie",
+        "releaseDate": "2017-09-05T00:00:00Z",
+        "editions": [
+          "Destiny 2 PS4™ & PS5™"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "26192": {
+      "slug": "the-last-of-us-part-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA10662_00-THELASTOFUSPART2",
+        "conceptId": "230079",
+        "name": "The Last of Us™ Part II",
+        "url": "https://store.playstation.com/en-us/concept/230079",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2024-01-19T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "The Last of Us Part II",
+          "The Last of Us Part II Digital Deluxe Edition"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "26226": {
+      "slug": "celeste",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2120-CUSA11302_00-CELESTEXXCELESTE",
+        "conceptId": "231477",
+        "name": "Celeste",
+        "url": "https://store.playstation.com/en-us/concept/231477",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Maddy Makes Games Inc.",
+        "releaseDate": "2018-01-25T00:00:00Z",
+        "editions": [
+          "Celeste"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "26602": {
+      "slug": "metaphor-refantazio",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0177-PPSA20800_00-METAPHORNA000001",
+        "conceptId": "10001029",
+        "name": "Metaphor: ReFantazio",
+        "url": "https://store.playstation.com/en-us/concept/10001029",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "SEGA of America, Inc.",
+        "releaseDate": "2024-10-11T04:00:00Z",
+        "editions": [
+          "Metaphor: ReFantazio PS4 & PS5",
+          "Digital Anniversary Edition",
+          "Guidebook Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "26765": {
+      "slug": "octopath-traveler",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0082-PPSA18286_00-OCTOPATH1PS5N000",
+        "conceptId": "10009066",
+        "name": "OCTOPATH TRAVELER PS4＆PS5",
+        "url": "https://store.playstation.com/en-us/concept/10009066",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "SQUARE ENIX CO. LTD.",
+        "releaseDate": "2024-06-06T00:00:00Z",
+        "editions": [
+          "Bundle",
+          "OCTOPATH TRAVELER PS4＆PS5"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "26855": {
+      "slug": "dead-cells",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4016-PPSA15552_00-DEADCELLSPS5SIEA",
+        "conceptId": "231053",
+        "name": "Dead Cells",
+        "url": "https://store.playstation.com/en-us/concept/231053",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Motion Twin SARL",
+        "releaseDate": "2018-08-06T00:00:00Z",
+        "editions": [
+          "Dead Cells (PS4® & PS5®)",
+          "Medley of Pain Bundle",
+          "Castlevania Bundle"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "27316": {
+      "slug": "a-plague-tale-innocence",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4133-PPSA02388_00-APLAGUETALEGAME0",
+        "conceptId": "231037",
+        "name": "A Plague Tale: Innocence",
+        "url": "https://store.playstation.com/en-us/concept/231037",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Focus Entertainment",
+        "releaseDate": "2021-07-06T04:00:00Z",
+        "editions": [
+          "A Plague Tale: Innocence",
+          "A Plague Tale: Innocence"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "27789": {
+      "slug": "pubg-battlegrounds",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP5082-PPSA27363_00-PUBGPS5000000000",
+        "conceptId": "232860",
+        "name": "PUBG: BATTLEGROUNDS",
+        "url": "https://store.playstation.com/en-us/concept/232860",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "KRAFTON, Inc.",
+        "releaseDate": "2018-12-07T00:00:00Z",
+        "editions": [
+          "PUBG: BATTLEGROUNDS"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "28540": {
+      "slug": "assassins-creed-origins",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA05855_00-GAMEACEMPIRE0000",
+        "conceptId": "222066",
+        "name": "Assassin's Creed® Origins",
+        "url": "https://store.playstation.com/en-us/concept/222066",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2017-10-26T00:00:00Z",
+        "editions": [
+          "Assassin's Creed Origins",
+          "Gold Edition",
+          "Assassin's Creed Origins - Deluxe Edition"
+        ],
+        "price": 8.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "28552": {
+      "slug": "far-cry-5",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA05904_00-FARCRY5GAME00000",
+        "conceptId": "221692",
+        "name": "Far Cry® 5",
+        "url": "https://store.playstation.com/en-us/concept/221692",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2018-03-26T00:00:00Z",
+        "editions": [
+          "Far Cry 5",
+          "Far Cry® 5 Gold Edition",
+          "Far Cry Insanity Bundle"
+        ],
+        "price": 8.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "36616": {
+      "slug": "they-are-billions",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2106-CUSA13463_00-THEYAREBILLIONS0",
+        "conceptId": "232722",
+        "name": "They Are Billions",
+        "url": "https://store.playstation.com/en-us/concept/232722",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "BlitWorks",
+        "releaseDate": "2019-07-08T00:00:00Z",
+        "editions": [
+          "They Are Billions"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "36952": {
+      "slug": "wolfenstein-ii-the-new-colossus",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-CUSA07384_00-COLOSSUSFULLGAME",
+        "conceptId": "229533",
+        "name": "Wolfenstein® II: The New Colossus™",
+        "url": "https://store.playstation.com/en-us/concept/229533",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2017-10-26T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "Wolfenstein® II: The New Colossus™ Trial"
+        ],
+        "price": 5.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "37016": {
+      "slug": "metro-exodus",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2047-PPSA02395_00-METROEXODUS0GEN9",
+        "conceptId": "231769",
+        "name": "Metro Exodus",
+        "url": "https://store.playstation.com/en-us/concept/231769",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Deep Silver",
+        "releaseDate": "2020-06-18T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Gold Edition",
+          "Metro Saga Bundle"
+        ],
+        "price": 27.29,
+        "regularPrice": 27.29,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "40477": {
+      "slug": "slay-the-spire",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3864-CUSA15289_00-SLAYTHESPIREGAME",
+        "conceptId": "233476",
+        "name": "Slay the Spire",
+        "url": "https://store.playstation.com/en-us/concept/233476",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Good Games Group, Inc.",
+        "releaseDate": "2019-05-20T00:00:00Z",
+        "editions": [
+          "Slay the Spire"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "55163": {
+      "slug": "resident-evil-village",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0102-PPSA01556_00-VILLAGEFULLGAMEX",
+        "conceptId": "235235",
+        "name": "Resident Evil Village",
+        "url": "https://store.playstation.com/en-us/concept/235235",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Capcom U.S.A., Inc.",
+        "releaseDate": "2021-12-31T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Gold Edition",
+          "Gold Edition Bundle"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "59849": {
+      "slug": "la-noire",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1004-CUSA09084_00-LANOIRE000000PS4",
+        "conceptId": "229788",
+        "name": "L.A. Noire",
+        "url": "https://store.playstation.com/en-us/concept/229788",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Rockstar Games",
+        "releaseDate": "2017-11-14T00:00:00Z",
+        "editions": [
+          "L.A. Noire"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "74701": {
+      "slug": "star-wars-jedi-fallen-order",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0006-PPSA02198_00-RESPAWNSWBIRDDOG",
+        "conceptId": "232345",
+        "name": "STAR WARS Jedi: Fallen Order™",
+        "url": "https://store.playstation.com/en-us/concept/232345",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Electronic Arts Inc",
+        "releaseDate": "2019-11-11T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "75235": {
+      "slug": "ghost-of-tsushima",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-CUSA11456_00-GHOSTDIRECTORPS4",
+        "conceptId": "235227",
+        "name": "Ghost of Tsushima DIRECTOR’S CUT",
+        "url": "https://store.playstation.com/en-us/product/UP9000-CUSA11456_00-GHOSTDIRECTORPS4",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2021-08-20T04:00:00Z",
+        "editions": [],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "76882": {
+      "slug": "sekiro-shadows-die-twice",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-CUSA12047_00-SEKIROGAME000001",
+        "conceptId": "232898",
+        "name": "Sekiro™: Shadows Die Twice",
+        "url": "https://store.playstation.com/en-us/concept/232898",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Activision",
+        "releaseDate": "2019-03-21T00:00:00Z",
+        "editions": [
+          "Sekiro™: Shadows Die Twice - Game of the Year Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "82117": {
+      "slug": "two-point-hospital",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0177-CUSA16081_00-8982731268567377",
+        "conceptId": "234969",
+        "name": "Two Point Hospital",
+        "url": "https://store.playstation.com/en-us/concept/234969",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "SEGA of America, Inc.",
+        "releaseDate": "2020-02-25T00:00:00Z",
+        "editions": [
+          "JUMBO Edition",
+          "Two Point Hospital™"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "96437": {
+      "slug": "starfield",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-PPSA24884_00-HELIUM0000000000",
+        "conceptId": "10011934",
+        "name": "Starfield",
+        "url": "https://store.playstation.com/en-us/concept/10011934",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2026-04-07T15:00:00Z",
+        "editions": [
+          "Premium Edition",
+          "Standard Edition"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "103054": {
+      "slug": "assassins-creed-odyssey",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-CUSA09311_00-GAME000000000000",
+        "conceptId": "229601",
+        "name": "Assassin's Creed® Odyssey",
+        "url": "https://store.playstation.com/en-us/concept/229601",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2018-10-01T00:00:00Z",
+        "editions": [
+          "Assassin's Creed® Odyssey",
+          "Assassin's Creed Odyssey - Ultimate Edition",
+          "Assassin's Creed Antiquity Pack",
+          "Assassin's Creed Legendary Collection",
+          "Assassin's Creed Odyssey - Deluxe Edition",
+          "Gold Edition"
+        ],
+        "price": 11.99,
+        "regularPrice": 59.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "103298": {
+      "slug": "doom-eternal",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-PPSA01981_00-DOOMETERNALBUNDL",
+        "conceptId": "232624",
+        "name": "DOOM Eternal",
+        "url": "https://store.playstation.com/en-us/concept/232624",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2020-03-20T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "DOOM Anthology",
+          "Year One Pass",
+          "Ancient Gods Part One",
+          "DOOM Eternal (BATTLEMODE)"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "103341": {
+      "slug": "overcooked-2",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4064-CUSA10940_00-OVERCOOKED200000",
+        "conceptId": "231121",
+        "name": "Overcooked 2",
+        "url": "https://store.playstation.com/en-us/concept/231121",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Team17 Software Ltd.",
+        "releaseDate": "2018-08-06T00:00:00Z",
+        "editions": [
+          "Overcooked! 2",
+          "Overcooked! + Overcooked! 2",
+          "Overcooked! 2 - Gourmet Edition"
+        ],
+        "price": 6.24,
+        "regularPrice": 24.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "107215": {
+      "slug": "snowrunner",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4133-PPSA04930_00-SNOWRUNNER5YEARE",
+        "conceptId": "234959",
+        "name": "SnowRunner",
+        "url": "https://store.playstation.com/en-us/concept/234959",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Focus Entertainment",
+        "releaseDate": "2022-05-31T07:00:00Z",
+        "editions": [
+          "5-Year Anniversary Edition",
+          "Standard Edition",
+          "1-Year Anniversary Edition"
+        ],
+        "price": 129.99,
+        "regularPrice": 129.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "110248": {
+      "slug": "stray",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2470-PPSA02100_00-STRAYSIEA0000000",
+        "conceptId": "10001114",
+        "name": "Stray",
+        "url": "https://store.playstation.com/en-us/concept/10001114",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Annapurna Interactive",
+        "releaseDate": "2022-07-19T15:00:00Z",
+        "editions": [
+          "Stray"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "111469": {
+      "slug": "among-us",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP7032-PPSA03595_00-AMONGUS5SIEA0001",
+        "conceptId": "10002811",
+        "name": "Among Us",
+        "url": "https://store.playstation.com/en-us/concept/10002811",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Innersloth LLC",
+        "releaseDate": "2021-12-14T19:00:00Z",
+        "editions": [
+          "Among Us"
+        ],
+        "price": 4.99,
+        "regularPrice": 4.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "112874": {
+      "slug": "horizon-forbidden-west",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA04072_00-FORBIDDENWESTPS5",
+        "conceptId": "10000886",
+        "name": "Horizon Forbidden West",
+        "url": "https://store.playstation.com/en-us/concept/10000886",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2022-02-18T05:00:00Z",
+        "editions": [
+          "Complete Edition",
+          "Standard Edition",
+          "Standard Edition"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "112875": {
+      "slug": "god-of-war-ragnarok",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA08329_00-GOWRAGNAROK00000",
+        "conceptId": "10001850",
+        "name": "God of War Ragnarök",
+        "url": "https://store.playstation.com/en-us/concept/10001850",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2022-11-09T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe Edition",
+          "Standard Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "113107": {
+      "slug": "sayonara-wild-hearts",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2470-PPSA27614_00-0466810510398026",
+        "conceptId": "233247",
+        "name": "Sayonara Wild Hearts",
+        "url": "https://store.playstation.com/en-us/concept/233247",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Annapurna Interactive",
+        "releaseDate": "2025-02-24T17:00:00Z",
+        "editions": [
+          "Sayonara Wild Hearts"
+        ],
+        "price": 12.99,
+        "regularPrice": 12.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "113112": {
+      "slug": "hades--1",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP2125-PPSA03355_00-3466019145463410",
+        "conceptId": "10002648",
+        "name": "Hades",
+        "url": "https://store.playstation.com/en-us/concept/10002648",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Supergiant Games, LLC",
+        "releaseDate": "2021-08-13T04:00:00Z",
+        "editions": [
+          "Hades"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "113114": {
+      "slug": "the-outer-worlds",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4581-CUSA16285_00-THEOUTERWORLDS01",
+        "conceptId": "232817",
+        "name": "The Outer Worlds",
+        "url": "https://store.playstation.com/en-us/concept/232817",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Microsoft Corporation",
+        "releaseDate": "2025-02-17T17:00:00Z",
+        "editions": [
+          "The Outer Worlds"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "114795": {
+      "slug": "apex-legends",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0006-PPSA04873_00-APEXLEGENDRSPWN1",
+        "conceptId": "232352",
+        "name": "Apex Legends™",
+        "url": "https://store.playstation.com/en-us/concept/232352",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Electronic Arts Inc",
+        "releaseDate": "2019-02-04T00:00:00Z",
+        "editions": [
+          "Apex Legends™ PS4™",
+          "Apex Legends™ PS5"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "115060": {
+      "slug": "dragons-dogma-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0102-PPSA09663_00-DD2GAME000000000",
+        "conceptId": "10005844",
+        "name": "Dragon's Dogma 2",
+        "url": "https://store.playstation.com/en-us/concept/10005844",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Capcom U.S.A., Inc.",
+        "releaseDate": "2024-03-22T04:00:00Z",
+        "editions": [
+          "Dark Arisen",
+          "Standard Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1789023540000
+      }
+    },
+    "115289": {
+      "slug": "hollow-knight-silksong",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP1805-PPSA12544_00-HKSILKSONGPS5000",
+        "conceptId": "10005908",
+        "name": "Hollow Knight: Silksong",
+        "url": "https://store.playstation.com/en-us/concept/10005908",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Team Cherry Pty Ltd",
+        "releaseDate": "2025-09-04T14:00:00Z",
+        "editions": [
+          "Hollow Knight: Silksong"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "117170": {
+      "slug": "stellar-blade",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA13196_00-STELLARBLADE0000",
+        "conceptId": "10006891",
+        "name": "Stellar Blade™",
+        "url": "https://store.playstation.com/en-us/concept/10006891",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2024-04-26T04:00:00Z",
+        "editions": [
+          "Complete Edition",
+          "Standard Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "119133": {
+      "slug": "elden-ring",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0700-PPSA04610_00-ELDENRING0000000",
+        "conceptId": "10000333",
+        "name": "ELDEN RING",
+        "url": "https://store.playstation.com/en-us/concept/10000333",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bandai Namco Entertainment America Inc.",
+        "releaseDate": "2022-02-25T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "SOTE Edition",
+          "SOTE Premium Bundle",
+          "SOTE Deluxe Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "119171": {
+      "slug": "baldurs-gate-iii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3526-PPSA14001_00-0507384846053057",
+        "conceptId": "10007460",
+        "name": "Baldur's Gate 3",
+        "url": "https://store.playstation.com/en-us/concept/10007460",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Larian Studios Games Ltd",
+        "releaseDate": "2023-09-06T16:00:00Z",
+        "editions": [
+          "Base Game",
+          "Digital Deluxe Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "119177": {
+      "slug": "call-of-duty-modern-warfare",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-CUSA08829_00-CODMWTHEGAME0001",
+        "conceptId": "229182",
+        "name": "Call of Duty®: Modern Warfare®",
+        "url": "https://store.playstation.com/en-us/concept/229182",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Activision",
+        "releaseDate": "2019-10-23T00:00:00Z",
+        "editions": [
+          "Standard Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "119277": {
+      "slug": "genshin-impact",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP6262-PPSA02562_00-OSRELSIEAGENSHIN",
+        "conceptId": "10000896",
+        "name": "Genshin Impact",
+        "url": "https://store.playstation.com/en-us/concept/10000896",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "COGNOSPHERE PTE. LTD.",
+        "releaseDate": "2021-04-27T22:00:00Z",
+        "editions": [
+          "Genshin Impact"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "121760": {
+      "slug": "little-nightmares-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0700-PPSA02200_00-LITTLENIGHTS2000",
+        "conceptId": "232583",
+        "name": "Little Nightmares II",
+        "url": "https://store.playstation.com/en-us/concept/232583",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bandai Namco Entertainment America Inc.",
+        "releaseDate": "2021-02-11T05:00:00Z",
+        "editions": [
+          "Little Nightmares I & II Bundle PS4 & PS5",
+          "Little Nightmares II Deluxe Edition PS4 & PS5",
+          "Standard Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "125165": {
+      "slug": "diablo-iv",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0002-PPSA02442_00-DIVBASEGAME00000",
+        "conceptId": "231761",
+        "name": "Diablo® IV",
+        "url": "https://store.playstation.com/en-us/concept/231761",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Blizzard Entertainment, Inc.",
+        "releaseDate": "2023-06-30T00:00:00Z",
+        "editions": [
+          "D4 + VOH + LOH BUNDLE",
+          "Base Game"
+        ],
+        "price": 29.99,
+        "regularPrice": 49.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "126459": {
+      "slug": "valorant",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3993-PPSA20676_00-VALORANT00000000",
+        "conceptId": "10010048",
+        "name": "VALORANT",
+        "url": "https://store.playstation.com/en-us/concept/10010048",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "RIOT GAMES",
+        "releaseDate": "2024-08-02T16:00:00Z",
+        "editions": [
+          "VALORANT"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "127044": {
+      "slug": "marvels-spider-man-2",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA03016_00-MARVELSPIDERMAN2",
+        "conceptId": "10002456",
+        "name": "Marvel's Spider-Man 2",
+        "url": "https://store.playstation.com/en-us/concept/10002456",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2023-10-20T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "131785": {
+      "slug": "amnesia-rebirth",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1192-CUSA19254_00-AMNESIAREBIRTH20",
+        "conceptId": "10000474",
+        "name": "Amnesia: Rebirth",
+        "url": "https://store.playstation.com/en-us/concept/10000474",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "Frictional Games AB",
+        "releaseDate": null,
+        "editions": [
+          "Amnesia: Rebirth"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "131890": {
+      "slug": "sea-of-stars",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3463-PPSA07586_00-8119804844737273",
+        "conceptId": "10004226",
+        "name": "Sea of Stars: Sunset Edition",
+        "url": "https://store.playstation.com/en-us/concept/10004226",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "SABOTAGE STUDIO INC",
+        "releaseDate": "2023-08-29T04:00:00Z",
+        "editions": [
+          "Sea of Stars: Sunset Edition"
+        ],
+        "price": 34.99,
+        "regularPrice": 34.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "132516": {
+      "slug": "phasmophobia",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP7789-PPSA09030_00-5648706170853559",
+        "conceptId": "10005673",
+        "name": "Phasmophobia",
+        "url": "https://store.playstation.com/en-us/concept/10005673",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Kinetic Games Limited",
+        "releaseDate": "2024-10-29T18:00:00Z",
+        "editions": [
+          "Phasmophobia"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "133004": {
+      "slug": "assassins-creed-valhalla",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-PPSA01491_00-GAME000000000000",
+        "conceptId": "10000237",
+        "name": "Assassin's Creed Valhalla",
+        "url": "https://store.playstation.com/en-us/concept/10000237",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2020-11-12T05:00:00Z",
+        "editions": [
+          "Assassin's Creed Valhalla",
+          "Assassin's Creed Valhalla - Complete Edition",
+          "Mythology pack",
+          "Assassin's Creed Valhalla - Deluxe Edition",
+          "Ragnarok Edition",
+          "Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "133236": {
+      "slug": "final-fantasy-vii-rebirth",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0082-PPSA08666_00-0783148264580163",
+        "conceptId": "10003999",
+        "name": "FINAL FANTASY VII REBIRTH",
+        "url": "https://store.playstation.com/en-us/concept/10003999",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "SQUARE ENIX CO. LTD.",
+        "releaseDate": "2024-02-29T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Twin Pack",
+          "Digital Deluxe Edition",
+          "Digital Deluxe Twin Pack"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "134070": {
+      "slug": "mafia-definitive-edition",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1001-PPSA36393_00-MAFIA1DEPS500000",
+        "conceptId": "235302",
+        "name": "Mafia: Definitive Edition",
+        "url": "https://store.playstation.com/en-us/concept/235302",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "2K",
+        "releaseDate": "2020-09-24T00:00:00Z",
+        "editions": [
+          "Mafia: Definitive Edition",
+          "Definitive Edition"
+        ],
+        "price": 5.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "134071": {
+      "slug": "mafia-ii-definitive-edition",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1001-CUSA16990_00-MAFIATWOREMASTER",
+        "conceptId": "234770",
+        "name": "Mafia II: Definitive Edition",
+        "url": "https://store.playstation.com/en-us/concept/234770",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "2K",
+        "releaseDate": "2020-05-19T00:00:00Z",
+        "editions": [
+          "Mafia II: Definitive Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "134073": {
+      "slug": "mafia-iii-definitive-edition",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1001-CUSA03652_00-MAFIA3DEFINITIVE",
+        "conceptId": "208723",
+        "name": "Mafia III: Definitive Edition",
+        "url": "https://store.playstation.com/en-us/concept/208723",
+        "platforms": [
+          "PS4"
+        ],
+        "publisher": "2K",
+        "releaseDate": "2016-10-06T00:00:00Z",
+        "editions": [
+          "Mafia III: Definitive Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "134582": {
+      "slug": "ratchet-and-clank-rift-apart",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA01473_00-RATCHETCLANKRIFT",
+        "conceptId": "10000669",
+        "name": "Ratchet & Clank: Rift Apart",
+        "url": "https://store.playstation.com/en-us/concept/10000669",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2021-06-11T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "134584": {
+      "slug": "returnal",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA01284_00-RETURNALGAME0001",
+        "conceptId": "10000176",
+        "name": "Returnal",
+        "url": "https://store.playstation.com/en-us/concept/10000176",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2021-04-30T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "134588": {
+      "slug": "kena-bridge-of-spirits",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4364-PPSA01746_00-KENAAMST00000005",
+        "conceptId": "10001235",
+        "name": "Kena: Bridge of Spirits",
+        "url": "https://store.playstation.com/en-us/concept/10001235",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "EMBER LAB",
+        "releaseDate": "2021-09-21T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "134612": {
+      "slug": "pragmata",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0102-PPSA02530_00-PRAGMATA00000000",
+        "conceptId": "10002075",
+        "name": "PRAGMATA",
+        "url": "https://store.playstation.com/en-us/concept/10002075",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Capcom U.S.A., Inc.",
+        "releaseDate": "2026-04-17T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "135243": {
+      "slug": "it-takes-two",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0006-PPSA02342_00-ITTAKESTWORETAIL",
+        "conceptId": "234689",
+        "name": "It Takes Two  PS4™ & PS5™",
+        "url": "https://store.playstation.com/en-us/concept/234689",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Electronic Arts Inc",
+        "releaseDate": null,
+        "editions": [
+          "It Takes Two PS4™ & PS5™",
+          "Hazelight Bundle",
+          "It Takes Two - Friend's Pass PS4™",
+          "It Takes Two - Friend's Pass PS5™"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "136604": {
+      "slug": "control-ultimate-edition",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4040-PPSA01949_00-CONTROLUEPS50000",
+        "conceptId": "231819",
+        "name": "Control",
+        "url": "https://store.playstation.com/en-us/concept/231819",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "505 Games",
+        "releaseDate": "2019-08-26T00:00:00Z",
+        "editions": [
+          "CONTROL Ultimate Edition",
+          "Control: Ultimate Edition"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "136625": {
+      "slug": "hogwarts-legacy",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+        "conceptId": "232447",
+        "name": "Hogwarts Legacy",
+        "url": "https://store.playstation.com/en-us/concept/232447",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Warner Bros. Interactive",
+        "releaseDate": "2023-02-10T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "Standard Edition",
+          "Ultimate Wizarding Bundle"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "136993": {
+      "slug": "gotham-knights",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1018-PPSA02223_00-GOTHAMKNIGHTS000",
+        "conceptId": "233383",
+        "name": "Gotham Knights",
+        "url": "https://store.playstation.com/en-us/concept/233383",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Warner Bros. Interactive",
+        "releaseDate": "2022-10-21T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "139090": {
+      "slug": "inscryption",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3643-PPSA07022_00-3600510866394395",
+        "conceptId": "10004707",
+        "name": "Inscryption",
+        "url": "https://store.playstation.com/en-us/concept/10004707",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Devolver Digital",
+        "releaseDate": null,
+        "editions": [
+          "Inscryption"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "141114": {
+      "slug": "007-first-light",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP3969-PPSA11386_00-007FIRSTLIGHT000",
+        "conceptId": "10006560",
+        "name": "007 First Light",
+        "url": "https://store.playstation.com/en-us/concept/10006560",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "IO Interactive A/S",
+        "releaseDate": "2026-05-27T14:00:00Z",
+        "editions": [
+          "007 First Light",
+          "Deluxe Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "141503": {
+      "slug": "forza-horizon-5",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP6312-PPSA22327_00-0629872585919347",
+        "conceptId": "10010647",
+        "name": "Forza Horizon 5",
+        "url": "https://store.playstation.com/en-us/concept/10010647",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Microsoft Corporation",
+        "releaseDate": "2025-04-29T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Premium Edition",
+          "Deluxe Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "142415": {
+      "slug": "indiana-jones-and-the-great-circle",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1003-PPSA26786_00-INDIANAJONESATGC",
+        "conceptId": "10012238",
+        "name": "Indiana Jones and the Great Circle",
+        "url": "https://store.playstation.com/en-us/concept/10012238",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Bethesda Softworks",
+        "releaseDate": "2025-04-17T00:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Premium Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "148241": {
+      "slug": "lies-of-p",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1685-PPSA10261_00-4396566144501976",
+        "conceptId": "10006052",
+        "name": "Lies of P",
+        "url": "https://store.playstation.com/en-us/concept/10006052",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "NEOWIZ",
+        "releaseDate": "2023-09-19T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Lies of P: Overture Bundle"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "149657": {
+      "slug": "blue-prince",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP2187-PPSA25009_00-BLUEPRINCE000000",
+        "conceptId": "10012002",
+        "name": "Blue Prince",
+        "url": "https://store.playstation.com/en-us/concept/10012002",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "RAW FURY",
+        "releaseDate": "2025-04-10T14:00:00Z",
+        "editions": [
+          "Blue Prince"
+        ],
+        "price": 17.99,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "152249": {
+      "slug": "marvels-guardians-of-the-galaxy",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0082-PPSA01748_00-DXM0000000000001",
+        "conceptId": "234665",
+        "name": "Marvel's Guardians of the Galaxy",
+        "url": "https://store.playstation.com/en-us/concept/234665",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Eidos Interactive Corp",
+        "releaseDate": "2021-10-26T04:00:00Z",
+        "editions": [
+          "Standard Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "152271": {
+      "slug": "citizen-sleeper",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP5480-PPSA13630_00-CITIZENSLEEPER00",
+        "conceptId": "10007275",
+        "name": "Citizen Sleeper",
+        "url": "https://store.playstation.com/en-us/concept/10007275",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "SURPRISE ATTACK DBA FELLOW TRAVELLER GAMES",
+        "releaseDate": "2023-03-31T17:00:00Z",
+        "editions": [
+          "Citizen Sleeper"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "168670": {
+      "slug": "uncharted-legacy-of-thieves-collection",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP9000-PPSA05389_00-UNCHARTED4R00000",
+        "conceptId": "205354",
+        "name": "UNCHARTED: Legacy of Thieves Collection",
+        "url": "https://store.playstation.com/en-us/concept/205354",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2016-05-09T00:00:00Z",
+        "editions": [
+          "UNCHARTED: Legacy of Thieves Collection",
+          "UNCHARTED 4: A Thief’s End & UNCHARTED: The Lost Legacy Digital Bundle",
+          "UNCHARTED 4: A Thief’s End",
+          "UNCHARTED: The Lost Legacy"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "171233": {
+      "slug": "deltarune",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "JP0215-PPSA27093_00-TFSHVCDRPS500084",
+        "conceptId": "233495",
+        "name": "DELTARUNE",
+        "url": "https://store.playstation.com/en-us/concept/233495",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "8-4, Ltd.",
+        "releaseDate": "2025-06-04T15:00:00Z",
+        "editions": [
+          "DELTARUNE PS4 & PS5"
+        ],
+        "price": 24.99,
+        "regularPrice": 24.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "185246": {
+      "slug": "alan-wake-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP1477-PPSA02571_00-ALANWAKE20000000",
+        "conceptId": "10002065",
+        "name": "Alan Wake 2",
+        "url": "https://store.playstation.com/en-us/concept/10002065",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Epic Games",
+        "releaseDate": "2023-10-27T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "185252": {
+      "slug": "warhammer-40000-space-marine-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP4133-PPSA04452_00-SMARINESIIEDYEA2",
+        "conceptId": "10003330",
+        "name": "Warhammer 40,000: Space Marine 2",
+        "url": "https://store.playstation.com/en-us/concept/10003330",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Focus Entertainment",
+        "releaseDate": "2024-09-09T16:00:00Z",
+        "editions": [
+          "2-Year Anniversary Edition",
+          "Warhammer 40,000: Space Marine 2",
+          "1-Year Anniversary Edition"
+        ],
+        "price": 129.99,
+        "regularPrice": 129.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "186725": {
+      "slug": "vampire-survivors",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EB0324-PPSA21703_00-0027916840515656",
+        "conceptId": "10010458",
+        "name": "Vampire Survivors",
+        "url": "https://store.playstation.com/en-us/concept/10010458",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Poncle Limited",
+        "releaseDate": "2024-08-29T11:00:00Z",
+        "editions": [
+          "Vampire Survivors"
+        ],
+        "price": 4.99,
+        "regularPrice": 4.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "201156": {
+      "slug": "star-wars-jedi-survivor",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0006-PPSA07783_00-APPLEJACKGAME000",
+        "conceptId": "10005114",
+        "name": "STAR WARS Jedi: Survivor™",
+        "url": "https://store.playstation.com/en-us/concept/10005114",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Electronic Arts Inc",
+        "releaseDate": "2023-04-28T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "Standard Edition",
+          "Cross-Gen Bundle Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "203722": {
+      "slug": "dave-the-diver",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP8236-PPSA19115_00-0015587721224151",
+        "conceptId": "10009413",
+        "name": "DAVE THE DIVER",
+        "url": "https://store.playstation.com/en-us/concept/10009413",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "MINTROCKET",
+        "releaseDate": "2024-04-16T15:00:00Z",
+        "editions": [
+          "DAVE THE DIVER",
+          "DAVE THE DIVER - Dave & Ichiban Bundle"
+        ],
+        "price": 19.99,
+        "regularPrice": 19.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "228525": {
+      "slug": "hades-ii",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP4484-PPSA36082_00-0912328937643383",
+        "conceptId": "10018449",
+        "name": "Hades II",
+        "url": "https://store.playstation.com/en-us/concept/10018449",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Supergiant Games, LLC",
+        "releaseDate": "2026-04-14T17:00:00Z",
+        "editions": [
+          "Hades II"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "251833": {
+      "slug": "balatro",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP3639-PPSA21401_00-0767712965312971",
+        "conceptId": "10010334",
+        "name": "Balatro",
+        "url": "https://store.playstation.com/en-us/concept/10010334",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Playstack Limited",
+        "releaseDate": "2024-02-20T16:00:00Z",
+        "editions": [
+          "Balatro"
+        ],
+        "price": 14.99,
+        "regularPrice": 14.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "252826": {
+      "slug": "south-of-midnight",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP6312-PPSA29642_00-0031868794271950",
+        "conceptId": "10014874",
+        "name": "South of Midnight",
+        "url": "https://store.playstation.com/en-us/concept/10014874",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Microsoft Corporation",
+        "releaseDate": "2026-03-31T17:00:00Z",
+        "editions": [
+          "Premium Edition"
+        ],
+        "price": 25.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "252827": {
+      "slug": "star-wars-outlaws",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-PPSA08261_00-GAME000000000000",
+        "conceptId": "10005323",
+        "name": "Star Wars Outlaws",
+        "url": "https://store.playstation.com/en-us/concept/10005323",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2024-08-30T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Ultimate Edition",
+          "Deluxe Edition",
+          "Gold Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "262529": {
+      "slug": "little-nightmares-iii--1",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0700-PPSA05144_00-LITTLENIGHTS3000",
+        "conceptId": "10003713",
+        "name": "Little Nightmares III",
+        "url": "https://store.playstation.com/en-us/concept/10003713",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "Bandai Namco Entertainment America Inc.",
+        "releaseDate": "2025-10-10T04:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "Little Nightmares III - Free Trial & Friend's Pass"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "275404": {
+      "slug": "the-exit-8",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "JP0122-PPSA23276_00-0712963327800940",
+        "conceptId": "10011105",
+        "name": "The Exit 8",
+        "url": "https://store.playstation.com/en-us/concept/10011105",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "publisher": "PLAYISM",
+        "releaseDate": "2024-08-08T11:00:00Z",
+        "editions": [
+          "The Exit 8"
+        ],
+        "price": 3.99,
+        "regularPrice": 3.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "279634": {
+      "slug": "dragon-ball-sparking-zero",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0700-PPSA15211_00-DRAGONBALLSPARK0",
+        "conceptId": "10007902",
+        "name": "DRAGON BALL: Sparking! ZERO",
+        "url": "https://store.playstation.com/en-us/concept/10007902",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Bandai Namco Entertainment America Inc.",
+        "releaseDate": "2024-10-10T23:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Legendary Edition",
+          "NEO Edition"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "279661": {
+      "slug": "monster-hunter-wilds",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0102-PPSA07862_00-MHWILDSSTANDARD0",
+        "conceptId": "10005176",
+        "name": "Monster Hunter Wilds",
+        "url": "https://store.playstation.com/en-us/concept/10005176",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Capcom U.S.A., Inc.",
+        "releaseDate": "2025-02-28T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Gold Edition"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "294041": {
+      "slug": "marvel-rivals",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UB0335-PPSA21669_00-0320312678245089",
+        "conceptId": "10010451",
+        "name": "Marvel Rivals",
+        "url": "https://store.playstation.com/en-us/concept/10010451",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "UK Netease Interactive Entertainment Limited",
+        "releaseDate": "2024-12-06T00:00:00Z",
+        "editions": [
+          "Marvel Rivals",
+          "Marvel Rivals"
+        ],
+        "price": null,
+        "regularPrice": null,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": true,
+        "saleEnds": null
+      }
+    },
+    "294661": {
+      "slug": "content-warning",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EB1722-PPSA29789_00-0450913655011817",
+        "conceptId": "10014968",
+        "name": "Content Warning",
+        "url": "https://store.playstation.com/en-us/concept/10014968",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Landfall Publishing AB",
+        "releaseDate": null,
+        "editions": [
+          "Content Warning"
+        ],
+        "price": 7.99,
+        "regularPrice": 9.99,
+        "discounted": true,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": 1787813940000
+      }
+    },
+    "300976": {
+      "slug": "assassins-creed-shadows",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0001-PPSA20396_00-GAME000000000000",
+        "conceptId": "10009909",
+        "name": "Assassin’s Creed Shadows",
+        "url": "https://store.playstation.com/en-us/concept/10009909",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Ubisoft",
+        "releaseDate": "2025-03-20T04:00:00Z",
+        "editions": [
+          "Deluxe Edition",
+          "Standard Edition",
+          "Premium Edition"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "305152": {
+      "slug": "clair-obscur-expedition-33",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP7579-PPSA17599_00-EXP33000000PS5EU",
+        "conceptId": "10008503",
+        "name": "Clair Obscur: Expedition 33",
+        "url": "https://store.playstation.com/en-us/concept/10008503",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Kepler Interactive Limited",
+        "releaseDate": "2025-04-24T07:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition"
+        ],
+        "price": 45.19,
+        "regularPrice": 45.19,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "314265": {
+      "slug": "reanimal",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "EP4389-PPSA23372_00-ANIMALGAMEGLOBAL",
+        "conceptId": "10010999",
+        "name": "REANIMAL",
+        "url": "https://store.playstation.com/en-us/concept/10010999",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "THQ Nordic",
+        "releaseDate": "2026-02-13T14:00:00Z",
+        "editions": [
+          "Standard",
+          "Digital Deluxe Edition"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "325594": {
+      "slug": "split-fiction",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0006-PPSA08560_00-SPLITSTANDARDED0",
+        "conceptId": "10005449",
+        "name": "Split Fiction",
+        "url": "https://store.playstation.com/en-us/concept/10005449",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Electronic Arts Inc",
+        "releaseDate": "2025-03-06T16:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Split Fiction - Friend's Pass"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "325609": {
+      "slug": "dispatch--3",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "HP7386-PPSA27158_00-0022337374597692",
+        "conceptId": "10013259",
+        "name": "Dispatch",
+        "url": "https://store.playstation.com/en-us/concept/10013259",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Adhoc Studio, Inc.",
+        "releaseDate": "2025-10-22T14:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Digital Deluxe Edition"
+        ],
+        "price": 29.99,
+        "regularPrice": 29.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    },
+    "347668": {
+      "slug": "resident-evil-requiem",
+      "fetchedAt": "2026-08-25T18:34:59.422Z",
+      "data": {
+        "productId": "UP0102-PPSA30803_00-REREQUIEM0000000",
+        "conceptId": "10015533",
+        "name": "Resident Evil Requiem",
+        "url": "https://store.playstation.com/en-us/concept/10015533",
+        "platforms": [
+          "PS5"
+        ],
+        "publisher": "Capcom U.S.A., Inc.",
+        "releaseDate": "2026-02-27T05:00:00Z",
+        "editions": [
+          "Standard Edition",
+          "Deluxe Edition",
+          "Resident Evil Requiem - Demo"
+        ],
+        "price": 69.99,
+        "regularPrice": 69.99,
+        "discounted": false,
+        "currency": "USD",
+        "isFree": false,
+        "saleEnds": null
+      }
+    }
+  }
+}
