@@ -156,6 +156,12 @@ if (patchesOnly) {
  * Two passes per title: one pinned to the technical-analysis and platform-holder domains, one
  * open. A title with a freshly detected patch gets a third naming the version, which is what
  * surfaces a publisher's patch-notes page rather than a launch review.
+ *
+ * The limits are sized to what the extractor actually consumes. Firecrawl scrapes every result
+ * it returns and each scrape counts against the rate limit, so asking for fifteen pages when
+ * `rank()` keeps eight means paying — in credits and in throughput — to fetch seven pages that
+ * are discarded before anything reads them. Eleven raw results dedupe to roughly the eight the
+ * extractor will use.
  */
 function queriesFor(game, patch) {
   const quoted = `"${game.title}"`;
@@ -165,12 +171,12 @@ function queriesFor(game, patch) {
     .join(" ");
 
   const queries = [
-    { query: `${quoted} ${consoles} frame rate 60 FPS performance mode${siteFilter(SEARCH_SITES)}`, limit: 5 },
-    { query: `${quoted} ${consoles} performance mode frame rate patch notes`, limit: 6 },
+    { query: `${quoted} ${consoles} frame rate 60 FPS performance mode${siteFilter(SEARCH_SITES)}`, limit: 4 },
+    { query: `${quoted} ${consoles} performance mode frame rate patch notes`, limit: 4 },
   ];
 
   if (patch?.latestVersion) {
-    queries.push({ query: `${quoted} patch ${patch.latestVersion} update 60 FPS performance`, limit: 4 });
+    queries.push({ query: `${quoted} patch ${patch.latestVersion} update 60 FPS performance`, limit: 3 });
   }
   return queries;
 }
@@ -265,11 +271,11 @@ function priority(game) {
 }
 
 /**
- * Worst case per title: three passes of 5 + 6 + 4 results, each search costing a credit and
+ * Worst case per title: three passes of 4 + 4 + 3 results, each search costing a credit and
  * each scraped page one more. Rounded up, because running out mid-run is worse than stopping
  * a few titles early.
  */
-const CREDITS_PER_TITLE = 20;
+const CREDITS_PER_TITLE = 15;
 
 const work = catalogue
   .filter((g) => (only ? only.includes(g.slug) : !curated.has(g.slug)))

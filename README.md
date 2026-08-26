@@ -47,19 +47,22 @@ targets per console model, quality/performance modes, patch version and date, pe
 notes and the URLs each figure was read from. It is assembled by `pnpm enrich` — see
 **How a frame rate gets verified** below — and hand-written entries always outrank it.
 
-Coverage from the last sync, out of 208 titles: Xbox 146, Game Pass 56, Nintendo 101,
-PlayStation 161, Steam 162, HowLongToBeat 0. 184 titles have a price on at least one store.
+Coverage from the last sync, out of 769 titles: Xbox 519, Game Pass 126, Nintendo 441,
+PlayStation 617, Steam 623, HowLongToBeat 0.
 
-Patch detection resolves a PlayStation title id for 159 of them and finds a patch history for
-**151** — 101 on PROSPEROPatches, 50 on ORBISPatches — of which 68 shipped an update in 2026 and
-50 carry changelog text the trackers expose for free.
+Patch detection resolves a PlayStation title id for 598 of them and finds a patch history for
+**534** — 303 on PROSPEROPatches, 231 on ORBISPatches — of which 173 shipped an update in 2026
+and 223 carry changelog text the trackers expose for free.
 
-The first full verification pass covered the 163 titles with no hand-written entry and produced
-**75 verified titles / 125 console-model rows**: 11 established by an official source, 33 by
-independent measurement, 31 by press. It found **13 patches that changed a frame rate**,
-including Assassin's Creed Unity's 1.6 update, sourced to Ubisoft's own page. The other 88
-titles came back with nothing established and render as "awaiting verification" — the pass cost
-1,383 Firecrawl credits and $0.27.
+Verification has covered the 723 titles with no hand-written entry and produced **248 verified
+titles / 487 console-model rows**: 21 established by an official source, 94 by independent
+measurement, 133 by press. It found **30 patches that changed a frame rate**, including
+Assassin's Creed Unity's 1.6 update, sourced to Ubisoft's own page.
+
+The remaining titles came back with nothing established and render as "awaiting verification".
+That share grows as the catalogue reaches past the popular tail — roughly 46% of well-known
+titles verify, against 18% of the obscure ones — because obscure games genuinely have no
+published frame rate figures, and inventing one is the failure this pipeline exists to avoid.
 
 Platform availability is a merge, not a copy. IGDB's platform list misses consoles a
 storefront confirms — 42 titles are sold on Series X\|S with IGDB listing only Xbox One —
@@ -235,7 +238,7 @@ on age alone (`--max-age`, 45 days by default).
 
 ### What it costs
 
-Measured over live runs: **~15 Firecrawl credits and ~$0.002 of extraction per title**
+Measured over live runs: **~11 Firecrawl credits and ~$0.002 of extraction per title**
 (`openai/gpt-5.6-luna` — 1M context, strict structured outputs, and cheap enough that the
 search layer is the only meaningful cost). A run is capped at **1,500 credits by default** —
 raise it with `--budget`. Hand-curated titles are skipped outright, because a person already
@@ -245,6 +248,26 @@ The model is a config line, not a rewrite — set `FRAMEPATCH_EXTRACT_MODEL` to 
 id that supports strict structured outputs.
 
 A long pass checkpoints every five titles, so an interrupted run keeps what it verified.
+
+### The rate limit is the ceiling, not the credit balance
+
+Firecrawl scrapes every result it returns, and **each scraped page counts against the
+requests-per-minute limit**, not just the search itself. At ~11 pages per title against a
+57/min plan limit, the arithmetic is fixed:
+
+    ~11 units per title ÷ 57 units per minute = ~5 titles per minute, at best
+
+So a full pass over 700 titles takes hours no matter how it is parallelised, and raising
+concurrency changes nothing — with the pacing in `lib/http.mjs` reserving send slots, the
+request *rate* is set by the gap alone. Two things follow, both learned the expensive way:
+
+- **Ask for only what you read.** `rank()` keeps eight sources and the extractor caps at
+  eight, so requesting fifteen bought seven scrapes per title that nothing ever read. The
+  limits are now 4 + 4 + 3.
+- **Let the client find the real limit.** The published number and the enforced one differ, a
+  burst leaves an account in a cooldown far longer than the window suggests, and a 429 absorbed
+  by a retry never shows up as a failure. `lib/http.mjs` widens its own gap by 1.6× per 429
+  and eases back after 25 clean requests, and a run prints where pacing settled.
 
 ```bash
 pnpm enrich                     # top titles by popularity, within the credit budget
