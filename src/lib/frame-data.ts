@@ -38,35 +38,6 @@ export const FRAME_DATA: Record<string, FrameData> = {
       { date: "Sep 2020", label: "Launch" },
     ],
   },
-  "mafia-ii-definitive-edition": {
-    fps: { ps5: [60, 60], xsx: [60, 60] },
-    verdict: "Backwards compatible PS4 app. Frame rate cap lifted in the September 2026 update.",
-    patch: { type: "Patched from 30 FPS to 60 FPS", date: "Sep 2026" },
-    prevFps: 30,
-    note: "Updated Sep 2026",
-  },
-  "mafia-iii-definitive-edition": {
-    fps: { ps5: [60, 60], xsx: [60, 30] },
-    verdict: "Unlocked to 60 FPS on current-gen hardware. Series S remains capped at 30 FPS.",
-    patch: { type: "Patched from 30 FPS to 60 FPS", date: "Oct 2026" },
-    prevFps: 30,
-    note: "Updated Oct 2026",
-  },
-  "assassins-creed-syndicate": {
-    fps: { ps5: [60, 60], xsx: [60, 60] },
-    verdict: "The 2024 update unlocked 60 FPS on PS5 and Xbox Series consoles via backwards compatibility.",
-    patch: { type: "Patched from 30 FPS to 60 FPS", date: "Sep 2026" },
-    prevFps: 30,
-    note: "Updated Sep 2026",
-  },
-  "red-dead-redemption": {
-    fps: { ps5: [60, 60], xsx: [60, 60], switch: [60, 30] },
-    native: ["ps5"],
-    verdict: "The next-gen refresh raises the port from 30 FPS to a locked 60 FPS on PS5 and Xbox Series X.",
-    patch: { type: "Patched from 30 FPS to 60 FPS", date: "Oct 2026" },
-    prevFps: 30,
-    note: "Updated Oct 2026",
-  },
   "fallout-4": {
     fps: { ps5: [60, 60], xsx: [60, 60] },
     modes: { ps5: ["Performance mode", "Performance mode"] },
@@ -91,13 +62,6 @@ export const FRAME_DATA: Record<string, FrameData> = {
     native: ["ps5", "xsx", "switch"],
     verdict: "Native current-gen build. Performance mode targets 60 FPS; the ray tracing mode drops to 30 FPS.",
     note: "Ray Tracing Performance",
-  },
-  "marvels-spider-man-2": {
-    fps: { ps5: [120, 120] },
-    modes: { ps5: ["120Hz VRR performance", "120Hz VRR performance"] },
-    native: ["ps5"],
-    verdict: "Supports a 120Hz performance mode on compatible displays with VRR enabled.",
-    note: "120Hz Supported",
   },
   "the-witcher-3-wild-hunt": {
     fps: { ps5: [60, 60], xsx: [60, 60], switch: [60, 30] },
@@ -174,14 +138,6 @@ export const FRAME_DATA: Record<string, FrameData> = {
     note: "No frame rate patch",
     requested: true,
   },
-  "starfield": {
-    fps: { xsx: [30, 30], ps5: [30, 30] },
-    modes: { xsx: ["Visuals mode", "Visuals mode"] },
-    native: ["xsx", "ps5"],
-    verdict: "Ships locked to 30 FPS in the default visuals mode. A 60 FPS option is available only on Series X with reduced resolution.",
-    note: "30 FPS default",
-    requested: true,
-  },
   "doom-eternal": {
     fps: { ps5: [120, 120], xsx: [120, 120], switch: [60, 30] },
     modes: { ps5: ["120Hz performance", "120Hz performance"] },
@@ -203,13 +159,6 @@ export const FRAME_DATA: Record<string, FrameData> = {
     native: ["ps5"],
     verdict: "Native PS5 app with a locked 60 FPS target at dynamic 4K.",
     note: "Native PS5 App",
-  },
-  "ratchet-and-clank-rift-apart": {
-    fps: { ps5: [120, 120] },
-    modes: { ps5: ["Performance RT 120Hz", "Performance RT 120Hz"] },
-    native: ["ps5"],
-    verdict: "Supports a 120Hz performance mode with ray traced reflections enabled.",
-    note: "120Hz Supported",
   },
   "resident-evil-4": {
     fps: { ps5: [120, 120], xsx: [120, 60], switch: [60, 30] },

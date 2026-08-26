@@ -1,6 +1,6 @@
 {
   "source": "fpsRecords",
-  "syncedAt": "2026-08-26T18:41:09.138Z",
+  "syncedAt": "2026-08-26T19:40:17.795Z",
   "entries": {
     "71": {
       "slug": "portal",
@@ -465,6 +465,80 @@
         "patchSeen": "01.000.403"
       }
     },
+    "434": {
+      "slug": "red-dead-redemption",
+      "fetchedAt": "2026-08-26T19:29:29.476Z",
+      "data": {
+        "slug": "red-dead-redemption",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.002.000",
+            "date": "2026-02-24",
+            "titleId": "PPSA30528",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.002.000 · 9.1 GB",
+            "url": "https://prosperopatches.com/PPSA30528",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.001.000",
+            "date": "2025-12-02",
+            "titleId": "PPSA30528",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.001.000 · 9.1 GB",
+            "url": "https://prosperopatches.com/PPSA30528",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Digital Foundry states that the native PS5 version runs at 60fps with a 4K image. Rockstar's 1.06 notes list only general bug fixes and improvements, not a frame-rate change.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/news/2025/12/red-dead-redemption-improves-on-ps5-xbox-series-ios",
+            "title": "Red Dead Redemption Improves on PS5, Xbox Series, iOS",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "This week's releases no longer include the choice of FXAA or FSR2 available in the PS4 port, suggesting that Double Eleven is confident in FSR3"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.002.000"
+      }
+    },
+    "481": {
+      "slug": "silent-hill-2",
+      "fetchedAt": "2026-08-26T19:35:25.399Z",
+      "data": null
+    },
     "498": {
       "slug": "borderlands",
       "fetchedAt": "2026-08-25T22:15:37.565Z",
@@ -793,6 +867,61 @@
       "fetchedAt": "2026-08-26T16:04:50.387Z",
       "data": null
     },
+    "974": {
+      "slug": "resident-evil-4",
+      "fetchedAt": "2026-08-26T19:33:29.990Z",
+      "data": {
+        "slug": "resident-evil-4",
+        "entries": [
+          {
+            "model": "Nintendo Switch",
+            "modelId": "switch",
+            "platform": "switch",
+            "fps": 60,
+            "mode": "Docked",
+            "modes": [
+              {
+                "name": "Docked",
+                "targetFps": 60,
+                "resolution": "900p",
+                "unlocked": true,
+                "vrr": false,
+                "note": "Mid-40s to 60fps in intense scenes."
+              },
+              {
+                "name": "Portable",
+                "targetFps": 60,
+                "resolution": "600p",
+                "unlocked": true,
+                "vrr": false,
+                "note": "Smoother, but not locked to 60fps."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": false
+          }
+        ],
+        "patches": [],
+        "verdict": "The 2005 Resident Evil 4 Switch port targets 60fps, but Digital Foundry reports that it is not locked to 60fps in either docked or portable play. Docked performance can fall into the mid-40s in intense scenes.",
+        "note": "Unlocked 60 FPS",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2019-resident-evil-4-zero-remake-switch-analysis",
+            "title": "Resident Evil 4, Remake and Zero on Nintendo Switch are ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "The more intense scenes can't sustain 60fps and performance varies between the mid-40s to the top-end 60fps."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": null
+      }
+    },
     "978": {
       "slug": "resident-evil-revelations",
       "fetchedAt": "2026-08-26T17:46:47.615Z",
@@ -842,6 +971,147 @@
         ],
         "origin": "enriched",
         "patchSeen": null
+      }
+    },
+    "1020": {
+      "slug": "grand-theft-auto-v",
+      "fetchedAt": "2026-08-26T19:12:18.230Z",
+      "data": {
+        "slug": "grand-theft-auto-v",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Fidelity",
+                "targetFps": 30,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance RT",
+                "targetFps": 60,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Fidelity",
+                "targetFps": 30,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance RT",
+                "targetFps": 60,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.011.001",
+            "date": "2026-08-05",
+            "titleId": "PPSA03420",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.011.001 · 96.2 GB",
+            "url": "https://prosperopatches.com/PPSA03420",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.011.000",
+            "date": "2026-07-14",
+            "titleId": "PPSA03420",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.011.000 · 96.2 GB",
+            "url": "https://prosperopatches.com/PPSA03420",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.010.002",
+            "date": "2026-01-27",
+            "titleId": "PPSA03420",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.010.002 · 95.3 GB",
+            "url": "https://prosperopatches.com/PPSA03420",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Digital Foundry measured native PS5 and Xbox Series X builds with 30fps Fidelity and 60fps Performance modes, plus a 60fps Performance RT mode. The supplied Rockstar update notes only general PS5 stability and security fixes, not a frame-rate change.",
+        "note": "No frame rate patch",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2022-grand-theft-auto-5-ps5-tech-review",
+            "title": "Grand Theft Auto 5's 'next-gen' upgrade is the best version ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "fidelity at 4K30"
+          },
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2022-grand-theft-auto-5-how-do-playstation-5-and-xbox-series-x-versions-compare",
+            "title": "Grand Theft Auto 5: how do PlayStation 5 and Xbox Series ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "fidelity mode runs at a seemingly fixed 4K resolution at 30fps"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.011.001"
       }
     },
     "1081": {
@@ -1207,6 +1477,178 @@
       "fetchedAt": "2026-08-25T22:15:37.565Z",
       "data": null
     },
+    "1877": {
+      "slug": "cyberpunk-2077",
+      "fetchedAt": "2026-08-26T19:17:16.703Z",
+      "data": {
+        "slug": "cyberpunk-2077",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "RT/Quality",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": true,
+                "vrr": true,
+                "note": "VRR removes the cap; runs up to 40 FPS."
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": true,
+                "vrr": true,
+                "note": "VRR lifts the 60 FPS cap; up to 120 FPS is possible."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "RT",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "VRR did not operate correctly in the test."
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Capped at 60 FPS in the test."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "PlayStation 5 Pro",
+            "modelId": "ps5-pro",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Ray Tracing",
+            "modes": [
+              {
+                "name": "Ray Tracing",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Stable 60 FPS; default mode."
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": true,
+                "vrr": true,
+                "note": "Up to 90 FPS on VRR-enabled displays."
+              },
+              {
+                "name": "Ray Tracing Pro",
+                "targetFps": 40,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "40 FPS on HFR displays; 30 FPS without HFR."
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": false
+          }
+        ],
+        "patches": [
+          {
+            "version": "2.310.100",
+            "date": "2026-04-08",
+            "titleId": "PPSA03974",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Introduces 3 Graphics Modes:",
+            "url": "https://mp1st.com/title-updates-and-patches/cyberpunk-2077-update-2-310-100-ps5-pro-enhancements",
+            "publisher": "CD Projekt Red"
+          },
+          {
+            "version": "02.310.100",
+            "date": "2026-04-08",
+            "titleId": "PPSA03974",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.310.100 · 95.4 GB",
+            "url": "https://prosperopatches.com/PPSA03974",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "02.310.000",
+            "date": "2025-09-11",
+            "titleId": "PPSA03974",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.310.000 · 94.9 GB",
+            "url": "https://prosperopatches.com/PPSA03974",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "02.300.100",
+            "date": "2025-07-17",
+            "titleId": "PPSA03974",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.300.100 · 94.8 GB",
+            "url": "https://prosperopatches.com/PPSA03974",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Cyberpunk 2077 has measured 30 FPS RT and capped 60 FPS Performance modes on Series X, while VRR behavior was not working in the test. PS5 Pro adds 60 FPS Ray Tracing, 60 FPS-targeting Performance, and 40 FPS Ray Tracing Pro modes through update 2.310.100.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-df-weekly-cyberpunk-2077s-vrr-upgrade-sees-some-impressive-boosts-for-ps5-pro",
+            "title": "Cyberpunk 2077's VRR mode is as close to a PS5 Pro ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "On PlayStation consoles at least, this unlocks frame-rate on the 30fps RT mode, running to a maximum of 40 frames per second."
+          },
+          {
+            "url": "https://mp1st.com/title-updates-and-patches/cyberpunk-2077-update-2-310-100-ps5-pro-enhancements",
+            "title": "Cyberpunk 2077 Update 2.310.100 Released for PS5 Pro",
+            "publisher": "mp1st.com",
+            "tier": 5,
+            "date": null,
+            "quote": "Ray Tracing Mode enables ray-traced reflections on vehicle paint and transparent objects, with all shadows rendered using ray tracing, at a stable 60 FPS."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "02.310.100"
+      }
+    },
     "1879": {
       "slug": "terraria",
       "fetchedAt": "2026-08-25T22:15:37.565Z",
@@ -1471,6 +1913,101 @@
         ],
         "origin": "enriched",
         "patchSeen": null
+      }
+    },
+    "1942": {
+      "slug": "the-witcher-3-wild-hunt",
+      "fetchedAt": "2026-08-26T19:12:19.135Z",
+      "data": {
+        "slug": "the-witcher-3-wild-hunt",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance Mode",
+            "modes": [
+              {
+                "name": "Ray Tracing Mode",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance Mode",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Drops beneath target in some areas, including Novigrad."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance Mode",
+            "modes": [
+              {
+                "name": "Ray Tracing Mode",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance Mode",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Digital Foundry reports occasional dips and recommends VRR for 50–60fps readings."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "04.040.100",
+            "date": "2024-05-30",
+            "titleId": "PPSA03972",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 04.040.100 · 79.7 GB",
+            "url": "https://prosperopatches.com/PPSA03972",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "The native PS5 and Xbox Series X versions have official 30 FPS ray-tracing and 60 FPS performance targets. Digital Foundry reports that released patch 4.02 improved performance, but the supplied sources do not describe PlayStation patch 04.040.100.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://forums.cdprojektred.com/index.php?threads/next-gen-update-list-of-changes.11110744/",
+            "title": "Next-gen update list of changes | Forums - CD PROJEKT RED",
+            "publisher": "CD Projekt Red",
+            "tier": 1,
+            "date": null,
+            "quote": "Ray Tracing Mode — provides ray-traced global illumination and ambient occlusion with dynamic resolution scaling targeting 30 FPS for PlayStation 5 and Xbox Series X."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "04.040.100"
       }
     },
     "1970": {
@@ -3195,6 +3732,86 @@
       "fetchedAt": "2026-08-26T18:14:01.792Z",
       "data": null
     },
+    "5503": {
+      "slug": "batman-arkham-knight",
+      "fetchedAt": "2026-08-26T19:26:38.715Z",
+      "data": {
+        "slug": "batman-arkham-knight",
+        "entries": [
+          {
+            "model": "Nintendo Switch",
+            "modelId": "switch",
+            "platform": "switch",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Performance often falls below 20fps; the 30fps cap is described as advisory."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": false
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.18",
+            "date": "2024-01-10",
+            "titleId": "CUSA00133",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.18 · 8.3GB",
+            "url": "https://orbispatches.com/CUSA00133",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.17",
+            "date": "2023-11-30",
+            "titleId": "CUSA00133",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.17 · 8.3GB",
+            "url": "https://orbispatches.com/CUSA00133",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.15",
+            "date": "2020-11-11",
+            "titleId": "CUSA00133",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.15 · 6.1GB",
+            "url": "https://orbispatches.com/CUSA00133",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "Digital Foundry measured the native Switch version frequently falling below 20fps, with a 30fps cap that is described as almost advisory. The supplied sources do not establish a released Switch patch that changed its frame rate.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-switch-2-back-compat-fixes-batman-arkham-knight-switch-1s-worst-triple-a-port",
+            "title": "Switch 2 back-compat fixes Batman: Arkham Knight",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "often depressing performance under 20fps but feeling a lot worse. Driving sections in particular are borderline unplayable. The 30fps frame-rate cap is almost advisory in nature."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.18"
+      }
+    },
     "5508": {
       "slug": "the-banner-saga",
       "fetchedAt": "2026-08-26T16:08:16.432Z",
@@ -4281,6 +4898,86 @@
         "patchSeen": "01.000.011"
       }
     },
+    "7334": {
+      "slug": "bloodborne",
+      "fetchedAt": "2026-08-26T19:22:08.104Z",
+      "data": {
+        "slug": "bloodborne",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": "1080p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Wobbly performance"
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.09",
+            "date": "2015-12-10",
+            "titleId": "CUSA00900",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.09 · 8.7GB",
+            "url": "https://orbispatches.com/CUSA00900",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.08",
+            "date": "2015-12-01",
+            "titleId": "CUSA00900",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.08 · 8.7GB",
+            "url": "https://orbispatches.com/CUSA00900",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.07",
+            "date": "2015-11-11",
+            "titleId": "CUSA00900",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.07 · 8.7GB",
+            "url": "https://orbispatches.com/CUSA00900",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "The retail PS4 version running via backwards compatibility on PS5 is reported at 1080p with a wobbly 30fps. The 60fps figures in the sources require unofficial patches or mods and are excluded.",
+        "note": "No frame rate patch",
+        "requested": true,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2021-bloodborne-ps5-at-60fps-with-4k-ai-upscaling",
+            "title": "Watch Bloodborne running at 60fps on PS5 - with 4K AI ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "If you play Bloodborne on PlayStation 5, you have a 1080p experience at a wobbly 30 frames per second."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.09"
+      }
+    },
     "7342": {
       "slug": "inside",
       "fetchedAt": "2026-08-25T22:15:37.565Z",
@@ -5010,6 +5707,86 @@
       "slug": "trine-3-the-artifacts-of-power",
       "fetchedAt": "2026-08-26T17:25:05.949Z",
       "data": null
+    },
+    "8263": {
+      "slug": "assassins-creed-syndicate",
+      "fetchedAt": "2026-08-26T19:31:13.079Z",
+      "data": {
+        "slug": "assassins-creed-syndicate",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.54",
+            "date": "2024-11-18",
+            "titleId": "CUSA02389",
+            "previousFps": null,
+            "newFps": 60,
+            "changedFps": true,
+            "label": "60 FPS added",
+            "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/5wlBeqYoDHhzrh61xMNj7R/assassins-creed-syndicate-play-now-at-60-fps-on-xbox-series-xs-ps5-and-ps5-pro",
+            "publisher": "Ubisoft"
+          },
+          {
+            "version": "01.53",
+            "date": "2022-11-24",
+            "titleId": "CUSA02389",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.53 · 726MB",
+            "url": "https://orbispatches.com/CUSA02389",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.52",
+            "date": "2017-02-13",
+            "titleId": "CUSA02389",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.52 · 725.9MB",
+            "url": "https://orbispatches.com/CUSA02389",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "Ubisoft states that the backwards-compatible game runs at 4K and 60 fps on PS5. The 60 fps update was announced on November 18, 2024; the supplied 01.54 listing does not describe that update.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/5wlBeqYoDHhzrh61xMNj7R/assassins-creed-syndicate-play-now-at-60-fps-on-xbox-series-xs-ps5-and-ps5-pro",
+            "title": "Play Now at 60 FPS on Xbox Series X|S, PS5 and PS5 Pro",
+            "publisher": "Ubisoft",
+            "tier": 1,
+            "date": null,
+            "quote": "PS5 and PS5 Pro - 4K resolution at 60 fps"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.54"
+      }
     },
     "8288": {
       "slug": "the-banner-saga-2",
@@ -5850,6 +6627,139 @@
         "patchSeen": "01.038.000"
       }
     },
+    "9630": {
+      "slug": "fallout-4",
+      "fetchedAt": "2026-08-26T19:18:05.227Z",
+      "data": {
+        "slug": "fallout-4",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "4k",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling"
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": "4k",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Targets 40 FPS on a 120Hz display"
+              },
+              {
+                "name": "Quality",
+                "targetFps": 40,
+                "resolution": "4k",
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a 120Hz display"
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "4k",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling"
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": "4k",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Targets 40 FPS on a 120Hz display"
+              },
+              {
+                "name": "Quality",
+                "targetFps": 40,
+                "resolution": "4k",
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a 120Hz display"
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.000.009",
+            "date": "2026-08-18",
+            "titleId": "PPSA09016",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.009 · 52.7 GB",
+            "url": "https://prosperopatches.com/PPSA09016",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.008",
+            "date": "2026-05-27",
+            "titleId": "PPSA09016",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.008 · 52.7 GB",
+            "url": "https://prosperopatches.com/PPSA09016",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.007",
+            "date": "2025-12-16",
+            "titleId": "PPSA09016",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.007 · 52.6 GB",
+            "url": "https://prosperopatches.com/PPSA09016",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Bethesda states that the native PS5 and Xbox Series applications have a 60 FPS-targeting Performance mode and a 30 FPS Quality mode, with Quality targeting 40 FPS on a 120Hz display. The reported 1.000.009 update is described as a Creations and stability patch, not a frame-rate change.",
+        "note": "No frame rate patch",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://help.bethesda.net/app/answers/detail/a_id/65613/~/what-is-performance-vs-quality-mode-for-fallout-4%3F",
+            "title": "What is Performance vs Quality mode for Fallout 4?",
+            "publisher": "Bethesda",
+            "tier": 1,
+            "date": null,
+            "quote": "Performance mode: 60 FPS target, 4k resolution, standard settings, relying on dynamic resolution scaling."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.000.009"
+      }
+    },
     "9643": {
       "slug": "return-of-the-obra-dinn",
       "fetchedAt": "2026-08-26T14:22:04.645Z",
@@ -6665,6 +7575,86 @@
       "fetchedAt": "2026-08-26T18:16:03.891Z",
       "data": null
     },
+    "11118": {
+      "slug": "dishonored-2",
+      "fetchedAt": "2026-08-26T19:30:05.099Z",
+      "data": {
+        "slug": "dishonored-2",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.07",
+            "date": "2024-06-11",
+            "titleId": "CUSA03642",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.07 · 13.8GB",
+            "url": "https://orbispatches.com/CUSA03642",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.06",
+            "date": "2018-12-04",
+            "titleId": "CUSA03642",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.06 · 13.8GB",
+            "url": "https://orbispatches.com/CUSA03642",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.05",
+            "date": "2017-10-21",
+            "titleId": "CUSA03642",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.05 · 13.1GB",
+            "url": "https://orbispatches.com/CUSA03642",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "The PS4 version runs on PS5 via backwards compatibility at 1440p and 30 FPS. The listed PlayStation patch 01.07 is described only as containing various bug fixes, not as changing performance.",
+        "note": "No frame rate patch",
+        "requested": true,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.backwards-compatible.com/games/dishonored-2/",
+            "title": "Dishonored 2 - PS4 & PS5",
+            "publisher": "Backwards-Compatible",
+            "tier": 4,
+            "date": null,
+            "quote": "Dishonored 2 (PS4) is backwards compatible with the PlayStation 5, offering a single graphics display mode running 1440p resolution at 30 FPS."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.07"
+      }
+    },
     "11119": {
       "slug": "fallout-shelter",
       "fetchedAt": "2026-08-26T14:58:34.125Z",
@@ -6692,6 +7682,134 @@
         "evidence": [],
         "origin": "enriched",
         "patchSeen": "01.01"
+      }
+    },
+    "11133": {
+      "slug": "dark-souls-iii",
+      "fetchedAt": "2026-08-26T19:24:11.067Z",
+      "data": {
+        "slug": "dark-souls-iii",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": "1080p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "reported",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "FPS Boost",
+            "modes": [
+              {
+                "name": "FPS Boost",
+                "targetFps": 60,
+                "resolution": "900p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Rare drops; measured near-perfectly."
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series S",
+            "modelId": "series-s",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "FPS Boost",
+            "modes": [
+              {
+                "name": "FPS Boost",
+                "targetFps": 60,
+                "resolution": "900p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Brief drop to 53fps in one tested scene."
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "measured",
+            "primary": false
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.15",
+            "date": "2017-08-17",
+            "titleId": "CUSA03388",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.15 · 4.4GB",
+            "url": "https://orbispatches.com/CUSA03388",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.14",
+            "date": "2017-04-29",
+            "titleId": "CUSA03388",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.14 · 4.4GB",
+            "url": "https://orbispatches.com/CUSA03388",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.13",
+            "date": "2017-04-06",
+            "titleId": "CUSA03388",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.13 · 4.4GB",
+            "url": "https://orbispatches.com/CUSA03388",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "The PS4 version runs at locked 60 FPS on PS5 via backward compatibility. Xbox Series X and Series S receive FPS Boost targeting 60 FPS at 900p, with a brief measured drop reported on Series S.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2021-dark-souls-3-now-runs-at-60fps-on-xbox-series-x-s-thanks-to-fps-boost",
+            "title": "Dark Souls 3 now runs at 60fps on Xbox Series X/S thanks ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "Today's FPS Boost upgrade overrides the frame-rate cap to give Xbox Series X and S the same, smooth experience 60fps as PS5."
+          },
+          {
+            "url": "https://www.backwards-compatible.com/games/dark-souls-iii/",
+            "title": "Dark Souls III - PS4 & PS5",
+            "publisher": "Backwards-Compatible",
+            "tier": 4,
+            "date": null,
+            "quote": "Dark Souls III (PS4) is backwards compatible with the PlayStation 5, offering a single graphics display mode running 1080p resolution at Locked 60 FPS."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.15"
       }
     },
     "11137": {
@@ -11885,7 +13003,7 @@
     },
     "25076": {
       "slug": "red-dead-redemption-2",
-      "fetchedAt": "2026-08-25T21:50:01.664Z",
+      "fetchedAt": "2026-08-26T19:38:38.127Z",
       "data": {
         "slug": "red-dead-redemption-2",
         "entries": [
@@ -11901,7 +13019,7 @@
                 "resolution": "4K checkerboard",
                 "unlocked": false,
                 "vrr": false,
-                "note": null
+                "note": "Locked to 30fps."
               }
             ],
             "appType": "backcompat",
@@ -11920,12 +13038,31 @@
                 "resolution": "native 4K",
                 "unlocked": false,
                 "vrr": false,
-                "note": null
+                "note": "Runs at 30fps."
               }
             ],
             "appType": "backcompat",
             "confidence": "measured",
             "primary": true
+          },
+          {
+            "model": "Xbox Series S",
+            "modelId": "series-s",
+            "platform": "xsx",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "The source groups Xbox Series X/S together."
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "reported",
+            "primary": false
           }
         ],
         "patches": [
@@ -11963,11 +13100,11 @@
             "publisher": "ORBISPatches"
           }
         ],
-        "verdict": "The backwards-compatible PS4 version runs at 30fps on PS5 and Xbox Series X. The supplied sources describe no released performance-changing patch.",
+        "verdict": "The existing backward-compatible version runs at 30fps on PS5 and Xbox Series X, with the cited analysis describing PS5's 4K checkerboard output and Series X's native 4K output. A supplied report also states 30fps for modern consoles including Xbox Series X/S, but no released current-generation performance upgrade is described.",
         "note": "No frame rate patch",
         "requested": true,
         "confidence": "measured",
-        "lastVerified": "2026-08-25",
+        "lastVerified": "2026-08-26",
         "evidence": [
           {
             "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2024-in-theory-what-would-a-current-gen-upgrade-for-red-dead-redemption-2-look-like",
@@ -11976,6 +13113,14 @@
             "tier": 3,
             "date": null,
             "quote": "PlayStation 5 runs with a lacklustre 4K checkerboard rendition of the game, locked to 30fps."
+          },
+          {
+            "url": "https://en.gamegpu.com/news/igry/obnovlennaya-versiya-red-dead-redemption-2-gotovitsya-k-relizu-na-ps5-xbox-series-x-s-i-switch-2",
+            "title": "Updated version Red Dead Redemption 2 is getting ready ...",
+            "publisher": "en.gamegpu.com",
+            "tier": 5,
+            "date": null,
+            "quote": "At the moment Red Dead Redemption 2, released in 2018 on PS4 and Xbox One, runs on modern consoles exclusively in backward compatibility mode. This limits the game's performance. 30 frames per second"
           }
         ],
         "origin": "enriched",
@@ -12463,6 +13608,106 @@
         "patchSeen": null
       }
     },
+    "26192": {
+      "slug": "the-last-of-us-part-ii",
+      "fetchedAt": "2026-08-26T19:24:50.419Z",
+      "data": {
+        "slug": "the-last-of-us-part-ii",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Framerate Target 60 FPS",
+            "modes": [
+              {
+                "name": "Framerate Target 30 FPS",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Framerate Target 60 FPS",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "02.001.010",
+            "date": "2025-08-05",
+            "titleId": "PPSA10662",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.001.010 · 86.8 GB",
+            "url": "https://prosperopatches.com/PPSA10662",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "02.001.000",
+            "date": "2025-07-08",
+            "titleId": "PPSA10662",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.001.000 · 86.7 GB",
+            "url": "https://prosperopatches.com/PPSA10662",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "02.000.010",
+            "date": "2025-04-04",
+            "titleId": "PPSA10662",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.000.010 · 86.6 GB",
+            "url": "https://prosperopatches.com/PPSA10662",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "1.08",
+            "date": "2021-05-19",
+            "titleId": "PPSA10662",
+            "previousFps": 30,
+            "newFps": 60,
+            "changedFps": true,
+            "label": "30 FPS to 60 FPS in patch 1.08",
+            "url": "https://blog.playstation.com/2021/05/19/the-last-of-us-part-ii-performance-patch-for-ps5/",
+            "publisher": "Naughty Dog"
+          }
+        ],
+        "verdict": "The PS4 version of The Last of Us Part II runs via backward compatibility on PS5 with selectable 30 FPS or 60 FPS targets after patch 1.08. The supplied sources do not describe the reported patch 02.001.010.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://blog.playstation.com/2021/05/19/the-last-of-us-part-ii-performance-patch-for-ps5/",
+            "title": "The Last of Us Part II performance patch for PS5",
+            "publisher": "PlayStation Blog",
+            "tier": 2,
+            "date": null,
+            "quote": "you can choose between a Framerate Target of 30 FPS or 60 FPS."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "02.001.010"
+      }
+    },
     "26226": {
       "slug": "celeste",
       "fetchedAt": "2026-08-25T22:07:12.137Z",
@@ -12609,6 +13854,52 @@
       "slug": "omori",
       "fetchedAt": "2026-08-26T18:33:47.143Z",
       "data": null
+    },
+    "26758": {
+      "slug": "super-mario-odyssey",
+      "fetchedAt": "2026-08-26T19:20:14.086Z",
+      "data": {
+        "slug": "super-mario-odyssey",
+        "entries": [
+          {
+            "model": "Nintendo Switch",
+            "modelId": "switch",
+            "platform": "switch",
+            "fps": 60,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Minor dips can occur occasionally, with select areas showing slower animation updates."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": false
+          }
+        ],
+        "patches": [],
+        "verdict": "Digital Foundry measured Super Mario Odyssey as targeting a smooth, stable 60fps on Nintendo Switch. It reports occasional minor slowdown and slower animation updates in select areas.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2017-how-super-mario-odyssey-pushes-switch-to-its-limits",
+            "title": "How Super Mario Odyssey pushes Switch to its limits",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "Super Mario Odyssey is designed to deliver a smooth, stable 60 frames per second experience no matter the cost - and it gets there at nearly all times."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": null
+      }
     },
     "26759": {
       "slug": "arms",
@@ -16069,6 +17360,11 @@
         "patchSeen": null
       }
     },
+    "37136": {
+      "slug": "metroid-prime-4-beyond",
+      "fetchedAt": "2026-08-26T19:38:06.587Z",
+      "data": null
+    },
     "37137": {
       "slug": "kirby-star-allies",
       "fetchedAt": "2026-08-26T16:00:43.453Z",
@@ -16882,6 +18178,46 @@
         "patchSeen": null
       }
     },
+    "59849": {
+      "slug": "la-noire",
+      "fetchedAt": "2026-08-26T19:37:45.266Z",
+      "data": {
+        "slug": "la-noire",
+        "entries": [],
+        "patches": [
+          {
+            "version": "01.04",
+            "date": "2019-06-11",
+            "titleId": "CUSA09084",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.04 · 13.5GB",
+            "url": "https://orbispatches.com/CUSA09084",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.03",
+            "date": "2017-12-08",
+            "titleId": "CUSA09084",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.03 · 13.5GB",
+            "url": "https://orbispatches.com/CUSA09084",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": null,
+        "note": null,
+        "requested": false,
+        "confidence": "unknown",
+        "lastVerified": null,
+        "evidence": [],
+        "origin": "enriched",
+        "patchSeen": "01.04"
+      }
+    },
     "62151": {
       "slug": "life-is-strange-2",
       "fetchedAt": "2026-08-26T14:44:07.021Z",
@@ -17473,6 +18809,139 @@
         "patchSeen": "01.04"
       }
     },
+    "75235": {
+      "slug": "ghost-of-tsushima",
+      "fetchedAt": "2026-08-26T19:18:52.069Z",
+      "data": {
+        "slug": "ghost-of-tsushima",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "1800p checkerboard",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Resolution",
+                "targetFps": 60,
+                "resolution": "2160p checkerboard",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Default",
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "PS4 code under backwards compatibility"
+              },
+              {
+                "name": "Quality",
+                "targetFps": 60,
+                "resolution": "1800c",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "1080p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "02.24",
+            "date": "2024-07-11",
+            "titleId": "CUSA11456",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.24 · 41GB",
+            "url": "https://orbispatches.com/CUSA11456",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "02.23",
+            "date": "2024-06-20",
+            "titleId": "CUSA11456",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.23 · 41GB",
+            "url": "https://orbispatches.com/CUSA11456",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "02.22",
+            "date": "2024-06-04",
+            "titleId": "CUSA11456",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 02.22 · 41GB",
+            "url": "https://orbispatches.com/CUSA11456",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "The native PS5 version has Performance and Resolution modes targeting 60 FPS, with Digital Foundry reporting both as locked at 60. The PS4 version running via backwards compatibility on PS5 also retains 60 FPS support.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2021-ghost-of-tsushima-ps5-upgrade-is-worthwhile-but-not-a-game-changer",
+            "title": "Ghost of Tsushima's PS5 upgrade is worthwhile but not a ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "The frame-rate option sticks to the 1800p checkerboard presentation seen on the PS4 version running under backwards compatibility"
+          },
+          {
+            "url": "https://www.backwards-compatible.com/games/ghost-of-tsushima/",
+            "title": "Ghost of Tsushima - PS4 & PS5",
+            "publisher": "Backwards-Compatible",
+            "tier": 4,
+            "date": null,
+            "quote": "1800c (Quality) 60 FPS"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "02.24"
+      }
+    },
     "75239": {
       "slug": "spelunky-2",
       "fetchedAt": "2026-08-26T16:53:05.824Z",
@@ -17760,6 +19229,86 @@
         ],
         "origin": "enriched",
         "patchSeen": "01.016.300"
+      }
+    },
+    "76882": {
+      "slug": "sekiro-shadows-die-twice",
+      "fetchedAt": "2026-08-26T19:14:04.241Z",
+      "data": {
+        "slug": "sekiro-shadows-die-twice",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": "1800c",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.06",
+            "date": "2020-11-05",
+            "titleId": "CUSA12047",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.06 · 4.2GB",
+            "url": "https://orbispatches.com/CUSA12047",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.05",
+            "date": "2020-08-26",
+            "titleId": "CUSA12047",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.05 · 4.2GB",
+            "url": "https://orbispatches.com/CUSA12047",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.04",
+            "date": "2019-04-23",
+            "titleId": "CUSA12047",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.04 · 4GB",
+            "url": "https://orbispatches.com/CUSA12047",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "The PS4 version runs at a locked 60 FPS on PS5 through backward compatibility, at 1800c resolution. Source 1 describes patch 01.06, but does not state that it changed performance.",
+        "note": "No frame rate patch",
+        "requested": false,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.backwards-compatible.com/games/sekiro-shadows-die-twice/",
+            "title": "Sekiro: Shadows Die Twice - PS4 & PS5",
+            "publisher": "Backwards-Compatible",
+            "tier": 4,
+            "date": null,
+            "quote": "Sekiro: Shadows Die Twice (PS4) is backwards compatible with the PlayStation 5, offering a single graphics display mode running 1800c resolution at Locked 60 FPS."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.06"
       }
     },
     "78511": {
@@ -18532,6 +20081,131 @@
       "slug": "last-epoch",
       "fetchedAt": "2026-08-26T15:59:01.929Z",
       "data": null
+    },
+    "96437": {
+      "slug": "starfield",
+      "fetchedAt": "2026-08-26T19:25:21.327Z",
+      "data": {
+        "slug": "starfield",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "900p internal, upscaled to or around 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Big cities can drop into the 30s and 40s."
+              },
+              {
+                "name": "Visuals",
+                "targetFps": 30,
+                "resolution": "1440p internal, upscaled to or around 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "around 1080p internal",
+                "unlocked": false,
+                "vrr": false,
+                "note": "New Atlantis and Akila City can dip as low as the 30s."
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": "around 1440p internal",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Sticks to its 30fps target in dense urban areas."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.000.006",
+            "date": "2026-06-11",
+            "titleId": "PPSA24884",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.006 · 114.8 GB",
+            "url": "https://prosperopatches.com/PPSA24884",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.005",
+            "date": "2026-05-14",
+            "titleId": "PPSA24884",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.005 · 114.8 GB",
+            "url": "https://prosperopatches.com/PPSA24884",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.004",
+            "date": "2026-04-23",
+            "titleId": "PPSA24884",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.004 · 114.9 GB",
+            "url": "https://prosperopatches.com/PPSA24884",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Starfield has measured 60fps performance modes and 30fps quality or visuals modes on both Xbox Series X and PS5. Digital Foundry reports drops into the 30s in major cities on both consoles.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2024-starfields-big-new-patch-adds-60fps-support-for-series-x-but-does-it-work",
+            "title": "Starfield's new Xbox performance modes are thoughtful ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "Starting with the standout new addition - performance mode targeting 60fps and the console set to 60Hz"
+          },
+          {
+            "url": "https://www.digitalfoundry.net/reviews/starfield-on-ps5ps5-pro-the-games-still-good-but-technical-problems-need-addressing",
+            "title": "Review: Starfield on PS5/PS5 Pro: The Game's Still Good",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "On PlayStation 5, just as on Xbox Series X, the default option for many players will be the 60fps performance mode."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.000.006"
+      }
     },
     "100413": {
       "slug": "watch-dogs-legion",
@@ -19416,6 +21090,89 @@
         "patchSeen": "01.02"
       }
     },
+    "103281": {
+      "slug": "halo-infinite",
+      "fetchedAt": "2026-08-26T19:26:51.549Z",
+      "data": {
+        "slug": "halo-infinite",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 120,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 120,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "One-off frame drops were observed."
+              },
+              {
+                "name": "Quality",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "120fps mode",
+                "targetFps": 120,
+                "resolution": "Dynamic 720p–1440p native",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Measured mean 115.49fps; minimum 96fps in Season 2 testing."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "1.3414.47446.0",
+            "date": "2022-05-24",
+            "titleId": null,
+            "previousFps": 108,
+            "newFps": 115,
+            "changedFps": false,
+            "label": "108 FPS to 115 FPS in patch 1.3414.47446.0",
+            "url": "https://www.neogaf.com/threads/vg-tech-halo-infinite-xbox-series-x-120fps-mode-campaign-frame-rate-test-season-2-update.1637010/",
+            "publisher": "343 Industries"
+          }
+        ],
+        "verdict": "Halo Infinite has a 120fps Performance mode on Xbox Series X, with occasional drops. Digital Foundry also describes a 60fps Quality mode; Season 2 testing measured a higher average frame rate than at launch.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2021-halo-infinites-performance-modes-impress-on-xbox-series-x-and-one-x",
+            "title": "Halo Infinite's performance modes impress on Series X and ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "With the exception of one-off frame drops (essentially invisible to the human eye), it's a 120 frames per second lock"
+          },
+          {
+            "url": "https://www.neogaf.com/threads/vg-tech-halo-infinite-xbox-series-x-120fps-mode-campaign-frame-rate-test-season-2-update.1637010/",
+            "title": "[VG Tech] Halo Infinite Xbox Series X 120fps Mode Campaign Frame ...",
+            "publisher": "NeoGAF",
+            "tier": 6,
+            "date": null,
+            "quote": "The latest version of Halo Infinite on Xbox Series X in the 120fps mode has a higher average frame rate than the launch version of the game."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": null
+      }
+    },
     "103291": {
       "slug": "gears-tactics",
       "fetchedAt": "2026-08-26T17:08:40.999Z",
@@ -19460,6 +21217,226 @@
         ],
         "origin": "enriched",
         "patchSeen": null
+      }
+    },
+    "103292": {
+      "slug": "gears-5",
+      "fetchedAt": "2026-08-26T19:32:59.352Z",
+      "data": {
+        "slug": "gears-5",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 120,
+            "mode": "Multiplayer",
+            "modes": [
+              {
+                "name": "Multiplayer",
+                "targetFps": 120,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "120 fps is the target."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": null,
+            "date": null,
+            "titleId": null,
+            "previousFps": null,
+            "newFps": 120,
+            "changedFps": true,
+            "label": "120 FPS added",
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2020-gears-5-xbox-series-x-upgrade-tested",
+            "publisher": "Digital Foundry"
+          }
+        ],
+        "verdict": "Digital Foundry states that Gears 5's Xbox Series X multiplayer mode targets 120 fps. The source does not state a Series X frame rate for campaign or other modes.",
+        "note": "120 FPS target",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2020-gears-5-xbox-series-x-upgrade-tested",
+            "title": "What's new with Gears 5 on Xbox Series X?",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "The multiplayer mode is a little more aggressive with its dynamic resolution solution owing to its higher performance targets - yes, 120 frames per second is the target"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": null
+      }
+    },
+    "103298": {
+      "slug": "doom-eternal",
+      "fetchedAt": "2026-08-26T19:23:05.791Z",
+      "data": {
+        "slug": "doom-eternal",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 120,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Ray Tracing",
+                "targetFps": 60,
+                "resolution": "1800p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling enabled."
+              },
+              {
+                "name": "Performance",
+                "targetFps": 120,
+                "resolution": "1800p",
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a 120Hz-compatible display; dynamic resolution scaling enabled."
+              },
+              {
+                "name": "Balanced",
+                "targetFps": 60,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling enabled."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series S",
+            "modelId": "series-s",
+            "platform": "xsx",
+            "fps": 120,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 120,
+                "resolution": "1080p",
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a 120Hz-compatible display; dynamic resolution scaling enabled."
+              },
+              {
+                "name": "Balanced",
+                "targetFps": 60,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling enabled."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": false
+          },
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 120,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Ray Tracing",
+                "targetFps": 60,
+                "resolution": "1800p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling enabled."
+              },
+              {
+                "name": "Performance",
+                "targetFps": 120,
+                "resolution": "1584p",
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a 120Hz-compatible display; dynamic resolution scaling enabled."
+              },
+              {
+                "name": "Balanced",
+                "targetFps": 60,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Dynamic resolution scaling enabled."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.011.000",
+            "date": "2024-08-22",
+            "titleId": "PPSA01981",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.011.000 · 78.7 GB",
+            "url": "https://prosperopatches.com/PPSA01981",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.010.000",
+            "date": "2023-09-05",
+            "titleId": "PPSA01981",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.010.000 · 78.7 GB",
+            "url": "https://prosperopatches.com/PPSA01981",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.009.000",
+            "date": "2022-04-26",
+            "titleId": "PPSA01981",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.009.000 · 78.6 GB",
+            "url": "https://prosperopatches.com/PPSA01981",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Bethesda states that the native next-gen versions run at 60 FPS in ray-tracing and balanced modes, with optional 120 FPS performance modes on PS5, Xbox Series X, and Xbox Series S. The supplied sources do not state a frame rate for the Switch version or describe the reported PlayStation patch 01.011.000 as changing performance.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://slayersclub.bethesda.net/en-US/news/upgrading-doom-eternal-to-next-gen",
+            "title": "DOOM Eternal Next-Gen Features FAQ - Slayers Club",
+            "publisher": "Bethesda",
+            "tier": 1,
+            "date": null,
+            "quote": "Ray Tracing Mode running at 1800p/60 FPS"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.011.000"
       }
     },
     "103301": {
@@ -20617,6 +22594,211 @@
         "patchSeen": "01.01"
       }
     },
+    "112874": {
+      "slug": "horizon-forbidden-west",
+      "fetchedAt": "2026-08-26T19:27:33.765Z",
+      "data": {
+        "slug": "horizon-forbidden-west",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "checkerboarded 1800p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Cutscenes are not quite as solid."
+              },
+              {
+                "name": "Resolution",
+                "targetFps": 30,
+                "resolution": "native 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.030.000",
+            "date": "2026-03-24",
+            "titleId": "PPSA04072",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.030.000 · 95.7 GB",
+            "url": "https://prosperopatches.com/PPSA04072",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.029.000",
+            "date": "2024-10-21",
+            "titleId": "PPSA04072",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.029.000 · 95 GB",
+            "url": "https://prosperopatches.com/PPSA04072",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.026.000",
+            "date": "2023-06-20",
+            "titleId": "PPSA04072",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.026.000 · 94.9 GB",
+            "url": "https://prosperopatches.com/PPSA04072",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Digital Foundry reports native PS5 Performance and Resolution modes targeting 60fps and 30fps respectively. The supplied sources do not describe the tracked 01.030.000 update as changing the game's frame rate.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2022-horizon-forbidden-west-the-digital-foundry-tech-review",
+            "title": "Horizon Forbidden West: how a PS5 graphics showcase ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "PS5 feature-set ... dropping to checkerboarded 1800p at 60fps in the favour performance mode"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.030.000"
+      }
+    },
+    "112875": {
+      "slug": "god-of-war-ragnarok",
+      "fetchedAt": "2026-08-26T19:24:05.577Z",
+      "data": {
+        "slug": "god-of-war-ragnarok",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 120,
+            "mode": "Favour Performance (High Frame Rate)",
+            "modes": [
+              {
+                "name": "Favour Resolution",
+                "targetFps": 30,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Locked"
+              },
+              {
+                "name": "Favour Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Locked"
+              },
+              {
+                "name": "Favour Resolution (High Frame Rate)",
+                "targetFps": 40,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Locked; requires a compatible HDMI 2.1 display"
+              },
+              {
+                "name": "Favour Performance (High Frame Rate)",
+                "targetFps": 120,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": true,
+                "note": "Targeting 120 FPS; requires a compatible HDMI 2.1 display"
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "06.00",
+            "date": "2026-01-14",
+            "titleId": "PPSA08329",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "New PS5 Pro Enhanced Options",
+            "url": "https://support.sms.playstation.com/hc/en-us/articles/31642737345293-Patch-Notes-v-06-00",
+            "publisher": "Santa Monica Studio"
+          },
+          {
+            "version": "06.006.000",
+            "date": "2026-01-14",
+            "titleId": "PPSA08329",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 06.006.000 · 93.4 GB",
+            "url": "https://prosperopatches.com/PPSA08329",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "06.005.000",
+            "date": "2025-04-09",
+            "titleId": "PPSA08329",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 06.005.000 · 93.4 GB",
+            "url": "https://prosperopatches.com/PPSA08329",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "06.004.000",
+            "date": "2025-03-25",
+            "titleId": "PPSA08329",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 06.004.000 · 93.4 GB",
+            "url": "https://prosperopatches.com/PPSA08329",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "On PS5, God of War Ragnarök has a locked 60 FPS Favour Performance mode. Its High Frame Rate performance mode targets 120 FPS with a compatible HDMI 2.1 display.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.videogameschronicle.com/news/god-of-war-ragnaroks-graphics-settings-have-been-confirmed/",
+            "title": "God of War Ragnarök's graphics settings include a 120FPS ...",
+            "publisher": "VGC",
+            "tier": 5,
+            "date": null,
+            "quote": "Favour Resolution – 4K/30FPS Locked"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "06.006.000"
+      }
+    },
     "112916": {
       "slug": "mortal-kombat-11",
       "fetchedAt": "2026-08-26T14:38:59.386Z",
@@ -21445,6 +23627,57 @@
         "patchSeen": "01.000.132"
       }
     },
+    "115060": {
+      "slug": "dragons-dogma-ii",
+      "fetchedAt": "2026-08-26T19:35:55.438Z",
+      "data": {
+        "slug": "dragons-dogma-ii",
+        "entries": [],
+        "patches": [
+          {
+            "version": "03.100.000",
+            "date": "2026-06-10",
+            "titleId": "PPSA09663",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 03.100.000 · 66.4 GB",
+            "url": "https://prosperopatches.com/PPSA09663",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "03.002.000",
+            "date": "2025-04-09",
+            "titleId": "PPSA09663",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 03.002.000 · 66.2 GB",
+            "url": "https://prosperopatches.com/PPSA09663",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "03.110.000",
+            "date": "2024-10-17",
+            "titleId": "PPSA09663",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "A new update for Dragon's Dogma 2 is available now on all platforms!",
+            "url": "https://www.dlcompare.com/gaming-news/dragon-s-dogma-ii-gets-a-big-performance-update-47271",
+            "publisher": "Capcom"
+          }
+        ],
+        "verdict": "The supplied sources report Prioritize Performance at 50–60 FPS and Prioritize Graphics at 30–40 FPS on both PS5 and Xbox Series X. They describe an October 2024 update that added these graphics modes, but do not identify patch 03.110.000.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "unknown",
+        "lastVerified": null,
+        "evidence": [],
+        "origin": "enriched",
+        "patchSeen": "03.110.000"
+      }
+    },
     "115276": {
       "slug": "super-mario-maker-2",
       "fetchedAt": "2026-08-26T18:31:15.400Z",
@@ -22116,6 +24349,138 @@
         ],
         "origin": "enriched",
         "patchSeen": "02.02"
+      }
+    },
+    "119133": {
+      "slug": "elden-ring",
+      "fetchedAt": "2026-08-26T19:16:13.280Z",
+      "data": {
+        "slug": "elden-ring",
+        "entries": [],
+        "patches": [
+          {
+            "version": "01.017.001",
+            "date": "2025-08-21",
+            "titleId": "PPSA04610",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.017.001 · 60.6 GB",
+            "url": "https://prosperopatches.com/PPSA04610",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.017.000",
+            "date": "2024-10-17",
+            "titleId": "PPSA04610",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.017.000 · 60.6 GB",
+            "url": "https://prosperopatches.com/PPSA04610",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.016.000",
+            "date": "2024-10-02",
+            "titleId": "PPSA04610",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.016.000 · 60.6 GB",
+            "url": "https://prosperopatches.com/PPSA04610",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "The supplied comparison reports that Elden Ring does not hold a solid 60 FPS on PS5 or Xbox Series X. Performance is mostly in the 50s, with drops into the 40s.",
+        "note": "No locked 60 FPS",
+        "requested": false,
+        "confidence": "unknown",
+        "lastVerified": null,
+        "evidence": [],
+        "origin": "enriched",
+        "patchSeen": "01.017.001"
+      }
+    },
+    "119171": {
+      "slug": "baldurs-gate-iii",
+      "fetchedAt": "2026-08-26T19:12:20.020Z",
+      "data": {
+        "slug": "baldurs-gate-iii",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "1080p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Framerate dips slightly in populated areas and chaotic battles."
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.800.905",
+            "date": "2026-08-03",
+            "titleId": "PPSA14001",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.800.905 · 115.9 GB",
+            "url": "https://prosperopatches.com/PPSA14001",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.800.801",
+            "date": "2026-03-26",
+            "titleId": "PPSA14001",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.800.801 · 115.9 GB",
+            "url": "https://prosperopatches.com/PPSA14001",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.800.700",
+            "date": "2026-02-16",
+            "titleId": "PPSA14001",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.800.700 · 115.9 GB",
+            "url": "https://prosperopatches.com/PPSA14001",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "On Xbox Series X, Baldur’s Gate III has a Performance Mode targeting 60 FPS at 1080p. The source reports slight dips in populated areas and chaotic battles.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.rpgfan.com/feature/baldurs-gate-iii-on-console-is-good-enough/",
+            "title": "Baldur's Gate III on Console Is... Good Enough!",
+            "publisher": "rpgfan.com",
+            "tier": 5,
+            "date": null,
+            "quote": "I’ve been playing mainly in Performance Mode to get that sweet, sweet 60 FPS."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.800.905"
       }
     },
     "119177": {
@@ -22897,6 +25262,53 @@
         ],
         "origin": "enriched",
         "patchSeen": "04.004.000"
+      }
+    },
+    "119388": {
+      "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+      "fetchedAt": "2026-08-26T19:16:39.777Z",
+      "data": {
+        "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+        "entries": [
+          {
+            "model": "Nintendo Switch 2",
+            "modelId": "switch-2",
+            "platform": "switch",
+            "fps": 60,
+            "mode": "60fps",
+            "modes": [
+              {
+                "name": "60fps",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Switch 2 Edition required; rare performance stress cases may still exist."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [],
+        "verdict": "The original Switch version is stated to run at 30 FPS in both docked and undocked play. The Switch 2 Edition is reported and measured at 60 FPS, with the upgrade requiring the Switch 2 Edition or a paid upgrade.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-zelda-upgraded-on-switch-2-breath-of-the-wild-and-tears-of-the-kingdom-tested",
+            "title": "Zelda: Breath of the Wild and Tears of the Kingdom's ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "Despite the more complex, physics-based contraptions possible in this 2023 follow-up, Switch 2 now allows for a convincing 60fps reading instead."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": null
       }
     },
     "121752": {
@@ -24139,6 +26551,111 @@
         "patchSeen": "01.000.108"
       }
     },
+    "127044": {
+      "slug": "marvels-spider-man-2",
+      "fetchedAt": "2026-08-26T19:28:02.420Z",
+      "data": {
+        "slug": "marvels-spider-man-2",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "60fps mode",
+            "modes": [
+              {
+                "name": "30fps mode",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "60fps mode",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "40fps mode",
+                "targetFps": 40,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a 120Hz display with VRR."
+              },
+              {
+                "name": "Uncapped options",
+                "targetFps": null,
+                "resolution": null,
+                "unlocked": true,
+                "vrr": true,
+                "note": "Requires a 120Hz display with VRR; measured in the 50s in Fidelity mode."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.005.001",
+            "date": "2026-08-07",
+            "titleId": "PPSA03016",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.005.001 · 103.8 GB",
+            "url": "https://prosperopatches.com/PPSA03016",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.005.000",
+            "date": "2026-07-28",
+            "titleId": "PPSA03016",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.005.000 · 103.8 GB",
+            "url": "https://prosperopatches.com/PPSA03016",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.004.003",
+            "date": "2024-11-21",
+            "titleId": "PPSA03016",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.004.003 · 103.3 GB",
+            "url": "https://prosperopatches.com/PPSA03016",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Digital Foundry identifies default 30fps and 60fps modes on the base PS5 version, plus a 40fps mode and uncapped options requiring a 120Hz VRR display. The supplied 1.005.001 report describes suit improvements, not a performance change.",
+        "note": "Performance Modes",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2024-marvels-spider-man-2-on-ps5-pro-upgrading-insomniacs-masterpiece",
+            "title": "Marvel's Spider-Man 2 on PS5 Pro: upgrading Insomniac's ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "these resolution numbers are for the default 30fps and 60fps modes"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.005.001"
+      }
+    },
     "127342": {
       "slug": "hellblade-ii-senuas-saga",
       "fetchedAt": "2026-08-26T15:05:37.968Z",
@@ -24909,6 +27426,95 @@
         "patchSeen": "01.070.000"
       }
     },
+    "133236": {
+      "slug": "final-fantasy-vii-rebirth",
+      "fetchedAt": "2026-08-26T19:32:13.789Z",
+      "data": {
+        "slug": "final-fantasy-vii-rebirth",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Graphics",
+                "targetFps": 30,
+                "resolution": "native 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Drops below 60fps"
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.090.000",
+            "date": "2026-06-03",
+            "titleId": "PPSA08666",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.090.000 · 136.7 GB",
+            "url": "https://prosperopatches.com/PPSA08666",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.080.000",
+            "date": "2024-12-24",
+            "titleId": "PPSA08666",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.080.000 · 136.9 GB",
+            "url": "https://prosperopatches.com/PPSA08666",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.070.000",
+            "date": "2024-12-13",
+            "titleId": "PPSA08666",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.070.000 · 136.7 GB",
+            "url": "https://prosperopatches.com/PPSA08666",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Final Fantasy VII Rebirth has 30fps Graphics and 60fps Performance modes on Xbox Series X. The Performance mode has sustained drops below 60fps.",
+        "note": "30/60 FPS modes",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/reviews/final-fantasy-7-rebirth-switch-2-performance-boosted-over-demo-but-xbox-60fps-mode-still-disappoints",
+            "title": "Final Fantasy 7 Rebirth: Switch 2 Performance Boosted ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "The Series X achieves a consistent pin-sharp native 4K at 30fps, comparable to the base PS5."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.090.000"
+      }
+    },
     "133301": {
       "slug": "dirt-5",
       "fetchedAt": "2026-08-26T16:42:53.251Z",
@@ -25364,6 +27970,166 @@
       "fetchedAt": "2026-08-26T18:38:48.124Z",
       "data": null
     },
+    "134070": {
+      "slug": "mafia-definitive-edition",
+      "fetchedAt": "2026-08-26T19:39:05.091Z",
+      "data": {
+        "slug": "mafia-definitive-edition",
+        "entries": [],
+        "patches": [
+          {
+            "version": "01.001.000",
+            "date": "2026-08-20",
+            "titleId": "PPSA36393",
+            "previousFps": null,
+            "newFps": 60,
+            "changedFps": false,
+            "label": "60 FPS added",
+            "url": "https://www.youtube.com/watch?v=0d-W-Oaab7o",
+            "publisher": "Fuzion Xbox Testing"
+          },
+          {
+            "version": "01.000.000",
+            "date": "2026-08-15",
+            "titleId": "PPSA36393",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.000 · 33.5 GB",
+            "url": "https://prosperopatches.com/PPSA36393",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "The supplied source names Xbox Series X and describes a 60FPS next-generation update. It provides no frame-rate figure for PS5 and no patch version matching 01.001.000.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "unknown",
+        "lastVerified": null,
+        "evidence": [],
+        "origin": "enriched",
+        "patchSeen": "01.001.000"
+      }
+    },
+    "134071": {
+      "slug": "mafia-ii-definitive-edition",
+      "fetchedAt": "2026-08-26T19:39:32.927Z",
+      "data": {
+        "slug": "mafia-ii-definitive-edition",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": "1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "backcompat",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.02",
+            "date": "2020-06-02",
+            "titleId": "CUSA16990",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.02 · 8.7GB",
+            "url": "https://orbispatches.com/CUSA16990",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.01",
+            "date": "2020-05-13",
+            "titleId": "CUSA16990",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.01 · 4.3GB",
+            "url": "https://orbispatches.com/CUSA16990",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": "The PS4 version running via backward compatibility on PS5 is listed at a locked 30 FPS and 1440p. No supplied source describes a released performance-changing patch.",
+        "note": "No frame rate patch",
+        "requested": true,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.backwards-compatible.com/games/mafia-ii-definitive-edition/",
+            "title": "Mafia II: Definitive Edition - PS4 & PS5",
+            "publisher": "Backwards-Compatible",
+            "tier": 4,
+            "date": null,
+            "quote": "Frame rate 1440p Locked 30 FPS"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.02"
+      }
+    },
+    "134073": {
+      "slug": "mafia-iii-definitive-edition",
+      "fetchedAt": "2026-08-26T19:40:17.795Z",
+      "data": {
+        "slug": "mafia-iii-definitive-edition",
+        "entries": [],
+        "patches": [
+          {
+            "version": "01.12",
+            "date": "2020-06-11",
+            "titleId": "CUSA03652",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.12 · 14.9GB",
+            "url": "https://orbispatches.com/CUSA03652",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.10",
+            "date": "2020-05-10",
+            "titleId": "CUSA03652",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.10 · 14.9GB",
+            "url": "https://orbispatches.com/CUSA03652",
+            "publisher": "ORBISPatches"
+          },
+          {
+            "version": "01.09",
+            "date": "2017-06-22",
+            "titleId": "CUSA03652",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.09 · 13.7GB",
+            "url": "https://orbispatches.com/CUSA03652",
+            "publisher": "ORBISPatches"
+          }
+        ],
+        "verdict": null,
+        "note": null,
+        "requested": false,
+        "confidence": "unknown",
+        "lastVerified": null,
+        "evidence": [],
+        "origin": "enriched",
+        "patchSeen": "01.12"
+      }
+    },
     "134101": {
       "slug": "fifa-21",
       "fetchedAt": "2026-08-26T15:59:42.111Z",
@@ -25396,6 +28162,194 @@
         "evidence": [],
         "origin": "enriched",
         "patchSeen": "01.012.000"
+      }
+    },
+    "134582": {
+      "slug": "ratchet-and-clank-rift-apart",
+      "fetchedAt": "2026-08-26T19:34:01.538Z",
+      "data": {
+        "slug": "ratchet-and-clank-rift-apart",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Fidelity",
+                "targetFps": 30,
+                "resolution": "Dynamic 1800p–2160p, theoretical minimum 1296p",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "Dynamic 1080p–1800p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Nigh-on locked; slight hitches on scene cuts during engine-driven cinematics."
+              },
+              {
+                "name": "Performance RT",
+                "targetFps": 60,
+                "resolution": "Dynamic 1080p–1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Nigh-on locked; one noticeable drop was observed during a non-interactive sequence."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "1.005.003",
+            "date": "2024-11-21",
+            "titleId": "PPSA01473",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Update 1.005.003, released today, appears to be another hotfix. ... focusing on minor stability and performance improvements.",
+            "url": "https://twistedvoxel.com/ratchet-clank-rift-apart-update-1-005-003/",
+            "publisher": "twistedvoxel.com"
+          },
+          {
+            "version": "01.005.003",
+            "date": "2024-11-21",
+            "titleId": "PPSA01473",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.005.003 · 39.8 GB",
+            "url": "https://prosperopatches.com/PPSA01473",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.005.002",
+            "date": "2024-11-07",
+            "titleId": "PPSA01473",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.005.002 · 39.8 GB",
+            "url": "https://prosperopatches.com/PPSA01473",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.005.001",
+            "date": "2024-10-29",
+            "titleId": "PPSA01473",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.005.001 · 39.8 GB",
+            "url": "https://prosperopatches.com/PPSA01473",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "On PS5, Rift Apart has Fidelity, Performance, and Performance RT modes. Digital Foundry measured Fidelity at 30fps and described the two performance modes as effectively locked around 60fps, with the caveats noted above.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2021-ratchet-and-clank-rift-apart-performance-analysis",
+            "title": "Ratchet and Clank: Rift Apart - all three graphics modes ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "The default mode ... is fidelity mode, which caps performance at 30 frames per second."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.005.003"
+      }
+    },
+    "134584": {
+      "slug": "returnal",
+      "fetchedAt": "2026-08-26T19:32:46.165Z",
+      "data": {
+        "slug": "returnal",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 60,
+                "resolution": "1080p base, reconstructed to 1440p and upscaled to 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Drops into the mid-50s can occur during intensive encounters."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "03.000.005",
+            "date": "2025-04-30",
+            "titleId": "PPSA01284",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 03.000.005 · 61.9 GB",
+            "url": "https://prosperopatches.com/PPSA01284",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "03.000.004",
+            "date": "2022-06-08",
+            "titleId": "PPSA01284",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 03.000.004 · 61.9 GB",
+            "url": "https://prosperopatches.com/PPSA01284",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "03.000.003",
+            "date": "2022-05-02",
+            "titleId": "PPSA01284",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 03.000.003 · 61.9 GB",
+            "url": "https://prosperopatches.com/PPSA01284",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Digital Foundry measured Returnal on PS5 at 60fps in normal play, with occasional drops below the target. None of the supplied sources describes the reported 03.000.005 patch.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-returnals-ps5-pro-upgrade-delivers-a-huge-resolution-boost-and-improved-performance",
+            "title": "Returnal's PS5 Pro upgrade delivers a huge resolution ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "base PS5 runs well at 60 frames per second, though there are certainly drops under the target."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "03.000.005"
       }
     },
     "134585": {
@@ -26566,6 +29520,307 @@
       "fetchedAt": "2026-08-26T17:52:41.441Z",
       "data": null
     },
+    "136604": {
+      "slug": "control-ultimate-edition",
+      "fetchedAt": "2026-08-26T19:35:05.533Z",
+      "data": {
+        "slug": "control-ultimate-edition",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance Mode",
+            "modes": [
+              {
+                "name": "Performance Mode",
+                "targetFps": 60,
+                "resolution": "1440p render resolution and 4K output",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Graphics Mode",
+                "targetFps": 30,
+                "resolution": "1440p render resolution and 4K output",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Ray tracing enabled."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance Mode",
+            "modes": [
+              {
+                "name": "Performance Mode",
+                "targetFps": 60,
+                "resolution": "1440p render resolution and 4K output",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Graphics Mode",
+                "targetFps": 30,
+                "resolution": "1440p render resolution and 4K output",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Ray tracing enabled."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.000.005",
+            "date": "2025-10-06",
+            "titleId": "PPSA01949",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.005 · 25.3 GB",
+            "url": "https://prosperopatches.com/PPSA01949",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.004",
+            "date": "2024-10-31",
+            "titleId": "PPSA01949",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.004 · 24.9 GB",
+            "url": "https://prosperopatches.com/PPSA01949",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.003",
+            "date": "2021-03-18",
+            "titleId": "PPSA01949",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.003 · 24.3 GB",
+            "url": "https://prosperopatches.com/PPSA01949",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Control: Ultimate Edition has 60fps Performance and 30fps ray-tracing/Graphics targets on PS5 and Xbox Series X. A supplied report also describes an update that unlocks Quality and Performance modes, but it does not identify the tracked PlayStation patch 01.000.005.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://support.505games.com/support/solutions/articles/150000147317-what-is-next-gen-about-control-ultimate-edition-on-playstation-5-and-xbox-series-x-s-",
+            "title": "What is 'next gen' about Control Ultimate Edition on ...",
+            "publisher": "505 Games",
+            "tier": 1,
+            "date": null,
+            "quote": "Performance Mode – Targets 60fps performance with 1440p render resolution and 4K output"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.000.005"
+      }
+    },
+    "136625": {
+      "slug": "hogwarts-legacy",
+      "fetchedAt": "2026-08-26T19:21:26.600Z",
+      "data": {
+        "slug": "hogwarts-legacy",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Shaky; drops and stutters"
+              },
+              {
+                "name": "Fidelity",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Near-locked 30 FPS"
+              },
+              {
+                "name": "Fidelity RT",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Near-locked 30 FPS"
+              },
+              {
+                "name": "Balanced",
+                "targetFps": 40,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Rare drops"
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "Dynamic 1440p typical",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Very shaky; drops and stutters"
+              },
+              {
+                "name": "Fidelity",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Locks fairly well"
+              },
+              {
+                "name": "Fidelity RT",
+                "targetFps": 30,
+                "resolution": "Dynamic 1440p",
+                "unlocked": false,
+                "vrr": false,
+                "note": "Substantial stutters and drops"
+              },
+              {
+                "name": "Balanced",
+                "targetFps": 40,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Significant stuttering"
+              },
+              {
+                "name": "High Frame Rate",
+                "targetFps": null,
+                "resolution": "1080p",
+                "unlocked": true,
+                "vrr": true,
+                "note": "Runs from 60 to 90 FPS; recommended for VRR"
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          },
+          {
+            "model": "Nintendo Switch 2",
+            "modelId": "switch-2",
+            "platform": "switch",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Basically locked in Hogwarts grounds and performance is great in Hogsmeade"
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.000.013",
+            "date": "2024-11-07",
+            "titleId": "PPSA01593",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.013 · 103.3 GB",
+            "url": "https://prosperopatches.com/PPSA01593",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.010",
+            "date": "2024-07-12",
+            "titleId": "PPSA01593",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.010 · 100.1 GB",
+            "url": "https://prosperopatches.com/PPSA01593",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.009",
+            "date": "2024-06-05",
+            "titleId": "PPSA01593",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.009 · 99.5 GB",
+            "url": "https://prosperopatches.com/PPSA01593",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "The supplied sources establish 60-FPS-targeting Performance modes on PS5 and Series X, alongside 30-FPS Fidelity modes. Switch 2 is described as holding a 30-FPS target well; no supplied source states a frame rate for the tracked original Switch.",
+        "note": "Performance Mode",
+        "requested": true,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://icon-era.com/threads/hogwarts-legacy-digital-foundry-tech-review-ps5-vs-xbox-series-x-s-21-mode-variations-tested.2449/",
+            "title": "Digital Foundry Tech Review - PS5 vs Xbox Series X/S",
+            "publisher": "icon-era.com",
+            "tier": 5,
+            "date": null,
+            "quote": "PS5 has same visual feature set as Series X with same rendering targets"
+          },
+          {
+            "url": "https://www.thesixthaxis.com/2025/06/19/hogwarts-legacy-on-switch-2-is-a-transfigurational-new-port/",
+            "title": "Hogwarts Legacy on Switch 2 is a transfigurational new port",
+            "publisher": "thesixthaxis.com",
+            "tier": 5,
+            "date": null,
+            "quote": "Hogwarts Legacy on Switch 2 is able to hold onto a 30fps target very well"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.000.013"
+      }
+    },
     "136879": {
       "slug": "black-myth-wukong",
       "fetchedAt": "2026-08-26T14:27:03.013Z",
@@ -26680,6 +29935,83 @@
         ],
         "origin": "enriched",
         "patchSeen": "01.000.021"
+      }
+    },
+    "136993": {
+      "slug": "gotham-knights",
+      "fetchedAt": "2026-08-26T19:36:27.282Z",
+      "data": {
+        "slug": "gotham-knights",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Occasional dropped frames"
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Outdoor scenes can drop"
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "05.000.000",
+            "date": "2023-08-30",
+            "titleId": "PPSA02223",
+            "previousFps": 30,
+            "newFps": 30,
+            "changedFps": false,
+            "label": "30 FPS to 30 FPS",
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2023-gotham-knights-is-fixed-so-weve-re-reviewed-every-version-of-the-game",
+            "publisher": "Digital Foundry"
+          }
+        ],
+        "verdict": "Gotham Knights targets 30fps on PS5 and Xbox Series X, with the reviewed versions substantially more stable than at launch. The sources do not describe a released 60fps patch.",
+        "note": "No 60fps patch",
+        "requested": true,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2023-gotham-knights-is-fixed-so-weve-re-reviewed-every-version-of-the-game",
+            "title": "Gotham Knights is fixed - so we've re-reviewed every ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "Looking at the PS5 release, we're getting close to a locked 30fps."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "05.000.000"
       }
     },
     "137001": {
@@ -27354,6 +30686,131 @@
         ],
         "origin": "enriched",
         "patchSeen": "01.016.000"
+      }
+    },
+    "141503": {
+      "slug": "forza-horizon-5",
+      "fetchedAt": "2026-08-26T19:19:47.291Z",
+      "data": {
+        "slug": "forza-horizon-5",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": "up to 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.685.672",
+            "date": "2025-06-17",
+            "titleId": "PPSA22327",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.685.672 · 122.9 GB",
+            "url": "https://prosperopatches.com/PPSA22327",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.685.019",
+            "date": "2025-05-27",
+            "titleId": "PPSA22327",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.685.019 · 122.9 GB",
+            "url": "https://prosperopatches.com/PPSA22327",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.684.150",
+            "date": "2025-04-29",
+            "titleId": "PPSA22327",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.684.150 · 122.9 GB",
+            "url": "https://prosperopatches.com/PPSA22327",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Forza Horizon 5 has a 60fps Performance mode and a 30fps Quality mode on both PS5 and Xbox Series X. The supplied sources describe these modes as delivering consistent or perfect performance.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-forza-horizon-5-rolls-onto-ps5-and-ps5-pro-the-df-tech-review",
+            "title": "Forza Horizon 5 on PS5 Pro delivers the best console ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "The broad strokes of Forza Horizon 5's presentation remain unchanged in the move from Series X to PS5, with a 60fps performance mode and a 30fps quality mode."
+          },
+          {
+            "url": "https://www.thesixthaxis.com/2021/11/04/forza-horizon-5-xbox-series-x-performance-60fps-xbox-one-x-comparison-load-times/",
+            "title": "Forza Horizon 5 – Xbox Series vs. Xbox One performance ...",
+            "publisher": "thesixthaxis.com",
+            "tier": 5,
+            "date": null,
+            "quote": "Switch from 30fps to the 60fps ‘Performance’ mode (which requires a full game reboot) and you’ll immediately feel the difference."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.685.672"
       }
     },
     "141533": {
@@ -29987,6 +33444,130 @@
         "patchSeen": "01.000.003"
       }
     },
+    "168670": {
+      "slug": "uncharted-legacy-of-thieves-collection",
+      "fetchedAt": "2026-08-26T19:37:23.838Z",
+      "data": {
+        "slug": "uncharted-legacy-of-thieves-collection",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 120,
+            "mode": "Performance+ Mode",
+            "modes": [
+              {
+                "name": "Fidelity Mode",
+                "targetFps": 30,
+                "resolution": "native 4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance Mode",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Performance+ Mode",
+                "targetFps": 120,
+                "resolution": "1080p",
+                "unlocked": false,
+                "vrr": true,
+                "note": "Requires a compatible 120Hz display."
+              },
+              {
+                "name": "Unlocked Framerate",
+                "targetFps": null,
+                "resolution": null,
+                "unlocked": true,
+                "vrr": true,
+                "note": "Requires a compatible display; frame-rate cap removed."
+              }
+            ],
+            "appType": "native",
+            "confidence": "official",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "1.002",
+            "date": "2022-09-12",
+            "titleId": "PPSA05389",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Naughty Dog and Sony have deployed Uncharted Legacy of Thieves Collection PS5 update 1.002, which quietly adds support for VRR.",
+            "url": "https://wccftech.com/uncharted-legacy-of-thieves-collection-ps5-update-1-002-vrr/",
+            "publisher": "Naughty Dog and Sony"
+          },
+          {
+            "version": "01.002.000",
+            "date": "2022-09-12",
+            "titleId": "PPSA05389",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.002.000 · 83.6 GB",
+            "url": "https://prosperopatches.com/PPSA05389",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.001.000",
+            "date": "2022-01-10",
+            "titleId": "PPSA05389",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.001.000 · 83.6 GB",
+            "url": "https://prosperopatches.com/PPSA05389",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.000",
+            "date": "2021-12-07",
+            "titleId": "PPSA05389",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.000 · 83.7 GB",
+            "url": "https://prosperopatches.com/PPSA05389",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "On PS5, the collection offers 30 FPS Fidelity, 60 FPS Performance, and 120 FPS Performance+ modes. Update 1.002 added VRR support and an Unlocked Framerate option for compatible displays.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "official",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://blog.playstation.com/2021/12/07/uncharted-legacy-of-thieves-collection-details-on-the-remastered-bundle/",
+            "title": "Uncharted: Legacy of Thieves Collection – Details on the ...",
+            "publisher": "PlayStation Blog",
+            "tier": 2,
+            "date": null,
+            "quote": "Fidelity Mode ... play in native 4K resolution with a 30fps target framerate."
+          },
+          {
+            "url": "https://wccftech.com/uncharted-legacy-of-thieves-collection-ps5-update-1-002-vrr/",
+            "title": "New Uncharted Legacy of Thieves Collection PS5 Update ...",
+            "publisher": "wccftech.com",
+            "tier": 5,
+            "date": null,
+            "quote": "players will compatible displays will be able to toggle “Unlocked Framerate” on or off"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.002.000"
+      }
+    },
     "171233": {
       "slug": "deltarune",
       "fetchedAt": "2026-08-25T22:15:37.565Z",
@@ -30259,6 +33840,112 @@
         "patchSeen": null
       }
     },
+    "185246": {
+      "slug": "alan-wake-ii",
+      "fetchedAt": "2026-08-26T19:28:51.280Z",
+      "data": {
+        "slug": "alan-wake-ii",
+        "entries": [
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "One stand-out area missed 30fps"
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Close to locked; occasional drops"
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          },
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Struggles in tougher areas"
+              },
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Unstable in affected areas"
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.200.009",
+            "date": "2026-08-18",
+            "titleId": "PPSA02571",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.200.009 · 93.2 GB",
+            "url": "https://prosperopatches.com/PPSA02571",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.200.007",
+            "date": "2024-12-17",
+            "titleId": "PPSA02571",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.200.007 · 93.6 GB",
+            "url": "https://prosperopatches.com/PPSA02571",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "Digital Foundry reports 30fps Quality and 60fps Performance targets on both PS5 and Xbox Series X. Series X is generally more consistent, while PS5 has performance drops in tougher areas.",
+        "note": "Performance Mode",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2023-alan-wake-2-runs-great-on-xbox-series-x-and-the-cut-backs-are-fine-on-series-s",
+            "title": "Alan Wake 2 on Xbox Series X improves on PS5 ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "Everywhere else, the game runs at a locked 30 frames per second with no deviations that I could see."
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.200.009"
+      }
+    },
     "185252": {
       "slug": "warhammer-40000-space-marine-ii",
       "fetchedAt": "2026-08-25T22:15:37.565Z",
@@ -30511,6 +34198,11 @@
         "patchSeen": "01.000.100"
       }
     },
+    "191411": {
+      "slug": "xenoblade-chronicles-3",
+      "fetchedAt": "2026-08-26T19:36:43.975Z",
+      "data": null
+    },
     "191435": {
       "slug": "animal-well",
       "fetchedAt": "2026-08-26T15:03:16.930Z",
@@ -30704,6 +34396,64 @@
         "confidence": "unknown",
         "lastVerified": null,
         "evidence": [],
+        "origin": "enriched",
+        "patchSeen": null
+      }
+    },
+    "191931": {
+      "slug": "pokemon-scarlet",
+      "fetchedAt": "2026-08-26T19:34:28.967Z",
+      "data": {
+        "slug": "pokemon-scarlet",
+        "entries": [
+          {
+            "model": "Nintendo Switch",
+            "modelId": "switch",
+            "platform": "switch",
+            "fps": 30,
+            "modes": [
+              {
+                "name": "Default",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Performance dropped below target nearly constantly."
+              }
+            ],
+            "appType": "native",
+            "confidence": "measured",
+            "primary": false
+          }
+        ],
+        "patches": [
+          {
+            "version": null,
+            "date": null,
+            "titleId": null,
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Switch 2 is a huge improvement in docked mode, aiming for and usually hitting a 60fps frame-rate target.",
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-switch-2-revitalises-pokemon-scarlet-and-violet-with-better-performance-and-image-quality",
+            "publisher": "Digital Foundry"
+          }
+        ],
+        "verdict": "On the original Nintendo Switch, Pokémon Scarlet targets 30 FPS but frequently falls below it. The supplied sources describe the performance improvement as applying to Switch 2, not the tracked Switch model.",
+        "note": "No frame rate patch",
+        "requested": false,
+        "confidence": "measured",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2025-switch-2-revitalises-pokemon-scarlet-and-violet-with-better-performance-and-image-quality",
+            "title": "Switch 2 revitalises Pokémon Scarlet and Violet with better ...",
+            "publisher": "Digital Foundry",
+            "tier": 3,
+            "date": null,
+            "quote": "performance dropped below the 30fps target nearly constantly"
+          }
+        ],
         "origin": "enriched",
         "patchSeen": null
       }
@@ -31085,6 +34835,131 @@
         "evidence": [],
         "origin": "enriched",
         "patchSeen": "03.100.000"
+      }
+    },
+    "201156": {
+      "slug": "star-wars-jedi-survivor",
+      "fetchedAt": "2026-08-26T19:31:24.398Z",
+      "data": {
+        "slug": "star-wars-jedi-survivor",
+        "entries": [
+          {
+            "model": "PlayStation 5",
+            "modelId": "ps5",
+            "platform": "ps5",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Traversal stutter remains."
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Reported as consistent 30fps."
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          },
+          {
+            "model": "Xbox Series X",
+            "modelId": "series-x",
+            "platform": "xsx",
+            "fps": 60,
+            "mode": "Performance",
+            "modes": [
+              {
+                "name": "Performance",
+                "targetFps": 60,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Traversal stutter remains."
+              },
+              {
+                "name": "Quality",
+                "targetFps": 30,
+                "resolution": null,
+                "unlocked": false,
+                "vrr": false,
+                "note": "Reported as consistent 30fps."
+              }
+            ],
+            "appType": "native",
+            "confidence": "reported",
+            "primary": true
+          }
+        ],
+        "patches": [
+          {
+            "version": "01.000.013",
+            "date": "2025-01-15",
+            "titleId": "PPSA07783",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.013 · 142.3 GB",
+            "url": "https://prosperopatches.com/PPSA07783",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.012",
+            "date": "2024-09-12",
+            "titleId": "PPSA07783",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.012 · 141 GB",
+            "url": "https://prosperopatches.com/PPSA07783",
+            "publisher": "PROSPEROPatches"
+          },
+          {
+            "version": "01.000.011",
+            "date": "2024-01-11",
+            "titleId": "PPSA07783",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "Patch 01.000.011 · 140.2 GB",
+            "url": "https://prosperopatches.com/PPSA07783",
+            "publisher": "PROSPEROPatches"
+          }
+        ],
+        "verdict": "The sources report a 60fps Performance mode and a 30fps Quality mode on PS5 and Xbox Series X. EA's January 15 PS5 Patch 10 notes describe PS5 Pro visual fixes, not a frame-rate change.",
+        "note": "No frame rate patch",
+        "requested": false,
+        "confidence": "reported",
+        "lastVerified": "2026-08-26",
+        "evidence": [
+          {
+            "url": "https://wccftech.com/star-wars-jedi-survivor-ps5-xsx-performance-mode-rough-quality-mode-30fps-better/",
+            "title": "Star Wars Jedi: Survivor PS5/XSX Performance Mode is ...",
+            "publisher": "wccftech.com",
+            "tier": 5,
+            "date": null,
+            "quote": "It's only 30fps, but it seems to be a consistent 30fps"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=LH_HbgzUKBU",
+            "title": "Star Wars Jedi Survivor's New 60FPS Mode - A Massive Improvement? PS5",
+            "publisher": "YouTube",
+            "tier": 6,
+            "date": null,
+            "quote": "This patch promises a solid 60fps in the game's performance mode"
+          }
+        ],
+        "origin": "enriched",
+        "patchSeen": "01.000.013"
       }
     },
     "202956": {
@@ -36471,6 +40346,11 @@
         "origin": "enriched",
         "patchSeen": "01.000.013"
       }
+    },
+    "338067": {
+      "slug": "mario-kart-world",
+      "fetchedAt": "2026-08-26T19:14:30.737Z",
+      "data": null
     },
     "338106": {
       "slug": "donkey-kong-bananza",
