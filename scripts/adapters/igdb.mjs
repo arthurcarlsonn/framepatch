@@ -7,7 +7,7 @@ import { existsSync } from "node:fs";
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
-import { CURATED_SLUGS } from "../../src/lib/frame-data.ts";
+import { SEED_SLUGS } from "../../src/lib/seed-slugs.ts";
 import { loadEnv } from "../lib/env.mjs";
 import { sleep } from "../lib/http.mjs";
 import { ROOT } from "../lib/store.mjs";
@@ -154,10 +154,10 @@ async function fetchEsrbMap(client) {
   return new Map(rows.map((r) => [r.id, r.rating]));
 }
 
-async function fetchCurated(client) {
+async function fetchSeeded(client) {
   const out = [];
-  for (let i = 0; i < CURATED_SLUGS.length; i += 40) {
-    const list = CURATED_SLUGS.slice(i, i + 40).map((s) => `"${s}"`).join(",");
+  for (let i = 0; i < SEED_SLUGS.length; i += 40) {
+    const list = SEED_SLUGS.slice(i, i + 40).map((s) => `"${s}"`).join(",");
     out.push(...(await igdb(client, "games", `fields ${GAME_FIELDS}; where slug = (${list}); limit 50;`)));
   }
   return out;
@@ -354,29 +354,29 @@ function toRecord(game, esrbMap) {
 // ── entry point ───────────────────────────────────────────────────────────────
 
 /**
- * Fetches the catalogue: every curated title by slug, plus the most-rated titles on each
+ * Fetches the catalogue: every seed title by slug, plus the most-rated titles on each
  * console. Returns `{ index, detail, links }` records keyed by IGDB id.
  */
-export async function fetchCatalogue({ curatedOnly = false, perPlatform = 70 } = {}) {
+export async function fetchCatalogue({ seededOnly = false, perPlatform = 70 } = {}) {
   const creds = await credentials();
   const client = { id: creds.id, token: await getToken(creds) };
   const esrbMap = await fetchEsrbMap(client);
 
-  const curated = await fetchCurated(client);
-  const missing = CURATED_SLUGS.filter((slug) => !curated.some((g) => g.slug === slug));
+  const seeded = await fetchSeeded(client);
+  const missing = SEED_SLUGS.filter((slug) => !seeded.some((g) => g.slug === slug));
   if (missing.length) console.warn(`  ! no IGDB match for: ${missing.join(", ")}`);
 
-  const discovered = curatedOnly ? [] : await fetchPopular(client, perPlatform);
+  const discovered = seededOnly ? [] : await fetchPopular(client, perPlatform);
 
   const byId = new Map();
-  for (const game of [...curated, ...discovered]) byId.set(game.id, game);
+  for (const game of [...seeded, ...discovered]) byId.set(game.id, game);
 
   const records = [...byId.values()]
     .map((g) => toRecord(g, esrbMap))
-    // Backwards-compatible titles are listed on IGDB under their original platform, so a
-    // curated entry keeps its consoles from frame-data.ts instead.
+    // Backwards-compatible titles are listed on IGDB under their original platform, which
+    // leaves them with no current-gen console; a seed title is kept regardless.
     .filter(
-      (r) => r.index.cover && (r.index.consoles.length > 0 || CURATED_SLUGS.includes(r.index.slug)),
+      (r) => r.index.cover && (r.index.consoles.length > 0 || SEED_SLUGS.includes(r.index.slug)),
     );
 
   const popularity = await fetchPopularity(client, records.map((r) => r.index.igdbId));

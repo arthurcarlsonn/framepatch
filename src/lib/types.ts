@@ -80,8 +80,8 @@ export type PatchEvent = {
 
 /**
  * FramePatch's frame rate answer for one title: one entry per console model, the patches that
- * changed it, and the sources each figure rests on. Written either by hand in ./frame-data.ts
- * or by `pnpm enrich`, never by both — see ./fps.ts.
+ * changed it, and the sources each figure rests on. Built by `pnpm enrich`, which never emits
+ * a figure it cannot quote a source for — see ./fps.ts.
  */
 export type FpsRecord = {
   slug: string;
@@ -94,8 +94,8 @@ export type FpsRecord = {
   /** ISO date of the last pass that confirmed these figures. */
   lastVerified: string | null;
   evidence: Evidence[];
-  /** Hand-curated records outrank the worker's; this says which wrote it. */
-  origin: "curated" | "enriched";
+  /** Kept for the shape of older cached records; every record is worker-built. */
+  origin: "enriched";
   /** Latest store patch version seen when this was written — the re-enrichment trigger. */
   patchSeen?: string | null;
 };
@@ -220,9 +220,9 @@ export type GameDetailData = IgdbDetail & {
 };
 
 export type Game = IgdbGame & {
-  /** Consoles FramePatch lists this on — curated frame data wins over IGDB's platform list. */
+  /** Consoles FramePatch lists this on — a verified figure adds consoles IGDB does not list. */
   consoles: PlatformId[];
-  /** True when curated frame rate data exists; false means "awaiting verification". */
+  /** True when at least one console model has a sourced figure; false means "awaiting verification". */
   verified: boolean;
   appType: Partial<Record<PlatformId, AppType>>;
   targets: ConsoleTarget[];

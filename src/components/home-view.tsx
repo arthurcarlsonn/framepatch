@@ -126,6 +126,8 @@ export function HomeView() {
           </SearchResults>
         ) : (
           <div className="space-y-14 pt-6">
+            <HubStrip />
+
             <section>
               <SectionHeader
                 title={`Recently upgraded to 60 FPS`}
@@ -220,6 +222,58 @@ function SearchResults({
       ) : (
         <div className="space-y-2">{children}</div>
       )}
+    </section>
+  );
+}
+
+/**
+ * Entry points into the generated hubs.
+ *
+ * The rails below this are console-specific and rebuilt from client state, which makes them
+ * useless as crawl paths — every one of them points back into /browse. This strip is the
+ * home page's only static internal linking, and without it the whole generated architecture
+ * hangs off the sitemap alone.
+ */
+const HUBS: { href: string; label: string; blurb: string }[] = [
+  {
+    href: "/gta-6",
+    label: "GTA 6 frame rate",
+    blurb: "Reported 30 FPS on every console. Every source, tracked.",
+  },
+  {
+    href: "/live",
+    label: "FramePatch Live",
+    blurb: "Frame rate claims as they land, with how settled each one is.",
+  },
+  {
+    href: "/upgraded-to-60-fps",
+    label: "30 FPS games that reached 60",
+    blurb: "Every documented upgrade, and how long each one took.",
+  },
+  {
+    href: "/consoles",
+    label: "Browse by console",
+    blurb: "PS5, Xbox Series X|S and Switch, split by frame rate and genre.",
+  },
+];
+
+function HubStrip() {
+  return (
+    <section aria-label="Frame rate hubs">
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        {HUBS.map((hub) => (
+          <Link
+            key={hub.href}
+            href={hub.href}
+            className="group border-border/70 bg-card hover:border-primary/45 hover:bg-accent/40 flex flex-col gap-1.5 rounded-lg border p-4 transition-colors"
+          >
+            <span className="group-hover:text-primary text-sm font-semibold transition-colors">
+              {hub.label}
+            </span>
+            <span className="text-muted-foreground text-xs leading-relaxed">{hub.blurb}</span>
+          </Link>
+        ))}
+      </div>
     </section>
   );
 }

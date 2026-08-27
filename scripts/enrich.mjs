@@ -24,10 +24,10 @@
  *   pnpm enrich --max=25                 cap how many titles are enriched
  *   pnpm enrich --budget=50              cap Tavily credits for this run
  *   pnpm enrich --patches-only           refresh patch detection, spend nothing on search
+ *   pnpm enrich --skip-bc                skip the Backwards Compatible pass
  *   pnpm enrich --dry-run                print the work list and stop
  *   pnpm enrich --force                  re-verify even titles that are still fresh
  */
-import { CURATED_SLUGS } from "../src/lib/frame-data.ts";
 import {
   ExtractorAuthError,
   dollarsSpent,
@@ -35,6 +35,7 @@ import {
   extractFps,
   extractorModel,
 } from "./adapters/fps-extract.mjs";
+import { fetchFrames, fetchIndex, matchKey, toSource as bcSource } from "./adapters/bc-frames.mjs";
 import { fetchPatchHistory, titleIdFrom } from "./adapters/ps-patches.mjs";
 import {
   SearchAuthError,
@@ -62,6 +63,7 @@ const force = args.includes("--force");
 const dryRun = args.includes("--dry-run");
 const patchesOnly = args.includes("--patches-only");
 const skipPatches = args.includes("--skip-patches");
+const skipBc = args.includes("--skip-bc");
 const only = flag("only")?.split(",").map((s) => s.trim());
 const max = Number(flag("max") ?? 60);
 /** Firecrawl bills per search plus per page scraped. A ceiling stops one run eating the month. */
@@ -100,9 +102,6 @@ if (catalogue.length === 0) {
   process.exit(1);
 }
 
-/** Hand-curated titles are already answered by a person; spending credits on them is waste. */
-const curated = new Set(CURATED_SLUGS);
-
 // ── stage 1: which titles were patched ────────────────────────────────────────
 
 /**
@@ -137,6 +136,46 @@ if (!skipPatches) {
     `  ${Object.entries(stats).filter(([, v]) => v).map(([k, v]) => `${v} ${k}`).join(", ") || "nothing to do"}`,
   );
 }
+
+// ── stage 1b: the spec database ───────────────────────────────────────────────
+
+/**
+ * Backwards Compatible covers a slice of the catalogue with a per-game spec table, and does
+ * it at a URL we can derive rather than search for. Reading it costs plain HTTP, so it runs
+ * for every title it has before anything metered starts, and its rows join the sources the
+ * extractor sees. It answers PlayStation only; the search pass below is still what finds
+ * Xbox and Switch.
+ */
+if (!skipBc && !patchesOnly) {
+  console.log("bcFrames — Backwards Compatible…");
+  let index = new Map();
+  try {
+    index = await fetchIndex();
+  } catch (error) {
+    console.log(`  ! index unavailable (${error.message}) — continuing without it`);
+  }
+
+  if (index.size) {
+    // Exact key only. Folding editions together here would attach a remaster's figures to the
+    // original, and the remaster is often precisely what changed them.
+    const targets = catalogue.filter((game) => index.has(matchKey(game.slug)));
+    console.log(`  ${index.size} titles indexed · ${targets.length} in our catalogue`);
+    const stats = await syncEntries(
+      "bcFrames",
+      targets,
+      async (game) => fetchFrames(index.get(matchKey(game.slug))),
+      // Frozen since 2022, so re-reading it often buys nothing; ps-patches is what notices
+      // a title has moved on.
+      { force, maxAgeDays: 180, concurrency: 3 },
+    );
+    console.log(
+      `  ${Object.entries(stats).filter(([, v]) => v).map(([k, v]) => `${v} ${k}`).join(", ") || "nothing to do"}`,
+    );
+  }
+}
+
+const bcTable = await readSource("bcFrames");
+const bcOf = (igdbId) => bcTable.entries[String(igdbId)]?.data ?? null;
 
 const patchTable = await readSource("psPatches");
 const patchOf = (igdbId) => patchTable.entries[String(igdbId)]?.data ?? null;
@@ -212,8 +251,27 @@ function rank(results, owners) {
   return [...byUrl.values()].sort((a, b) => a.tier - b.tier || b.score - a.score).slice(0, 8);
 }
 
+/**
+ * Consoles to tell the extractor about.
+ *
+ * IGDB files a backwards-compatible title under the platform it shipped on — Batman: Arkham
+ * Asylum is a Switch game as far as IGDB is concerned — and the extractor is told to ignore
+ * anything about a console the request does not name, which is what stops a PS5 figure being
+ * pinned to a game that has no PS5 release. That rule turns into a silent floor when a source
+ * documents the PS5 build and the console list never mentions PS5: the model reads the figure,
+ * obeys the rule, and returns nothing.
+ *
+ * A PlayStation source having a page for the title is itself the evidence that PS5 belongs in
+ * the list. src/lib/games.ts already does the same join in the other direction, letting a
+ * record add consoles IGDB does not list.
+ */
+function consolesFor(game, frames) {
+  return frames && !game.consoles.includes("ps5") ? [...game.consoles, "ps5"] : game.consoles;
+}
+
 async function enrich(game) {
   const patch = patchOf(game.igdbId);
+  const frames = bcOf(game.igdbId);
 
   if (searchBudgetLeft() <= 0) throw new SearchBudgetError("search budget spent");
 
@@ -221,17 +279,22 @@ async function enrich(game) {
   // running them together turns three round trips into roughly one. The per-host pacing in
   // lib/http.mjs still keeps the requests themselves polite.
   const passes = await Promise.all(
-    queriesFor(game, patch).map(({ query, limit }) => search(query, { limit })),
+    queriesFor({ ...game, consoles: consolesFor(game, frames) }, patch).map(({ query, limit }) =>
+      search(query, { limit }),
+    ),
   );
   const hits = passes.flat();
 
-  const sources = rank([changelogSource(patch), ...hits].filter(Boolean), game.owners);
+  const sources = rank(
+    [changelogSource(patch), frames ? bcSource(frames) : null, ...hits].filter(Boolean),
+    game.owners,
+  );
   if (sources.length === 0) return null;
 
   const extraction = await extractFps({
     title: game.title,
     releaseYear: game.releaseDate?.slice(0, 4) ?? null,
-    consoles: game.consoles,
+    consoles: consolesFor(game, frames),
     sources,
     patchHint: patch,
   });
@@ -278,7 +341,7 @@ function priority(game) {
 const CREDITS_PER_TITLE = 15;
 
 const work = catalogue
-  .filter((g) => (only ? only.includes(g.slug) : !curated.has(g.slug)))
+  .filter((g) => (only ? only.includes(g.slug) : true))
   .sort((a, b) => priority(a) - priority(b) || b.popularity - a.popularity)
   // Sizing the list to the budget beats discovering it mid-run and leaving a trail of errors.
   .slice(0, Math.min(max, Math.floor(budget / CREDITS_PER_TITLE)));

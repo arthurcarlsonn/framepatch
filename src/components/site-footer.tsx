@@ -3,22 +3,39 @@ import { ZapIcon } from "lucide-react";
 
 import { DATA_SYNCED_AT } from "@/lib/games";
 
+/**
+ * The footer is the only internal link surface on every page, which makes it the one that
+ * decides whether the generated hubs get crawled at all. The console links point at
+ * /consoles/* rather than /browse on purpose: /browse is one client-rendered page whose
+ * console is picked from local state, so it cannot be the destination for a console query.
+ */
 const COLUMNS = [
   {
     title: "Browse",
     links: [
       { label: "All games", href: "/browse" },
       { label: "Recent patches", href: "/patches" },
-      { label: "Still 30 FPS", href: "/browse?filter=30" },
-      { label: "120 FPS library", href: "/browse?filter=120" },
+      { label: "By franchise", href: "/franchises" },
+      { label: "By publisher", href: "/publishers" },
     ],
   },
   {
     title: "Consoles",
     links: [
-      { label: "PlayStation 5", href: "/browse" },
-      { label: "Xbox Series X|S", href: "/browse" },
-      { label: "Nintendo Switch", href: "/browse" },
+      { label: "PlayStation 5", href: "/consoles/ps5" },
+      { label: "Xbox Series X|S", href: "/consoles/xbox-series-x" },
+      { label: "Nintendo Switch", href: "/consoles/nintendo-switch" },
+      { label: "60 FPS on PS5", href: "/consoles/ps5/60-fps-games" },
+      { label: "120 FPS on PS5", href: "/consoles/ps5/120-fps-games" },
+    ],
+  },
+  {
+    title: "Tracking",
+    links: [
+      { label: "FramePatch Live", href: "/live" },
+      { label: "GTA 6 frame rate", href: "/gta-6" },
+      { label: "30 FPS games that hit 60", href: "/upgraded-to-60-fps" },
+      { label: "RSS feed", href: "/feed.xml" },
     ],
   },
   {
@@ -35,7 +52,7 @@ export function SiteFooter() {
   return (
     <footer className="border-border/70 mt-24 border-t">
       <div className="mx-auto max-w-[1280px] px-4 py-12 sm:px-6">
-        <div className="grid gap-10 md:grid-cols-[1.4fr_repeat(3,1fr)]">
+        <div className="grid gap-10 md:grid-cols-[1.4fr_repeat(4,1fr)]">
           <div className="max-w-xs">
             <div className="flex items-center gap-2.5">
               <span className="bg-primary grid size-7 place-items-center rounded-lg">

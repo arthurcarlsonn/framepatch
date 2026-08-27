@@ -173,7 +173,12 @@ function sourceBlock(source, index) {
  * first. `patchHint` is what the tracker saw, so the model can tie a claim to a version.
  */
 export async function extractFps({ title, releaseYear, consoles, sources, patchHint }) {
-  const usable = sources.filter((s) => (s.text || s.snippet || "").trim().length > 200).slice(0, MAX_SOURCES);
+  // The length floor is a scrape check: a page that returned a nav bar and a cookie banner
+  // has nothing to extract. A source that was parsed rather than scraped has already proven
+  // it carries figures, and a game with one graphics mode makes a short, complete document.
+  const usable = sources
+    .filter((s) => s.structured || (s.text || s.snippet || "").trim().length > 200)
+    .slice(0, MAX_SOURCES);
   if (usable.length === 0) return null;
 
   const prompt = [

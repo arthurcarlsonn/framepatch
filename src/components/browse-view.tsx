@@ -78,19 +78,13 @@ export function BrowseView() {
   }, [platform, filter, sort, query]);
 
   return (
-    <div className="mx-auto max-w-[1280px] px-4 pt-10 sm:px-6">
-      <header className="mb-8">
-        <p className="text-primary text-xs font-semibold tracking-[0.09em] uppercase">
-          {PLATFORM_LABEL[platform]} library
-        </p>
-        <h1 className="font-heading mt-2 text-3xl font-bold tracking-[-0.03em] sm:text-4xl">
-          Browse all games
-        </h1>
-        <p className="text-muted-foreground mt-2 text-[15px]">
-          {games.length} {games.length === 1 ? "title" : "titles"} indexed from IGDB, with
-          FramePatch frame rate verification layered on top.
-        </p>
-      </header>
+    <div className="mx-auto max-w-[1280px] px-4 sm:px-6">
+      {/* The <h1> lives in app/browse/page.tsx: this component renders behind a Suspense
+          boundary and never reaches the initial HTML. */}
+      <p className="text-primary mb-6 text-xs font-semibold tracking-[0.09em] uppercase">
+        {PLATFORM_LABEL[platform]} library — {games.length}{" "}
+        {games.length === 1 ? "title" : "titles"}
+      </p>
 
       <div className="bg-background/80 sticky top-16 z-30 -mx-4 mb-6 px-4 py-3 backdrop-blur-xl sm:-mx-6 sm:px-6">
         <div className="flex flex-col gap-3 lg:flex-row lg:items-center">
