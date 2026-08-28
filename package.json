@@ -9,6 +9,7 @@
     "lint": "eslint",
     "sync": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/sync.mjs",
     "generate": "node scripts/generate.mjs",
+    "icons": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/icons.mjs",
     "ps:hashes": "node scripts/ps-hashes.mjs",
     "enrich": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/enrich.mjs",
     "enrich:patches": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/enrich.mjs --patches-only"
