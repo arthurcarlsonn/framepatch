@@ -1,12 +1,13 @@
 "use client";
 
 import { MenuIcon, SearchIcon, ZapIcon } from "lucide-react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useCallback, useState } from "react";
 
 import { PlatformSwitcher } from "@/components/platform-switcher";
-import { SearchDialog, useSearchHotkey } from "@/components/search-dialog";
+import { useSearchHotkey } from "@/components/use-search-hotkey";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
@@ -21,12 +22,29 @@ const NAV = [
   { href: "/submit", label: "Submit Info" },
 ];
 
+/**
+ * The search dialog imports the catalogue, so importing it from the header put all 769 titles
+ * in the first-load bundle of every page on the site. Loading it on first open instead keeps
+ * that weight off pages nobody searches from, which is most of them.
+ */
+const SearchDialog = dynamic(
+  () => import("@/components/search-dialog").then((m) => m.SearchDialog),
+  { ssr: false },
+);
+
 export function SiteHeader() {
   const [searchOpen, setSearchOpen] = useState(false);
+  const [searchLoaded, setSearchLoaded] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const pathname = usePathname();
 
-  useSearchHotkey(useCallback(() => setSearchOpen(true), []));
+  // Mount on the first open and leave it mounted, so reopening is instant.
+  const openSearch = useCallback(() => {
+    setSearchLoaded(true);
+    setSearchOpen(true);
+  }, []);
+
+  useSearchHotkey(openSearch);
 
   return (
     <>
@@ -67,7 +85,7 @@ export function SiteHeader() {
             size="icon-lg"
             aria-label="Search games"
             className="text-muted-foreground hover:text-foreground"
-            onClick={() => setSearchOpen(true)}
+            onClick={openSearch}
           >
             <SearchIcon className="size-4.5" />
           </Button>
@@ -109,7 +127,7 @@ export function SiteHeader() {
         </div>
       </header>
 
-      <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
+      {searchLoaded ? <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} /> : null}
     </>
   );
 }

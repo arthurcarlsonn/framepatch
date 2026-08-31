@@ -2,7 +2,7 @@
 
 import { CornerDownLeftIcon } from "lucide-react";
 import { useRouter } from "next/navigation";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 
 import { FpsBadge } from "@/components/fps-badge";
 import { GameCover } from "@/components/game-cover";
@@ -98,18 +98,4 @@ export function SearchDialog({
       </Command>
     </CommandDialog>
   );
-}
-
-/** Wires ⌘K / Ctrl-K to a boolean the caller owns. */
-export function useSearchHotkey(onOpen: () => void) {
-  useEffect(() => {
-    function onKey(e: KeyboardEvent) {
-      if (e.key === "k" && (e.metaKey || e.ctrlKey)) {
-        e.preventDefault();
-        onOpen();
-      }
-    }
-    document.addEventListener("keydown", onKey);
-    return () => document.removeEventListener("keydown", onKey);
-  }, [onOpen]);
 }
