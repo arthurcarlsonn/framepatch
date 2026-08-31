@@ -59,10 +59,16 @@ export function platformsIn(record: FpsRecord): PlatformId[] {
   return [...new Set(record.entries.map((e) => e.platform))];
 }
 
-/** Sources behind a record, strongest first, de-duplicated by URL. */
-export function rankedEvidence(record: FpsRecord): Evidence[] {
+/**
+ * Sources strongest first, de-duplicated by URL.
+ *
+ * Takes the evidence list rather than the whole record: a page that has already joined a
+ * record down to a `Game` has the sources but no longer has an `FpsRecord` to hand, and
+ * rebuilding a synthetic one just to call this was the only reason it ever needed the record.
+ */
+export function rankedEvidence(evidence: Evidence[]): Evidence[] {
   const seen = new Map<string, Evidence>();
-  for (const source of record.evidence) {
+  for (const source of evidence) {
     const existing = seen.get(source.url);
     if (!existing || source.tier < existing.tier) seen.set(source.url, source);
   }

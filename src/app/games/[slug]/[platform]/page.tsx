@@ -84,18 +84,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const path = `/games/${game.slug}/${PLATFORM_SLUG[platform]}`;
   const fps = headlineFps(game, platform);
   const targets = targetsFor(game, platform);
-  const evidence = rankedEvidence({
-    slug: game.slug,
-    entries: game.targets,
-    patches: [],
-    verdict: game.verdict,
-    note: game.note ?? null,
-    requested: Boolean(game.requested),
-    confidence: game.confidence,
-    lastVerified: game.lastVerified,
-    evidence: game.evidence,
-    origin: "enriched",
-  });
+  const evidence = rankedEvidence(game.evidence);
 
   const elsewhere = game.consoles.filter((id) => id !== platform && verifiedOn(game, id));
 
