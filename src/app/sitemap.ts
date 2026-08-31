@@ -92,13 +92,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ];
 
-  const games: MetadataRoute.Sitemap = GAMES.map((game) => ({
+  // Unverified titles are excluded on purpose: their pages carry `noindex` (see
+  // src/app/games/[slug]/page.tsx) because they cannot yet answer the frame rate question, and
+  // a sitemap that submits noindex URLs is asking to be ignored. They stay discoverable
+  // through the A-Z list on /browse, so a figure landing on one gets crawled on the next pass.
+  const games: MetadataRoute.Sitemap = GAMES.filter((game) => game.verified).map((game) => ({
     url: url(`/games/${game.slug}`),
     // A verified title changes when enrichment re-checks it; an unverified one only changes
     // when the catalogue does.
     lastModified: game.lastVerified ? new Date(game.lastVerified) : synced,
     changeFrequency: "weekly" as const,
-    priority: game.verified ? 0.7 : 0.4,
+    priority: 0.7,
   }));
 
   const gameConsoles: MetadataRoute.Sitemap = gamePlatformRoutes().map(({ slug, platform }) => ({

@@ -33,6 +33,10 @@ export async function generateMetadata({
     alternates: { canonical: path },
     openGraph: { type: "article", title, description, url: absolute(path) },
     twitter: { card: "summary_large_image", title, description },
+    // A title with no verified figure cannot answer the question it would rank for. The page
+    // stays crawlable and its links keep counting, but it is held out of the index until an
+    // enrichment pass gives it a figure. src/app/sitemap.ts drops the same set.
+    ...(game.verified ? {} : { robots: { index: false, follow: true } }),
   };
 }
 
