@@ -45,6 +45,7 @@ S), attributed to Rob Nelson, co-director at Rockstar North. It is **reported**,
 Rockstar has published nothing about frame rate itself. No 60 FPS performance mode has been
 announced.
 
+- [Grand Theft Auto VI — title page](${SITE_URL}/games/grand-theft-auto-vi)
 - [GTA 6 frame rate hub](${SITE_URL}/gta-6)
 ${GTA6_TOPICS.map((topic) => `- [${topic.title}](${SITE_URL}/gta-6/${topic.slug})`).join("\n")}
 
@@ -69,6 +70,11 @@ ${PLATFORMS.map(
   (platform) =>
     `- [${PLATFORM_NAME[platform.id]}](${SITE_URL}/consoles/${PLATFORM_SLUG[platform.id]})`,
 ).join("\n")}
+
+## About
+
+- [How FramePatch verifies a frame rate](${SITE_URL}/about) — source tiers, confidence
+  ratings, and why an unverified title is undocumented rather than assumed.
 
 ## Browse
 

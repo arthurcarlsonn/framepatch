@@ -11,7 +11,8 @@
  * that carried it. When `grand-theft-auto-vi` lands in the catalogue (it is already in
  * SEED_SLUGS) these pages should cross-link to the record rather than restate it.
  */
-import { liveFor } from "./live";
+import { liveFor, LIVE_ENTRIES } from "./live";
+import type { ConsoleTarget, Evidence, Game } from "./types";
 
 export const GTA6_TITLE = "Grand Theft Auto VI";
 export const GTA6_SHORT = "GTA 6";
@@ -293,3 +294,148 @@ export const GTA6_ABOUT: string[] = [
     "30 FPS target drew the reaction it did — the hardware floor is higher than it has ever " +
     "been for a Rockstar launch, and the frame rate target is not.",
 ];
+
+// ── the catalogue entry ───────────────────────────────────────────────────────
+
+/**
+ * Grand Theft Auto VI as a catalogue record.
+ *
+ * Every other title in `GAMES` is generated from IGDB plus the storefronts. GTA VI is in
+ * neither yet, so this is the one hand-written record on the site — and it is written to the
+ * same shape as the generated ones precisely so that nothing downstream has to know that.
+ * Cards, rails, search, the browse grid and /games/[slug] all treat it as an ordinary title.
+ *
+ * It carries a figure because it has a source. The confidence is `reported`, which is the
+ * same rating any other relayed publisher statement would get, and the evidence below is the
+ * same evidence the Live entry cites. Nothing here is inferred: the 30 FPS target is stated,
+ * and the fields nobody has stated — review score, ESRB rating, cover art — are left empty
+ * rather than filled in plausibly.
+ */
+
+/** Every console model the claim names, all at the same target. */
+const GTA6_TARGETS: ConsoleTarget[] = [
+  {
+    model: "PlayStation 5",
+    modelId: "ps5",
+    platform: "ps5",
+    fps: GTA6_FPS,
+    modes: [
+      {
+        name: "Default",
+        targetFps: GTA6_FPS,
+        resolution: null,
+        unlocked: false,
+        vrr: false,
+        note: "No 60 FPS performance mode has been announced.",
+      },
+    ],
+    appType: "native",
+    confidence: "reported",
+    primary: true,
+  },
+  {
+    model: "PlayStation 5 Pro",
+    modelId: "ps5-pro",
+    platform: "ps5",
+    fps: GTA6_FPS,
+    modes: [
+      {
+        name: "Default",
+        targetFps: GTA6_FPS,
+        resolution: null,
+        unlocked: false,
+        vrr: false,
+        note: "Same target as the base PS5; the extra hardware is not spent on frame rate.",
+      },
+    ],
+    appType: "native",
+    confidence: "reported",
+  },
+  {
+    model: "Xbox Series X",
+    modelId: "series-x",
+    platform: "xsx",
+    fps: GTA6_FPS,
+    modes: [
+      {
+        name: "Default",
+        targetFps: GTA6_FPS,
+        resolution: null,
+        unlocked: false,
+        vrr: false,
+        note: null,
+      },
+    ],
+    appType: "native",
+    confidence: "reported",
+    primary: true,
+  },
+  {
+    model: "Xbox Series S",
+    modelId: "series-s",
+    platform: "xsx",
+    fps: GTA6_FPS,
+    modes: [
+      {
+        name: "Default",
+        targetFps: GTA6_FPS,
+        resolution: null,
+        unlocked: false,
+        vrr: false,
+        note: "Target only — no measurement of the retail build exists.",
+      },
+    ],
+    appType: "native",
+    confidence: "reported",
+  },
+];
+
+const GTA6_EVIDENCE: Evidence[] = (
+  LIVE_ENTRIES.find((entry) => entry.game === GTA6_TITLE)?.sources ?? []
+).map((source) => ({
+  url: source.url,
+  title: source.label,
+  publisher: source.role,
+  tier: source.tier,
+  date: "2026-08-27",
+  quote: null,
+}));
+
+export const GTA6_GAME: Game = {
+  // IGDB's real id for the title. The record exists there; it is the storefront and
+  // frame rate data around it that does not, which is why this row is still hand-written.
+  igdbId: 52189,
+  slug: "grand-theft-auto-vi",
+  title: GTA6_TITLE,
+  releaseDate: GTA6_RELEASE_DATE,
+  // IGDB's cover art, served from the same CDN as every other cover on the site — no new
+  // image host, and the same licensing path the catalogue already relies on.
+  cover: { imageId: "cocaa5" },
+  publisher: GTA6_PUBLISHER,
+  developer: "Rockstar North",
+  genres: ["Shooter", "Racing", "Adventure"],
+  franchise: "Grand Theft Auto",
+  esrb: null,
+  // Unreleased: no critic score and no votes. Left null so no aggregateRating is emitted.
+  score: null,
+  ratingCount: 0,
+  // A ranking weight, not a measurement — it places the title on the home rails next to the
+  // rest of the franchise. IGDB will overwrite it with a real figure once the game syncs.
+  popularity: 6000,
+  altNames: ["GTA 6", "GTA VI"],
+  gamePass: null,
+  consoles: ["ps5", "xsx"],
+  verified: true,
+  appType: { ps5: "native", xsx: "native" },
+  targets: GTA6_TARGETS,
+  verdict:
+    "Reported to target 30 FPS on every console — PS5, PS5 Pro, Xbox Series X and Series S " +
+    "alike. No 60 FPS performance mode has been announced, and Rockstar has published nothing " +
+    "about frame rate itself.",
+  note: "Reported, not official",
+  requested: false,
+  history: [{ date: "Nov 2026", label: "Launch", url: null }],
+  confidence: "reported",
+  evidence: GTA6_EVIDENCE,
+  lastVerified: "2026-08-27",
+};

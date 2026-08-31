@@ -153,6 +153,18 @@ export default function Page() {
       ) : null}
 
       <section className="mb-12">
+        <Link
+          href="/games/grand-theft-auto-vi"
+          className="group border-border/70 bg-card hover:border-primary/45 hover:bg-accent/40 mb-6 block rounded-lg border p-4 transition-colors"
+        >
+          <p className="group-hover:text-primary text-[15px] font-semibold transition-colors">
+            Grand Theft Auto VI — the full title page
+          </p>
+          <p className="text-muted-foreground mt-1 text-sm leading-relaxed">
+            Release date, platforms, setting and everything FramePatch tracks on the game.
+          </p>
+        </Link>
+
         <h2 className="font-heading mb-4 text-xl font-semibold tracking-[-0.02em]">
           By console, and the questions around it
         </h2>

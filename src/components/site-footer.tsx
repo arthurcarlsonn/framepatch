@@ -33,6 +33,7 @@ const COLUMNS = [
     title: "Tracking",
     links: [
       { label: "FramePatch Live", href: "/live" },
+      { label: "GTA 6", href: "/games/grand-theft-auto-vi" },
       { label: "GTA 6 frame rate", href: "/gta-6" },
       { label: "30 FPS games that hit 60", href: "/upgraded-to-60-fps" },
       { label: "RSS feed", href: "/feed.xml" },
@@ -41,6 +42,7 @@ const COLUMNS = [
   {
     title: "Community",
     links: [
+      { label: "About FramePatch", href: "/about" },
       { label: "Submit info", href: "/submit" },
       { label: "Report incorrect data", href: "/submit" },
       { label: "Verification policy", href: "/submit" },

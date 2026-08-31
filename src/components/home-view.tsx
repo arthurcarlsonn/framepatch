@@ -126,8 +126,6 @@ export function HomeView() {
           </SearchResults>
         ) : (
           <div className="space-y-14 pt-6">
-            <HubStrip />
-
             <section>
               <SectionHeader
                 title={`Recently upgraded to 60 FPS`}
@@ -184,6 +182,8 @@ export function HomeView() {
                 ))}
               </div>
             </section>
+
+            <HubStrip />
           </div>
         )}
       </div>

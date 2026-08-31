@@ -1,4 +1,5 @@
 import { fpsChangingPatch, fpsRecordFor, platformsIn, strongest } from "./fps";
+import { GTA6_GAME } from "./gta6";
 import { DATA_SYNCED_AT, IGDB_GAMES } from "./igdb.generated";
 import {
   type AppType,
@@ -104,7 +105,18 @@ function buildGame(igdb: IgdbGame): Game {
   };
 }
 
-export const GAMES: Game[] = IGDB_GAMES.map(buildGame);
+/**
+ * The catalogue.
+ *
+ * Grand Theft Auto VI is appended by hand because it is not in IGDB or on any storefront yet,
+ * and the frame rate question is being asked now. The append is conditional: the moment a
+ * sync produces a real `grand-theft-auto-vi` record, that one wins and the hand-written one
+ * drops out, so the two can never both be present. See src/lib/gta6.ts.
+ */
+export const GAMES: Game[] = (() => {
+  const synced = IGDB_GAMES.map(buildGame);
+  return synced.some((game) => game.slug === GTA6_GAME.slug) ? synced : [...synced, GTA6_GAME];
+})();
 
 const BY_SLUG = new Map(GAMES.map((g) => [g.slug, g]));
 

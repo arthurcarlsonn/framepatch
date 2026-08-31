@@ -39,6 +39,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: url("/publishers"), lastModified: synced, changeFrequency: "weekly", priority: 0.6 },
     { url: url("/live"), lastModified: enriched, changeFrequency: "daily", priority: 0.9 },
     { url: url("/upgraded-to-60-fps"), lastModified: enriched, changeFrequency: "weekly", priority: 0.8 },
+    { url: url("/about"), lastModified: synced, changeFrequency: "monthly", priority: 0.5 },
   ];
 
   // The GTA 6 cluster outranks the rest of the site in priority on purpose: it is the only
