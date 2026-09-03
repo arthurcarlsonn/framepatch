@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-09-02T12:26:09.024Z",
+  "syncedAt": "2026-09-03T11:53:06.841Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -19696,7 +19696,7 @@
     },
     "110248": {
       "slug": "stray",
-      "fetchedAt": "2026-08-31T14:59:07.129Z",
+      "fetchedAt": "2026-09-03T11:53:03.838Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -19714,9 +19714,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-02T12:11:27.315Z"
+      }
     },
     "110474": {
       "slug": "minecraft-dungeons",
@@ -26749,7 +26747,7 @@
     },
     "135254": {
       "slug": "crash-bandicoot-4-its-about-time",
-      "fetchedAt": "2026-08-31T15:03:21.940Z",
+      "fetchedAt": "2026-09-03T11:53:06.841Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -26775,9 +26773,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-02T12:17:23.414Z"
+      }
     },
     "135994": {
       "slug": "avowed",
