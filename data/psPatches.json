@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-09-06T09:38:09.216Z",
+  "syncedAt": "2026-09-06T11:28:49.086Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -13262,7 +13262,7 @@
     },
     "27011": {
       "slug": "serious-sam-4",
-      "fetchedAt": "2026-09-04T12:06:03.121Z",
+      "fetchedAt": "2026-09-06T11:28:49.086Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13280,9 +13280,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-06T09:22:24.847Z"
+      }
     },
     "27082": {
       "slug": "raft",
