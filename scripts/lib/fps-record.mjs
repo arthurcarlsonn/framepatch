@@ -145,7 +145,10 @@ function buildPatches(extraction, patchHint, allowedUrls, owners, bestTier) {
     );
     patches.push({
       version: patch.version?.trim() || patchHint?.latestVersion || null,
-      date: isoOr(patch.date, patchHint?.latestDate ?? null),
+      // Never borrow the tracker's newest date here. A frame rate upgrade that shipped years
+      // ago would be stamped with whatever the game patched last, dating a 2021 announcement
+      // to this month. An undated patch stays undated — the patch rails already skip those.
+      date: isoOr(patch.date),
       titleId: patchHint?.titleId ?? null,
       previousFps,
       newFps,

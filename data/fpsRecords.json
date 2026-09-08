@@ -1,6 +1,6 @@
 {
   "source": "fpsRecords",
-  "syncedAt": "2026-08-27T17:32:55.156Z",
+  "syncedAt": "2026-09-08T18:57:56.114Z",
   "entries": {
     "71": {
       "slug": "portal",
@@ -3355,9 +3355,25 @@
                 "unlocked": false,
                 "vrr": false,
                 "note": null
+              },
+              {
+                "name": "Balanced mode",
+                "targetFps": 60,
+                "resolution": "Quad HD",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
+              },
+              {
+                "name": "Quality mode",
+                "targetFps": 30,
+                "resolution": "4K",
+                "unlocked": false,
+                "vrr": false,
+                "note": null
               }
             ],
-            "appType": "unknown",
+            "appType": "native",
             "confidence": "official",
             "primary": true
           },
@@ -3433,11 +3449,11 @@
             "publisher": "ORBISPatches"
           }
         ],
-        "verdict": "The supplied sources state that PS5 has a 60 FPS Performance mode and Xbox Series X has Performance and Balanced modes targeting 60 FPS. The latest listed PlayStation 01.54 update only says minor bug-fixes and does not describe a performance change.",
+        "verdict": "The next-gen patch gives PS5 and Xbox Series X the same three modes: Performance at 60 FPS in Full HD, Balanced at 60 FPS in Quad HD and Quality at 30 FPS in 4K. The latest listed PlayStation 01.54 update only says minor bug-fixes and does not describe a performance change.",
         "note": "No frame rate patch",
         "requested": false,
         "confidence": "official",
-        "lastVerified": "2026-08-25",
+        "lastVerified": "2026-09-08",
         "evidence": [
           {
             "url": "https://www.orbispatches.com/ua/CUSA00050",
@@ -3454,6 +3470,14 @@
             "tier": 5,
             "date": null,
             "quote": "Performance mode offers 60 FPS in full HD resolution"
+          },
+          {
+            "url": "https://www.gamesradar.com/the-original-dying-light-gets-three-performance-modes-in-ps5-upgrade-patch/",
+            "title": "Dying Light finally gets a new-gen upgrade for Xbox players",
+            "publisher": "GamesRadar+",
+            "tier": 3,
+            "date": null,
+            "quote": "a Performance Mode with 60FPS in full HD, a Balanced Mode with 60FPS and quad high definition, and a Quality Mode boasting 30FPS in 4K resolution"
           }
         ],
         "origin": "enriched",
@@ -9085,43 +9109,21 @@
         "patches": [
           {
             "version": "1.53",
-            "date": "2026-07-23",
-            "titleId": "PPSA13428",
+            "date": "2021-08-26",
+            "titleId": null,
             "previousFps": 30,
             "newFps": 60,
             "changedFps": true,
             "label": "30 FPS to 60 FPS in patch 1.53",
             "url": "https://www.videogameschronicle.com/news/a-new-horizon-zero-dawn-update-has-added-60fps-mode-on-ps5/",
             "publisher": "Guerrilla Games"
-          },
-          {
-            "version": "01.009.000",
-            "date": "2026-07-23",
-            "titleId": "PPSA13428",
-            "previousFps": null,
-            "newFps": null,
-            "changedFps": false,
-            "label": "Patch 01.009.000 · 79.7 GB",
-            "url": "https://prosperopatches.com/PPSA13428",
-            "publisher": "PROSPEROPatches"
-          },
-          {
-            "version": "01.008.001",
-            "date": "2024-12-24",
-            "titleId": "PPSA13428",
-            "previousFps": null,
-            "newFps": null,
-            "changedFps": false,
-            "label": "Patch 01.008.001 · 79.4 GB",
-            "url": "https://prosperopatches.com/PPSA13428",
-            "publisher": "PROSPEROPatches"
           }
         ],
-        "verdict": "The PS4 version running in backwards-compatibility mode on PS5 has an unlocked 60fps target with a 60fps limit and only slight reported drops in an early cutscene. Update 1.53 added this performance improvement.",
+        "verdict": "The PS4 version running in backwards-compatibility mode on PS5 has an unlocked 60fps target with a 60fps limit and only slight reported drops in an early cutscene. The August 2021 performance patch added this 60 FPS mode.",
         "note": "Performance Mode",
         "requested": false,
         "confidence": "measured",
-        "lastVerified": "2026-08-25",
+        "lastVerified": "2026-09-08",
         "evidence": [
           {
             "url": "https://www.digitalfoundry.net/articles/digitalfoundry-2021-horizon-zero-dawns-60fps-ps5-upgrade-is-nigh-on-flawless",
@@ -42800,6 +42802,17 @@
         ],
         "patches": [
           {
+            "version": null,
+            "date": "2026-09-01",
+            "titleId": "PPSA14251",
+            "previousFps": null,
+            "newFps": null,
+            "changedFps": false,
+            "label": "September 2026 Update",
+            "url": "https://mafia.2k.com/the-old-country/patch-notes/",
+            "publisher": "2K"
+          },
+          {
             "version": "01.010.000",
             "date": "2026-08-14",
             "titleId": "PPSA14251",
@@ -42837,7 +42850,7 @@
         "note": "No frame rate patch",
         "requested": false,
         "confidence": "reported",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-08",
         "evidence": [
           {
             "url": "https://space4games.com/en/games-en/mafia-the-old-country-performance-breakdown/",
