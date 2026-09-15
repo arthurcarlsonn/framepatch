@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-09-14T14:02:56.015Z",
+  "syncedAt": "2026-09-15T12:24:39.122Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -11978,7 +11978,7 @@
     },
     "22917": {
       "slug": "gris",
-      "fetchedAt": "2026-09-13T10:08:44.461Z",
+      "fetchedAt": "2026-09-15T12:24:39.122Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11996,9 +11996,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-14T13:45:28.561Z"
+      }
     },
     "23733": {
       "slug": "tunic",
