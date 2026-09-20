@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-09-20T10:17:16.886Z",
+  "syncedAt": "2026-09-20T11:57:47.542Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -12010,7 +12010,7 @@
     },
     "22917": {
       "slug": "gris",
-      "fetchedAt": "2026-09-19T11:45:06.767Z",
+      "fetchedAt": "2026-09-20T11:57:42.709Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -27256,7 +27256,7 @@
     },
     "136879": {
       "slug": "black-myth-wukong",
-      "fetchedAt": "2026-09-18T12:21:14.321Z",
+      "fetchedAt": "2026-09-20T11:57:47.542Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -27330,9 +27330,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-20T10:07:03.771Z"
+      }
     },
     "136993": {
       "slug": "gotham-knights",
