@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-09-21T14:14:53.086Z",
+  "syncedAt": "2026-09-22T12:17:41.441Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -30631,7 +30631,7 @@
     },
     "191692": {
       "slug": "street-fighter-6",
-      "fetchedAt": "2026-09-20T10:12:01.305Z",
+      "fetchedAt": "2026-09-22T12:17:06.637Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -30761,9 +30761,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T13:59:05.110Z"
+      }
     },
     "194404": {
       "slug": "the-quarry",
@@ -30789,7 +30787,7 @@
     },
     "194558": {
       "slug": "arknights-endfield",
-      "fetchedAt": "2026-09-20T10:12:13.447Z",
+      "fetchedAt": "2026-09-22T12:17:13.316Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -30847,9 +30845,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T14:00:50.071Z"
+      }
     },
     "194821": {
       "slug": "nine-sols",
@@ -31098,7 +31094,7 @@
     },
     "201156": {
       "slug": "star-wars-jedi-survivor",
-      "fetchedAt": "2026-09-20T10:12:32.116Z",
+      "fetchedAt": "2026-09-22T12:17:19.152Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -31148,9 +31144,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T14:04:08.564Z"
+      }
     },
     "202956": {
       "slug": "wuthering-waves",
@@ -33059,7 +33053,7 @@
     },
     "228535": {
       "slug": "remnant-ii",
-      "fetchedAt": "2026-09-20T10:13:56.949Z",
+      "fetchedAt": "2026-09-22T12:17:27.345Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -33189,13 +33183,11 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T14:08:17.292Z"
+      }
     },
     "228539": {
       "slug": "banishers-ghosts-of-new-eden",
-      "fetchedAt": "2026-09-20T10:13:59.875Z",
+      "fetchedAt": "2026-09-22T12:17:35.067Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -33221,13 +33213,11 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T14:09:20.894Z"
+      }
     },
     "228542": {
       "slug": "armored-core-vi-fires-of-rubicon",
-      "fetchedAt": "2026-09-20T10:14:03.047Z",
+      "fetchedAt": "2026-09-22T12:17:38.679Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -33277,13 +33267,11 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T14:10:24.498Z"
+      }
     },
     "233585": {
       "slug": "hi-fi-rush",
-      "fetchedAt": "2026-09-20T10:14:05.726Z",
+      "fetchedAt": "2026-09-22T12:17:41.441Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -33301,9 +33289,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-09-21T14:11:28.099Z"
+      }
     },
     "239392": {
       "slug": "mortal-kombat-1--1",
