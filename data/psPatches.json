@@ -1,10 +1,10 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-10-11T11:26:47.263Z",
+  "syncedAt": "2026-10-11T13:53:20.877Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
-      "fetchedAt": "2026-10-10T13:13:08.780Z",
+      "fetchedAt": "2026-10-11T13:43:11.115Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -34,7 +34,7 @@
     },
     "83": {
       "slug": "baldur-s-gate-dark-alliance",
-      "fetchedAt": "2026-10-10T13:13:11.684Z",
+      "fetchedAt": "2026-10-11T13:43:14.108Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -72,7 +72,7 @@
     },
     "148": {
       "slug": "star-wars-republic-commando",
-      "fetchedAt": "2026-10-10T13:13:14.673Z",
+      "fetchedAt": "2026-10-11T13:43:17.103Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -102,7 +102,7 @@
     },
     "152": {
       "slug": "star-wars-jedi-knight-ii-jedi-outcast",
-      "fetchedAt": "2026-10-10T13:13:17.670Z",
+      "fetchedAt": "2026-10-11T13:43:20.102Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -132,7 +132,7 @@
     },
     "153": {
       "slug": "star-wars-jedi-knight-jedi-academy",
-      "fetchedAt": "2026-10-10T13:13:20.683Z",
+      "fetchedAt": "2026-10-11T13:43:23.106Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -162,7 +162,7 @@
     },
     "154": {
       "slug": "star-wars-episode-i-racer",
-      "fetchedAt": "2026-10-10T13:13:23.682Z",
+      "fetchedAt": "2026-10-11T13:43:26.104Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -184,7 +184,7 @@
     },
     "320": {
       "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
-      "fetchedAt": "2026-10-10T13:13:25.268Z",
+      "fetchedAt": "2026-10-11T13:43:27.688Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -270,7 +270,7 @@
     },
     "359": {
       "slug": "final-fantasy-xv",
-      "fetchedAt": "2026-10-10T13:13:26.860Z",
+      "fetchedAt": "2026-10-11T13:43:29.269Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -404,7 +404,7 @@
     },
     "386": {
       "slug": "final-fantasy-xiv-online--1",
-      "fetchedAt": "2026-10-10T13:13:28.543Z",
+      "fetchedAt": "2026-10-11T13:43:30.855Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -538,7 +538,7 @@
     },
     "434": {
       "slug": "red-dead-redemption",
-      "fetchedAt": "2026-10-10T13:13:31.528Z",
+      "fetchedAt": "2026-10-11T13:43:33.849Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -568,7 +568,7 @@
     },
     "545": {
       "slug": "call-of-duty-black-ops",
-      "fetchedAt": "2026-10-10T13:13:34.438Z",
+      "fetchedAt": "2026-10-11T13:43:36.846Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -630,7 +630,7 @@
     },
     "576": {
       "slug": "dc-universe-online",
-      "fetchedAt": "2026-10-10T13:13:37.529Z",
+      "fetchedAt": "2026-10-11T13:43:39.848Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -764,7 +764,7 @@
     },
     "885": {
       "slug": "super-meat-boy",
-      "fetchedAt": "2026-10-10T13:13:39.105Z",
+      "fetchedAt": "2026-10-11T13:43:41.438Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -794,7 +794,7 @@
     },
     "1020": {
       "slug": "grand-theft-auto-v",
-      "fetchedAt": "2026-10-10T13:13:40.704Z",
+      "fetchedAt": "2026-10-11T13:43:43.021Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -928,7 +928,7 @@
     },
     "1081": {
       "slug": "the-elder-scrolls-online",
-      "fetchedAt": "2026-10-10T13:13:43.690Z",
+      "fetchedAt": "2026-10-11T13:43:46.019Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -1062,7 +1062,7 @@
     },
     "1122": {
       "slug": "call-of-duty-black-ops-ii",
-      "fetchedAt": "2026-10-10T13:13:46.683Z",
+      "fetchedAt": "2026-10-11T13:43:49.017Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -1132,12 +1132,12 @@
     },
     "1262": {
       "slug": "south-park-the-stick-of-truth",
-      "fetchedAt": "2026-10-10T13:13:46.934Z",
+      "fetchedAt": "2026-10-11T13:43:49.128Z",
       "data": null
     },
     "1331": {
       "slug": "limbo",
-      "fetchedAt": "2026-10-10T13:13:49.776Z",
+      "fetchedAt": "2026-10-11T13:43:52.109Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1159,7 +1159,7 @@
     },
     "1334": {
       "slug": "brothers-a-tale-of-two-sons",
-      "fetchedAt": "2026-10-10T13:13:52.800Z",
+      "fetchedAt": "2026-10-11T13:43:55.098Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1181,7 +1181,7 @@
     },
     "1337": {
       "slug": "torchlight-ii",
-      "fetchedAt": "2026-10-10T13:13:55.779Z",
+      "fetchedAt": "2026-10-11T13:43:58.098Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1251,7 +1251,7 @@
     },
     "1338": {
       "slug": "prison-architect",
-      "fetchedAt": "2026-10-10T13:13:59.517Z",
+      "fetchedAt": "2026-10-11T13:44:01.100Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1385,7 +1385,7 @@
     },
     "1593": {
       "slug": "pillars-of-eternity",
-      "fetchedAt": "2026-10-10T13:14:02.549Z",
+      "fetchedAt": "2026-10-11T13:44:04.098Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1415,12 +1415,12 @@
     },
     "1871": {
       "slug": "the-walking-dead",
-      "fetchedAt": "2026-10-10T13:14:04.161Z",
+      "fetchedAt": "2026-10-11T13:44:05.687Z",
       "data": null
     },
     "1877": {
       "slug": "cyberpunk-2077",
-      "fetchedAt": "2026-10-10T13:14:05.740Z",
+      "fetchedAt": "2026-10-11T13:44:07.286Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -1554,7 +1554,7 @@
     },
     "1879": {
       "slug": "terraria",
-      "fetchedAt": "2026-10-10T13:14:07.327Z",
+      "fetchedAt": "2026-10-11T13:44:08.869Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1688,7 +1688,7 @@
     },
     "1905": {
       "slug": "fortnite",
-      "fetchedAt": "2026-10-10T13:14:09.037Z",
+      "fetchedAt": "2026-10-11T13:44:10.463Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -1822,7 +1822,7 @@
     },
     "1910": {
       "slug": "outlast",
-      "fetchedAt": "2026-10-10T13:14:10.720Z",
+      "fetchedAt": "2026-10-11T13:44:12.044Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -1852,7 +1852,7 @@
     },
     "1911": {
       "slug": "path-of-exile",
-      "fetchedAt": "2026-10-10T13:14:12.424Z",
+      "fetchedAt": "2026-10-11T13:44:13.634Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -1986,7 +1986,7 @@
     },
     "1942": {
       "slug": "the-witcher-3-wild-hunt",
-      "fetchedAt": "2026-10-10T13:14:15.318Z",
+      "fetchedAt": "2026-10-11T13:44:16.627Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -2032,7 +2032,7 @@
     },
     "1970": {
       "slug": "assassins-creed-iv-black-flag",
-      "fetchedAt": "2026-10-10T13:14:18.888Z",
+      "fetchedAt": "2026-10-11T13:44:18.219Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2054,17 +2054,17 @@
     },
     "1983": {
       "slug": "bastion",
-      "fetchedAt": "2026-10-10T13:14:20.340Z",
+      "fetchedAt": "2026-10-11T13:44:19.737Z",
       "data": null
     },
     "1990": {
       "slug": "vvvvvv",
-      "fetchedAt": "2026-10-10T13:14:21.875Z",
+      "fetchedAt": "2026-10-11T13:44:21.242Z",
       "data": null
     },
     "1991": {
       "slug": "fez",
-      "fetchedAt": "2026-10-10T13:14:24.801Z",
+      "fetchedAt": "2026-10-11T13:44:24.212Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2086,12 +2086,12 @@
     },
     "2049": {
       "slug": "slender-the-arrival",
-      "fetchedAt": "2026-10-10T13:14:24.932Z",
+      "fetchedAt": "2026-10-11T13:44:24.314Z",
       "data": null
     },
     "2050": {
       "slug": "lego-marvel-super-heroes",
-      "fetchedAt": "2026-10-10T13:14:27.810Z",
+      "fetchedAt": "2026-10-11T13:44:27.223Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2113,7 +2113,7 @@
     },
     "2114": {
       "slug": "tom-clancy-s-the-division",
-      "fetchedAt": "2026-10-10T13:14:30.814Z",
+      "fetchedAt": "2026-10-11T13:44:30.212Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2247,7 +2247,7 @@
     },
     "2117": {
       "slug": "dayz",
-      "fetchedAt": "2026-10-10T13:14:33.826Z",
+      "fetchedAt": "2026-10-11T13:44:33.231Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2381,7 +2381,7 @@
     },
     "2126": {
       "slug": "hotline-miami-2-wrong-number",
-      "fetchedAt": "2026-10-10T13:14:35.399Z",
+      "fetchedAt": "2026-10-11T13:44:34.809Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -2403,7 +2403,7 @@
     },
     "2130": {
       "slug": "dust-an-elysian-tail",
-      "fetchedAt": "2026-10-10T13:14:36.973Z",
+      "fetchedAt": "2026-10-11T13:44:36.396Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2425,7 +2425,7 @@
     },
     "2165": {
       "slug": "war-thunder",
-      "fetchedAt": "2026-10-10T13:14:38.586Z",
+      "fetchedAt": "2026-10-11T13:44:37.993Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -2559,12 +2559,12 @@
     },
     "2291": {
       "slug": "thomas-was-alone",
-      "fetchedAt": "2026-10-10T13:14:38.809Z",
+      "fetchedAt": "2026-10-11T13:44:38.136Z",
       "data": null
     },
     "2638": {
       "slug": "the-incredible-adventures-of-van-helsing",
-      "fetchedAt": "2026-10-10T13:14:41.671Z",
+      "fetchedAt": "2026-10-11T13:44:41.086Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2586,7 +2586,7 @@
     },
     "2903": {
       "slug": "warframe",
-      "fetchedAt": "2026-10-10T13:14:43.271Z",
+      "fetchedAt": "2026-10-11T13:44:42.673Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -2720,7 +2720,7 @@
     },
     "2924": {
       "slug": "broken-sword-5-the-serpents-curse",
-      "fetchedAt": "2026-10-10T13:14:44.847Z",
+      "fetchedAt": "2026-10-11T13:44:44.260Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2742,7 +2742,7 @@
     },
     "2933": {
       "slug": "kingdom-hearts-iii",
-      "fetchedAt": "2026-10-10T13:14:47.845Z",
+      "fetchedAt": "2026-10-11T13:44:47.261Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2804,7 +2804,7 @@
     },
     "2939": {
       "slug": "the-vanishing-of-ethan-carter",
-      "fetchedAt": "2026-10-10T13:14:50.855Z",
+      "fetchedAt": "2026-10-11T13:44:50.259Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2826,12 +2826,12 @@
     },
     "2990": {
       "slug": "machinarium",
-      "fetchedAt": "2026-10-10T13:14:52.627Z",
+      "fetchedAt": "2026-10-11T13:44:51.802Z",
       "data": null
     },
     "3022": {
       "slug": "transistor",
-      "fetchedAt": "2026-10-10T13:14:55.432Z",
+      "fetchedAt": "2026-10-11T13:44:54.761Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2853,7 +2853,7 @@
     },
     "3042": {
       "slug": "dying-light",
-      "fetchedAt": "2026-10-10T13:14:58.350Z",
+      "fetchedAt": "2026-10-11T13:44:57.762Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -2987,7 +2987,7 @@
     },
     "3087": {
       "slug": "broken-age",
-      "fetchedAt": "2026-10-10T13:15:01.344Z",
+      "fetchedAt": "2026-10-11T13:45:00.788Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3009,7 +3009,7 @@
     },
     "3097": {
       "slug": "the-walking-dead-season-two",
-      "fetchedAt": "2026-10-10T13:15:04.350Z",
+      "fetchedAt": "2026-10-11T13:45:03.797Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3031,7 +3031,7 @@
     },
     "3173": {
       "slug": "risk-of-rain",
-      "fetchedAt": "2026-10-10T13:15:07.348Z",
+      "fetchedAt": "2026-10-11T13:45:06.763Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3053,7 +3053,7 @@
     },
     "3221": {
       "slug": "rogue-legacy",
-      "fetchedAt": "2026-10-10T13:15:10.348Z",
+      "fetchedAt": "2026-10-11T13:45:09.757Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3083,7 +3083,7 @@
     },
     "3225": {
       "slug": "no-man-s-sky",
-      "fetchedAt": "2026-10-10T13:15:11.930Z",
+      "fetchedAt": "2026-10-11T13:45:11.354Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -3217,7 +3217,7 @@
     },
     "3227": {
       "slug": "nuclear-throne",
-      "fetchedAt": "2026-10-10T13:15:13.505Z",
+      "fetchedAt": "2026-10-11T13:45:12.941Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3239,7 +3239,7 @@
     },
     "3239": {
       "slug": "space-engineers",
-      "fetchedAt": "2026-10-10T13:15:15.087Z",
+      "fetchedAt": "2026-10-11T13:45:14.523Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -3373,12 +3373,12 @@
     },
     "3241": {
       "slug": "cookie-clicker",
-      "fetchedAt": "2026-10-10T13:15:16.601Z",
+      "fetchedAt": "2026-10-11T13:45:16.036Z",
       "data": null
     },
     "3772": {
       "slug": "wreckfest",
-      "fetchedAt": "2026-10-10T13:15:19.671Z",
+      "fetchedAt": "2026-10-11T13:45:19.025Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -3512,7 +3512,7 @@
     },
     "4754": {
       "slug": "alien-isolation",
-      "fetchedAt": "2026-10-10T13:15:21.248Z",
+      "fetchedAt": "2026-10-11T13:45:20.610Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3534,7 +3534,7 @@
     },
     "4788": {
       "slug": "octodad-dadliest-catch",
-      "fetchedAt": "2026-10-10T13:15:24.248Z",
+      "fetchedAt": "2026-10-11T13:45:23.609Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3556,7 +3556,7 @@
     },
     "4840": {
       "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky",
-      "fetchedAt": "2026-10-10T13:15:25.824Z",
+      "fetchedAt": "2026-10-11T13:45:25.189Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -3642,7 +3642,7 @@
     },
     "4843": {
       "slug": "kingdom-come-deliverance",
-      "fetchedAt": "2026-10-10T13:15:28.823Z",
+      "fetchedAt": "2026-10-11T13:45:28.186Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -3664,22 +3664,22 @@
     },
     "4848": {
       "slug": "max-the-curse-of-brotherhood",
-      "fetchedAt": "2026-10-10T13:15:28.995Z",
+      "fetchedAt": "2026-10-11T13:45:28.315Z",
       "data": null
     },
     "5025": {
       "slug": "to-the-moon",
-      "fetchedAt": "2026-10-10T13:15:30.416Z",
+      "fetchedAt": "2026-10-11T13:45:29.692Z",
       "data": null
     },
     "5060": {
       "slug": "deponia",
-      "fetchedAt": "2026-10-10T13:15:30.612Z",
+      "fetchedAt": "2026-10-11T13:45:29.812Z",
       "data": null
     },
     "5062": {
       "slug": "chaos-on-deponia",
-      "fetchedAt": "2026-10-10T13:15:33.576Z",
+      "fetchedAt": "2026-10-11T13:45:32.774Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3701,7 +3701,7 @@
     },
     "5503": {
       "slug": "batman-arkham-knight",
-      "fetchedAt": "2026-10-10T13:15:36.580Z",
+      "fetchedAt": "2026-10-11T13:45:35.775Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3827,7 +3827,7 @@
     },
     "5508": {
       "slug": "the-banner-saga",
-      "fetchedAt": "2026-10-10T13:15:39.493Z",
+      "fetchedAt": "2026-10-11T13:45:38.773Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3865,12 +3865,12 @@
     },
     "5541": {
       "slug": "sherlock-holmes-crimes-punishments",
-      "fetchedAt": "2026-10-10T13:15:41.013Z",
+      "fetchedAt": "2026-10-11T13:45:40.300Z",
       "data": null
     },
     "5574": {
       "slug": "7-days-to-die",
-      "fetchedAt": "2026-10-10T13:15:42.618Z",
+      "fetchedAt": "2026-10-11T13:45:41.893Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -3956,7 +3956,7 @@
     },
     "5606": {
       "slug": "assassins-creed-unity",
-      "fetchedAt": "2026-10-10T13:15:44.190Z",
+      "fetchedAt": "2026-10-11T13:45:43.476Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -3986,7 +3986,7 @@
     },
     "5607": {
       "slug": "smite",
-      "fetchedAt": "2026-10-10T13:15:47.242Z",
+      "fetchedAt": "2026-10-11T13:45:46.480Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4120,12 +4120,12 @@
     },
     "5772": {
       "slug": "steamworld-dig",
-      "fetchedAt": "2026-10-10T13:15:48.725Z",
+      "fetchedAt": "2026-10-11T13:45:48.019Z",
       "data": null
     },
     "5973": {
       "slug": "broforce",
-      "fetchedAt": "2026-10-10T13:15:51.695Z",
+      "fetchedAt": "2026-10-11T13:45:50.977Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4203,7 +4203,7 @@
     },
     "6044": {
       "slug": "invisible-inc",
-      "fetchedAt": "2026-10-10T13:15:54.693Z",
+      "fetchedAt": "2026-10-11T13:45:53.974Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4225,12 +4225,12 @@
     },
     "6164": {
       "slug": "the-testament-of-sherlock-holmes",
-      "fetchedAt": "2026-10-10T13:15:56.220Z",
+      "fetchedAt": "2026-10-11T13:45:55.509Z",
       "data": null
     },
     "6292": {
       "slug": "black-desert",
-      "fetchedAt": "2026-10-10T13:15:57.887Z",
+      "fetchedAt": "2026-10-11T13:45:57.097Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -4276,7 +4276,7 @@
     },
     "6705": {
       "slug": "a-hat-in-time",
-      "fetchedAt": "2026-10-10T13:15:59.462Z",
+      "fetchedAt": "2026-10-11T13:45:58.792Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4314,7 +4314,7 @@
     },
     "6707": {
       "slug": "tales-from-the-borderlands",
-      "fetchedAt": "2026-10-10T13:16:02.463Z",
+      "fetchedAt": "2026-10-11T13:46:01.678Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4336,7 +4336,7 @@
     },
     "6801": {
       "slug": "far-cry-4",
-      "fetchedAt": "2026-10-10T13:16:05.461Z",
+      "fetchedAt": "2026-10-11T13:46:04.810Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4382,7 +4382,7 @@
     },
     "6804": {
       "slug": "one-piece-pirate-warriors-3",
-      "fetchedAt": "2026-10-10T13:16:08.461Z",
+      "fetchedAt": "2026-10-11T13:46:07.678Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4404,7 +4404,7 @@
     },
     "6866": {
       "slug": "puyo-puyo-tetris",
-      "fetchedAt": "2026-10-10T13:16:11.460Z",
+      "fetchedAt": "2026-10-11T13:46:10.679Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4426,12 +4426,12 @@
     },
     "7098": {
       "slug": "naruto-shippuden-ultimate-ninja-storm-2",
-      "fetchedAt": "2026-10-10T13:16:12.991Z",
+      "fetchedAt": "2026-10-11T13:46:12.206Z",
       "data": null
     },
     "7205": {
       "slug": "superhot",
-      "fetchedAt": "2026-10-10T13:16:15.959Z",
+      "fetchedAt": "2026-10-11T13:46:15.183Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4469,12 +4469,12 @@
     },
     "7291": {
       "slug": "hunt-showdown-1896",
-      "fetchedAt": "2026-10-10T13:16:16.086Z",
+      "fetchedAt": "2026-10-11T13:46:15.284Z",
       "data": null
     },
     "7325": {
       "slug": "lara-croft-and-the-temple-of-osiris",
-      "fetchedAt": "2026-10-10T13:16:18.962Z",
+      "fetchedAt": "2026-10-11T13:46:18.178Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4496,12 +4496,12 @@
     },
     "7327": {
       "slug": "valiant-hearts-the-great-war",
-      "fetchedAt": "2026-10-10T13:16:20.496Z",
+      "fetchedAt": "2026-10-11T13:46:19.704Z",
       "data": null
     },
     "7329": {
       "slug": "dead-island-2",
-      "fetchedAt": "2026-10-10T13:16:22.074Z",
+      "fetchedAt": "2026-10-11T13:46:21.420Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -4563,7 +4563,7 @@
     },
     "7334": {
       "slug": "bloodborne",
-      "fetchedAt": "2026-10-10T13:16:23.646Z",
+      "fetchedAt": "2026-10-11T13:46:23.002Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4641,7 +4641,7 @@
     },
     "7342": {
       "slug": "inside",
-      "fetchedAt": "2026-10-10T13:16:26.646Z",
+      "fetchedAt": "2026-10-11T13:46:26.003Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4663,7 +4663,7 @@
     },
     "7352": {
       "slug": "abzu",
-      "fetchedAt": "2026-10-10T13:16:29.649Z",
+      "fetchedAt": "2026-10-11T13:46:29.001Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4685,7 +4685,7 @@
     },
     "7386": {
       "slug": "the-talos-principle",
-      "fetchedAt": "2026-10-10T13:16:32.647Z",
+      "fetchedAt": "2026-10-11T13:46:31.999Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4707,12 +4707,12 @@
     },
     "7578": {
       "slug": "i-have-no-mouth-and-i-must-scream",
-      "fetchedAt": "2026-10-10T13:16:32.773Z",
+      "fetchedAt": "2026-10-11T13:46:32.090Z",
       "data": null
     },
     "7605": {
       "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat",
-      "fetchedAt": "2026-10-10T13:16:35.728Z",
+      "fetchedAt": "2026-10-11T13:46:35.090Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -4798,12 +4798,12 @@
     },
     "7621": {
       "slug": "rime",
-      "fetchedAt": "2026-10-10T13:16:35.826Z",
+      "fetchedAt": "2026-10-11T13:46:35.199Z",
       "data": null
     },
     "7709": {
       "slug": "salt-and-sanctuary",
-      "fetchedAt": "2026-10-10T13:16:38.801Z",
+      "fetchedAt": "2026-10-11T13:46:38.170Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4825,7 +4825,7 @@
     },
     "7725": {
       "slug": "resident-evil-revelations-2",
-      "fetchedAt": "2026-10-10T13:16:41.802Z",
+      "fetchedAt": "2026-10-11T13:46:41.171Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4863,7 +4863,7 @@
     },
     "7767": {
       "slug": "mini-metro",
-      "fetchedAt": "2026-10-10T13:16:44.801Z",
+      "fetchedAt": "2026-10-11T13:46:44.170Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -4885,7 +4885,7 @@
     },
     "7878": {
       "slug": "unturned--1",
-      "fetchedAt": "2026-10-10T13:16:47.803Z",
+      "fetchedAt": "2026-10-11T13:46:47.172Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5003,7 +5003,7 @@
     },
     "7886": {
       "slug": "crypt-of-the-necrodancer",
-      "fetchedAt": "2026-10-10T13:16:50.805Z",
+      "fetchedAt": "2026-10-11T13:46:50.172Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5073,7 +5073,7 @@
     },
     "7965": {
       "slug": "kholat",
-      "fetchedAt": "2026-10-10T13:16:53.800Z",
+      "fetchedAt": "2026-10-11T13:46:53.172Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5095,7 +5095,7 @@
     },
     "8173": {
       "slug": "overwatch",
-      "fetchedAt": "2026-10-10T13:16:55.399Z",
+      "fetchedAt": "2026-10-11T13:46:54.890Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -5229,12 +5229,12 @@
     },
     "8255": {
       "slug": "trine-3-the-artifacts-of-power",
-      "fetchedAt": "2026-10-10T13:16:55.498Z",
+      "fetchedAt": "2026-10-11T13:46:54.998Z",
       "data": null
     },
     "8263": {
       "slug": "assassins-creed-syndicate",
-      "fetchedAt": "2026-10-10T13:16:58.472Z",
+      "fetchedAt": "2026-10-11T13:46:57.975Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5328,7 +5328,7 @@
     },
     "8288": {
       "slug": "the-banner-saga-2",
-      "fetchedAt": "2026-10-10T13:17:01.475Z",
+      "fetchedAt": "2026-10-11T13:47:00.973Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5358,7 +5358,7 @@
     },
     "8347": {
       "slug": "the-long-dark",
-      "fetchedAt": "2026-10-10T13:17:03.061Z",
+      "fetchedAt": "2026-10-11T13:47:02.563Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -5420,7 +5420,7 @@
     },
     "8366": {
       "slug": "sniper-elite-iii",
-      "fetchedAt": "2026-10-10T13:17:04.634Z",
+      "fetchedAt": "2026-10-11T13:47:04.144Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5442,12 +5442,12 @@
     },
     "8430": {
       "slug": "shantae-and-the-pirates-curse",
-      "fetchedAt": "2026-10-10T13:17:04.713Z",
+      "fetchedAt": "2026-10-11T13:47:04.230Z",
       "data": null
     },
     "8652": {
       "slug": "axiom-verge",
-      "fetchedAt": "2026-10-10T13:17:07.649Z",
+      "fetchedAt": "2026-10-11T13:47:07.145Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5469,7 +5469,7 @@
     },
     "8729": {
       "slug": "vampyr",
-      "fetchedAt": "2026-10-10T13:17:10.634Z",
+      "fetchedAt": "2026-10-11T13:47:10.237Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5523,7 +5523,7 @@
     },
     "8751": {
       "slug": "stranded-deep",
-      "fetchedAt": "2026-10-10T13:17:13.635Z",
+      "fetchedAt": "2026-10-11T13:47:13.144Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5657,7 +5657,7 @@
     },
     "8965": {
       "slug": "darkest-dungeon",
-      "fetchedAt": "2026-10-10T13:17:16.636Z",
+      "fetchedAt": "2026-10-11T13:47:16.149Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5719,7 +5719,7 @@
     },
     "9047": {
       "slug": "besiege",
-      "fetchedAt": "2026-10-10T13:17:18.218Z",
+      "fetchedAt": "2026-10-11T13:47:17.727Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -5741,7 +5741,7 @@
     },
     "9061": {
       "slug": "cuphead",
-      "fetchedAt": "2026-10-10T13:17:19.795Z",
+      "fetchedAt": "2026-10-11T13:47:19.310Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5787,17 +5787,17 @@
     },
     "9136": {
       "slug": "gorogoa",
-      "fetchedAt": "2026-10-10T13:17:21.315Z",
+      "fetchedAt": "2026-10-11T13:47:20.857Z",
       "data": null
     },
     "9174": {
       "slug": "little-nightmares",
-      "fetchedAt": "2026-10-10T13:17:21.397Z",
+      "fetchedAt": "2026-10-11T13:47:20.944Z",
       "data": null
     },
     "9176": {
       "slug": "call-of-cthulhu",
-      "fetchedAt": "2026-10-10T13:17:24.290Z",
+      "fetchedAt": "2026-10-11T13:47:23.814Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5851,7 +5851,7 @@
     },
     "9254": {
       "slug": "subnautica",
-      "fetchedAt": "2026-10-10T13:17:25.868Z",
+      "fetchedAt": "2026-10-11T13:47:25.396Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -5905,7 +5905,7 @@
     },
     "9527": {
       "slug": "speedrunners",
-      "fetchedAt": "2026-10-10T13:17:27.448Z",
+      "fetchedAt": "2026-10-11T13:47:26.987Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -5927,7 +5927,7 @@
     },
     "9608": {
       "slug": "mount-and-blade-ii-bannerlord",
-      "fetchedAt": "2026-10-10T13:17:29.024Z",
+      "fetchedAt": "2026-10-11T13:47:28.570Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -6053,7 +6053,7 @@
     },
     "9630": {
       "slug": "fallout-4",
-      "fetchedAt": "2026-10-10T13:17:32.027Z",
+      "fetchedAt": "2026-10-11T13:47:31.566Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -6131,7 +6131,7 @@
     },
     "9643": {
       "slug": "return-of-the-obra-dinn",
-      "fetchedAt": "2026-10-10T13:17:33.614Z",
+      "fetchedAt": "2026-10-11T13:47:33.152Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6153,7 +6153,7 @@
     },
     "9683": {
       "slug": "dungeon-of-the-endless",
-      "fetchedAt": "2026-10-10T13:17:36.612Z",
+      "fetchedAt": "2026-10-11T13:47:36.150Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6199,7 +6199,7 @@
     },
     "9727": {
       "slug": "soma",
-      "fetchedAt": "2026-10-10T13:17:39.603Z",
+      "fetchedAt": "2026-10-11T13:47:39.148Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6221,7 +6221,7 @@
     },
     "9728": {
       "slug": "trove",
-      "fetchedAt": "2026-10-10T13:17:42.609Z",
+      "fetchedAt": "2026-10-11T13:47:42.153Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6355,7 +6355,7 @@
     },
     "9730": {
       "slug": "firewatch",
-      "fetchedAt": "2026-10-10T13:17:45.602Z",
+      "fetchedAt": "2026-10-11T13:47:45.148Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6401,7 +6401,7 @@
     },
     "9732": {
       "slug": "the-flame-in-the-flood",
-      "fetchedAt": "2026-10-10T13:17:48.605Z",
+      "fetchedAt": "2026-10-11T13:47:48.150Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6423,7 +6423,7 @@
     },
     "9918": {
       "slug": "lego-jurassic-world",
-      "fetchedAt": "2026-10-10T13:17:51.602Z",
+      "fetchedAt": "2026-10-11T13:47:51.149Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6453,7 +6453,7 @@
     },
     "10031": {
       "slug": "yooka-laylee",
-      "fetchedAt": "2026-10-10T13:17:54.612Z",
+      "fetchedAt": "2026-10-11T13:47:54.149Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6491,7 +6491,7 @@
     },
     "10148": {
       "slug": "night-in-the-woods",
-      "fetchedAt": "2026-10-10T13:17:56.199Z",
+      "fetchedAt": "2026-10-11T13:47:55.728Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -6513,7 +6513,7 @@
     },
     "10232": {
       "slug": "thimbleweed-park",
-      "fetchedAt": "2026-10-10T13:17:57.774Z",
+      "fetchedAt": "2026-10-11T13:47:57.314Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6535,7 +6535,7 @@
     },
     "10233": {
       "slug": "brawlhalla",
-      "fetchedAt": "2026-10-10T13:18:00.793Z",
+      "fetchedAt": "2026-10-11T13:48:00.325Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6669,7 +6669,7 @@
     },
     "10239": {
       "slug": "ark-survival-evolved",
-      "fetchedAt": "2026-10-10T13:18:03.821Z",
+      "fetchedAt": "2026-10-11T13:48:03.345Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6803,7 +6803,7 @@
     },
     "10760": {
       "slug": "bloodstained-ritual-of-the-night",
-      "fetchedAt": "2026-10-10T13:18:06.779Z",
+      "fetchedAt": "2026-10-11T13:48:06.312Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6937,7 +6937,7 @@
     },
     "10910": {
       "slug": "lego-worlds",
-      "fetchedAt": "2026-10-10T13:18:09.773Z",
+      "fetchedAt": "2026-10-11T13:48:09.314Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -6999,7 +6999,7 @@
     },
     "10919": {
       "slug": "xcom-2",
-      "fetchedAt": "2026-10-10T13:18:12.774Z",
+      "fetchedAt": "2026-10-11T13:48:12.320Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7021,12 +7021,12 @@
     },
     "10960": {
       "slug": "thumper",
-      "fetchedAt": "2026-10-10T13:18:12.896Z",
+      "fetchedAt": "2026-10-11T13:48:12.419Z",
       "data": null
     },
     "11118": {
       "slug": "dishonored-2",
-      "fetchedAt": "2026-10-10T13:18:15.775Z",
+      "fetchedAt": "2026-10-11T13:48:15.313Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7096,7 +7096,7 @@
     },
     "11119": {
       "slug": "fallout-shelter",
-      "fetchedAt": "2026-10-10T13:18:18.774Z",
+      "fetchedAt": "2026-10-11T13:48:18.314Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7118,7 +7118,7 @@
     },
     "11133": {
       "slug": "dark-souls-iii",
-      "fetchedAt": "2026-10-10T13:18:21.773Z",
+      "fetchedAt": "2026-10-11T13:48:21.321Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7220,7 +7220,7 @@
     },
     "11137": {
       "slug": "sea-of-thieves",
-      "fetchedAt": "2026-10-10T13:18:23.354Z",
+      "fetchedAt": "2026-10-11T13:48:23.033Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -7314,7 +7314,7 @@
     },
     "11156": {
       "slug": "horizon-zero-dawn",
-      "fetchedAt": "2026-10-10T13:18:26.350Z",
+      "fetchedAt": "2026-10-11T13:48:25.900Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -7344,7 +7344,7 @@
     },
     "11161": {
       "slug": "south-park-the-fractured-but-whole",
-      "fetchedAt": "2026-10-10T13:18:27.927Z",
+      "fetchedAt": "2026-10-11T13:48:27.483Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7398,7 +7398,7 @@
     },
     "11162": {
       "slug": "for-honor",
-      "fetchedAt": "2026-10-10T13:18:30.933Z",
+      "fetchedAt": "2026-10-11T13:48:30.485Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7532,7 +7532,7 @@
     },
     "11171": {
       "slug": "tom-clancys-ghost-recon-wildlands",
-      "fetchedAt": "2026-10-10T13:18:33.935Z",
+      "fetchedAt": "2026-10-11T13:48:33.482Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7666,7 +7666,7 @@
     },
     "11177": {
       "slug": "gang-beasts",
-      "fetchedAt": "2026-10-10T13:18:36.924Z",
+      "fetchedAt": "2026-10-11T13:48:36.482Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7800,7 +7800,7 @@
     },
     "11182": {
       "slug": "enter-the-gungeon",
-      "fetchedAt": "2026-10-10T13:18:39.925Z",
+      "fetchedAt": "2026-10-11T13:48:39.582Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -7886,7 +7886,7 @@
     },
     "11198": {
       "slug": "rocket-league",
-      "fetchedAt": "2026-10-10T13:18:42.937Z",
+      "fetchedAt": "2026-10-11T13:48:42.496Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8020,7 +8020,7 @@
     },
     "11233": {
       "slug": "what-remains-of-edith-finch",
-      "fetchedAt": "2026-10-10T13:18:45.335Z",
+      "fetchedAt": "2026-10-11T13:48:44.081Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -8042,7 +8042,7 @@
     },
     "11247": {
       "slug": "duck-game",
-      "fetchedAt": "2026-10-10T13:18:46.909Z",
+      "fetchedAt": "2026-10-11T13:48:45.663Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8072,7 +8072,7 @@
     },
     "11423": {
       "slug": "this-is-the-police",
-      "fetchedAt": "2026-10-10T13:18:49.911Z",
+      "fetchedAt": "2026-10-11T13:48:48.665Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8102,7 +8102,7 @@
     },
     "11544": {
       "slug": "paladins",
-      "fetchedAt": "2026-10-10T13:18:52.922Z",
+      "fetchedAt": "2026-10-11T13:48:51.666Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8236,17 +8236,17 @@
     },
     "11560": {
       "slug": "aer-memories-of-old",
-      "fetchedAt": "2026-10-10T13:18:54.434Z",
+      "fetchedAt": "2026-10-11T13:48:53.250Z",
       "data": null
     },
     "11563": {
       "slug": "sherlock-holmes-the-devils-daughter",
-      "fetchedAt": "2026-10-10T13:18:55.929Z",
+      "fetchedAt": "2026-10-11T13:48:54.690Z",
       "data": null
     },
     "11737": {
       "slug": "outer-wilds",
-      "fetchedAt": "2026-10-10T13:18:57.507Z",
+      "fetchedAt": "2026-10-11T13:48:56.275Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -8284,17 +8284,17 @@
     },
     "11821": {
       "slug": "fran-bow",
-      "fetchedAt": "2026-10-10T13:18:57.641Z",
+      "fetchedAt": "2026-10-11T13:48:56.406Z",
       "data": null
     },
     "12070": {
       "slug": "party-hard",
-      "fetchedAt": "2026-10-10T13:18:59.107Z",
+      "fetchedAt": "2026-10-11T13:48:57.876Z",
       "data": null
     },
     "12511": {
       "slug": "battle-chasers-nightwar",
-      "fetchedAt": "2026-10-10T13:19:02.081Z",
+      "fetchedAt": "2026-10-11T13:49:00.856Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8332,7 +8332,7 @@
     },
     "12517": {
       "slug": "undertale",
-      "fetchedAt": "2026-10-10T13:19:05.080Z",
+      "fetchedAt": "2026-10-11T13:49:03.879Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8354,7 +8354,7 @@
     },
     "12520": {
       "slug": "lovers-in-a-dangerous-spacetime",
-      "fetchedAt": "2026-10-10T13:19:08.079Z",
+      "fetchedAt": "2026-10-11T13:49:06.855Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8376,7 +8376,7 @@
     },
     "12579": {
       "slug": "danganronpa-v3-killing-harmony--1",
-      "fetchedAt": "2026-10-10T13:19:11.080Z",
+      "fetchedAt": "2026-10-11T13:49:09.854Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8406,7 +8406,7 @@
     },
     "12597": {
       "slug": "owlboy",
-      "fetchedAt": "2026-10-10T13:19:14.079Z",
+      "fetchedAt": "2026-10-11T13:49:12.854Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8428,7 +8428,7 @@
     },
     "13163": {
       "slug": "syberia-3",
-      "fetchedAt": "2026-10-10T13:19:17.079Z",
+      "fetchedAt": "2026-10-11T13:49:15.858Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8450,7 +8450,7 @@
     },
     "13182": {
       "slug": "far-cry-primal",
-      "fetchedAt": "2026-10-10T13:19:20.079Z",
+      "fetchedAt": "2026-10-11T13:49:18.858Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8488,7 +8488,7 @@
     },
     "13205": {
       "slug": "astroneer",
-      "fetchedAt": "2026-10-10T13:19:21.655Z",
+      "fetchedAt": "2026-10-11T13:49:20.447Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -8582,7 +8582,7 @@
     },
     "13226": {
       "slug": "keep-talking-and-nobody-explodes",
-      "fetchedAt": "2026-10-10T13:19:23.228Z",
+      "fetchedAt": "2026-10-11T13:49:22.028Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8628,7 +8628,7 @@
     },
     "13677": {
       "slug": "downwell",
-      "fetchedAt": "2026-10-10T13:19:26.228Z",
+      "fetchedAt": "2026-10-11T13:49:25.029Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8650,7 +8650,7 @@
     },
     "14390": {
       "slug": "outlast-ii",
-      "fetchedAt": "2026-10-10T13:19:29.227Z",
+      "fetchedAt": "2026-10-11T13:49:28.026Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8688,7 +8688,7 @@
     },
     "14394": {
       "slug": "battle-brothers",
-      "fetchedAt": "2026-10-10T13:19:32.230Z",
+      "fetchedAt": "2026-10-11T13:49:31.025Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8758,7 +8758,7 @@
     },
     "14404": {
       "slug": "kona",
-      "fetchedAt": "2026-10-10T13:19:33.814Z",
+      "fetchedAt": "2026-10-11T13:49:32.610Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -8780,7 +8780,7 @@
     },
     "14587": {
       "slug": "oxenfree",
-      "fetchedAt": "2026-10-10T13:19:35.388Z",
+      "fetchedAt": "2026-10-11T13:49:34.191Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8826,7 +8826,7 @@
     },
     "14593": {
       "slug": "hollow-knight",
-      "fetchedAt": "2026-10-10T13:19:36.969Z",
+      "fetchedAt": "2026-10-11T13:49:35.775Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -8864,7 +8864,7 @@
     },
     "14741": {
       "slug": "psychonauts-2",
-      "fetchedAt": "2026-10-10T13:19:38.544Z",
+      "fetchedAt": "2026-10-11T13:49:37.355Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -8950,7 +8950,7 @@
     },
     "14748": {
       "slug": "ni-no-kuni-ii-revenant-kingdom--1",
-      "fetchedAt": "2026-10-10T13:19:41.545Z",
+      "fetchedAt": "2026-10-11T13:49:40.356Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9004,7 +9004,7 @@
     },
     "14758": {
       "slug": "ace-combat-7-skies-unknown",
-      "fetchedAt": "2026-10-10T13:19:44.543Z",
+      "fetchedAt": "2026-10-11T13:49:43.355Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9130,7 +9130,7 @@
     },
     "14761": {
       "slug": "rain-world",
-      "fetchedAt": "2026-10-10T13:19:46.127Z",
+      "fetchedAt": "2026-10-11T13:49:44.937Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9224,7 +9224,7 @@
     },
     "15167": {
       "slug": "steamworld-heist",
-      "fetchedAt": "2026-10-10T13:19:47.700Z",
+      "fetchedAt": "2026-10-11T13:49:46.517Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9246,12 +9246,12 @@
     },
     "15465": {
       "slug": "va-11-hall-a-cyberpunk-bartender-action",
-      "fetchedAt": "2026-10-10T13:19:49.224Z",
+      "fetchedAt": "2026-10-11T13:49:48.040Z",
       "data": null
     },
     "15563": {
       "slug": "clicker-heroes",
-      "fetchedAt": "2026-10-10T13:19:52.202Z",
+      "fetchedAt": "2026-10-11T13:49:51.017Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9273,12 +9273,12 @@
     },
     "15931": {
       "slug": "punch-club",
-      "fetchedAt": "2026-10-10T13:19:53.723Z",
+      "fetchedAt": "2026-10-11T13:49:52.569Z",
       "data": null
     },
     "16136": {
       "slug": "the-final-station",
-      "fetchedAt": "2026-10-10T13:19:56.698Z",
+      "fetchedAt": "2026-10-11T13:49:55.516Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9300,7 +9300,7 @@
     },
     "16612": {
       "slug": "twelve-minutes",
-      "fetchedAt": "2026-10-10T13:19:58.278Z",
+      "fetchedAt": "2026-10-11T13:49:57.098Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9330,7 +9330,7 @@
     },
     "16992": {
       "slug": "human-fall-flat",
-      "fetchedAt": "2026-10-10T13:20:01.277Z",
+      "fetchedAt": "2026-10-11T13:50:00.103Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9456,7 +9456,7 @@
     },
     "17000": {
       "slug": "stardew-valley",
-      "fetchedAt": "2026-10-10T13:20:02.878Z",
+      "fetchedAt": "2026-10-11T13:50:01.719Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9590,12 +9590,12 @@
     },
     "17001": {
       "slug": "ashen--1",
-      "fetchedAt": "2026-10-10T13:20:05.000Z",
+      "fetchedAt": "2026-10-11T13:50:03.322Z",
       "data": null
     },
     "17026": {
       "slug": "furi",
-      "fetchedAt": "2026-10-10T13:20:08.507Z",
+      "fetchedAt": "2026-10-11T13:50:05.068Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9617,12 +9617,12 @@
     },
     "17032": {
       "slug": "darkwood",
-      "fetchedAt": "2026-10-10T13:20:08.588Z",
+      "fetchedAt": "2026-10-11T13:50:06.563Z",
       "data": null
     },
     "17269": {
       "slug": "roblox",
-      "fetchedAt": "2026-10-10T13:20:11.597Z",
+      "fetchedAt": "2026-10-11T13:50:09.561Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9756,7 +9756,7 @@
     },
     "18020": {
       "slug": "visage",
-      "fetchedAt": "2026-10-10T13:20:14.600Z",
+      "fetchedAt": "2026-10-11T13:50:12.556Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9786,7 +9786,7 @@
     },
     "18158": {
       "slug": "ultimate-chicken-horse",
-      "fetchedAt": "2026-10-10T13:20:16.189Z",
+      "fetchedAt": "2026-10-11T13:50:14.145Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9920,7 +9920,7 @@
     },
     "18167": {
       "slug": "hello-neighbor",
-      "fetchedAt": "2026-10-10T13:20:17.851Z",
+      "fetchedAt": "2026-10-11T13:50:15.726Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -9942,7 +9942,7 @@
     },
     "18182": {
       "slug": "momodora-reverie-under-the-moonlight",
-      "fetchedAt": "2026-10-10T13:20:19.436Z",
+      "fetchedAt": "2026-10-11T13:50:17.306Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -9996,7 +9996,7 @@
     },
     "18225": {
       "slug": "the-sinking-city",
-      "fetchedAt": "2026-10-10T13:20:22.426Z",
+      "fetchedAt": "2026-10-11T13:50:20.308Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10034,12 +10034,12 @@
     },
     "18311": {
       "slug": "the-turing-test",
-      "fetchedAt": "2026-10-10T13:20:23.957Z",
+      "fetchedAt": "2026-10-11T13:50:21.844Z",
       "data": null
     },
     "18366": {
       "slug": "sniper-elite-4",
-      "fetchedAt": "2026-10-10T13:20:26.926Z",
+      "fetchedAt": "2026-10-11T13:50:24.808Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10141,7 +10141,7 @@
     },
     "18433": {
       "slug": "overcooked",
-      "fetchedAt": "2026-10-10T13:20:29.927Z",
+      "fetchedAt": "2026-10-11T13:50:27.808Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10163,7 +10163,7 @@
     },
     "18484": {
       "slug": "clustertruck",
-      "fetchedAt": "2026-10-10T13:20:32.927Z",
+      "fetchedAt": "2026-10-11T13:50:30.805Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10185,7 +10185,7 @@
     },
     "18853": {
       "slug": "aragami",
-      "fetchedAt": "2026-10-10T13:20:35.927Z",
+      "fetchedAt": "2026-10-11T13:50:33.807Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10223,7 +10223,7 @@
     },
     "18857": {
       "slug": "ruiner",
-      "fetchedAt": "2026-10-10T13:20:38.939Z",
+      "fetchedAt": "2026-10-11T13:50:36.806Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10245,7 +10245,7 @@
     },
     "18861": {
       "slug": "i-am-setsuna",
-      "fetchedAt": "2026-10-10T13:20:41.934Z",
+      "fetchedAt": "2026-10-11T13:50:39.809Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10267,7 +10267,7 @@
     },
     "18866": {
       "slug": "dead-by-daylight",
-      "fetchedAt": "2026-10-10T13:20:43.537Z",
+      "fetchedAt": "2026-10-11T13:50:41.419Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -10401,7 +10401,7 @@
     },
     "18918": {
       "slug": "northgard",
-      "fetchedAt": "2026-10-10T13:20:45.125Z",
+      "fetchedAt": "2026-10-11T13:50:43.000Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10463,7 +10463,7 @@
     },
     "18927": {
       "slug": "hue",
-      "fetchedAt": "2026-10-10T13:20:48.115Z",
+      "fetchedAt": "2026-10-11T13:50:45.999Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10485,7 +10485,7 @@
     },
     "19000": {
       "slug": "the-walking-dead-a-new-frontier",
-      "fetchedAt": "2026-10-10T13:20:51.122Z",
+      "fetchedAt": "2026-10-11T13:50:48.999Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10515,7 +10515,7 @@
     },
     "19082": {
       "slug": "the-jackbox-party-pack-3",
-      "fetchedAt": "2026-10-10T13:20:54.112Z",
+      "fetchedAt": "2026-10-11T13:50:52.003Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10537,7 +10537,7 @@
     },
     "19085": {
       "slug": "shadow-tactics-blades-of-the-shogun",
-      "fetchedAt": "2026-10-10T13:20:55.689Z",
+      "fetchedAt": "2026-10-11T13:50:53.588Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -10575,7 +10575,7 @@
     },
     "19130": {
       "slug": "sid-meiers-civilization-vi",
-      "fetchedAt": "2026-10-10T13:20:57.270Z",
+      "fetchedAt": "2026-10-11T13:50:55.170Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10709,7 +10709,7 @@
     },
     "19164": {
       "slug": "borderlands-3",
-      "fetchedAt": "2026-10-10T13:20:58.855Z",
+      "fetchedAt": "2026-10-11T13:50:56.756Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -10819,7 +10819,7 @@
     },
     "19220": {
       "slug": "snake-pass",
-      "fetchedAt": "2026-10-10T13:21:00.430Z",
+      "fetchedAt": "2026-10-11T13:50:58.336Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10857,7 +10857,7 @@
     },
     "19241": {
       "slug": "unravel-two",
-      "fetchedAt": "2026-10-10T13:21:03.496Z",
+      "fetchedAt": "2026-10-11T13:51:01.337Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10879,12 +10879,12 @@
     },
     "19300": {
       "slug": "deponia-doomsday",
-      "fetchedAt": "2026-10-10T13:21:04.979Z",
+      "fetchedAt": "2026-10-11T13:51:03.069Z",
       "data": null
     },
     "19449": {
       "slug": "dragon-ball-xenoverse-2",
-      "fetchedAt": "2026-10-10T13:21:06.564Z",
+      "fetchedAt": "2026-10-11T13:51:04.654Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -10994,7 +10994,7 @@
     },
     "19520": {
       "slug": "far-lone-sails",
-      "fetchedAt": "2026-10-10T13:21:08.139Z",
+      "fetchedAt": "2026-10-11T13:51:06.234Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11032,7 +11032,7 @@
     },
     "19554": {
       "slug": "steep",
-      "fetchedAt": "2026-10-10T13:21:11.139Z",
+      "fetchedAt": "2026-10-11T13:51:09.235Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11142,7 +11142,7 @@
     },
     "19560": {
       "slug": "god-of-war--1",
-      "fetchedAt": "2026-10-10T13:21:14.151Z",
+      "fetchedAt": "2026-10-11T13:51:12.241Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11276,7 +11276,7 @@
     },
     "19561": {
       "slug": "days-gone",
-      "fetchedAt": "2026-10-10T13:21:15.729Z",
+      "fetchedAt": "2026-10-11T13:51:13.825Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11298,7 +11298,7 @@
     },
     "19562": {
       "slug": "resident-evil-7-biohazard",
-      "fetchedAt": "2026-10-10T13:21:18.728Z",
+      "fetchedAt": "2026-10-11T13:51:16.820Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11328,12 +11328,12 @@
     },
     "19635": {
       "slug": "naruto-ultimate-ninja-storm",
-      "fetchedAt": "2026-10-10T13:21:18.873Z",
+      "fetchedAt": "2026-10-11T13:51:16.952Z",
       "data": null
     },
     "19696": {
       "slug": "worms-wmd",
-      "fetchedAt": "2026-10-10T13:21:21.802Z",
+      "fetchedAt": "2026-10-11T13:51:19.905Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11371,7 +11371,7 @@
     },
     "19817": {
       "slug": "scorn",
-      "fetchedAt": "2026-10-10T13:21:23.383Z",
+      "fetchedAt": "2026-10-11T13:51:21.487Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11393,7 +11393,7 @@
     },
     "19935": {
       "slug": "wizard-of-legend",
-      "fetchedAt": "2026-10-10T13:21:24.958Z",
+      "fetchedAt": "2026-10-11T13:51:23.070Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11495,7 +11495,7 @@
     },
     "20326": {
       "slug": "deliver-us-the-moon",
-      "fetchedAt": "2026-10-10T13:21:26.673Z",
+      "fetchedAt": "2026-10-11T13:51:24.648Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11517,12 +11517,12 @@
     },
     "20329": {
       "slug": "figment",
-      "fetchedAt": "2026-10-10T13:21:26.785Z",
+      "fetchedAt": "2026-10-11T13:51:24.806Z",
       "data": null
     },
     "20331": {
       "slug": "for-the-king",
-      "fetchedAt": "2026-10-10T13:21:29.749Z",
+      "fetchedAt": "2026-10-11T13:51:27.735Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11568,7 +11568,7 @@
     },
     "20910": {
       "slug": "world-war-z",
-      "fetchedAt": "2026-10-10T13:21:31.326Z",
+      "fetchedAt": "2026-10-11T13:51:29.314Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11694,12 +11694,12 @@
     },
     "20927": {
       "slug": "911-operator",
-      "fetchedAt": "2026-10-10T13:21:31.422Z",
+      "fetchedAt": "2026-10-11T13:51:29.419Z",
       "data": null
     },
     "21062": {
       "slug": "sonic-mania",
-      "fetchedAt": "2026-10-10T13:21:34.399Z",
+      "fetchedAt": "2026-10-11T13:51:32.399Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11729,7 +11729,7 @@
     },
     "21063": {
       "slug": "sonic-forces",
-      "fetchedAt": "2026-10-10T13:21:37.403Z",
+      "fetchedAt": "2026-10-11T13:51:35.400Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11751,7 +11751,7 @@
     },
     "21593": {
       "slug": "lords-of-the-fallen--2",
-      "fetchedAt": "2026-10-10T13:21:38.988Z",
+      "fetchedAt": "2026-10-11T13:51:36.986Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11885,12 +11885,12 @@
     },
     "21604": {
       "slug": "old-mans-journey",
-      "fetchedAt": "2026-10-10T13:21:39.108Z",
+      "fetchedAt": "2026-10-11T13:51:37.099Z",
       "data": null
     },
     "21623": {
       "slug": "tricky-towers",
-      "fetchedAt": "2026-10-10T13:21:42.061Z",
+      "fetchedAt": "2026-10-11T13:51:40.070Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -11912,7 +11912,7 @@
     },
     "21642": {
       "slug": "totally-accurate-battle-simulator",
-      "fetchedAt": "2026-10-10T13:21:44.651Z",
+      "fetchedAt": "2026-10-11T13:51:41.654Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -11934,7 +11934,7 @@
     },
     "22739": {
       "slug": "uno--1",
-      "fetchedAt": "2026-10-10T13:21:46.651Z",
+      "fetchedAt": "2026-10-11T13:51:44.652Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12060,7 +12060,7 @@
     },
     "22783": {
       "slug": "the-sexy-brutale",
-      "fetchedAt": "2026-10-10T13:21:48.227Z",
+      "fetchedAt": "2026-10-11T13:51:46.236Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12082,7 +12082,7 @@
     },
     "22917": {
       "slug": "gris",
-      "fetchedAt": "2026-10-10T13:21:49.804Z",
+      "fetchedAt": "2026-10-11T13:51:47.820Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12104,7 +12104,7 @@
     },
     "23733": {
       "slug": "tunic",
-      "fetchedAt": "2026-10-10T13:21:52.800Z",
+      "fetchedAt": "2026-10-11T13:51:50.820Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12126,7 +12126,7 @@
     },
     "24426": {
       "slug": "forgotton-anne",
-      "fetchedAt": "2026-10-10T13:21:54.377Z",
+      "fetchedAt": "2026-10-11T13:51:52.402Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12148,7 +12148,7 @@
     },
     "24881": {
       "slug": "kingdom-new-lands",
-      "fetchedAt": "2026-10-10T13:21:57.375Z",
+      "fetchedAt": "2026-10-11T13:51:55.405Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12170,7 +12170,7 @@
     },
     "24985": {
       "slug": "golf-with-your-friends",
-      "fetchedAt": "2026-10-10T13:22:00.376Z",
+      "fetchedAt": "2026-10-11T13:51:58.403Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12304,7 +12304,7 @@
     },
     "25076": {
       "slug": "red-dead-redemption-2",
-      "fetchedAt": "2026-10-10T13:22:03.376Z",
+      "fetchedAt": "2026-10-11T13:52:01.407Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12438,7 +12438,7 @@
     },
     "25260": {
       "slug": "dusk",
-      "fetchedAt": "2026-10-10T13:22:06.377Z",
+      "fetchedAt": "2026-10-11T13:52:04.404Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12508,7 +12508,7 @@
     },
     "25580": {
       "slug": "forager",
-      "fetchedAt": "2026-10-10T13:22:09.376Z",
+      "fetchedAt": "2026-10-11T13:52:07.404Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12546,7 +12546,7 @@
     },
     "25653": {
       "slug": "the-escapists-2",
-      "fetchedAt": "2026-10-10T13:22:12.374Z",
+      "fetchedAt": "2026-10-11T13:52:10.406Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12584,7 +12584,7 @@
     },
     "25657": {
       "slug": "destiny-2",
-      "fetchedAt": "2026-10-10T13:22:13.969Z",
+      "fetchedAt": "2026-10-11T13:52:11.999Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12718,7 +12718,7 @@
     },
     "25837": {
       "slug": "the-pedestrian",
-      "fetchedAt": "2026-10-10T13:22:16.952Z",
+      "fetchedAt": "2026-10-11T13:52:14.989Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12748,7 +12748,7 @@
     },
     "25901": {
       "slug": "my-friend-pedro",
-      "fetchedAt": "2026-10-10T13:22:18.536Z",
+      "fetchedAt": "2026-10-11T13:52:16.572Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12770,7 +12770,7 @@
     },
     "25935": {
       "slug": "the-artful-escape",
-      "fetchedAt": "2026-10-10T13:22:20.112Z",
+      "fetchedAt": "2026-10-11T13:52:18.155Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12792,7 +12792,7 @@
     },
     "26192": {
       "slug": "the-last-of-us-part-ii",
-      "fetchedAt": "2026-10-10T13:22:23.115Z",
+      "fetchedAt": "2026-10-11T13:52:21.157Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -12894,7 +12894,7 @@
     },
     "26226": {
       "slug": "celeste",
-      "fetchedAt": "2026-10-10T13:22:24.922Z",
+      "fetchedAt": "2026-10-11T13:52:22.741Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -12940,7 +12940,7 @@
     },
     "26381": {
       "slug": "thehunter-call-of-the-wild",
-      "fetchedAt": "2026-10-10T13:22:27.748Z",
+      "fetchedAt": "2026-10-11T13:52:25.758Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13074,7 +13074,7 @@
     },
     "26602": {
       "slug": "metaphor-refantazio",
-      "fetchedAt": "2026-10-10T13:22:29.328Z",
+      "fetchedAt": "2026-10-11T13:52:27.339Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13104,17 +13104,17 @@
     },
     "26673": {
       "slug": "omori",
-      "fetchedAt": "2026-10-10T13:22:29.453Z",
+      "fetchedAt": "2026-10-11T13:52:27.462Z",
       "data": null
     },
     "26765": {
       "slug": "octopath-traveler",
-      "fetchedAt": "2026-10-10T13:22:30.828Z",
+      "fetchedAt": "2026-10-11T13:52:28.840Z",
       "data": null
     },
     "26776": {
       "slug": "detention",
-      "fetchedAt": "2026-10-10T13:22:32.413Z",
+      "fetchedAt": "2026-10-11T13:52:30.424Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13152,7 +13152,7 @@
     },
     "26820": {
       "slug": "blasphemous",
-      "fetchedAt": "2026-10-10T13:22:35.413Z",
+      "fetchedAt": "2026-10-11T13:52:33.426Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13214,7 +13214,7 @@
     },
     "26855": {
       "slug": "dead-cells",
-      "fetchedAt": "2026-10-10T13:22:36.996Z",
+      "fetchedAt": "2026-10-11T13:52:35.006Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13244,7 +13244,7 @@
     },
     "26940": {
       "slug": "the-banner-saga-3",
-      "fetchedAt": "2026-10-10T13:22:38.581Z",
+      "fetchedAt": "2026-10-11T13:52:36.595Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13282,7 +13282,7 @@
     },
     "26951": {
       "slug": "pillars-of-eternity-ii-deadfire",
-      "fetchedAt": "2026-10-10T13:22:41.584Z",
+      "fetchedAt": "2026-10-11T13:52:39.799Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13352,7 +13352,7 @@
     },
     "26970": {
       "slug": "minit",
-      "fetchedAt": "2026-10-10T13:22:44.569Z",
+      "fetchedAt": "2026-10-11T13:52:42.785Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13382,7 +13382,7 @@
     },
     "27011": {
       "slug": "serious-sam-4",
-      "fetchedAt": "2026-10-10T13:22:47.979Z",
+      "fetchedAt": "2026-10-11T13:52:44.362Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13404,7 +13404,7 @@
     },
     "27082": {
       "slug": "raft",
-      "fetchedAt": "2026-10-10T13:22:49.558Z",
+      "fetchedAt": "2026-10-11T13:52:47.364Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13426,7 +13426,7 @@
     },
     "27092": {
       "slug": "greedfall",
-      "fetchedAt": "2026-10-10T13:22:52.556Z",
+      "fetchedAt": "2026-10-11T13:52:50.372Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13456,7 +13456,7 @@
     },
     "27094": {
       "slug": "stories-untold",
-      "fetchedAt": "2026-10-10T13:22:54.131Z",
+      "fetchedAt": "2026-10-11T13:52:51.954Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13478,7 +13478,7 @@
     },
     "27134": {
       "slug": "deep-rock-galactic",
-      "fetchedAt": "2026-10-10T13:22:55.710Z",
+      "fetchedAt": "2026-10-11T13:52:53.536Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13612,7 +13612,7 @@
     },
     "27304": {
       "slug": "ys-viii-lacrimosa-of-dana",
-      "fetchedAt": "2026-10-10T13:22:58.708Z",
+      "fetchedAt": "2026-10-11T13:52:56.535Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13634,7 +13634,7 @@
     },
     "27310": {
       "slug": "we-were-here",
-      "fetchedAt": "2026-10-10T13:23:01.708Z",
+      "fetchedAt": "2026-10-11T13:52:59.533Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13664,7 +13664,7 @@
     },
     "27316": {
       "slug": "a-plague-tale-innocence",
-      "fetchedAt": "2026-10-10T13:23:04.705Z",
+      "fetchedAt": "2026-10-11T13:53:02.532Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13686,7 +13686,7 @@
     },
     "27324": {
       "slug": "the-gardens-between",
-      "fetchedAt": "2026-10-10T13:23:07.704Z",
+      "fetchedAt": "2026-10-11T13:53:05.532Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13708,7 +13708,7 @@
     },
     "27367": {
       "slug": "yokus-island-express",
-      "fetchedAt": "2026-10-10T13:23:09.278Z",
+      "fetchedAt": "2026-10-11T13:53:07.115Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13738,7 +13738,7 @@
     },
     "27384": {
       "slug": "graveyard-keeper",
-      "fetchedAt": "2026-10-10T13:23:12.328Z",
+      "fetchedAt": "2026-10-11T13:53:10.116Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13792,7 +13792,7 @@
     },
     "27433": {
       "slug": "steamworld-dig-2",
-      "fetchedAt": "2026-10-10T13:23:15.277Z",
+      "fetchedAt": "2026-10-11T13:53:13.116Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13814,7 +13814,7 @@
     },
     "27448": {
       "slug": "superhot-mind-control-delete",
-      "fetchedAt": "2026-10-10T13:23:18.277Z",
+      "fetchedAt": "2026-10-11T13:53:16.219Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -13852,7 +13852,7 @@
     },
     "27717": {
       "slug": "late-shift",
-      "fetchedAt": "2026-10-10T13:23:19.852Z",
+      "fetchedAt": "2026-10-11T13:53:17.798Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -13874,7 +13874,7 @@
     },
     "27729": {
       "slug": "mordhau",
-      "fetchedAt": "2026-10-10T13:23:22.855Z",
+      "fetchedAt": "2026-10-11T13:53:20.877Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
