@@ -54,15 +54,20 @@ Patch detection resolves a PlayStation title id for 598 of them and finds a patc
 **534** — 303 on PROSPEROPatches, 231 on ORBISPatches — of which 173 shipped an update in 2026
 and 223 carry changelog text the trackers expose for free.
 
-Verification has covered the 723 titles with no hand-written entry and produced **248 verified
-titles / 487 console-model rows**: 21 established by an official source, 94 by independent
-measurement, 133 by press. It found **30 patches that changed a frame rate**, including
-Assassin's Creed Unity's 1.6 update, sourced to Ubisoft's own page.
+Verification currently stands at **487 verified titles / 737 console-model rows**: 37
+established by an official source, 165 by independent measurement, 285 by press. It has found
+**34 patches that changed a frame rate**, including Assassin's Creed Unity's 1.6 update,
+sourced to Ubisoft's own page.
 
-The remaining titles came back with nothing established and render as "awaiting verification".
-That share grows as the catalogue reaches past the popular tail — roughly 46% of well-known
-titles verify, against 18% of the obscure ones — because obscure games genuinely have no
-published frame rate figures, and inventing one is the failure this pipeline exists to avoid.
+115 of those titles were researched by hand rather than by the worker, after a pass over every
+title the pipeline had left undocumented — the popular end of that list is where published
+figures actually exist, so that is where hand research pays.
+
+The remaining 282 titles came back with nothing established and render as "awaiting
+verification". That share grows as the catalogue reaches past the popular tail, because obscure
+games genuinely have no published frame rate figures, and inventing one is the failure this
+pipeline exists to avoid. A hand pass does not change that: a Switch puzzle game whose
+developer never stated a frame rate and that no outlet measured has no answer to find.
 
 Platform availability is a merge, not a copy. IGDB's platform list misses consoles a
 storefront confirms — 42 titles are sold on Series X\|S with IGDB listing only Xbox One —
