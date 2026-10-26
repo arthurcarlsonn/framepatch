@@ -19,10 +19,10 @@ import { Input } from "@/components/ui/input";
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import {
   applyFilter,
+  byPopularity,
   FILTERS,
   gamesFor,
   headlineFps,
-  monthKey,
   searchGames,
   type FilterId,
 } from "@/lib/games";
@@ -58,21 +58,21 @@ export function BrowseView() {
     switch (sort) {
       case "fps":
         sorted.sort(
-          (a, b) => headlineFps(b, platform) - headlineFps(a, platform) || b.ratingCount - a.ratingCount,
+          (a, b) => headlineFps(b, platform) - headlineFps(a, platform) || byPopularity(a, b),
         );
         break;
       case "title":
         sorted.sort((a, b) => a.title.localeCompare(b.title));
         break;
       case "recent":
+        // Sorts on the patch's ISO date, not its "Mon YYYY" label: two patches in the same
+        // month are not interchangeable, and the label cannot tell them apart.
         sorted.sort(
-          (a, b) =>
-            monthKey(b.patch?.date ?? "") - monthKey(a.patch?.date ?? "") ||
-            b.ratingCount - a.ratingCount,
+          (a, b) => (b.patchIso ?? "").localeCompare(a.patchIso ?? "") || byPopularity(a, b),
         );
         break;
       default:
-        sorted.sort((a, b) => b.ratingCount - a.ratingCount);
+        sorted.sort(byPopularity);
     }
     return sorted;
   }, [platform, filter, sort, query]);

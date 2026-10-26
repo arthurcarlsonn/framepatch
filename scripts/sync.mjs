@@ -61,7 +61,15 @@ let games = [];
 if (wanted("igdb")) {
   console.log("igdb — fetching catalogue…");
   const records = await fetchCatalogue({ curatedOnly, perPlatform });
-  const table = { source: "igdb", syncedAt: new Date().toISOString(), entries: {} };
+  // Merge, like every other source: discovery only returns the top `perPlatform` titles per
+  // console, so rebuilding the table from scratch would drop every title a narrower run does
+  // not rediscover — including ones already verified.
+  const previous = await readSource("igdb");
+  const table = {
+    source: "igdb",
+    syncedAt: new Date().toISOString(),
+    entries: { ...previous.entries },
+  };
   for (const record of records) {
     table.entries[String(record.index.igdbId)] = {
       slug: record.index.slug,

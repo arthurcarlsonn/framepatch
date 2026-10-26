@@ -9,6 +9,7 @@
  */
 import {
   appTypeLabel,
+  byPopularity,
   gamesFor,
   headlineFps,
   verifiedOn,
@@ -145,9 +146,7 @@ export function collectionGames(collection: Collection, platform: PlatformId): G
     .filter((game) => verifiedOn(game, platform) && collection.match(game, platform))
     .sort(
       (a, b) =>
-        headlineFps(b, platform) - headlineFps(a, platform) ||
-        b.popularity - a.popularity ||
-        b.ratingCount - a.ratingCount,
+        headlineFps(b, platform) - headlineFps(a, platform) || byPopularity(a, b),
     );
 }
 
@@ -195,7 +194,7 @@ function groupBy(pick: (game: Game) => string | null): Group[] {
     .map(([slug, group]) => ({
       slug,
       name: group.name,
-      games: group.games.sort((a, b) => b.popularity - a.popularity),
+      games: group.games.sort(byPopularity),
     }))
     .filter(
       (group) =>

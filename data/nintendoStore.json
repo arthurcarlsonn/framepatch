@@ -1,10 +1,10 @@
 {
   "source": "nintendoStore",
-  "syncedAt": "2026-08-26T13:50:23.790Z",
+  "syncedAt": "2026-10-26T22:05:57.094Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
-      "fetchedAt": "2026-08-26T13:10:32.587Z",
+      "fetchedAt": "2026-10-26T21:53:00.866Z",
       "data": {
         "nsuid": "70010000032177",
         "sku": "7100032177",
@@ -36,16 +36,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 2.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "83": {
       "slug": "baldur-s-gate-dark-alliance",
-      "fetchedAt": "2026-08-26T13:10:33.356Z",
+      "fetchedAt": "2026-10-26T21:53:01.102Z",
       "data": {
         "nsuid": "70010000039320",
         "sku": "7100039320",
@@ -86,7 +86,7 @@
     },
     "116": {
       "slug": "star-wars-knights-of-the-old-republic",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:04.248Z",
       "data": {
         "nsuid": "70010000043209",
         "sku": "7100043209",
@@ -118,16 +118,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "118": {
       "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:04.754Z",
       "data": {
         "nsuid": "70010000045601",
         "sku": "7100045601",
@@ -159,16 +159,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "148": {
       "slug": "star-wars-republic-commando",
-      "fetchedAt": "2026-08-26T13:10:36.497Z",
+      "fetchedAt": "2026-10-26T21:53:05.750Z",
       "data": {
         "nsuid": "70010000028811",
         "sku": "7100028811",
@@ -200,16 +200,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "152": {
       "slug": "star-wars-jedi-knight-ii-jedi-outcast",
-      "fetchedAt": "2026-08-26T13:10:38.588Z",
+      "fetchedAt": "2026-10-26T21:53:06.313Z",
       "data": {
         "nsuid": "70010000021136",
         "sku": "7100021136",
@@ -241,16 +241,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 3.99,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "153": {
       "slug": "star-wars-jedi-knight-jedi-academy",
-      "fetchedAt": "2026-08-26T13:10:40.684Z",
+      "fetchedAt": "2026-10-26T21:53:08.727Z",
       "data": {
         "nsuid": "70010000024248",
         "sku": "7100024248",
@@ -282,16 +282,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 7.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "154": {
       "slug": "star-wars-episode-i-racer",
-      "fetchedAt": "2026-08-26T13:10:42.772Z",
+      "fetchedAt": "2026-10-26T21:53:10.426Z",
       "data": {
         "nsuid": "70010000025441",
         "sku": "7100025441",
@@ -323,16 +323,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "320": {
       "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
-      "fetchedAt": "2026-08-26T13:10:45.662Z",
+      "fetchedAt": "2026-10-26T21:53:12.933Z",
       "data": {
         "nsuid": "70010000077870",
         "sku": "7100077870",
@@ -364,16 +364,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 13.39,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "386": {
       "slug": "final-fantasy-xiv-online--1",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:15.231Z",
       "data": {
         "nsuid": "70010000112610",
         "sku": "7100112610",
@@ -387,7 +387,7 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 116724334592
+            "bytes": 117331460096
           }
         ],
         "editions": [
@@ -408,7 +408,7 @@
     },
     "434": {
       "slug": "red-dead-redemption",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:15.470Z",
       "data": {
         "nsuid": "70010000058660",
         "sku": "7100058660",
@@ -450,7 +450,7 @@
     },
     "500": {
       "slug": "batman-arkham-asylum",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:17.676Z",
       "data": {
         "nsuid": "70010000045904",
         "sku": "7100045904",
@@ -482,16 +482,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 24.99,
         "regularPrice": 24.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "501": {
       "slug": "batman-arkham-city",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:19.583Z",
       "data": {
         "nsuid": "70010000045911",
         "sku": "7100045911",
@@ -523,16 +523,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 24.99,
         "regularPrice": 24.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "530": {
       "slug": "hitman-absolution",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:20.867Z",
       "data": {
         "nsuid": "70010000094573",
         "sku": "7100094573",
@@ -549,11 +549,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 16745758720
+            "bytes": 16738418688
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 16745758720
+            "bytes": 16866344960
           }
         ],
         "editions": [
@@ -573,7 +573,7 @@
     },
     "576": {
       "slug": "dc-universe-online",
-      "fetchedAt": "2026-08-26T13:10:47.496Z",
+      "fetchedAt": "2026-10-26T21:53:21.117Z",
       "data": {
         "nsuid": "70010000017753",
         "sku": "7100017753",
@@ -590,11 +590,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 25118638080
+            "bytes": 25401753600
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 25118638080
+            "bytes": 25401753600
           }
         ],
         "editions": [
@@ -615,7 +615,7 @@
     },
     "885": {
       "slug": "super-meat-boy",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:24.041Z",
       "data": {
         "nsuid": "70010000001990",
         "sku": "7100001990",
@@ -647,16 +647,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "890": {
       "slug": "syberia",
-      "fetchedAt": "2026-08-26T13:10:49.078Z",
+      "fetchedAt": "2026-10-26T21:53:25.594Z",
       "data": {
         "nsuid": "70010000000650",
         "sku": "7100000650",
@@ -697,7 +697,7 @@
     },
     "942": {
       "slug": "world-of-goo",
-      "fetchedAt": "2026-08-26T13:10:50.845Z",
+      "fetchedAt": "2026-10-26T21:53:25.918Z",
       "data": {
         "nsuid": "70010000000165",
         "sku": "7100000165",
@@ -729,9 +729,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 7.49,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -739,12 +739,12 @@
     "978": {
       "slug": "resident-evil-revelations",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/resident-evil-revelations-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:39.925Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:53:27.624Z"
     },
     "1262": {
       "slug": "south-park-the-stick-of-truth",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:30.338Z",
       "data": {
         "nsuid": "70010000011252",
         "sku": "7100011252",
@@ -785,7 +785,7 @@
     },
     "1331": {
       "slug": "limbo",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:30.594Z",
       "data": {
         "nsuid": "70010000005802",
         "sku": "7100005802",
@@ -817,16 +817,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 12.49,
+        "price": 1.99,
         "regularPrice": 12.49,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "1334": {
       "slug": "brothers-a-tale-of-two-sons",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:31.766Z",
       "data": {
         "nsuid": "70010000016192",
         "sku": "7100016192",
@@ -867,7 +867,7 @@
     },
     "1337": {
       "slug": "torchlight-ii",
-      "fetchedAt": "2026-08-26T13:10:54.487Z",
+      "fetchedAt": "2026-10-26T21:53:32.575Z",
       "data": {
         "nsuid": "70010000016678",
         "sku": "7100016678",
@@ -899,16 +899,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 19.99,
         "regularPrice": 19.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "1338": {
       "slug": "prison-architect",
-      "fetchedAt": "2026-08-26T13:10:57.106Z",
+      "fetchedAt": "2026-10-26T21:53:35.283Z",
       "data": {
         "nsuid": "70010000009727",
         "sku": "7100009727",
@@ -941,16 +941,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 10.49,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "1363": {
       "slug": "little-inferno",
-      "fetchedAt": "2026-08-26T13:10:57.665Z",
+      "fetchedAt": "2026-10-26T21:53:35.584Z",
       "data": {
         "nsuid": "70010000000160",
         "sku": "7100000160",
@@ -982,9 +982,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 7.49,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -992,12 +992,12 @@
     "1879": {
       "slug": "terraria",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/terraria-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:40.425Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:53:37.083Z"
     },
     "1905": {
       "slug": "fortnite",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:37.109Z",
       "data": {
         "nsuid": "70010000010192",
         "sku": "7100010192",
@@ -1014,7 +1014,7 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 20378025984
+            "bytes": 20741881856
           },
           {
             "platform": "Nintendo Switch 2",
@@ -1039,7 +1039,7 @@
     },
     "1906": {
       "slug": "gone-home",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:38.504Z",
       "data": {
         "nsuid": "70010000009422",
         "sku": "7100009422",
@@ -1118,16 +1118,18 @@
         "discounted": false,
         "currency": "USD",
         "salesStatus": "sales_termination"
-      }
+      },
+      "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-switch/",
+      "lastErrorAt": "2026-10-26T21:53:39.861Z"
     },
     "1970": {
       "slug": "assassins-creed-iv-black-flag",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:40.205Z",
       "data": null
     },
     "1976": {
       "slug": "call-of-juarez-gunslinger",
-      "fetchedAt": "2026-08-26T13:10:59.555Z",
+      "fetchedAt": "2026-10-26T21:53:44.494Z",
       "data": {
         "nsuid": "70010000014168",
         "sku": "7100014168",
@@ -1159,16 +1161,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 1.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "1983": {
       "slug": "bastion",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:53:45.030Z",
       "data": {
         "nsuid": "70010000010936",
         "sku": "7100010936",
@@ -1210,12 +1212,12 @@
     "1990": {
       "slug": "vvvvvv",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/vvvvvv-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:41.469Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:53:46.535Z"
     },
     "1991": {
       "slug": "fez",
-      "fetchedAt": "2026-08-26T13:11:01.340Z",
+      "fetchedAt": "2026-10-26T21:53:49.422Z",
       "data": {
         "nsuid": "70010000019239",
         "sku": "7100019239",
@@ -1256,7 +1258,7 @@
     },
     "2049": {
       "slug": "slender-the-arrival",
-      "fetchedAt": "2026-08-26T13:11:03.524Z",
+      "fetchedAt": "2026-10-26T21:53:50.071Z",
       "data": {
         "nsuid": "70010000016226",
         "sku": "7100016226",
@@ -1288,16 +1290,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 2.29,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "2050": {
       "slug": "lego-marvel-super-heroes",
-      "fetchedAt": "2026-08-26T13:11:05.848Z",
+      "fetchedAt": "2026-10-26T21:53:50.657Z",
       "data": {
         "nsuid": "70010000025461",
         "sku": "7100025461",
@@ -1340,11 +1342,11 @@
       "slug": "payday-2",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/payday-2-switch/",
-      "lastErrorAt": "2026-08-26T13:49:42.754Z"
+      "lastErrorAt": "2026-10-26T21:53:51.710Z"
     },
     "2130": {
       "slug": "dust-an-elysian-tail",
-      "fetchedAt": "2026-08-26T13:11:09.127Z",
+      "fetchedAt": "2026-10-26T21:53:54.825Z",
       "data": {
         "nsuid": "70010000008302",
         "sku": "7100008302",
@@ -1385,12 +1387,12 @@
     },
     "2135": {
       "slug": "bayonetta-2",
-      "fetchedAt": "2026-08-26T13:11:09.513Z",
+      "fetchedAt": "2026-10-26T21:53:55.201Z",
       "data": null
     },
     "2272": {
       "slug": "no-more-heroes",
-      "fetchedAt": "2026-08-26T13:11:12.658Z",
+      "fetchedAt": "2026-10-26T21:53:56.233Z",
       "data": {
         "nsuid": "70010000022435",
         "sku": "7100022435",
@@ -1431,7 +1433,7 @@
     },
     "2273": {
       "slug": "no-more-heroes-2-desperate-struggle",
-      "fetchedAt": "2026-08-26T13:11:14.837Z",
+      "fetchedAt": "2026-10-26T21:53:58.783Z",
       "data": {
         "nsuid": "70010000022439",
         "sku": "7100022439",
@@ -1472,7 +1474,7 @@
     },
     "2291": {
       "slug": "thomas-was-alone",
-      "fetchedAt": "2026-08-26T13:11:17.002Z",
+      "fetchedAt": "2026-10-26T21:54:00.940Z",
       "data": {
         "nsuid": "70010000032415",
         "sku": "7100032415",
@@ -1513,12 +1515,12 @@
     },
     "2350": {
       "slug": "mario-kart-8",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:01.211Z",
       "data": null
     },
     "2599": {
       "slug": "game-dev-tycoon",
-      "fetchedAt": "2026-08-26T13:11:19.266Z",
+      "fetchedAt": "2026-10-26T21:54:03.660Z",
       "data": {
         "nsuid": "70010000032908",
         "sku": "7100032908",
@@ -1559,7 +1561,7 @@
     },
     "2903": {
       "slug": "warframe",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:03.692Z",
       "data": {
         "nsuid": "70010000009425",
         "sku": "7100009425",
@@ -1576,7 +1578,7 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 24138219520
+            "bytes": 25161629696
           },
           {
             "platform": "Nintendo Switch 2",
@@ -1600,7 +1602,7 @@
     },
     "2924": {
       "slug": "broken-sword-5-the-serpents-curse",
-      "fetchedAt": "2026-08-26T13:11:21.044Z",
+      "fetchedAt": "2026-10-26T21:54:06.831Z",
       "data": {
         "nsuid": "70010000013122",
         "sku": "7100013122",
@@ -1641,7 +1643,7 @@
     },
     "2939": {
       "slug": "the-vanishing-of-ethan-carter",
-      "fetchedAt": "2026-08-26T13:11:23.675Z",
+      "fetchedAt": "2026-10-26T21:54:09.504Z",
       "data": {
         "nsuid": "70010000020879",
         "sku": "7100020879",
@@ -1682,7 +1684,7 @@
     },
     "2990": {
       "slug": "machinarium",
-      "fetchedAt": "2026-08-26T13:11:25.967Z",
+      "fetchedAt": "2026-10-26T21:54:11.896Z",
       "data": {
         "nsuid": "70010000014074",
         "sku": "7100014074",
@@ -1723,7 +1725,7 @@
     },
     "2991": {
       "slug": "superbrothers-sword-sworcery-ep",
-      "fetchedAt": "2026-08-26T13:11:28.404Z",
+      "fetchedAt": "2026-10-26T21:54:12.378Z",
       "data": {
         "nsuid": "70010000014242",
         "sku": "7100014242",
@@ -1764,7 +1766,7 @@
     },
     "3020": {
       "slug": "shadowrun-returns",
-      "fetchedAt": "2026-08-26T13:11:31.011Z",
+      "fetchedAt": "2026-10-26T21:54:15.357Z",
       "data": {
         "nsuid": "70010000036589",
         "sku": "7100036589",
@@ -1796,16 +1798,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 6.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "3022": {
       "slug": "transistor",
-      "fetchedAt": "2026-08-26T13:11:34.418Z",
+      "fetchedAt": "2026-10-26T21:54:15.818Z",
       "data": {
         "nsuid": "70010000013383",
         "sku": "7100013383",
@@ -1846,7 +1848,7 @@
     },
     "3087": {
       "slug": "broken-age",
-      "fetchedAt": "2026-08-26T13:11:36.787Z",
+      "fetchedAt": "2026-10-26T21:54:18.548Z",
       "data": {
         "nsuid": "70010000008884",
         "sku": "7100008884",
@@ -1887,7 +1889,7 @@
     },
     "3097": {
       "slug": "the-walking-dead-season-two",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:21.418Z",
       "data": {
         "nsuid": "70010000014767",
         "sku": "7100014767",
@@ -1919,16 +1921,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 4.49,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "3152": {
       "slug": "don-t-starve",
-      "fetchedAt": "2026-08-26T13:11:39.402Z",
+      "fetchedAt": "2026-10-26T21:54:23.556Z",
       "data": {
         "nsuid": "70010000003093",
         "sku": "7100003093",
@@ -1969,7 +1971,7 @@
     },
     "3173": {
       "slug": "risk-of-rain",
-      "fetchedAt": "2026-08-26T13:11:41.810Z",
+      "fetchedAt": "2026-10-26T21:54:24.271Z",
       "data": {
         "nsuid": "70010000009834",
         "sku": "7100009834",
@@ -2010,7 +2012,7 @@
     },
     "3221": {
       "slug": "rogue-legacy",
-      "fetchedAt": "2026-08-26T13:11:43.797Z",
+      "fetchedAt": "2026-10-26T21:54:26.626Z",
       "data": {
         "nsuid": "70010000009914",
         "sku": "7100009914",
@@ -2051,7 +2053,7 @@
     },
     "3225": {
       "slug": "no-man-s-sky",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:26.655Z",
       "data": {
         "nsuid": "70050000057983",
         "sku": "7500057983",
@@ -2085,7 +2087,7 @@
     },
     "3227": {
       "slug": "nuclear-throne",
-      "fetchedAt": "2026-08-26T13:11:46.743Z",
+      "fetchedAt": "2026-10-26T21:54:27.998Z",
       "data": {
         "nsuid": "70010000015955",
         "sku": "7100015955",
@@ -2126,7 +2128,7 @@
     },
     "3241": {
       "slug": "cookie-clicker",
-      "fetchedAt": "2026-08-26T13:11:49.642Z",
+      "fetchedAt": "2026-10-26T21:54:28.450Z",
       "data": {
         "nsuid": "70010000066299",
         "sku": "7100066299",
@@ -2167,7 +2169,7 @@
     },
     "3772": {
       "slug": "wreckfest",
-      "fetchedAt": "2026-08-26T13:11:52.313Z",
+      "fetchedAt": "2026-10-26T21:54:29.602Z",
       "data": {
         "nsuid": "70010000033987",
         "sku": "7100033987",
@@ -2208,7 +2210,7 @@
     },
     "4754": {
       "slug": "alien-isolation",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:32.336Z",
       "data": {
         "nsuid": "70010000020818",
         "sku": "7100020818",
@@ -2240,16 +2242,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 14.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "4788": {
       "slug": "octodad-dadliest-catch",
-      "fetchedAt": "2026-08-26T13:11:56.312Z",
+      "fetchedAt": "2026-10-26T21:54:35.807Z",
       "data": {
         "nsuid": "70010000002810",
         "sku": "7100002810",
@@ -2281,16 +2283,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 7.49,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "4840": {
       "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky",
-      "fetchedAt": "2026-08-26T13:11:58.378Z",
+      "fetchedAt": "2026-10-26T21:54:37.851Z",
       "data": {
         "nsuid": "70010000077875",
         "sku": "7100077875",
@@ -2322,16 +2324,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 13.39,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "4848": {
       "slug": "max-the-curse-of-brotherhood",
-      "fetchedAt": "2026-08-26T13:12:00.369Z",
+      "fetchedAt": "2026-10-26T21:54:39.504Z",
       "data": {
         "nsuid": "70010000002944",
         "sku": "7100002944",
@@ -2363,16 +2365,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 2.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "5025": {
       "slug": "to-the-moon",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:42.060Z",
       "data": {
         "nsuid": "70010000023414",
         "sku": "7100023414",
@@ -2413,7 +2415,7 @@
     },
     "5060": {
       "slug": "deponia",
-      "fetchedAt": "2026-08-26T13:12:02.685Z",
+      "fetchedAt": "2026-10-26T21:54:44.576Z",
       "data": {
         "nsuid": "70010000014717",
         "sku": "7100014717",
@@ -2454,7 +2456,7 @@
     },
     "5062": {
       "slug": "chaos-on-deponia",
-      "fetchedAt": "2026-08-26T13:12:05.086Z",
+      "fetchedAt": "2026-10-26T21:54:46.672Z",
       "data": {
         "nsuid": "70010000015183",
         "sku": "7100015183",
@@ -2495,7 +2497,7 @@
     },
     "5064": {
       "slug": "goodbye-deponia",
-      "fetchedAt": "2026-08-26T13:12:08.236Z",
+      "fetchedAt": "2026-10-26T21:54:49.606Z",
       "data": {
         "nsuid": "70010000015100",
         "sku": "7100015100",
@@ -2536,7 +2538,7 @@
     },
     "5503": {
       "slug": "batman-arkham-knight",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:54:51.590Z",
       "data": {
         "nsuid": "70010000045916",
         "sku": "7100045916",
@@ -2568,16 +2570,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 24.99,
         "regularPrice": 24.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "5508": {
       "slug": "the-banner-saga",
-      "fetchedAt": "2026-08-26T13:12:10.859Z",
+      "fetchedAt": "2026-10-26T21:54:52.240Z",
       "data": {
         "nsuid": "70010000004066",
         "sku": "7100004066",
@@ -2618,7 +2620,7 @@
     },
     "5541": {
       "slug": "sherlock-holmes-crimes-punishments",
-      "fetchedAt": "2026-08-26T13:12:14.586Z",
+      "fetchedAt": "2026-10-26T21:54:53.058Z",
       "data": {
         "nsuid": "70010000040742",
         "sku": "7100040742",
@@ -2661,17 +2663,17 @@
       "slug": "smite",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/smite-switch/",
-      "lastErrorAt": "2026-08-26T13:49:43.842Z"
+      "lastErrorAt": "2026-10-26T21:54:54.595Z"
     },
     "5772": {
       "slug": "steamworld-dig",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/steamworld-dig-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:44.412Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:54:56.012Z"
     },
     "5973": {
       "slug": "broforce",
-      "fetchedAt": "2026-08-26T13:12:19.247Z",
+      "fetchedAt": "2026-10-26T21:54:56.513Z",
       "data": {
         "nsuid": "70010000011556",
         "sku": "7100011556",
@@ -2712,7 +2714,7 @@
     },
     "6005": {
       "slug": "kingdom-rush",
-      "fetchedAt": "2026-08-26T13:12:21.395Z",
+      "fetchedAt": "2026-10-26T21:54:57.268Z",
       "data": {
         "nsuid": "70010000031458",
         "sku": "7100031458",
@@ -2753,7 +2755,7 @@
     },
     "6044": {
       "slug": "invisible-inc",
-      "fetchedAt": "2026-08-26T13:12:24.156Z",
+      "fetchedAt": "2026-10-26T21:55:00.680Z",
       "data": {
         "nsuid": "70010000014343",
         "sku": "7100014343",
@@ -2794,7 +2796,7 @@
     },
     "6164": {
       "slug": "the-testament-of-sherlock-holmes",
-      "fetchedAt": "2026-08-26T13:12:26.608Z",
+      "fetchedAt": "2026-10-26T21:55:02.854Z",
       "data": {
         "nsuid": "70010000054422",
         "sku": "7100054422",
@@ -2835,7 +2837,7 @@
     },
     "6185": {
       "slug": "syberia-ii",
-      "fetchedAt": "2026-08-26T13:12:28.161Z",
+      "fetchedAt": "2026-10-26T21:55:04.789Z",
       "data": {
         "nsuid": "70010000000653",
         "sku": "7100000653",
@@ -2876,7 +2878,7 @@
     },
     "6328": {
       "slug": "legend-of-grimrock",
-      "fetchedAt": "2026-08-26T13:12:30.263Z",
+      "fetchedAt": "2026-10-26T21:55:06.867Z",
       "data": {
         "nsuid": "70010000067874",
         "sku": "7100067874",
@@ -2917,7 +2919,7 @@
     },
     "6415": {
       "slug": "grid-autosport",
-      "fetchedAt": "2026-08-26T13:12:32.361Z",
+      "fetchedAt": "2026-10-26T21:55:07.447Z",
       "data": {
         "nsuid": "70010000008783",
         "sku": "7100008783",
@@ -2949,16 +2951,21 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 14.99,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
+    "6505": {
+      "slug": "mario-vs-donkey-kong",
+      "fetchedAt": "2026-10-26T21:55:08.019Z",
+      "data": null
+    },
     "6705": {
       "slug": "a-hat-in-time",
-      "fetchedAt": "2026-08-26T13:12:35.325Z",
+      "fetchedAt": "2026-10-26T21:55:08.998Z",
       "data": {
         "nsuid": "70010000003813",
         "sku": "7100003813",
@@ -3000,7 +3007,7 @@
     },
     "6707": {
       "slug": "tales-from-the-borderlands",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:11.919Z",
       "data": {
         "nsuid": "70010000030250",
         "sku": "7100030250",
@@ -3043,11 +3050,11 @@
       "slug": "puyo-puyo-tetris",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/puyo-puyo-tetris-switch/",
-      "lastErrorAt": "2026-08-26T13:49:46.196Z"
+      "lastErrorAt": "2026-10-26T21:55:13.003Z"
     },
     "7046": {
       "slug": "factorio",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:13.451Z",
       "data": {
         "nsuid": "70010000056818",
         "sku": "7100056818",
@@ -3088,7 +3095,7 @@
     },
     "7098": {
       "slug": "naruto-shippuden-ultimate-ninja-storm-2",
-      "fetchedAt": "2026-08-26T13:12:39.174Z",
+      "fetchedAt": "2026-10-26T21:55:16.022Z",
       "data": {
         "nsuid": "70010000003307",
         "sku": "7100003307",
@@ -3129,7 +3136,7 @@
     },
     "7205": {
       "slug": "superhot",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:16.331Z",
       "data": {
         "nsuid": "70010000020726",
         "sku": "7100020726",
@@ -3170,7 +3177,7 @@
     },
     "7327": {
       "slug": "valiant-hearts-the-great-war",
-      "fetchedAt": "2026-08-26T13:12:41.945Z",
+      "fetchedAt": "2026-10-26T21:55:17.270Z",
       "data": {
         "nsuid": "70010000010488",
         "sku": "7100010488",
@@ -3211,7 +3218,7 @@
     },
     "7342": {
       "slug": "inside",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:18.080Z",
       "data": {
         "nsuid": "70010000005804",
         "sku": "7100005804",
@@ -3243,16 +3250,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 2.49,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "7346": {
       "slug": "the-legend-of-zelda-breath-of-the-wild",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:19.258Z",
       "data": {
         "nsuid": "70010000000025",
         "sku": "7100000025",
@@ -3295,7 +3302,7 @@
     },
     "7352": {
       "slug": "abzu",
-      "fetchedAt": "2026-08-26T13:12:44.412Z",
+      "fetchedAt": "2026-10-26T21:55:20.215Z",
       "data": {
         "nsuid": "70010000012836",
         "sku": "7100012836",
@@ -3336,7 +3343,7 @@
     },
     "7570": {
       "slug": "assassins-creed-rogue",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:32.967Z",
       "data": {
         "nsuid": "70050000017105",
         "sku": "7500017105",
@@ -3370,7 +3377,7 @@
     },
     "7578": {
       "slug": "i-have-no-mouth-and-i-must-scream",
-      "fetchedAt": "2026-08-26T13:12:46.509Z",
+      "fetchedAt": "2026-10-26T21:55:35.736Z",
       "data": {
         "nsuid": "70010000090864",
         "sku": "7100090864",
@@ -3402,16 +3409,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 3.99,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "7603": {
       "slug": "hellblade-senuas-sacrifice",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:55:38.738Z",
       "data": {
         "nsuid": "70010000016062",
         "sku": "7100016062",
@@ -3452,7 +3459,7 @@
     },
     "7605": {
       "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat",
-      "fetchedAt": "2026-08-26T13:12:48.603Z",
+      "fetchedAt": "2026-10-26T21:55:40.758Z",
       "data": {
         "nsuid": "70010000077880",
         "sku": "7100077880",
@@ -3484,16 +3491,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 13.39,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "7621": {
       "slug": "rime",
-      "fetchedAt": "2026-08-26T13:12:50.449Z",
+      "fetchedAt": "2026-10-26T21:55:43.440Z",
       "data": {
         "nsuid": "70010000001784",
         "sku": "7100001784",
@@ -3534,7 +3541,7 @@
     },
     "7709": {
       "slug": "salt-and-sanctuary",
-      "fetchedAt": "2026-08-26T13:12:52.832Z",
+      "fetchedAt": "2026-10-26T21:55:43.881Z",
       "data": {
         "nsuid": "70010000005003",
         "sku": "7100005003",
@@ -3575,7 +3582,7 @@
     },
     "7725": {
       "slug": "resident-evil-revelations-2",
-      "fetchedAt": "2026-08-26T13:12:54.408Z",
+      "fetchedAt": "2026-10-26T21:55:45.961Z",
       "data": {
         "nsuid": "70010000001515",
         "sku": "7100001515",
@@ -3607,16 +3614,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 7.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "7767": {
       "slug": "mini-metro",
-      "fetchedAt": "2026-08-26T13:12:56.485Z",
+      "fetchedAt": "2026-10-26T21:55:46.247Z",
       "data": {
         "nsuid": "70010000004776",
         "sku": "7100004776",
@@ -3657,7 +3664,7 @@
     },
     "7878": {
       "slug": "unturned--1",
-      "fetchedAt": "2026-08-26T13:12:56.696Z",
+      "fetchedAt": "2026-10-26T21:55:49.179Z",
       "data": {
         "nsuid": "70010000042407",
         "sku": "7100042407",
@@ -3698,7 +3705,7 @@
     },
     "7886": {
       "slug": "crypt-of-the-necrodancer",
-      "fetchedAt": "2026-08-26T13:12:59.625Z",
+      "fetchedAt": "2026-10-26T21:55:51.087Z",
       "data": {
         "nsuid": "70010000003787",
         "sku": "7100003787",
@@ -3740,7 +3747,7 @@
     },
     "7965": {
       "slug": "kholat",
-      "fetchedAt": "2026-08-26T13:13:01.714Z",
+      "fetchedAt": "2026-10-26T21:55:53.614Z",
       "data": {
         "nsuid": "70010000028900",
         "sku": "7100028900",
@@ -3772,16 +3779,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 3.74,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "8255": {
       "slug": "trine-3-the-artifacts-of-power",
-      "fetchedAt": "2026-08-26T13:13:04.856Z",
+      "fetchedAt": "2026-10-26T21:55:53.923Z",
       "data": {
         "nsuid": "70010000009112",
         "sku": "7100009112",
@@ -3822,7 +3829,7 @@
     },
     "8288": {
       "slug": "the-banner-saga-2",
-      "fetchedAt": "2026-08-26T13:13:07.705Z",
+      "fetchedAt": "2026-10-26T21:55:56.787Z",
       "data": {
         "nsuid": "70010000004064",
         "sku": "7100004064",
@@ -3863,12 +3870,12 @@
     },
     "8339": {
       "slug": "minecraft-story-mode",
-      "fetchedAt": "2026-08-26T13:13:08.036Z",
+      "fetchedAt": "2026-10-26T21:55:57.024Z",
       "data": null
     },
     "8347": {
       "slug": "the-long-dark",
-      "fetchedAt": "2026-08-26T13:13:10.908Z",
+      "fetchedAt": "2026-10-26T21:55:57.925Z",
       "data": {
         "nsuid": "70010000011602",
         "sku": "7100011602",
@@ -3910,12 +3917,12 @@
     "8430": {
       "slug": "shantae-and-the-pirates-curse",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/shantae-and-the-pirates-curse-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:46.716Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:55:59.579Z"
     },
     "8440": {
       "slug": "the-bridge",
-      "fetchedAt": "2026-08-26T13:13:13.773Z",
+      "fetchedAt": "2026-10-26T21:56:00.737Z",
       "data": {
         "nsuid": "70010000000875",
         "sku": "7100000875",
@@ -3947,16 +3954,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.49,
+        "price": 14.99,
         "regularPrice": 14.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "8652": {
       "slug": "axiom-verge",
-      "fetchedAt": "2026-08-26T13:13:15.518Z",
+      "fetchedAt": "2026-10-26T21:56:01.148Z",
       "data": {
         "nsuid": "70010000000821",
         "sku": "7100000821",
@@ -3997,7 +4004,7 @@
     },
     "8729": {
       "slug": "vampyr",
-      "fetchedAt": "2026-08-26T13:13:17.964Z",
+      "fetchedAt": "2026-10-26T21:56:01.908Z",
       "data": {
         "nsuid": "70010000018205",
         "sku": "7100018205",
@@ -4038,7 +4045,7 @@
     },
     "8751": {
       "slug": "stranded-deep",
-      "fetchedAt": "2026-08-26T13:13:21.635Z",
+      "fetchedAt": "2026-10-26T21:56:04.979Z",
       "data": {
         "nsuid": "70010000042562",
         "sku": "7100042562",
@@ -4079,7 +4086,7 @@
     },
     "8965": {
       "slug": "darkest-dungeon",
-      "fetchedAt": "2026-08-26T13:13:21.894Z",
+      "fetchedAt": "2026-10-26T21:56:05.412Z",
       "data": {
         "nsuid": "70010000004705",
         "sku": "7100004705",
@@ -4121,7 +4128,7 @@
     },
     "9047": {
       "slug": "besiege",
-      "fetchedAt": "2026-08-26T13:13:25.304Z",
+      "fetchedAt": "2026-10-26T21:56:07.772Z",
       "data": {
         "nsuid": "70010000082226",
         "sku": "7100082226",
@@ -4153,16 +4160,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 5.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "9061": {
       "slug": "cuphead",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:09.257Z",
       "data": {
         "nsuid": "70010000016330",
         "sku": "7100016330",
@@ -4204,7 +4211,7 @@
     },
     "9136": {
       "slug": "gorogoa",
-      "fetchedAt": "2026-08-26T13:13:26.898Z",
+      "fetchedAt": "2026-10-26T21:56:09.581Z",
       "data": {
         "nsuid": "70010000001436",
         "sku": "7100001436",
@@ -4245,7 +4252,7 @@
     },
     "9176": {
       "slug": "call-of-cthulhu",
-      "fetchedAt": "2026-08-26T13:13:29.320Z",
+      "fetchedAt": "2026-10-26T21:56:10.392Z",
       "data": {
         "nsuid": "70010000021754",
         "sku": "7100021754",
@@ -4286,7 +4293,7 @@
     },
     "9254": {
       "slug": "subnautica",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:11.488Z",
       "data": {
         "nsuid": "70010000030089",
         "sku": "7100030089",
@@ -4318,16 +4325,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 7.49,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "9527": {
       "slug": "speedrunners",
-      "fetchedAt": "2026-08-26T13:13:32.124Z",
+      "fetchedAt": "2026-10-26T21:56:14.362Z",
       "data": {
         "nsuid": "70010000014367",
         "sku": "7100014367",
@@ -4369,7 +4376,7 @@
     },
     "9643": {
       "slug": "return-of-the-obra-dinn",
-      "fetchedAt": "2026-08-26T13:13:34.741Z",
+      "fetchedAt": "2026-10-26T21:56:17.163Z",
       "data": {
         "nsuid": "70010000020339",
         "sku": "7100020339",
@@ -4401,16 +4408,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 13.39,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "9683": {
       "slug": "dungeon-of-the-endless",
-      "fetchedAt": "2026-08-26T13:13:37.172Z",
+      "fetchedAt": "2026-10-26T21:56:17.607Z",
       "data": {
         "nsuid": "70010000022237",
         "sku": "7100022237",
@@ -4451,7 +4458,7 @@
     },
     "9727": {
       "slug": "soma",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:18.088Z",
       "data": {
         "nsuid": "70010000098552",
         "sku": "7100098552",
@@ -4492,7 +4499,7 @@
     },
     "9728": {
       "slug": "trove",
-      "fetchedAt": "2026-08-26T13:13:39.109Z",
+      "fetchedAt": "2026-10-26T21:56:19.318Z",
       "data": {
         "nsuid": "70010000013091",
         "sku": "7100013091",
@@ -4533,7 +4540,7 @@
     },
     "9730": {
       "slug": "firewatch",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:20.296Z",
       "data": {
         "nsuid": "70010000007926",
         "sku": "7100007926",
@@ -4575,12 +4582,12 @@
     "9918": {
       "slug": "lego-jurassic-world",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/lego-jurassic-world-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:47.765Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:56:21.678Z"
     },
     "10031": {
       "slug": "yooka-laylee",
-      "fetchedAt": "2026-08-26T13:13:42.085Z",
+      "fetchedAt": "2026-10-26T21:56:21.910Z",
       "data": {
         "nsuid": "70010000003267",
         "sku": "7100003267",
@@ -4621,7 +4628,7 @@
     },
     "10148": {
       "slug": "night-in-the-woods",
-      "fetchedAt": "2026-08-26T13:13:44.394Z",
+      "fetchedAt": "2026-10-26T21:56:23.394Z",
       "data": {
         "nsuid": "70010000001982",
         "sku": "7100001982",
@@ -4653,16 +4660,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 9.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "10232": {
       "slug": "thimbleweed-park",
-      "fetchedAt": "2026-08-26T13:13:46.283Z",
+      "fetchedAt": "2026-10-26T21:56:25.365Z",
       "data": {
         "nsuid": "70010000000494",
         "sku": "7100000494",
@@ -4703,7 +4710,7 @@
     },
     "10233": {
       "slug": "brawlhalla",
-      "fetchedAt": "2026-08-26T13:13:48.630Z",
+      "fetchedAt": "2026-10-26T21:56:25.685Z",
       "data": {
         "nsuid": "70010000012098",
         "sku": "7100012098",
@@ -4720,11 +4727,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 2386558976
+            "bytes": 2452619264
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 2386558976
+            "bytes": 2452619264
           }
         ],
         "editions": [
@@ -4744,7 +4751,7 @@
     },
     "10239": {
       "slug": "ark-survival-evolved",
-      "fetchedAt": "2026-08-26T13:13:49.117Z",
+      "fetchedAt": "2026-10-26T21:56:26.498Z",
       "data": {
         "nsuid": "70010000010940",
         "sku": "7100010940",
@@ -4777,16 +4784,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 19.99,
         "regularPrice": 19.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "10760": {
       "slug": "bloodstained-ritual-of-the-night",
-      "fetchedAt": "2026-08-26T13:13:52.573Z",
+      "fetchedAt": "2026-10-26T21:56:29.358Z",
       "data": {
         "nsuid": "70010000019475",
         "sku": "7100019475",
@@ -4827,7 +4834,7 @@
     },
     "10910": {
       "slug": "lego-worlds",
-      "fetchedAt": "2026-08-26T13:13:54.895Z",
+      "fetchedAt": "2026-10-26T21:56:29.666Z",
       "data": {
         "nsuid": "70010000001075",
         "sku": "7100001075",
@@ -4859,16 +4866,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 2.99,
+        "price": 29.99,
         "regularPrice": 29.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "10960": {
       "slug": "thumper",
-      "fetchedAt": "2026-08-26T13:13:56.757Z",
+      "fetchedAt": "2026-10-26T21:56:31.820Z",
       "data": {
         "nsuid": "70010000000317",
         "sku": "7100000317",
@@ -4909,7 +4916,7 @@
     },
     "11078": {
       "slug": "shantae-half-genie-hero",
-      "fetchedAt": "2026-08-26T13:13:58.574Z",
+      "fetchedAt": "2026-10-26T21:56:32.293Z",
       "data": {
         "nsuid": "70010000000723",
         "sku": "7100000723",
@@ -4950,7 +4957,7 @@
     },
     "11119": {
       "slug": "fallout-shelter",
-      "fetchedAt": "2026-08-26T13:14:00.269Z",
+      "fetchedAt": "2026-10-26T21:56:32.752Z",
       "data": {
         "nsuid": "70010000008661",
         "sku": "7100008661",
@@ -4991,7 +4998,7 @@
     },
     "11161": {
       "slug": "south-park-the-fractured-but-whole",
-      "fetchedAt": "2026-08-26T13:14:03.285Z",
+      "fetchedAt": "2026-10-26T21:56:34.084Z",
       "data": {
         "nsuid": "70010000001331",
         "sku": "7100001331",
@@ -5033,7 +5040,7 @@
     },
     "11177": {
       "slug": "gang-beasts",
-      "fetchedAt": "2026-08-26T13:14:03.783Z",
+      "fetchedAt": "2026-10-26T21:56:36.291Z",
       "data": {
         "nsuid": "70010000033942",
         "sku": "7100033942",
@@ -5044,8 +5051,8 @@
           "Nintendo Switch"
         ],
         "compatibility": {
-          "status": "NOT_PLAYABLE",
-          "caption": "Unsupported – Problems with game progression have been found."
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
         },
         "romSizes": [
           {
@@ -5074,7 +5081,7 @@
     },
     "11182": {
       "slug": "enter-the-gungeon",
-      "fetchedAt": "2026-08-26T13:14:07.083Z",
+      "fetchedAt": "2026-10-26T21:56:36.577Z",
       "data": {
         "nsuid": "70010000002862",
         "sku": "7100002862",
@@ -5115,7 +5122,7 @@
     },
     "11198": {
       "slug": "rocket-league",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:37.337Z",
       "data": {
         "nsuid": "70010000000457",
         "sku": "7100000457",
@@ -5132,11 +5139,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 26761756672
+            "bytes": 27361542144
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 26761756672
+            "bytes": 27361542144
           }
         ],
         "editions": [
@@ -5156,7 +5163,7 @@
     },
     "11233": {
       "slug": "what-remains-of-edith-finch",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:38.486Z",
       "data": {
         "nsuid": "70010000019333",
         "sku": "7100019333",
@@ -5197,7 +5204,7 @@
     },
     "11247": {
       "slug": "duck-game",
-      "fetchedAt": "2026-08-26T13:14:09.344Z",
+      "fetchedAt": "2026-10-26T21:56:39.437Z",
       "data": {
         "nsuid": "70010000013840",
         "sku": "7100013840",
@@ -5238,7 +5245,7 @@
     },
     "11276": {
       "slug": "the-room-two",
-      "fetchedAt": "2026-08-26T13:14:11.574Z",
+      "fetchedAt": "2026-10-26T21:56:40.276Z",
       "data": {
         "nsuid": "70010000050849",
         "sku": "7100050849",
@@ -5269,16 +5276,16 @@
           "TV mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 2.49,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "11423": {
       "slug": "this-is-the-police",
-      "fetchedAt": "2026-08-26T13:14:13.537Z",
+      "fetchedAt": "2026-10-26T21:56:41.162Z",
       "data": {
         "nsuid": "70010000001162",
         "sku": "7100001162",
@@ -5321,11 +5328,11 @@
       "slug": "paladins",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/paladins-switch/",
-      "lastErrorAt": "2026-08-26T13:49:49.037Z"
+      "lastErrorAt": "2026-10-26T21:56:42.796Z"
     },
     "11560": {
       "slug": "aer-memories-of-old",
-      "fetchedAt": "2026-08-26T13:14:16.981Z",
+      "fetchedAt": "2026-10-26T21:56:44.826Z",
       "data": {
         "nsuid": "70010000019050",
         "sku": "7100019050",
@@ -5366,7 +5373,7 @@
     },
     "11563": {
       "slug": "sherlock-holmes-the-devils-daughter",
-      "fetchedAt": "2026-08-26T13:14:19.126Z",
+      "fetchedAt": "2026-10-26T21:56:47.824Z",
       "data": {
         "nsuid": "70010000040741",
         "sku": "7100040741",
@@ -5407,7 +5414,7 @@
     },
     "11625": {
       "slug": "the-room--1",
-      "fetchedAt": "2026-08-26T13:14:20.622Z",
+      "fetchedAt": "2026-10-26T21:56:47.851Z",
       "data": {
         "nsuid": "70010000013404",
         "sku": "7100013404",
@@ -5438,16 +5445,16 @@
           "TV mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 2.49,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "11709": {
       "slug": "60-seconds",
-      "fetchedAt": "2026-08-26T13:14:22.562Z",
+      "fetchedAt": "2026-10-26T21:56:49.049Z",
       "data": {
         "nsuid": "70010000003896",
         "sku": "7100003896",
@@ -5488,7 +5495,7 @@
     },
     "11737": {
       "slug": "outer-wilds",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:51.580Z",
       "data": {
         "nsuid": "70010000038712",
         "sku": "7100038712",
@@ -5530,7 +5537,7 @@
     },
     "11821": {
       "slug": "fran-bow",
-      "fetchedAt": "2026-08-26T13:14:25.076Z",
+      "fetchedAt": "2026-10-26T21:56:51.877Z",
       "data": {
         "nsuid": "70010000062717",
         "sku": "7100062717",
@@ -5571,7 +5578,7 @@
     },
     "12070": {
       "slug": "party-hard",
-      "fetchedAt": "2026-08-26T13:14:27.701Z",
+      "fetchedAt": "2026-10-26T21:56:52.902Z",
       "data": {
         "nsuid": "70010000007272",
         "sku": "7100007272",
@@ -5613,7 +5620,7 @@
     },
     "12511": {
       "slug": "battle-chasers-nightwar",
-      "fetchedAt": "2026-08-26T13:14:30.057Z",
+      "fetchedAt": "2026-10-26T21:56:55.497Z",
       "data": {
         "nsuid": "70010000001518",
         "sku": "7100001518",
@@ -5645,16 +5652,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 7.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "12517": {
       "slug": "undertale",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:56:57.301Z",
       "data": {
         "nsuid": "70010000009921",
         "sku": "7100009921",
@@ -5686,16 +5693,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 9.89,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "12520": {
       "slug": "lovers-in-a-dangerous-spacetime",
-      "fetchedAt": "2026-08-26T13:14:31.993Z",
+      "fetchedAt": "2026-10-26T21:56:57.724Z",
       "data": {
         "nsuid": "70010000001376",
         "sku": "7100001376",
@@ -5736,7 +5743,7 @@
     },
     "12597": {
       "slug": "owlboy",
-      "fetchedAt": "2026-08-26T13:14:34.268Z",
+      "fetchedAt": "2026-10-26T21:56:58.625Z",
       "data": {
         "nsuid": "70010000001284",
         "sku": "7100001284",
@@ -5768,16 +5775,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 6.24,
+        "price": 24.99,
         "regularPrice": 24.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "13163": {
       "slug": "syberia-3",
-      "fetchedAt": "2026-08-26T13:14:36.342Z",
+      "fetchedAt": "2026-10-26T21:57:01.858Z",
       "data": {
         "nsuid": "70010000001222",
         "sku": "7100001222",
@@ -5818,7 +5825,7 @@
     },
     "13205": {
       "slug": "astroneer",
-      "fetchedAt": "2026-08-26T13:14:38.030Z",
+      "fetchedAt": "2026-10-26T21:57:01.894Z",
       "data": {
         "nsuid": "70010000037336",
         "sku": "7100037336",
@@ -5860,7 +5867,7 @@
     },
     "13226": {
       "slug": "keep-talking-and-nobody-explodes",
-      "fetchedAt": "2026-08-26T13:14:38.713Z",
+      "fetchedAt": "2026-10-26T21:57:04.836Z",
       "data": {
         "nsuid": "70010000011883",
         "sku": "7100011883",
@@ -5892,16 +5899,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 7.49,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "13677": {
       "slug": "downwell",
-      "fetchedAt": "2026-08-26T13:14:41.325Z",
+      "fetchedAt": "2026-10-26T21:57:05.177Z",
       "data": {
         "nsuid": "70010000014738",
         "sku": "7100014738",
@@ -5942,7 +5949,7 @@
     },
     "14390": {
       "slug": "outlast-ii",
-      "fetchedAt": "2026-08-26T13:14:43.695Z",
+      "fetchedAt": "2026-10-26T21:57:07.849Z",
       "data": {
         "nsuid": "70010000003852",
         "sku": "7100003852",
@@ -5974,16 +5981,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 4.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "14394": {
       "slug": "battle-brothers",
-      "fetchedAt": "2026-08-26T13:14:47.100Z",
+      "fetchedAt": "2026-10-26T21:57:10.298Z",
       "data": {
         "nsuid": "70010000027255",
         "sku": "7100027255",
@@ -6000,11 +6007,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 3187671040
+            "bytes": 3241148416
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 3187671040
+            "bytes": 3241148416
           }
         ],
         "editions": [
@@ -6016,16 +6023,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 8.99,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "14404": {
       "slug": "kona",
-      "fetchedAt": "2026-08-26T13:14:49.419Z",
+      "fetchedAt": "2026-10-26T21:57:10.617Z",
       "data": {
         "nsuid": "70010000005322",
         "sku": "7100005322",
@@ -6057,16 +6064,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 2.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "14587": {
       "slug": "oxenfree",
-      "fetchedAt": "2026-08-26T13:14:51.286Z",
+      "fetchedAt": "2026-10-26T21:57:11.437Z",
       "data": {
         "nsuid": "70010000001613",
         "sku": "7100001613",
@@ -6107,7 +6114,7 @@
     },
     "14593": {
       "slug": "hollow-knight",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:57:12.132Z",
       "data": {
         "nsuid": "70010000003208",
         "sku": "7100003208",
@@ -6148,7 +6155,7 @@
     },
     "14746": {
       "slug": "batman-the-telltale-series",
-      "fetchedAt": "2026-08-26T13:14:53.395Z",
+      "fetchedAt": "2026-10-26T21:57:13.416Z",
       "data": {
         "nsuid": "70010000001579",
         "sku": "7100001579",
@@ -6181,16 +6188,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "14761": {
       "slug": "rain-world",
-      "fetchedAt": "2026-08-26T13:14:56.060Z",
+      "fetchedAt": "2026-10-26T21:57:14.395Z",
       "data": {
         "nsuid": "70010000013493",
         "sku": "7100013493",
@@ -6223,9 +6230,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 11.24,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -6233,12 +6240,12 @@
     "15167": {
       "slug": "steamworld-heist",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/steamworld-heist-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:49.437Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:57:15.736Z"
     },
     "15465": {
       "slug": "va-11-hall-a-cyberpunk-bartender-action",
-      "fetchedAt": "2026-08-26T13:14:59.730Z",
+      "fetchedAt": "2026-10-26T21:57:16.232Z",
       "data": {
         "nsuid": "70010000016732",
         "sku": "7100016732",
@@ -6279,7 +6286,7 @@
     },
     "15563": {
       "slug": "clicker-heroes",
-      "fetchedAt": "2026-08-26T13:15:01.262Z",
+      "fetchedAt": "2026-10-26T21:57:18.410Z",
       "data": {
         "nsuid": "70010000090739",
         "sku": "7100090739",
@@ -6320,7 +6327,7 @@
     },
     "15698": {
       "slug": "metroid-dread",
-      "fetchedAt": "2026-08-26T13:15:04.076Z",
+      "fetchedAt": "2026-10-26T21:57:18.652Z",
       "data": {
         "nsuid": "70010000042924",
         "sku": "7100042924",
@@ -6362,12 +6369,12 @@
     "15931": {
       "slug": "punch-club",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/punch-club-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:50.383Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:57:20.573Z"
     },
     "16136": {
       "slug": "the-final-station",
-      "fetchedAt": "2026-08-26T13:15:07.541Z",
+      "fetchedAt": "2026-10-26T21:57:23.863Z",
       "data": {
         "nsuid": "70010000002984",
         "sku": "7100002984",
@@ -6408,7 +6415,7 @@
     },
     "16612": {
       "slug": "twelve-minutes",
-      "fetchedAt": "2026-08-26T13:15:10.526Z",
+      "fetchedAt": "2026-10-26T21:57:24.106Z",
       "data": {
         "nsuid": "70010000038402",
         "sku": "7100038402",
@@ -6449,7 +6456,7 @@
     },
     "16992": {
       "slug": "human-fall-flat",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:57:25.186Z",
       "data": {
         "nsuid": "70010000001204",
         "sku": "7100001204",
@@ -6466,11 +6473,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 2363490304
+            "bytes": 2370830336
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 3943694336
+            "bytes": 3964665856
           }
         ],
         "editions": [
@@ -6481,16 +6488,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 5.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "17000": {
       "slug": "stardew-valley",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:57:25.910Z",
       "data": {
         "nsuid": "70010000001801",
         "sku": "7100001801",
@@ -6531,7 +6538,7 @@
     },
     "17001": {
       "slug": "ashen--1",
-      "fetchedAt": "2026-08-26T13:15:12.883Z",
+      "fetchedAt": "2026-10-26T21:57:26.920Z",
       "data": {
         "nsuid": "70010000019940",
         "sku": "7100019940",
@@ -6572,7 +6579,7 @@
     },
     "17026": {
       "slug": "furi",
-      "fetchedAt": "2026-08-26T13:15:15.405Z",
+      "fetchedAt": "2026-10-26T21:57:29.771Z",
       "data": {
         "nsuid": "70010000004582",
         "sku": "7100004582",
@@ -6605,16 +6612,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 5.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "17032": {
       "slug": "darkwood",
-      "fetchedAt": "2026-08-26T13:15:17.862Z",
+      "fetchedAt": "2026-10-26T21:57:32.999Z",
       "data": {
         "nsuid": "70010000011740",
         "sku": "7100011740",
@@ -6655,7 +6662,7 @@
     },
     "18158": {
       "slug": "ultimate-chicken-horse",
-      "fetchedAt": "2026-08-26T13:15:18.553Z",
+      "fetchedAt": "2026-10-26T21:57:33.509Z",
       "data": {
         "nsuid": "70010000002401",
         "sku": "7100002401",
@@ -6687,16 +6694,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 6.74,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "18167": {
       "slug": "hello-neighbor",
-      "fetchedAt": "2026-08-26T13:15:20.652Z",
+      "fetchedAt": "2026-10-26T21:57:35.913Z",
       "data": {
         "nsuid": "70010000010714",
         "sku": "7100010714",
@@ -6737,7 +6744,7 @@
     },
     "18182": {
       "slug": "momodora-reverie-under-the-moonlight",
-      "fetchedAt": "2026-08-26T13:15:23.269Z",
+      "fetchedAt": "2026-10-26T21:57:38.299Z",
       "data": {
         "nsuid": "70010000016131",
         "sku": "7100016131",
@@ -6769,16 +6776,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "18225": {
       "slug": "the-sinking-city",
-      "fetchedAt": "2026-08-26T13:15:26.265Z",
+      "fetchedAt": "2026-10-26T21:57:40.499Z",
       "data": {
         "nsuid": "70010000019162",
         "sku": "7100019162",
@@ -6822,11 +6829,11 @@
       "slug": "the-turing-test",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/the-turing-test-switch/",
-      "lastErrorAt": "2026-08-26T13:49:52.044Z"
+      "lastErrorAt": "2026-10-26T21:57:41.570Z"
     },
     "18366": {
       "slug": "sniper-elite-4",
-      "fetchedAt": "2026-08-26T13:15:30.981Z",
+      "fetchedAt": "2026-10-26T21:57:44.205Z",
       "data": {
         "nsuid": "70010000027850",
         "sku": "7100027850",
@@ -6859,16 +6866,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 9.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "18484": {
       "slug": "clustertruck",
-      "fetchedAt": "2026-08-26T13:15:33.229Z",
+      "fetchedAt": "2026-10-26T21:57:46.152Z",
       "data": {
         "nsuid": "70010000008526",
         "sku": "7100008526",
@@ -6909,7 +6916,7 @@
     },
     "18857": {
       "slug": "ruiner",
-      "fetchedAt": "2026-08-26T13:15:35.856Z",
+      "fetchedAt": "2026-10-26T21:57:48.323Z",
       "data": {
         "nsuid": "70010000022558",
         "sku": "7100022558",
@@ -6950,7 +6957,7 @@
     },
     "18861": {
       "slug": "i-am-setsuna",
-      "fetchedAt": "2026-08-26T13:15:37.601Z",
+      "fetchedAt": "2026-10-26T21:57:50.121Z",
       "data": {
         "nsuid": "70010000000091",
         "sku": "7100000091",
@@ -6991,7 +6998,7 @@
     },
     "18866": {
       "slug": "dead-by-daylight",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:57:50.349Z",
       "data": {
         "nsuid": "70010000016124",
         "sku": "7100016124",
@@ -7008,11 +7015,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 25395462144
+            "bytes": 27194818560
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 25395462144
+            "bytes": 27194818560
           }
         ],
         "editions": [
@@ -7033,7 +7040,7 @@
     },
     "18918": {
       "slug": "northgard",
-      "fetchedAt": "2026-08-26T13:15:39.816Z",
+      "fetchedAt": "2026-10-26T21:57:52.715Z",
       "data": {
         "nsuid": "70010000018126",
         "sku": "7100018126",
@@ -7074,7 +7081,7 @@
     },
     "18927": {
       "slug": "hue",
-      "fetchedAt": "2026-08-26T13:15:41.706Z",
+      "fetchedAt": "2026-10-26T21:57:52.876Z",
       "data": {
         "nsuid": "70010000015192",
         "sku": "7100015192",
@@ -7115,7 +7122,7 @@
     },
     "19000": {
       "slug": "the-walking-dead-a-new-frontier",
-      "fetchedAt": "2026-08-26T13:15:44.401Z",
+      "fetchedAt": "2026-10-26T21:57:56.591Z",
       "data": {
         "nsuid": "70010000011822",
         "sku": "7100011822",
@@ -7146,16 +7153,16 @@
           "TV mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 4.49,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "19082": {
       "slug": "the-jackbox-party-pack-3",
-      "fetchedAt": "2026-08-26T13:15:45.105Z",
+      "fetchedAt": "2026-10-26T21:57:57.027Z",
       "data": {
         "nsuid": "70010000000166",
         "sku": "7100000166",
@@ -7187,16 +7194,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 13.74,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "19085": {
       "slug": "shadow-tactics-blades-of-the-shogun",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:57:57.711Z",
       "data": {
         "nsuid": "70010000115483",
         "sku": "7100115483",
@@ -7221,7 +7228,7 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 25.99,
+        "price": 23.99,
         "regularPrice": 39.99,
         "discounted": true,
         "currency": "USD",
@@ -7230,7 +7237,7 @@
     },
     "19130": {
       "slug": "sid-meiers-civilization-vi",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:57:58.680Z",
       "data": {
         "nsuid": "70010000013704",
         "sku": "7100013704",
@@ -7272,7 +7279,7 @@
     },
     "19220": {
       "slug": "snake-pass",
-      "fetchedAt": "2026-08-26T13:15:46.862Z",
+      "fetchedAt": "2026-10-26T21:58:00.950Z",
       "data": {
         "nsuid": "70010000000129",
         "sku": "7100000129",
@@ -7304,16 +7311,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 3.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "19241": {
       "slug": "unravel-two",
-      "fetchedAt": "2026-08-26T13:15:47.388Z",
+      "fetchedAt": "2026-10-26T21:58:03.313Z",
       "data": {
         "nsuid": "70010000015568",
         "sku": "7100015568",
@@ -7354,7 +7361,7 @@
     },
     "19300": {
       "slug": "deponia-doomsday",
-      "fetchedAt": "2026-08-26T13:15:50.751Z",
+      "fetchedAt": "2026-10-26T21:58:05.902Z",
       "data": {
         "nsuid": "70010000014968",
         "sku": "7100014968",
@@ -7395,7 +7402,7 @@
     },
     "19449": {
       "slug": "dragon-ball-xenoverse-2",
-      "fetchedAt": "2026-08-26T13:15:53.682Z",
+      "fetchedAt": "2026-10-26T21:58:09.622Z",
       "data": {
         "nsuid": "70010000001144",
         "sku": "7100001144",
@@ -7428,16 +7435,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 4.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "19520": {
       "slug": "far-lone-sails",
-      "fetchedAt": "2026-08-26T13:15:55.358Z",
+      "fetchedAt": "2026-10-26T21:58:11.799Z",
       "data": {
         "nsuid": "70010000020680",
         "sku": "7100020680",
@@ -7469,16 +7476,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 3.74,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "19545": {
       "slug": "observer",
-      "fetchedAt": "2026-08-26T13:15:57.873Z",
+      "fetchedAt": "2026-10-26T21:58:14.412Z",
       "data": {
         "nsuid": "70010000014329",
         "sku": "7100014329",
@@ -7519,7 +7526,7 @@
     },
     "19635": {
       "slug": "naruto-ultimate-ninja-storm",
-      "fetchedAt": "2026-08-26T13:15:58.400Z",
+      "fetchedAt": "2026-10-26T21:58:14.678Z",
       "data": {
         "nsuid": "70010000002732",
         "sku": "7100002732",
@@ -7562,11 +7569,11 @@
       "slug": "worms-wmd",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/worms-wmd-switch/",
-      "lastErrorAt": "2026-08-26T13:49:53.015Z"
+      "lastErrorAt": "2026-10-26T21:58:16.339Z"
     },
     "19935": {
       "slug": "wizard-of-legend",
-      "fetchedAt": "2026-08-26T13:16:02.068Z",
+      "fetchedAt": "2026-10-26T21:58:16.586Z",
       "data": {
         "nsuid": "70010000003089",
         "sku": "7100003089",
@@ -7607,7 +7614,7 @@
     },
     "20150": {
       "slug": "katana-zero",
-      "fetchedAt": "2026-08-26T13:16:04.441Z",
+      "fetchedAt": "2026-10-26T21:58:17.588Z",
       "data": {
         "nsuid": "70010000017136",
         "sku": "7100017136",
@@ -7648,7 +7655,7 @@
     },
     "20326": {
       "slug": "deliver-us-the-moon",
-      "fetchedAt": "2026-08-26T13:16:06.262Z",
+      "fetchedAt": "2026-10-26T21:58:20.642Z",
       "data": {
         "nsuid": "70010000079521",
         "sku": "7100079521",
@@ -7689,7 +7696,7 @@
     },
     "20329": {
       "slug": "figment",
-      "fetchedAt": "2026-08-26T13:16:08.889Z",
+      "fetchedAt": "2026-10-26T21:58:21.172Z",
       "data": {
         "nsuid": "70010000007275",
         "sku": "7100007275",
@@ -7730,7 +7737,7 @@
     },
     "20331": {
       "slug": "for-the-king",
-      "fetchedAt": "2026-08-26T13:16:12.043Z",
+      "fetchedAt": "2026-10-26T21:58:23.961Z",
       "data": {
         "nsuid": "70010000011401",
         "sku": "7100011401",
@@ -7771,7 +7778,7 @@
     },
     "20910": {
       "slug": "world-war-z",
-      "fetchedAt": "2026-08-26T13:16:12.570Z",
+      "fetchedAt": "2026-10-26T21:58:27.051Z",
       "data": {
         "nsuid": "70010000036016",
         "sku": "7100036016",
@@ -7804,16 +7811,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 9.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "20927": {
       "slug": "911-operator",
-      "fetchedAt": "2026-08-26T13:16:15.849Z",
+      "fetchedAt": "2026-10-26T21:58:27.488Z",
       "data": {
         "nsuid": "70010000006784",
         "sku": "7100006784",
@@ -7855,7 +7862,7 @@
     },
     "21062": {
       "slug": "sonic-mania",
-      "fetchedAt": "2026-08-26T13:16:16.057Z",
+      "fetchedAt": "2026-10-26T21:58:27.984Z",
       "data": {
         "nsuid": "70010000000809",
         "sku": "7100000809",
@@ -7887,7 +7894,7 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 7.99,
         "regularPrice": 19.99,
         "discounted": true,
         "currency": "USD",
@@ -7896,7 +7903,7 @@
     },
     "21063": {
       "slug": "sonic-forces",
-      "fetchedAt": "2026-08-26T13:16:17.276Z",
+      "fetchedAt": "2026-10-26T21:58:31.420Z",
       "data": {
         "nsuid": "70010000001539",
         "sku": "7100001539",
@@ -7937,7 +7944,7 @@
     },
     "21604": {
       "slug": "old-mans-journey",
-      "fetchedAt": "2026-08-26T13:16:19.895Z",
+      "fetchedAt": "2026-10-26T21:58:31.741Z",
       "data": {
         "nsuid": "70010000003544",
         "sku": "7100003544",
@@ -7978,7 +7985,7 @@
     },
     "21623": {
       "slug": "tricky-towers",
-      "fetchedAt": "2026-08-26T13:16:22.519Z",
+      "fetchedAt": "2026-10-26T21:58:34.410Z",
       "data": {
         "nsuid": "70010000003656",
         "sku": "7100003656",
@@ -8019,7 +8026,7 @@
     },
     "21642": {
       "slug": "totally-accurate-battle-simulator",
-      "fetchedAt": "2026-08-26T13:16:23.081Z",
+      "fetchedAt": "2026-10-26T21:58:36.637Z",
       "data": {
         "nsuid": "70010000048963",
         "sku": "7100048963",
@@ -8051,16 +8058,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 9.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "22704": {
       "slug": "orwell-keeping-an-eye-on-you--1",
-      "fetchedAt": "2026-08-26T13:16:25.137Z",
+      "fetchedAt": "2026-10-26T21:58:38.759Z",
       "data": {
         "nsuid": "70010000108166",
         "sku": "7100108166",
@@ -8092,7 +8099,7 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 4.49,
         "regularPrice": 9.99,
         "discounted": true,
         "currency": "USD",
@@ -8101,7 +8108,7 @@
     },
     "22739": {
       "slug": "uno--1",
-      "fetchedAt": "2026-08-26T13:16:27.759Z",
+      "fetchedAt": "2026-10-26T21:58:38.864Z",
       "data": {
         "nsuid": "70010000034088",
         "sku": "7100034088",
@@ -8118,11 +8125,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 5230297088
+            "bytes": 5278531584
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 5230297088
+            "bytes": 5278531584
           }
         ],
         "editions": [
@@ -8143,7 +8150,7 @@
     },
     "22783": {
       "slug": "the-sexy-brutale",
-      "fetchedAt": "2026-08-26T13:16:29.599Z",
+      "fetchedAt": "2026-10-26T21:58:41.186Z",
       "data": {
         "nsuid": "70010000000959",
         "sku": "7100000959",
@@ -8175,16 +8182,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 6.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "22917": {
       "slug": "gris",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:58:41.441Z",
       "data": {
         "nsuid": "70010000014006",
         "sku": "7100014006",
@@ -8225,7 +8232,7 @@
     },
     "23733": {
       "slug": "tunic",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:58:42.864Z",
       "data": {
         "nsuid": "70010000045589",
         "sku": "7100045589",
@@ -8257,16 +8264,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 14.99,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "24426": {
       "slug": "forgotton-anne",
-      "fetchedAt": "2026-08-26T13:16:30.055Z",
+      "fetchedAt": "2026-10-26T21:58:43.399Z",
       "data": {
         "nsuid": "70010000012104",
         "sku": "7100012104",
@@ -8307,7 +8314,7 @@
     },
     "24881": {
       "slug": "kingdom-new-lands",
-      "fetchedAt": "2026-08-26T13:16:32.473Z",
+      "fetchedAt": "2026-10-26T21:58:45.466Z",
       "data": {
         "nsuid": "70010000001102",
         "sku": "7100001102",
@@ -8348,7 +8355,7 @@
     },
     "24985": {
       "slug": "golf-with-your-friends",
-      "fetchedAt": "2026-08-26T13:16:34.573Z",
+      "fetchedAt": "2026-10-26T21:58:47.974Z",
       "data": {
         "nsuid": "70010000021379",
         "sku": "7100021379",
@@ -8390,7 +8397,7 @@
     },
     "25260": {
       "slug": "dusk",
-      "fetchedAt": "2026-08-26T13:16:36.952Z",
+      "fetchedAt": "2026-10-26T21:58:51.085Z",
       "data": {
         "nsuid": "70010000045222",
         "sku": "7100045222",
@@ -8422,16 +8429,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 4.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "25580": {
       "slug": "forager",
-      "fetchedAt": "2026-08-26T13:16:39.315Z",
+      "fetchedAt": "2026-10-26T21:58:51.550Z",
       "data": {
         "nsuid": "70010000013004",
         "sku": "7100013004",
@@ -8472,7 +8479,7 @@
     },
     "25653": {
       "slug": "the-escapists-2",
-      "fetchedAt": "2026-08-26T13:16:39.818Z",
+      "fetchedAt": "2026-10-26T21:58:54.765Z",
       "data": {
         "nsuid": "70010000001064",
         "sku": "7100001064",
@@ -8505,16 +8512,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 4.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "25837": {
       "slug": "the-pedestrian",
-      "fetchedAt": "2026-08-26T13:16:42.825Z",
+      "fetchedAt": "2026-10-26T21:58:56.449Z",
       "data": {
         "nsuid": "70010000072938",
         "sku": "7100072938",
@@ -8555,7 +8562,7 @@
     },
     "25901": {
       "slug": "my-friend-pedro",
-      "fetchedAt": "2026-08-26T13:16:45.115Z",
+      "fetchedAt": "2026-10-26T21:58:58.899Z",
       "data": {
         "nsuid": "70010000012124",
         "sku": "7100012124",
@@ -8596,7 +8603,7 @@
     },
     "25935": {
       "slug": "the-artful-escape",
-      "fetchedAt": "2026-08-26T13:16:47.390Z",
+      "fetchedAt": "2026-10-26T21:59:00.856Z",
       "data": {
         "nsuid": "70010000039333",
         "sku": "7100039333",
@@ -8639,11 +8646,11 @@
       "slug": "dauntless",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/dauntless-switch/",
-      "lastErrorAt": "2026-08-26T13:49:54.060Z"
+      "lastErrorAt": "2026-10-26T21:59:02.204Z"
     },
     "26226": {
       "slug": "celeste",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:59:02.711Z",
       "data": {
         "nsuid": "70010000006442",
         "sku": "7100006442",
@@ -8682,9 +8689,44 @@
         "salesStatus": "onsale"
       }
     },
+    "26602": {
+      "slug": "metaphor-refantazio",
+      "fetchedAt": "2026-10-26T21:59:03.327Z",
+      "data": {
+        "nsuid": "70010000105915",
+        "sku": "7100105915",
+        "name": "Metaphor: ReFantazio",
+        "url": "https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 84934656
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "preorder"
+      }
+    },
     "26673": {
       "slug": "omori",
-      "fetchedAt": "2026-08-26T13:16:51.383Z",
+      "fetchedAt": "2026-10-26T21:59:06.232Z",
       "data": {
         "nsuid": "70010000051039",
         "sku": "7100051039",
@@ -8725,7 +8767,7 @@
     },
     "26758": {
       "slug": "super-mario-odyssey",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:59:06.537Z",
       "data": {
         "nsuid": "70010000001130",
         "sku": "7100001130",
@@ -8769,7 +8811,7 @@
     },
     "26759": {
       "slug": "arms",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:59:09.374Z",
       "data": {
         "nsuid": "70010000000392",
         "sku": "7100000392",
@@ -8810,7 +8852,7 @@
     },
     "26761": {
       "slug": "splatoon-2",
-      "fetchedAt": "2026-08-26T13:16:51.887Z",
+      "fetchedAt": "2026-10-26T21:59:09.718Z",
       "data": {
         "nsuid": "70010000000529",
         "sku": "7100000529",
@@ -8852,7 +8894,7 @@
     },
     "26765": {
       "slug": "octopath-traveler",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:59:10.508Z",
       "data": {
         "nsuid": "70010000001618",
         "sku": "7100001618",
@@ -8893,7 +8935,7 @@
     },
     "26766": {
       "slug": "xenoblade-chronicles-2",
-      "fetchedAt": "2026-08-26T13:16:54.273Z",
+      "fetchedAt": "2026-10-26T21:59:11.568Z",
       "data": {
         "nsuid": "70010000000707",
         "sku": "7100000707",
@@ -8936,7 +8978,7 @@
     },
     "26776": {
       "slug": "detention",
-      "fetchedAt": "2026-08-26T13:16:56.718Z",
+      "fetchedAt": "2026-10-26T21:59:15.044Z",
       "data": {
         "nsuid": "70010000004787",
         "sku": "7100004787",
@@ -8977,7 +9019,7 @@
     },
     "26809": {
       "slug": "hidden-folks",
-      "fetchedAt": "2026-08-26T13:16:57.175Z",
+      "fetchedAt": "2026-10-26T21:59:16.831Z",
       "data": {
         "nsuid": "70010000013985",
         "sku": "7100013985",
@@ -9018,7 +9060,7 @@
     },
     "26820": {
       "slug": "blasphemous",
-      "fetchedAt": "2026-08-26T13:16:59.310Z",
+      "fetchedAt": "2026-10-26T21:59:16.859Z",
       "data": {
         "nsuid": "70010000007282",
         "sku": "7100007282",
@@ -9050,16 +9092,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 6.24,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "26845": {
       "slug": "fire-emblem-three-houses",
-      "fetchedAt": "2026-08-26T13:16:59.559Z",
+      "fetchedAt": "2026-10-26T21:59:17.979Z",
       "data": {
         "nsuid": "70010000007606",
         "sku": "7100007606",
@@ -9102,7 +9144,7 @@
     },
     "26855": {
       "slug": "dead-cells",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T21:59:21.009Z",
       "data": {
         "nsuid": "70010000007706",
         "sku": "7100007706",
@@ -9135,16 +9177,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 12.49,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "26940": {
       "slug": "the-banner-saga-3",
-      "fetchedAt": "2026-08-26T13:17:02.888Z",
+      "fetchedAt": "2026-10-26T21:59:23.876Z",
       "data": {
         "nsuid": "70010000004068",
         "sku": "7100004068",
@@ -9185,7 +9227,7 @@
     },
     "26970": {
       "slug": "minit",
-      "fetchedAt": "2026-08-26T13:17:05.117Z",
+      "fetchedAt": "2026-10-26T21:59:25.562Z",
       "data": {
         "nsuid": "70010000009041",
         "sku": "7100009041",
@@ -9226,7 +9268,7 @@
     },
     "27094": {
       "slug": "stories-untold",
-      "fetchedAt": "2026-08-26T13:17:07.765Z",
+      "fetchedAt": "2026-10-26T21:59:28.358Z",
       "data": {
         "nsuid": "70010000023007",
         "sku": "7100023007",
@@ -9258,16 +9300,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 1.99,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "27117": {
       "slug": "into-the-breach",
-      "fetchedAt": "2026-08-26T13:17:09.777Z",
+      "fetchedAt": "2026-10-26T21:59:30.176Z",
       "data": {
         "nsuid": "70010000011496",
         "sku": "7100011496",
@@ -9299,16 +9341,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.24,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "27304": {
       "slug": "ys-viii-lacrimosa-of-dana",
-      "fetchedAt": "2026-08-26T13:17:12.056Z",
+      "fetchedAt": "2026-10-26T21:59:30.214Z",
       "data": {
         "nsuid": "70010000010603",
         "sku": "7100010603",
@@ -9349,7 +9391,7 @@
     },
     "27310": {
       "slug": "we-were-here",
-      "fetchedAt": "2026-08-26T13:17:13.925Z",
+      "fetchedAt": "2026-10-26T21:59:32.243Z",
       "data": {
         "nsuid": "70010000095009",
         "sku": "7100095009",
@@ -9390,7 +9432,7 @@
     },
     "27324": {
       "slug": "the-gardens-between",
-      "fetchedAt": "2026-08-26T13:17:15.991Z",
+      "fetchedAt": "2026-10-26T21:59:32.481Z",
       "data": {
         "nsuid": "70010000003142",
         "sku": "7100003142",
@@ -9431,7 +9473,7 @@
     },
     "27367": {
       "slug": "yokus-island-express",
-      "fetchedAt": "2026-08-26T13:17:18.282Z",
+      "fetchedAt": "2026-10-26T21:59:33.545Z",
       "data": {
         "nsuid": "70010000001576",
         "sku": "7100001576",
@@ -9472,7 +9514,7 @@
     },
     "27384": {
       "slug": "graveyard-keeper",
-      "fetchedAt": "2026-08-26T13:17:18.819Z",
+      "fetchedAt": "2026-10-26T21:59:37.338Z",
       "data": {
         "nsuid": "70010000013397",
         "sku": "7100013397",
@@ -9515,12 +9557,12 @@
     "27433": {
       "slug": "steamworld-dig-2",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/steamworld-dig-2-3ds/",
-      "lastErrorAt": "2026-08-26T13:49:54.581Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T21:59:38.821Z"
     },
     "27436": {
       "slug": "kingdom-two-crowns",
-      "fetchedAt": "2026-08-26T13:17:20.731Z",
+      "fetchedAt": "2026-10-26T21:59:39.079Z",
       "data": {
         "nsuid": "70010000000670",
         "sku": "7100000670",
@@ -9562,7 +9604,7 @@
     },
     "27717": {
       "slug": "late-shift",
-      "fetchedAt": "2026-08-26T13:17:23.153Z",
+      "fetchedAt": "2026-10-26T21:59:42.676Z",
       "data": {
         "nsuid": "70010000003105",
         "sku": "7100003105",
@@ -9594,16 +9636,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 12.99,
+        "price": 4.41,
         "regularPrice": 12.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "27719": {
       "slug": "ape-out",
-      "fetchedAt": "2026-08-26T13:17:25.235Z",
+      "fetchedAt": "2026-10-26T21:59:45.483Z",
       "data": {
         "nsuid": "70010000013892",
         "sku": "7100013892",
@@ -9644,7 +9686,7 @@
     },
     "27744": {
       "slug": "house-flipper",
-      "fetchedAt": "2026-08-26T13:17:27.526Z",
+      "fetchedAt": "2026-10-26T21:59:45.972Z",
       "data": {
         "nsuid": "70010000021182",
         "sku": "7100021182",
@@ -9677,16 +9719,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 3.74,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "27771": {
       "slug": "moonlighter",
-      "fetchedAt": "2026-08-26T13:17:29.683Z",
+      "fetchedAt": "2026-10-26T21:59:46.898Z",
       "data": {
         "nsuid": "70010000011032",
         "sku": "7100011032",
@@ -9728,7 +9770,7 @@
     },
     "27792": {
       "slug": "pc-building-simulator",
-      "fetchedAt": "2026-08-26T13:17:31.722Z",
+      "fetchedAt": "2026-10-26T21:59:47.608Z",
       "data": {
         "nsuid": "70010000021074",
         "sku": "7100021074",
@@ -9769,7 +9811,7 @@
     },
     "27910": {
       "slug": "everything",
-      "fetchedAt": "2026-08-26T13:17:34.347Z",
+      "fetchedAt": "2026-10-26T21:59:50.822Z",
       "data": {
         "nsuid": "70010000012588",
         "sku": "7100012588",
@@ -9810,7 +9852,7 @@
     },
     "28311": {
       "slug": "bendy-and-the-ink-machine",
-      "fetchedAt": "2026-08-26T13:17:36.964Z",
+      "fetchedAt": "2026-10-26T21:59:52.960Z",
       "data": {
         "nsuid": "70010000012899",
         "sku": "7100012899",
@@ -9827,11 +9869,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 1311768576
+            "bytes": 1319108608
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 1311768576
+            "bytes": 1319108608
           }
         ],
         "editions": [
@@ -9842,16 +9884,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 5.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "28337": {
       "slug": "13-sentinels-aegis-rim",
-      "fetchedAt": "2026-08-26T13:17:39.070Z",
+      "fetchedAt": "2026-10-26T21:59:53.267Z",
       "data": {
         "nsuid": "70010000046471",
         "sku": "7100046471",
@@ -9892,7 +9934,7 @@
     },
     "28380": {
       "slug": "darksiders-iii",
-      "fetchedAt": "2026-08-26T13:17:41.878Z",
+      "fetchedAt": "2026-10-26T21:59:56.447Z",
       "data": {
         "nsuid": "70010000038007",
         "sku": "7100038007",
@@ -9924,16 +9966,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 7.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "28414": {
       "slug": "mario-plus-rabbids-kingdom-battle",
-      "fetchedAt": "2026-08-26T13:17:43.875Z",
+      "fetchedAt": "2026-10-26T21:59:57.280Z",
       "data": {
         "nsuid": "70010000000819",
         "sku": "7100000819",
@@ -9975,7 +10017,7 @@
     },
     "28512": {
       "slug": "risk-of-rain-2",
-      "fetchedAt": "2026-08-26T13:17:46.927Z",
+      "fetchedAt": "2026-10-26T21:59:59.511Z",
       "data": {
         "nsuid": "70010000020030",
         "sku": "7100020030",
@@ -10017,7 +10059,7 @@
     },
     "28815": {
       "slug": "lego-marvel-super-heroes-2",
-      "fetchedAt": "2026-08-26T13:17:49.136Z",
+      "fetchedAt": "2026-10-26T22:00:00.099Z",
       "data": {
         "nsuid": "70010000000730",
         "sku": "7100000730",
@@ -10050,9 +10092,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.49,
+        "price": 29.99,
         "regularPrice": 29.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -10061,11 +10103,11 @@
       "slug": "wwe-2k18",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/wwe-2k18-switch/",
-      "lastErrorAt": "2026-08-26T13:49:56.316Z"
+      "lastErrorAt": "2026-10-26T22:00:01.816Z"
     },
     "34705": {
       "slug": "iconoclasts",
-      "fetchedAt": "2026-08-26T13:17:54.944Z",
+      "fetchedAt": "2026-10-26T22:00:04.205Z",
       "data": {
         "nsuid": "70010000006862",
         "sku": "7100006862",
@@ -10097,16 +10139,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 3.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "35282": {
       "slug": "crosscode",
-      "fetchedAt": "2026-08-26T13:17:57.443Z",
+      "fetchedAt": "2026-10-26T22:00:04.283Z",
       "data": {
         "nsuid": "70010000015329",
         "sku": "7100015329",
@@ -10147,7 +10189,7 @@
     },
     "36044": {
       "slug": "finding-paradise",
-      "fetchedAt": "2026-08-26T13:18:00.038Z",
+      "fetchedAt": "2026-10-26T22:00:05.533Z",
       "data": {
         "nsuid": "70010000036335",
         "sku": "7100036335",
@@ -10188,7 +10230,7 @@
     },
     "36198": {
       "slug": "children-of-morta",
-      "fetchedAt": "2026-08-26T13:18:00.558Z",
+      "fetchedAt": "2026-10-26T22:00:08.513Z",
       "data": {
         "nsuid": "70010000013871",
         "sku": "7100013871",
@@ -10230,7 +10272,7 @@
     },
     "36543": {
       "slug": "last-day-of-june",
-      "fetchedAt": "2026-08-26T13:18:03.177Z",
+      "fetchedAt": "2026-10-26T22:00:10.674Z",
       "data": {
         "nsuid": "70010000004110",
         "sku": "7100004110",
@@ -10271,7 +10313,7 @@
     },
     "36597": {
       "slug": "cat-quest",
-      "fetchedAt": "2026-08-26T13:18:05.342Z",
+      "fetchedAt": "2026-10-26T22:00:12.471Z",
       "data": {
         "nsuid": "70010000002542",
         "sku": "7100002542",
@@ -10312,7 +10354,7 @@
     },
     "36616": {
       "slug": "they-are-billions",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:00:13.734Z",
       "data": {
         "nsuid": "70010000098996",
         "sku": "7100098996",
@@ -10346,7 +10388,7 @@
     },
     "36649": {
       "slug": "tropico-6",
-      "fetchedAt": "2026-08-26T13:18:08.126Z",
+      "fetchedAt": "2026-10-26T22:00:14.148Z",
       "data": {
         "nsuid": "70010000028441",
         "sku": "7100028441",
@@ -10388,7 +10430,7 @@
     },
     "36749": {
       "slug": "monument-valley-ii",
-      "fetchedAt": "2026-08-26T13:18:09.597Z",
+      "fetchedAt": "2026-10-26T22:00:16.806Z",
       "data": {
         "nsuid": "70010000089553",
         "sku": "7100089553",
@@ -10431,11 +10473,11 @@
       "slug": "qube-2",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/qube-2-switch/",
-      "lastErrorAt": "2026-08-26T13:49:57.728Z"
+      "lastErrorAt": "2026-10-26T22:00:17.844Z"
     },
     "36911": {
       "slug": "dragon-ball-fighterz",
-      "fetchedAt": "2026-08-26T13:18:13.668Z",
+      "fetchedAt": "2026-10-26T22:00:20.926Z",
       "data": {
         "nsuid": "70010000006225",
         "sku": "7100006225",
@@ -10477,7 +10519,7 @@
     },
     "36952": {
       "slug": "wolfenstein-ii-the-new-colossus",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:00:23.000Z",
       "data": {
         "nsuid": "70010000005065",
         "sku": "7100005065",
@@ -10509,16 +10551,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 5.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "37001": {
       "slug": "ori-and-the-will-of-the-wisps",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:00:23.409Z",
       "data": {
         "nsuid": "70010000034725",
         "sku": "7100034725",
@@ -10550,16 +10592,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 7.49,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "37135": {
       "slug": "yoshis-crafted-world",
-      "fetchedAt": "2026-08-26T13:18:14.197Z",
+      "fetchedAt": "2026-10-26T22:00:24.308Z",
       "data": {
         "nsuid": "70010000000734",
         "sku": "7100000734",
@@ -10601,7 +10643,7 @@
     },
     "37136": {
       "slug": "metroid-prime-4-beyond",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:00:24.924Z",
       "data": {
         "nsuid": "70010000084766",
         "sku": "7100084766",
@@ -10643,7 +10685,7 @@
     },
     "37137": {
       "slug": "kirby-star-allies",
-      "fetchedAt": "2026-08-26T13:18:17.861Z",
+      "fetchedAt": "2026-10-26T22:00:25.969Z",
       "data": {
         "nsuid": "70010000002365",
         "sku": "7100002365",
@@ -10685,7 +10727,7 @@
     },
     "37382": {
       "slug": "pokemon-sword",
-      "fetchedAt": "2026-08-26T13:18:18.385Z",
+      "fetchedAt": "2026-10-26T22:00:26.832Z",
       "data": {
         "nsuid": "70010000004496",
         "sku": "7100004496",
@@ -10728,7 +10770,7 @@
     },
     "40477": {
       "slug": "slay-the-spire",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:00:27.737Z",
       "data": {
         "nsuid": "70010000012389",
         "sku": "7100012389",
@@ -10769,7 +10811,7 @@
     },
     "43165": {
       "slug": "my-time-at-portia",
-      "fetchedAt": "2026-08-26T13:18:21.075Z",
+      "fetchedAt": "2026-10-26T22:00:28.636Z",
       "data": {
         "nsuid": "70010000004651",
         "sku": "7100004651",
@@ -10810,7 +10852,7 @@
     },
     "46800": {
       "slug": "maneater",
-      "fetchedAt": "2026-08-26T13:18:23.988Z",
+      "fetchedAt": "2026-10-26T22:00:31.503Z",
       "data": {
         "nsuid": "70010000015369",
         "sku": "7100015369",
@@ -10842,16 +10884,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 5.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "51525": {
       "slug": "batman-the-enemy-within",
-      "fetchedAt": "2026-08-26T13:18:26.772Z",
+      "fetchedAt": "2026-10-26T22:00:31.733Z",
       "data": {
         "nsuid": "70010000009362",
         "sku": "7100009362",
@@ -10884,16 +10926,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "51528": {
       "slug": "telling-lies",
-      "fetchedAt": "2026-08-26T13:18:29.002Z",
+      "fetchedAt": "2026-10-26T22:00:35.210Z",
       "data": {
         "nsuid": "70010000019233",
         "sku": "7100019233",
@@ -10934,7 +10976,7 @@
     },
     "54486": {
       "slug": "we-were-here-too",
-      "fetchedAt": "2026-08-26T13:18:30.471Z",
+      "fetchedAt": "2026-10-26T22:00:35.233Z",
       "data": {
         "nsuid": "70010000100629",
         "sku": "7100100629",
@@ -10975,7 +11017,7 @@
     },
     "54842": {
       "slug": "biomutant",
-      "fetchedAt": "2026-08-26T13:18:32.347Z",
+      "fetchedAt": "2026-10-26T22:00:36.142Z",
       "data": {
         "nsuid": "70010000055878",
         "sku": "7100055878",
@@ -11016,7 +11058,7 @@
     },
     "55047": {
       "slug": "the-dark-pictures-anthology-man-of-medan",
-      "fetchedAt": "2026-08-26T13:18:34.773Z",
+      "fetchedAt": "2026-10-26T22:00:38.973Z",
       "data": {
         "nsuid": "70010000051065",
         "sku": "7100051065",
@@ -11048,16 +11090,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 9.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "55080": {
       "slug": "donut-county",
-      "fetchedAt": "2026-08-26T13:18:36.863Z",
+      "fetchedAt": "2026-10-26T22:00:39.400Z",
       "data": {
         "nsuid": "70010000014127",
         "sku": "7100014127",
@@ -11098,7 +11140,7 @@
     },
     "55190": {
       "slug": "pikuniku",
-      "fetchedAt": "2026-08-26T13:18:38.832Z",
+      "fetchedAt": "2026-10-26T22:00:40.243Z",
       "data": {
         "nsuid": "70010000002362",
         "sku": "7100002362",
@@ -11139,7 +11181,7 @@
     },
     "55984": {
       "slug": "blacksad-under-the-skin",
-      "fetchedAt": "2026-08-26T13:18:41.464Z",
+      "fetchedAt": "2026-10-26T22:00:43.336Z",
       "data": {
         "nsuid": "70010000021059",
         "sku": "7100021059",
@@ -11150,8 +11192,8 @@
           "Nintendo Switch"
         ],
         "compatibility": {
-          "status": "PLAYABLE",
-          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+          "status": "NOT_PLAYABLE",
+          "caption": "Unsupported – Problems with game progression have been found."
         },
         "romSizes": [
           {
@@ -11178,21 +11220,64 @@
         "salesStatus": "onsale"
       }
     },
+    "59843": {
+      "slug": "pikmin-4",
+      "fetchedAt": "2026-10-26T22:00:43.842Z",
+      "data": {
+        "nsuid": "70010000005308",
+        "sku": "7100005308",
+        "name": "Pikmin™ 4",
+        "url": "https://www.nintendo.com/store/products/pikmin-4-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 12086935552
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12086935552
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US",
+          "Physical Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "59849": {
       "slug": "la-noire",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/la-noire-switch/",
-      "lastErrorAt": "2026-08-26T13:49:58.783Z"
+      "lastErrorAt": "2026-10-26T22:00:46.118Z"
     },
     "62151": {
       "slug": "life-is-strange-2",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/us/store/products/life-is-strange-2-switch/",
-      "lastErrorAt": "2026-08-26T13:49:59.528Z"
+      "lastErrorAt": "2026-10-26T22:00:47.279Z"
     },
     "65503": {
       "slug": "sky-children-of-the-light",
-      "fetchedAt": "2026-08-26T13:18:45.649Z",
+      "fetchedAt": "2026-10-26T22:00:47.511Z",
       "data": {
         "nsuid": "70010000028614",
         "sku": "7100028614",
@@ -11209,11 +11294,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 4512022528
+            "bytes": 4656726016
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 4512022528
+            "bytes": 4656726016
           }
         ],
         "editions": [
@@ -11233,7 +11318,7 @@
     },
     "65832": {
       "slug": "stick-fight-the-game",
-      "fetchedAt": "2026-08-26T13:18:48.033Z",
+      "fetchedAt": "2026-10-26T22:00:50.783Z",
       "data": {
         "nsuid": "70010000007644",
         "sku": "7100007644",
@@ -11265,16 +11350,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 7.5,
+        "price": 3.75,
         "regularPrice": 7.5,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "68447": {
       "slug": "superliminal",
-      "fetchedAt": "2026-08-26T13:18:50.160Z",
+      "fetchedAt": "2026-10-26T22:00:51.110Z",
       "data": {
         "nsuid": "70010000028673",
         "sku": "7100028673",
@@ -11315,7 +11400,7 @@
     },
     "71628": {
       "slug": "the-messenger",
-      "fetchedAt": "2026-08-26T13:18:52.716Z",
+      "fetchedAt": "2026-10-26T22:00:52.174Z",
       "data": {
         "nsuid": "70010000012840",
         "sku": "7100012840",
@@ -11357,7 +11442,7 @@
     },
     "72813": {
       "slug": "untitled-goose-game",
-      "fetchedAt": "2026-08-26T13:18:54.656Z",
+      "fetchedAt": "2026-10-26T22:00:52.884Z",
       "data": {
         "nsuid": "70010000014141",
         "sku": "7100014141",
@@ -11398,7 +11483,7 @@
     },
     "75234": {
       "slug": "guacamelee-2",
-      "fetchedAt": "2026-08-26T13:18:55.364Z",
+      "fetchedAt": "2026-10-26T22:00:54.010Z",
       "data": {
         "nsuid": "70010000000886",
         "sku": "7100000886",
@@ -11440,7 +11525,7 @@
     },
     "75239": {
       "slug": "spelunky-2",
-      "fetchedAt": "2026-08-26T13:18:58.033Z",
+      "fetchedAt": "2026-10-26T22:00:56.816Z",
       "data": {
         "nsuid": "70010000036428",
         "sku": "7100036428",
@@ -11472,16 +11557,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 9.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "75247": {
       "slug": "the-red-strings-club",
-      "fetchedAt": "2026-08-26T13:19:00.675Z",
+      "fetchedAt": "2026-10-26T22:00:59.476Z",
       "data": {
         "nsuid": "70010000016348",
         "sku": "7100016348",
@@ -11522,7 +11607,7 @@
     },
     "76638": {
       "slug": "baba-is-you",
-      "fetchedAt": "2026-08-26T13:19:02.712Z",
+      "fetchedAt": "2026-10-26T22:00:59.803Z",
       "data": {
         "nsuid": "70010000008551",
         "sku": "7100008551",
@@ -11563,7 +11648,7 @@
     },
     "76723": {
       "slug": "mega-man-11",
-      "fetchedAt": "2026-08-26T13:19:03.264Z",
+      "fetchedAt": "2026-10-26T22:01:02.395Z",
       "data": {
         "nsuid": "70010000003964",
         "sku": "7100003964",
@@ -11595,16 +11680,59 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.49,
+        "price": 9.99,
         "regularPrice": 29.99,
         "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
+    "76888": {
+      "slug": "bayonetta-3",
+      "fetchedAt": "2026-10-26T22:01:05.110Z",
+      "data": {
+        "nsuid": "70010000046400",
+        "sku": "7100046400",
+        "name": "Bayonetta™ 3",
+        "url": "https://www.nintendo.com/store/products/bayonetta-3-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 15546187776
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 15546187776
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US",
+          "Special Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "78550": {
       "slug": "bad-north",
-      "fetchedAt": "2026-08-26T13:19:06.095Z",
+      "fetchedAt": "2026-10-26T22:01:07.470Z",
       "data": {
         "nsuid": "70010000002504",
         "sku": "7100002504",
@@ -11636,16 +11764,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 2.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "81145": {
       "slug": "mario-tennis-aces",
-      "fetchedAt": "2026-08-26T13:19:06.626Z",
+      "fetchedAt": "2026-10-26T22:01:07.877Z",
       "data": {
         "nsuid": "70010000003889",
         "sku": "7100003889",
@@ -11686,7 +11814,7 @@
     },
     "82117": {
       "slug": "two-point-hospital",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:10.274Z",
       "data": {
         "nsuid": "70010000019381",
         "sku": "7100019381",
@@ -11728,7 +11856,7 @@
     },
     "86316": {
       "slug": "muse-dash--1",
-      "fetchedAt": "2026-08-26T13:19:09.526Z",
+      "fetchedAt": "2026-10-26T22:01:12.519Z",
       "data": {
         "nsuid": "70010000014536",
         "sku": "7100014536",
@@ -11745,11 +11873,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 4661968896
+            "bytes": 4784652288
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 4661968896
+            "bytes": 4784652288
           }
         ],
         "editions": [
@@ -11769,7 +11897,7 @@
     },
     "87672": {
       "slug": "florence",
-      "fetchedAt": "2026-08-26T13:19:12.464Z",
+      "fetchedAt": "2026-10-26T22:01:12.823Z",
       "data": {
         "nsuid": "70010000020822",
         "sku": "7100020822",
@@ -11810,7 +11938,7 @@
     },
     "89354": {
       "slug": "supraland",
-      "fetchedAt": "2026-08-26T13:19:14.845Z",
+      "fetchedAt": "2026-10-26T22:01:13.754Z",
       "data": {
         "nsuid": "70010000030929",
         "sku": "7100030929",
@@ -11851,7 +11979,7 @@
     },
     "90055": {
       "slug": "carrion",
-      "fetchedAt": "2026-08-26T13:19:17.206Z",
+      "fetchedAt": "2026-10-26T22:01:14.795Z",
       "data": {
         "nsuid": "70010000020948",
         "sku": "7100020948",
@@ -11883,16 +12011,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 2.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "90101": {
       "slug": "super-smash-bros-ultimate",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:15.524Z",
       "data": {
         "nsuid": "70010000012332",
         "sku": "7100012332",
@@ -11934,7 +12062,7 @@
     },
     "90107": {
       "slug": "layers-of-fear-2",
-      "fetchedAt": "2026-08-26T13:19:20.325Z",
+      "fetchedAt": "2026-10-26T22:01:16.648Z",
       "data": {
         "nsuid": "70010000038756",
         "sku": "7100038756",
@@ -11976,12 +12104,12 @@
     "101176": {
       "slug": "bloodstained-curse-of-the-moon",
       "data": null,
-      "lastError": "HTTP 401 for https://www.nintendo.com/games/detail/bloodstained-curse-of-the-moon-3ds/",
-      "lastErrorAt": "2026-08-26T13:50:00.419Z"
+      "lastError": "__NEXT_DATA__ not found — the storefront markup changed",
+      "lastErrorAt": "2026-10-26T22:01:18.406Z"
     },
     "101461": {
       "slug": "green-hell",
-      "fetchedAt": "2026-08-26T13:19:23.944Z",
+      "fetchedAt": "2026-10-26T22:01:18.834Z",
       "data": {
         "nsuid": "70010000034346",
         "sku": "7100034346",
@@ -12022,7 +12150,7 @@
     },
     "102420": {
       "slug": "dicey-dungeons",
-      "fetchedAt": "2026-08-26T13:19:26.158Z",
+      "fetchedAt": "2026-10-26T22:01:21.897Z",
       "data": {
         "nsuid": "70010000028411",
         "sku": "7100028411",
@@ -12054,9 +12182,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 2.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -12065,11 +12193,11 @@
       "slug": "nba-2k19",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/nba-2k19-switch/",
-      "lastErrorAt": "2026-08-26T13:50:01.674Z"
+      "lastErrorAt": "2026-10-26T22:01:23.272Z"
     },
     "103244": {
       "slug": "signalis",
-      "fetchedAt": "2026-08-26T13:19:30.353Z",
+      "fetchedAt": "2026-10-26T22:01:23.674Z",
       "data": {
         "nsuid": "70010000054886",
         "sku": "7100054886",
@@ -12110,7 +12238,7 @@
     },
     "103298": {
       "slug": "doom-eternal",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:24.973Z",
       "data": {
         "nsuid": "70070000011025",
         "sku": "7700011025",
@@ -12131,9 +12259,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 9.89,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -12142,17 +12270,17 @@
       "slug": "wolfenstein-youngblood",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/wolfenstein-youngblood-standard-edition-switch/",
-      "lastErrorAt": "2026-08-26T13:50:02.678Z"
+      "lastErrorAt": "2026-10-26T22:01:26.192Z"
     },
     "103303": {
       "slug": "the-elder-scrolls-blades",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/the-elder-scrolls-blades-switch/",
-      "lastErrorAt": "2026-08-26T13:50:03.769Z"
+      "lastErrorAt": "2026-10-26T22:01:27.191Z"
     },
     "103338": {
       "slug": "daemon-x-machina",
-      "fetchedAt": "2026-08-26T13:19:36.512Z",
+      "fetchedAt": "2026-10-26T22:01:27.542Z",
       "data": {
         "nsuid": "70010000018502",
         "sku": "7100018502",
@@ -12193,7 +12321,7 @@
     },
     "103339": {
       "slug": "super-mario-party",
-      "fetchedAt": "2026-08-26T13:19:37.030Z",
+      "fetchedAt": "2026-10-26T22:01:28.622Z",
       "data": {
         "nsuid": "70010000014158",
         "sku": "7100014158",
@@ -12234,7 +12362,7 @@
     },
     "103341": {
       "slug": "overcooked-2",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:29.284Z",
       "data": {
         "nsuid": "70010000003402",
         "sku": "7100003402",
@@ -12267,16 +12395,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 6.24,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "103380": {
       "slug": "bloons-td-6",
-      "fetchedAt": "2026-08-26T13:19:38.165Z",
+      "fetchedAt": "2026-10-26T22:01:29.924Z",
       "data": {
         "nsuid": "70010000088813",
         "sku": "7100088813",
@@ -12293,11 +12421,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 1159725056
+            "bytes": 2210398208
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 1159725056
+            "bytes": 2210398208
           }
         ],
         "editions": [
@@ -12317,7 +12445,7 @@
     },
     "104967": {
       "slug": "valheim",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:33.098Z",
       "data": {
         "nsuid": "70010000098088",
         "sku": "7100098088",
@@ -12331,7 +12459,7 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 220200960
+            "bytes": 4682940416
           }
         ],
         "editions": [
@@ -12346,12 +12474,12 @@
         "regularPrice": 29.99,
         "discounted": false,
         "currency": "USD",
-        "salesStatus": "unreleased"
+        "salesStatus": "onsale"
       }
     },
     "104971": {
       "slug": "ai-the-somnium-files",
-      "fetchedAt": "2026-08-26T13:19:40.701Z",
+      "fetchedAt": "2026-10-26T22:01:33.497Z",
       "data": {
         "nsuid": "70010000016212",
         "sku": "7100016212",
@@ -12392,7 +12520,7 @@
     },
     "105049": {
       "slug": "remnant-from-the-ashes",
-      "fetchedAt": "2026-08-26T13:19:43.325Z",
+      "fetchedAt": "2026-10-26T22:01:34.416Z",
       "data": {
         "nsuid": "70010000038005",
         "sku": "7100038005",
@@ -12433,7 +12561,7 @@
     },
     "105322": {
       "slug": "pummel-party",
-      "fetchedAt": "2026-08-26T13:19:45.945Z",
+      "fetchedAt": "2026-10-26T22:01:37.583Z",
       "data": {
         "nsuid": "70010000068064",
         "sku": "7100068064",
@@ -12474,7 +12602,7 @@
     },
     "106847": {
       "slug": "coffee-talk",
-      "fetchedAt": "2026-08-26T13:19:48.129Z",
+      "fetchedAt": "2026-10-26T22:01:40.396Z",
       "data": {
         "nsuid": "70010000019679",
         "sku": "7100019679",
@@ -12515,7 +12643,7 @@
     },
     "106987": {
       "slug": "torchlight-iii",
-      "fetchedAt": "2026-08-26T13:19:50.664Z",
+      "fetchedAt": "2026-10-26T22:01:42.995Z",
       "data": {
         "nsuid": "70010000025192",
         "sku": "7100025192",
@@ -12547,16 +12675,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 39.99,
         "regularPrice": 39.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "107215": {
       "slug": "snowrunner",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:47.571Z",
       "data": {
         "nsuid": "70010000036415",
         "sku": "7100036415",
@@ -12589,16 +12717,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 15.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "107262": {
       "slug": "streets-of-rage-4",
-      "fetchedAt": "2026-08-26T13:19:53.281Z",
+      "fetchedAt": "2026-10-26T22:01:50.148Z",
       "data": {
         "nsuid": "70010000026150",
         "sku": "7100026150",
@@ -12639,7 +12767,7 @@
     },
     "108778": {
       "slug": "little-misfortune",
-      "fetchedAt": "2026-08-26T13:19:53.803Z",
+      "fetchedAt": "2026-10-26T22:01:50.488Z",
       "data": {
         "nsuid": "70010000020637",
         "sku": "7100020637",
@@ -12680,7 +12808,7 @@
     },
     "109455": {
       "slug": "luigis-mansion-3",
-      "fetchedAt": "2026-08-26T13:19:54.859Z",
+      "fetchedAt": "2026-10-26T22:01:51.287Z",
       "data": {
         "nsuid": "70010000001620",
         "sku": "7100001620",
@@ -12723,7 +12851,7 @@
     },
     "110248": {
       "slug": "stray",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:53.741Z",
       "data": {
         "nsuid": "70010000080625",
         "sku": "7100080625",
@@ -12764,7 +12892,7 @@
     },
     "110474": {
       "slug": "minecraft-dungeons",
-      "fetchedAt": "2026-08-26T13:19:55.903Z",
+      "fetchedAt": "2026-10-26T22:01:54.493Z",
       "data": {
         "nsuid": "70010000021401",
         "sku": "7100021401",
@@ -12807,7 +12935,7 @@
     },
     "110846": {
       "slug": "trine-4-the-nightmare-prince",
-      "fetchedAt": "2026-08-26T13:19:58.525Z",
+      "fetchedAt": "2026-10-26T22:01:55.085Z",
       "data": {
         "nsuid": "70010000015262",
         "sku": "7100015262",
@@ -12848,7 +12976,7 @@
     },
     "111469": {
       "slug": "among-us",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:01:55.958Z",
       "data": {
         "nsuid": "70010000036098",
         "sku": "7100036098",
@@ -12865,11 +12993,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 1377828864
+            "bytes": 1386217472
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 1377828864
+            "bytes": 1386217472
           }
         ],
         "editions": [
@@ -12880,16 +13008,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 5,
+        "price": 3,
         "regularPrice": 5,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "111837": {
       "slug": "cloudpunk",
-      "fetchedAt": "2026-08-26T13:20:01.291Z",
+      "fetchedAt": "2026-10-26T22:01:59.247Z",
       "data": {
         "nsuid": "70010000028158",
         "sku": "7100028158",
@@ -12921,16 +13049,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 3.74,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "111846": {
       "slug": "void-bastards",
-      "fetchedAt": "2026-08-26T13:20:04.125Z",
+      "fetchedAt": "2026-10-26T22:01:59.507Z",
       "data": {
         "nsuid": "70010000028425",
         "sku": "7100028425",
@@ -12971,7 +13099,7 @@
     },
     "112916": {
       "slug": "mortal-kombat-11",
-      "fetchedAt": "2026-08-26T13:20:07.449Z",
+      "fetchedAt": "2026-10-26T22:02:00.546Z",
       "data": {
         "nsuid": "70010000015154",
         "sku": "7100015154",
@@ -13004,16 +13132,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 49.99,
         "regularPrice": 49.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "113107": {
       "slug": "sayonara-wild-hearts",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:01.380Z",
       "data": {
         "nsuid": "70010000009142",
         "sku": "7100009142",
@@ -13054,7 +13182,7 @@
     },
     "113108": {
       "slug": "journey-to-the-savage-planet",
-      "fetchedAt": "2026-08-26T13:20:09.867Z",
+      "fetchedAt": "2026-10-26T22:02:02.229Z",
       "data": {
         "nsuid": "70010000026368",
         "sku": "7100026368",
@@ -13095,7 +13223,7 @@
     },
     "113112": {
       "slug": "hades--1",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:03.212Z",
       "data": {
         "nsuid": "70010000033131",
         "sku": "7100033131",
@@ -13136,7 +13264,7 @@
     },
     "113114": {
       "slug": "the-outer-worlds",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:06.191Z",
       "data": {
         "nsuid": "70010000028872",
         "sku": "7100028872",
@@ -13177,7 +13305,7 @@
     },
     "113115": {
       "slug": "the-last-campfire",
-      "fetchedAt": "2026-08-26T13:20:12.389Z",
+      "fetchedAt": "2026-10-26T22:02:08.120Z",
       "data": {
         "nsuid": "70010000028625",
         "sku": "7100028625",
@@ -13218,7 +13346,7 @@
     },
     "113866": {
       "slug": "moving-out",
-      "fetchedAt": "2026-08-26T13:20:12.898Z",
+      "fetchedAt": "2026-10-26T22:02:08.393Z",
       "data": {
         "nsuid": "70010000020400",
         "sku": "7100020400",
@@ -13262,11 +13390,11 @@
       "slug": "nba-2k20",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/nba-2k20-switch/",
-      "lastErrorAt": "2026-08-26T13:50:05.073Z"
+      "lastErrorAt": "2026-10-26T22:02:10.185Z"
     },
     "114455": {
       "slug": "pacify",
-      "fetchedAt": "2026-08-26T13:20:16.046Z",
+      "fetchedAt": "2026-10-26T22:02:11.865Z",
       "data": {
         "nsuid": "70010000097485",
         "sku": "7100097485",
@@ -13298,9 +13426,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 2.49,
         "regularPrice": 4.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -13309,11 +13437,45 @@
       "slug": "apex-legends",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/apex-legends-switch/",
-      "lastErrorAt": "2026-08-26T13:50:05.596Z"
+      "lastErrorAt": "2026-10-26T22:02:12.930Z"
+    },
+    "115115": {
+      "slug": "resident-evil-3",
+      "fetchedAt": "2026-10-26T22:02:14.106Z",
+      "data": {
+        "nsuid": "70010000122485",
+        "sku": "7100122485",
+        "name": "Resident Evil 3",
+        "url": "https://www.nintendo.com/us/store/products/resident-evil-3-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12728664064
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 19.79,
+        "regularPrice": 29.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
     },
     "115276": {
       "slug": "super-mario-maker-2",
-      "fetchedAt": "2026-08-26T13:20:19.731Z",
+      "fetchedAt": "2026-10-26T22:02:14.512Z",
       "data": {
         "nsuid": "70010000018694",
         "sku": "7100018694",
@@ -13355,7 +13517,7 @@
     },
     "115282": {
       "slug": "tetris-99",
-      "fetchedAt": "2026-08-26T13:20:20.243Z",
+      "fetchedAt": "2026-10-26T22:02:15.243Z",
       "data": {
         "nsuid": "70010000018547",
         "sku": "7100018547",
@@ -13397,7 +13559,7 @@
     },
     "115283": {
       "slug": "astral-chain",
-      "fetchedAt": "2026-08-26T13:20:23.178Z",
+      "fetchedAt": "2026-10-26T22:02:16.308Z",
       "data": {
         "nsuid": "70010000018695",
         "sku": "7100018695",
@@ -13438,7 +13600,7 @@
     },
     "115289": {
       "slug": "hollow-knight-silksong",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:17.681Z",
       "data": {
         "nsuid": "70010000020840",
         "sku": "7100020840",
@@ -13479,7 +13641,7 @@
     },
     "115425": {
       "slug": "darkest-dungeon-ii",
-      "fetchedAt": "2026-08-26T13:20:26.312Z",
+      "fetchedAt": "2026-10-26T22:02:19.864Z",
       "data": {
         "nsuid": "70010000069466",
         "sku": "7100069466",
@@ -13496,11 +13658,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 3609198592
+            "bytes": 3610247168
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 3609198592
+            "bytes": 8047820800
           }
         ],
         "editions": [
@@ -13521,7 +13683,7 @@
     },
     "115653": {
       "slug": "pokemon-shield",
-      "fetchedAt": "2026-08-26T13:20:28.718Z",
+      "fetchedAt": "2026-10-26T22:02:20.230Z",
       "data": {
         "nsuid": "70010000004492",
         "sku": "7100004492",
@@ -13564,7 +13726,7 @@
     },
     "115843": {
       "slug": "unpacking",
-      "fetchedAt": "2026-08-26T13:20:31.036Z",
+      "fetchedAt": "2026-10-26T22:02:20.995Z",
       "data": {
         "nsuid": "70010000043205",
         "sku": "7100043205",
@@ -13605,7 +13767,7 @@
     },
     "116419": {
       "slug": "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda",
-      "fetchedAt": "2026-08-26T13:20:33.430Z",
+      "fetchedAt": "2026-10-26T22:02:22.411Z",
       "data": {
         "nsuid": "70010000021364",
         "sku": "7100021364",
@@ -13647,7 +13809,7 @@
     },
     "116753": {
       "slug": "a-short-hike",
-      "fetchedAt": "2026-08-26T13:20:35.755Z",
+      "fetchedAt": "2026-10-26T22:02:22.924Z",
       "data": {
         "nsuid": "70010000032367",
         "sku": "7100032367",
@@ -13688,7 +13850,7 @@
     },
     "117533": {
       "slug": "river-city-girls",
-      "fetchedAt": "2026-08-26T13:20:36.272Z",
+      "fetchedAt": "2026-10-26T22:02:25.857Z",
       "data": {
         "nsuid": "70010000019343",
         "sku": "7100019343",
@@ -13729,7 +13891,7 @@
     },
     "117731": {
       "slug": "persona-5-strikers",
-      "fetchedAt": "2026-08-26T13:20:39.542Z",
+      "fetchedAt": "2026-10-26T22:02:26.189Z",
       "data": {
         "nsuid": "70010000030163",
         "sku": "7100030163",
@@ -13771,7 +13933,7 @@
     },
     "118193": {
       "slug": "toem",
-      "fetchedAt": "2026-08-26T13:20:41.661Z",
+      "fetchedAt": "2026-10-26T22:02:28.673Z",
       "data": {
         "nsuid": "70010000041461",
         "sku": "7100041461",
@@ -13812,7 +13974,7 @@
     },
     "119244": {
       "slug": "darksiders-genesis",
-      "fetchedAt": "2026-08-26T13:20:43.778Z",
+      "fetchedAt": "2026-10-26T22:02:30.732Z",
       "data": {
         "nsuid": "70010000019236",
         "sku": "7100019236",
@@ -13844,16 +14006,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 7.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "119298": {
       "slug": "blair-witch",
-      "fetchedAt": "2026-08-26T13:20:46.274Z",
+      "fetchedAt": "2026-10-26T22:02:33.515Z",
       "data": {
         "nsuid": "70010000029154",
         "sku": "7100029154",
@@ -13885,16 +14047,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 5.99,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "119304": {
       "slug": "spiritfarer",
-      "fetchedAt": "2026-08-26T13:20:50.651Z",
+      "fetchedAt": "2026-10-26T22:02:33.868Z",
       "data": {
         "nsuid": "70010000020667",
         "sku": "7100020667",
@@ -13935,7 +14097,7 @@
     },
     "119305": {
       "slug": "lego-star-wars-the-skywalker-saga",
-      "fetchedAt": "2026-08-26T13:20:53.050Z",
+      "fetchedAt": "2026-10-26T22:02:34.650Z",
       "data": {
         "nsuid": "70010000018041",
         "sku": "7100018041",
@@ -13977,7 +14139,7 @@
     },
     "119313": {
       "slug": "fall-guys",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:35.529Z",
       "data": {
         "nsuid": "70010000042975",
         "sku": "7100042975",
@@ -14018,7 +14180,7 @@
     },
     "119357": {
       "slug": "immortals-fenyx-rising",
-      "fetchedAt": "2026-08-26T13:20:55.259Z",
+      "fetchedAt": "2026-10-26T22:02:36.573Z",
       "data": {
         "nsuid": "70010000021933",
         "sku": "7100021933",
@@ -14060,7 +14222,7 @@
     },
     "119388": {
       "slug": "the-legend-of-zelda-tears-of-the-kingdom",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:40.189Z",
       "data": {
         "nsuid": "70010000063714",
         "sku": "7100063714",
@@ -14103,7 +14265,7 @@
     },
     "121752": {
       "slug": "ghostrunner",
-      "fetchedAt": "2026-08-26T13:20:58.546Z",
+      "fetchedAt": "2026-10-26T22:02:42.672Z",
       "data": {
         "nsuid": "70010000033655",
         "sku": "7100033655",
@@ -14145,7 +14307,7 @@
     },
     "121760": {
       "slug": "little-nightmares-ii",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:02:44.555Z",
       "data": {
         "nsuid": "70010000021688",
         "sku": "7100021688",
@@ -14186,7 +14348,7 @@
     },
     "121947": {
       "slug": "the-suicide-of-rachel-foster",
-      "fetchedAt": "2026-08-26T13:21:01.126Z",
+      "fetchedAt": "2026-10-26T22:02:45.173Z",
       "data": {
         "nsuid": "70010000044286",
         "sku": "7100044286",
@@ -14227,7 +14389,7 @@
     },
     "122120": {
       "slug": "the-dark-pictures-anthology-little-hope",
-      "fetchedAt": "2026-08-26T13:21:03.585Z",
+      "fetchedAt": "2026-10-26T22:02:48.238Z",
       "data": {
         "nsuid": "70010000051069",
         "sku": "7100051069",
@@ -14259,9 +14421,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 9.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -14270,11 +14432,53 @@
       "slug": "rogue-company",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/rogue-company-switch/",
-      "lastErrorAt": "2026-08-26T13:50:07.170Z"
+      "lastErrorAt": "2026-10-26T22:02:49.468Z"
+    },
+    "122238": {
+      "slug": "xenoblade-chronicles-definitive-edition",
+      "fetchedAt": "2026-10-26T22:02:49.793Z",
+      "data": {
+        "nsuid": "70010000029711",
+        "sku": "7100029711",
+        "name": "Xenoblade Chronicles™ Definitive Edition",
+        "url": "https://www.nintendo.com/games/detail/xenoblade-chronicles-definitive-edition-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 14730395648
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 14806941696
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
     },
     "122729": {
       "slug": "yes-your-grace",
-      "fetchedAt": "2026-08-26T13:21:06.746Z",
+      "fetchedAt": "2026-10-26T22:02:54.170Z",
       "data": {
         "nsuid": "70010000027948",
         "sku": "7100027948",
@@ -14306,16 +14510,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 5.99,
+        "price": 19.99,
         "regularPrice": 19.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "122766": {
       "slug": "pilgrims",
-      "fetchedAt": "2026-08-26T13:21:08.875Z",
+      "fetchedAt": "2026-10-26T22:02:54.475Z",
       "data": {
         "nsuid": "70010000057678",
         "sku": "7100057678",
@@ -14358,11 +14562,11 @@
       "slug": "overwatch--1",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/us/store/products/overwatch-2-switch/?srsltid=AfmBOopZqB68R9focsbAipvXoaG81CPZk2q_wWq92istCVchKDXgIyJi",
-      "lastErrorAt": "2026-08-26T13:50:07.946Z"
+      "lastErrorAt": "2026-10-26T22:02:55.715Z"
     },
     "125624": {
       "slug": "grounded",
-      "fetchedAt": "2026-08-26T13:21:12.231Z",
+      "fetchedAt": "2026-10-26T22:02:56.208Z",
       "data": {
         "nsuid": "70010000068827",
         "sku": "7100068827",
@@ -14394,8 +14598,50 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 19.99,
         "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "127344": {
+      "slug": "bravely-default-ii",
+      "fetchedAt": "2026-10-26T22:02:59.114Z",
+      "data": {
+        "nsuid": "70010000028643",
+        "sku": "7100028643",
+        "name": "BRAVELY DEFAULT™ II",
+        "url": "https://www.nintendo.com/games/detail/bravely-default-ii-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 13317963776
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 13317963776
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
         "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
@@ -14403,7 +14649,7 @@
     },
     "127743": {
       "slug": "lake",
-      "fetchedAt": "2026-08-26T13:21:14.554Z",
+      "fetchedAt": "2026-10-26T22:02:59.320Z",
       "data": {
         "nsuid": "70010000042321",
         "sku": "7100042321",
@@ -14435,16 +14681,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 10.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "128097": {
       "slug": "turnip-boy-commits-tax-evasion",
-      "fetchedAt": "2026-08-26T13:21:16.996Z",
+      "fetchedAt": "2026-10-26T22:03:02.158Z",
       "data": {
         "nsuid": "70010000033299",
         "sku": "7100033299",
@@ -14485,7 +14731,7 @@
     },
     "131785": {
       "slug": "amnesia-rebirth",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:03.866Z",
       "data": {
         "nsuid": "70010000121559",
         "sku": "7100121559",
@@ -14519,7 +14765,7 @@
     },
     "131890": {
       "slug": "sea-of-stars",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:04.489Z",
       "data": {
         "nsuid": "70010000046189",
         "sku": "7100046189",
@@ -14560,7 +14806,7 @@
     },
     "132058": {
       "slug": "rogue-legacy-2",
-      "fetchedAt": "2026-08-26T13:21:19.047Z",
+      "fetchedAt": "2026-10-26T22:03:07.251Z",
       "data": {
         "nsuid": "70010000059862",
         "sku": "7100059862",
@@ -14601,7 +14847,7 @@
     },
     "133236": {
       "slug": "final-fantasy-vii-rebirth",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:09.556Z",
       "data": {
         "nsuid": "70010000112477",
         "sku": "7100112477",
@@ -14636,7 +14882,7 @@
     },
     "133306": {
       "slug": "call-of-the-sea",
-      "fetchedAt": "2026-08-26T13:21:20.329Z",
+      "fetchedAt": "2026-10-26T22:03:11.314Z",
       "data": {
         "nsuid": "70010000100290",
         "sku": "7100100290",
@@ -14668,16 +14914,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 12.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "133923": {
       "slug": "paper-mario-the-origami-king",
-      "fetchedAt": "2026-08-26T13:21:20.841Z",
+      "fetchedAt": "2026-10-26T22:03:13.780Z",
       "data": {
         "nsuid": "70010000029726",
         "sku": "7100029726",
@@ -14719,7 +14965,7 @@
     },
     "134588": {
       "slug": "kena-bridge-of-spirits",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:13.848Z",
       "data": {
         "nsuid": "70010000115683",
         "sku": "7100115683",
@@ -14753,7 +14999,7 @@
     },
     "134602": {
       "slug": "bugsnax",
-      "fetchedAt": "2026-08-26T13:21:24.108Z",
+      "fetchedAt": "2026-10-26T22:03:17.041Z",
       "data": {
         "nsuid": "70010000045164",
         "sku": "7100045164",
@@ -14785,16 +15031,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 12.49,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "134612": {
       "slug": "pragmata",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:18.933Z",
       "data": {
         "nsuid": "70010000101665",
         "sku": "7100101665",
@@ -14808,7 +15054,7 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 14188281856
+            "bytes": 14204010496
           }
         ],
         "editions": [
@@ -14829,7 +15075,7 @@
     },
     "134799": {
       "slug": "dorfromantik",
-      "fetchedAt": "2026-08-26T13:21:26.616Z",
+      "fetchedAt": "2026-10-26T22:03:19.275Z",
       "data": {
         "nsuid": "70010000056984",
         "sku": "7100056984",
@@ -14861,16 +15107,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 11.24,
+        "price": 14.99,
         "regularPrice": 14.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "135142": {
       "slug": "new-pokemon-snap",
-      "fetchedAt": "2026-08-26T13:21:27.191Z",
+      "fetchedAt": "2026-10-26T22:03:20.283Z",
       "data": {
         "nsuid": "70010000037989",
         "sku": "7100037989",
@@ -14912,7 +15158,7 @@
     },
     "135243": {
       "slug": "it-takes-two",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:21.112Z",
       "data": {
         "nsuid": "70070000014924",
         "sku": "7700014924",
@@ -14942,7 +15188,7 @@
     },
     "135254": {
       "slug": "crash-bandicoot-4-its-about-time",
-      "fetchedAt": "2026-08-26T13:21:28.178Z",
+      "fetchedAt": "2026-10-26T22:03:23.597Z",
       "data": {
         "nsuid": "70010000029035",
         "sku": "7100029035",
@@ -14974,16 +15220,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 13.19,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "135381": {
       "slug": "pokemon-unite",
-      "fetchedAt": "2026-08-26T13:21:30.401Z",
+      "fetchedAt": "2026-10-26T22:03:23.823Z",
       "data": {
         "nsuid": "70010000043292",
         "sku": "7100043292",
@@ -15000,11 +15246,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 7017070592
+            "bytes": 7238320128
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 7017070592
+            "bytes": 7238320128
           }
         ],
         "editions": [
@@ -15024,7 +15270,7 @@
     },
     "135789": {
       "slug": "townscaper",
-      "fetchedAt": "2026-08-26T13:21:30.822Z",
+      "fetchedAt": "2026-10-26T22:03:27.067Z",
       "data": {
         "nsuid": "70010000038517",
         "sku": "7100038517",
@@ -15056,16 +15302,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 5.99,
+        "price": 2.39,
         "regularPrice": 5.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "135818": {
       "slug": "pizza-tower",
-      "fetchedAt": "2026-08-26T13:21:33.588Z",
+      "fetchedAt": "2026-10-26T22:03:28.984Z",
       "data": {
         "nsuid": "70010000074087",
         "sku": "7100074087",
@@ -15106,7 +15352,7 @@
     },
     "136625": {
       "slug": "hogwarts-legacy",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:29.068Z",
       "data": {
         "nsuid": "70010000014724",
         "sku": "7100014724",
@@ -15148,7 +15394,7 @@
     },
     "138343": {
       "slug": "hyrule-warriors-age-of-calamity",
-      "fetchedAt": "2026-08-26T13:21:34.154Z",
+      "fetchedAt": "2026-10-26T22:03:30.204Z",
       "data": {
         "nsuid": "70010000034760",
         "sku": "7100034760",
@@ -15191,7 +15437,7 @@
     },
     "138590": {
       "slug": "powerwash-simulator",
-      "fetchedAt": "2026-08-26T13:21:37.098Z",
+      "fetchedAt": "2026-10-26T22:03:32.828Z",
       "data": {
         "nsuid": "70010000045037",
         "sku": "7100045037",
@@ -15223,16 +15469,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 9.99,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "138858": {
       "slug": "ender-lilies-quietus-of-the-knights",
-      "fetchedAt": "2026-08-26T13:21:39.389Z",
+      "fetchedAt": "2026-10-26T22:03:33.342Z",
       "data": {
         "nsuid": "70010000035193",
         "sku": "7100035193",
@@ -15264,16 +15510,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 24.99,
         "regularPrice": 24.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "138950": {
       "slug": "monster-hunter-rise",
-      "fetchedAt": "2026-08-26T13:21:49.677Z",
+      "fetchedAt": "2026-10-26T22:03:33.971Z",
       "data": {
         "nsuid": "70010000029016",
         "sku": "7100029016",
@@ -15315,7 +15561,7 @@
     },
     "139090": {
       "slug": "inscryption",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:36.823Z",
       "data": {
         "nsuid": "70010000051034",
         "sku": "7100051034",
@@ -15347,16 +15593,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 4.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "141533": {
       "slug": "loop-hero",
-      "fetchedAt": "2026-08-26T13:50:10.842Z",
+      "fetchedAt": "2026-10-26T22:03:37.179Z",
       "data": {
         "nsuid": "70010000041968",
         "sku": "7100041968",
@@ -15397,7 +15643,7 @@
     },
     "141543": {
       "slug": "road-96",
-      "fetchedAt": "2026-08-26T13:50:13.303Z",
+      "fetchedAt": "2026-10-26T22:03:40.022Z",
       "data": {
         "nsuid": "70010000039002",
         "sku": "7100039002",
@@ -15438,7 +15684,7 @@
     },
     "141704": {
       "slug": "venba",
-      "fetchedAt": "2026-08-26T13:22:10.223Z",
+      "fetchedAt": "2026-10-26T22:03:42.208Z",
       "data": {
         "nsuid": "70010000057821",
         "sku": "7100057821",
@@ -15470,16 +15716,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 3.74,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "142415": {
       "slug": "indiana-jones-and-the-great-circle",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:43.892Z",
       "data": {
         "nsuid": "70010000098812",
         "sku": "7100098812",
@@ -15504,16 +15750,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 69.99,
+        "price": 55.99,
         "regularPrice": 69.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "142549": {
       "slug": "viewfinder",
-      "fetchedAt": "2026-08-26T13:22:12.219Z",
+      "fetchedAt": "2026-10-26T22:03:46.387Z",
       "data": {
         "nsuid": "70010000096085",
         "sku": "7100096085",
@@ -15545,16 +15791,58 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 8.74,
+        "price": 24.99,
         "regularPrice": 24.99,
-        "discounted": true,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "143610": {
+      "slug": "triangle-strategy",
+      "fetchedAt": "2026-10-26T22:03:46.684Z",
+      "data": {
+        "nsuid": "70010000046322",
+        "sku": "7100046322",
+        "name": "TRIANGLE STRATEGY™",
+        "url": "https://www.nintendo.com/games/detail/triangle-strategy-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7566524416
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 7566524416
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "143612": {
       "slug": "neon-white",
-      "fetchedAt": "2026-08-26T13:22:14.571Z",
+      "fetchedAt": "2026-10-26T22:03:47.617Z",
       "data": {
         "nsuid": "70010000037795",
         "sku": "7100037795",
@@ -15595,7 +15883,7 @@
     },
     "143613": {
       "slug": "splatoon-3",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:03:48.565Z",
       "data": {
         "nsuid": "70010000046395",
         "sku": "7100046395",
@@ -15638,7 +15926,7 @@
     },
     "144022": {
       "slug": "sifu",
-      "fetchedAt": "2026-08-26T13:22:16.946Z",
+      "fetchedAt": "2026-10-26T22:03:51.132Z",
       "data": {
         "nsuid": "70010000050837",
         "sku": "7100050837",
@@ -15670,16 +15958,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 9.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "144054": {
       "slug": "pokemon-legends-arceus",
-      "fetchedAt": "2026-08-26T13:22:17.464Z",
+      "fetchedAt": "2026-10-26T22:03:51.521Z",
       "data": {
         "nsuid": "70010000039945",
         "sku": "7100039945",
@@ -15721,7 +16009,7 @@
     },
     "144072": {
       "slug": "hot-wheels-unleashed",
-      "fetchedAt": "2026-08-26T13:22:20.768Z",
+      "fetchedAt": "2026-10-26T22:03:55.640Z",
       "data": {
         "nsuid": "70010000035702",
         "sku": "7100035702",
@@ -15754,8 +16042,8 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
-        "regularPrice": 39.99,
+        "price": 29.99,
+        "regularPrice": 29.99,
         "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
@@ -15763,7 +16051,7 @@
     },
     "144465": {
       "slug": "teenage-mutant-ninja-turtles-shredders-revenge",
-      "fetchedAt": "2026-08-26T13:22:22.790Z",
+      "fetchedAt": "2026-10-26T22:03:55.882Z",
       "data": {
         "nsuid": "70010000039366",
         "sku": "7100039366",
@@ -15805,7 +16093,7 @@
     },
     "144765": {
       "slug": "life-is-strange-true-colors",
-      "fetchedAt": "2026-08-26T13:22:25.340Z",
+      "fetchedAt": "2026-10-26T22:03:56.749Z",
       "data": {
         "nsuid": "70010000034699",
         "sku": "7100034699",
@@ -15838,16 +16126,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 17.99,
+        "price": 59.99,
         "regularPrice": 59.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "145089": {
       "slug": "nobody-saves-the-world",
-      "fetchedAt": "2026-08-26T13:22:27.983Z",
+      "fetchedAt": "2026-10-26T22:03:59.884Z",
       "data": {
         "nsuid": "70010000038707",
         "sku": "7100038707",
@@ -15889,7 +16177,7 @@
     },
     "145099": {
       "slug": "deaths-door",
-      "fetchedAt": "2026-08-26T13:22:30.178Z",
+      "fetchedAt": "2026-10-26T22:04:00.482Z",
       "data": {
         "nsuid": "70010000046941",
         "sku": "7100046941",
@@ -15921,16 +16209,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 3.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "145937": {
       "slug": "little-kitty-big-city",
-      "fetchedAt": "2026-08-26T13:22:30.798Z",
+      "fetchedAt": "2026-10-26T22:04:02.988Z",
       "data": {
         "nsuid": "70010000061050",
         "sku": "7100061050",
@@ -15962,16 +16250,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 12.49,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "149657": {
       "slug": "blue-prince",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:03.048Z",
       "data": {
         "nsuid": "70010000109038",
         "sku": "7100109038",
@@ -16005,7 +16293,7 @@
     },
     "150010": {
       "slug": "sonic-frontiers",
-      "fetchedAt": "2026-08-26T13:22:31.615Z",
+      "fetchedAt": "2026-10-26T22:04:06.351Z",
       "data": {
         "nsuid": "70010000040331",
         "sku": "7100040331",
@@ -16038,7 +16326,7 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 27.99,
+        "price": 23.99,
         "regularPrice": 39.99,
         "discounted": true,
         "currency": "USD",
@@ -16047,7 +16335,7 @@
     },
     "151467": {
       "slug": "palia",
-      "fetchedAt": "2026-08-26T13:22:32.382Z",
+      "fetchedAt": "2026-10-26T22:04:07.833Z",
       "data": {
         "nsuid": "70010000064806",
         "sku": "7100064806",
@@ -16064,11 +16352,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 18171822080
+            "bytes": 18675138560
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 18171822080
+            "bytes": 18675138560
           }
         ],
         "editions": [
@@ -16088,7 +16376,7 @@
     },
     "152071": {
       "slug": "planet-of-lana",
-      "fetchedAt": "2026-08-26T13:22:35.284Z",
+      "fetchedAt": "2026-10-26T22:04:08.113Z",
       "data": {
         "nsuid": "70010000073403",
         "sku": "7100073403",
@@ -16120,16 +16408,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 19.99,
         "regularPrice": 19.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "152124": {
       "slug": "bramble-the-mountain-king",
-      "fetchedAt": "2026-08-26T13:22:37.909Z",
+      "fetchedAt": "2026-10-26T22:04:09.037Z",
       "data": {
         "nsuid": "70010000051585",
         "sku": "7100051585",
@@ -16170,7 +16458,7 @@
     },
     "152180": {
       "slug": "a-little-to-the-left",
-      "fetchedAt": "2026-08-26T13:22:40.268Z",
+      "fetchedAt": "2026-10-26T22:04:12.012Z",
       "data": {
         "nsuid": "70010000051361",
         "sku": "7100051361",
@@ -16203,16 +16491,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 5.99,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "152203": {
       "slug": "trek-to-yomi",
-      "fetchedAt": "2026-08-26T13:22:43.672Z",
+      "fetchedAt": "2026-10-26T22:04:14.169Z",
       "data": {
         "nsuid": "70010000057634",
         "sku": "7100057634",
@@ -16251,9 +16539,43 @@
         "salesStatus": "onsale"
       }
     },
+    "152249": {
+      "slug": "marvels-guardians-of-the-galaxy",
+      "fetchedAt": "2026-10-26T22:04:14.387Z",
+      "data": {
+        "nsuid": "70010000119217",
+        "sku": "7100119217",
+        "name": "Marvel's Guardians of the Galaxy: Encore Edition",
+        "url": "https://www.nintendo.com/us/store/products/marvels-guardians-of-the-galaxy-encore-edition-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 49683628032
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 35.99,
+        "regularPrice": 39.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "preorder"
+      }
+    },
     "152271": {
       "slug": "citizen-sleeper",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:16.610Z",
       "data": {
         "nsuid": "70010000050716",
         "sku": "7100050716",
@@ -16285,16 +16607,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 5.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "152354": {
       "slug": "mario-party-superstars",
-      "fetchedAt": "2026-08-26T13:22:44.205Z",
+      "fetchedAt": "2026-10-26T22:04:16.868Z",
       "data": {
         "nsuid": "70010000042934",
         "sku": "7100042934",
@@ -16336,7 +16658,7 @@
     },
     "159298": {
       "slug": "yu-gi-oh-master-duel",
-      "fetchedAt": "2026-08-26T13:22:47.352Z",
+      "fetchedAt": "2026-10-26T22:04:19.804Z",
       "data": {
         "nsuid": "70010000034186",
         "sku": "7100034186",
@@ -16377,7 +16699,7 @@
     },
     "159299": {
       "slug": "storyteller--1",
-      "fetchedAt": "2026-08-26T13:22:49.447Z",
+      "fetchedAt": "2026-10-26T22:04:21.923Z",
       "data": {
         "nsuid": "70010000044948",
         "sku": "7100044948",
@@ -16418,7 +16740,7 @@
     },
     "164867": {
       "slug": "dredge",
-      "fetchedAt": "2026-08-26T13:22:52.075Z",
+      "fetchedAt": "2026-10-26T22:04:22.513Z",
       "data": {
         "nsuid": "70010000049267",
         "sku": "7100049267",
@@ -16451,9 +16773,9 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 9.99,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
@@ -16462,11 +16784,11 @@
       "slug": "marvels-midnight-suns",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/games/detail/marvels-midnight-suns-switch/",
-      "lastErrorAt": "2026-08-26T13:50:14.505Z"
+      "lastErrorAt": "2026-10-26T22:04:24.084Z"
     },
     "165351": {
       "slug": "cult-of-the-lamb",
-      "fetchedAt": "2026-08-26T13:22:53.708Z",
+      "fetchedAt": "2026-10-26T22:04:25.556Z",
       "data": {
         "nsuid": "70010000047973",
         "sku": "7100047973",
@@ -16483,11 +16805,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 1885339648
+            "bytes": 1887436800
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 1885339648
+            "bytes": 4067426304
           }
         ],
         "editions": [
@@ -16508,7 +16830,7 @@
     },
     "165390": {
       "slug": "blasphemous-ii",
-      "fetchedAt": "2026-08-26T13:22:56.259Z",
+      "fetchedAt": "2026-10-26T22:04:25.902Z",
       "data": {
         "nsuid": "70010000062593",
         "sku": "7100062593",
@@ -16552,11 +16874,11 @@
       "slug": "the-case-of-the-golden-idol",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/store/products/the-case-of-the-golden-idol-switch/",
-      "lastErrorAt": "2026-08-26T13:50:15.599Z"
+      "lastErrorAt": "2026-10-26T22:04:27.461Z"
     },
     "166824": {
       "slug": "indika",
-      "fetchedAt": "2026-08-26T13:22:58.885Z",
+      "fetchedAt": "2026-10-26T22:04:29.548Z",
       "data": {
         "nsuid": "70010000100648",
         "sku": "7100100648",
@@ -16588,7 +16910,7 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 12.5,
+        "price": 11.25,
         "regularPrice": 24.99,
         "discounted": true,
         "currency": "USD",
@@ -16597,7 +16919,7 @@
     },
     "171233": {
       "slug": "deltarune",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:29.795Z",
       "data": {
         "nsuid": "70010000096640",
         "sku": "7100096640",
@@ -16622,16 +16944,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 19.99,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "172427": {
       "slug": "kirby-and-the-forgotten-land",
-      "fetchedAt": "2026-08-26T13:22:59.638Z",
+      "fetchedAt": "2026-10-26T22:04:30.735Z",
       "data": {
         "nsuid": "70010000046405",
         "sku": "7100046405",
@@ -16673,7 +16995,7 @@
     },
     "176057": {
       "slug": "poppy-playtime",
-      "fetchedAt": "2026-08-26T13:23:01.790Z",
+      "fetchedAt": "2026-10-26T22:04:33.259Z",
       "data": {
         "nsuid": "70010000075091",
         "sku": "7100075091",
@@ -16705,16 +17027,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 3.74,
         "regularPrice": 4.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "186725": {
       "slug": "vampire-survivors",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:36.245Z",
       "data": {
         "nsuid": "70010000059002",
         "sku": "7100059002",
@@ -16731,11 +17053,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 1061158912
+            "bytes": 1106247680
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 1146093568
+            "bytes": 1195376640
           }
         ],
         "editions": [
@@ -16746,16 +17068,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 4.99,
+        "price": 3.99,
         "regularPrice": 4.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "190361": {
       "slug": "iron-lung",
-      "fetchedAt": "2026-08-26T13:23:04.150Z",
+      "fetchedAt": "2026-10-26T22:04:38.206Z",
       "data": {
         "nsuid": "70010000060913",
         "sku": "7100060913",
@@ -16787,8 +17109,49 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 7.99,
+        "price": 3.5,
         "regularPrice": 7.99,
+        "discounted": true,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "191408": {
+      "slug": "nintendo-switch-sports",
+      "fetchedAt": "2026-10-26T22:04:38.470Z",
+      "data": {
+        "nsuid": "70010000049931",
+        "sku": "7100049931",
+        "name": "Nintendo Switch™ Sports",
+        "url": "https://www.nintendo.com/games/detail/nintendo-switch-sports-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3486515200
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3486515200
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
         "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
@@ -16796,7 +17159,7 @@
     },
     "191411": {
       "slug": "xenoblade-chronicles-3",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:41.273Z",
       "data": {
         "nsuid": "70010000053336",
         "sku": "7100053336",
@@ -16839,7 +17202,7 @@
     },
     "191435": {
       "slug": "animal-well",
-      "fetchedAt": "2026-08-26T13:23:05.893Z",
+      "fetchedAt": "2026-10-26T22:04:43.294Z",
       "data": {
         "nsuid": "70010000065090",
         "sku": "7100065090",
@@ -16871,16 +17234,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 24.99,
+        "price": 17.49,
         "regularPrice": 24.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "191692": {
       "slug": "street-fighter-6",
-      "fetchedAt": "2026-08-26T13:23:07.798Z",
+      "fetchedAt": "2026-10-26T22:04:43.522Z",
       "data": {
         "nsuid": "70010000095203",
         "sku": "7100095203",
@@ -16894,7 +17257,7 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 66407366656
+            "bytes": 67935141888
           }
         ],
         "editions": [
@@ -16907,16 +17270,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 39.99,
+        "price": 15.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "191930": {
       "slug": "pokemon-violet",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:46.668Z",
       "data": {
         "nsuid": "70010000053971",
         "sku": "7100053971",
@@ -16960,7 +17323,7 @@
     },
     "191931": {
       "slug": "pokemon-scarlet",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:46.908Z",
       "data": {
         "nsuid": "70010000053966",
         "sku": "7100053966",
@@ -17004,7 +17367,7 @@
     },
     "194821": {
       "slug": "nine-sols",
-      "fetchedAt": "2026-08-26T13:23:09.902Z",
+      "fetchedAt": "2026-10-26T22:04:47.788Z",
       "data": {
         "nsuid": "70010000073072",
         "sku": "7100073072",
@@ -17036,16 +17399,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 29.99,
+        "price": 14.99,
         "regularPrice": 29.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "195517": {
       "slug": "return-to-monkey-island",
-      "fetchedAt": "2026-08-26T13:23:10.113Z",
+      "fetchedAt": "2026-10-26T22:04:48.516Z",
       "data": {
         "nsuid": "70010000053425",
         "sku": "7100053425",
@@ -17086,7 +17449,7 @@
     },
     "198499": {
       "slug": "chants-of-sennaar",
-      "fetchedAt": "2026-08-26T13:23:13.590Z",
+      "fetchedAt": "2026-10-26T22:04:49.763Z",
       "data": {
         "nsuid": "70010000060400",
         "sku": "7100060400",
@@ -17127,7 +17490,7 @@
     },
     "199116": {
       "slug": "brotato",
-      "fetchedAt": "2026-08-26T13:23:13.799Z",
+      "fetchedAt": "2026-10-26T22:04:51.447Z",
       "data": {
         "nsuid": "70010000062161",
         "sku": "7100062161",
@@ -17160,16 +17523,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 3.49,
+        "price": 4.99,
         "regularPrice": 4.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "203722": {
       "slug": "dave-the-diver",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:04:54.341Z",
       "data": {
         "nsuid": "70010000060372",
         "sku": "7100060372",
@@ -17186,11 +17549,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 4704960512
+            "bytes": 4706009088
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 9485418496
+            "bytes": 9492758528
           }
         ],
         "editions": [
@@ -17201,16 +17564,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 10.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "204618": {
       "slug": "high-on-life",
-      "fetchedAt": "2026-08-26T13:23:16.706Z",
+      "fetchedAt": "2026-10-26T22:04:56.227Z",
       "data": {
         "nsuid": "70010000080386",
         "sku": "7100080386",
@@ -17251,7 +17614,7 @@
     },
     "204623": {
       "slug": "pentiment",
-      "fetchedAt": "2026-08-26T13:23:18.612Z",
+      "fetchedAt": "2026-10-26T22:04:57.964Z",
       "data": {
         "nsuid": "70010000068743",
         "sku": "7100068743",
@@ -17283,16 +17646,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 19.99,
+        "price": 9.99,
         "regularPrice": 19.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "204627": {
       "slug": "cocoon",
-      "fetchedAt": "2026-08-26T13:23:20.613Z",
+      "fetchedAt": "2026-10-26T22:04:58.360Z",
       "data": {
         "nsuid": "70010000014130",
         "sku": "7100014130",
@@ -17331,9 +17694,50 @@
         "salesStatus": "onsale"
       }
     },
+    "205201": {
+      "slug": "crisis-core-final-fantasy-vii-reunion",
+      "fetchedAt": "2026-10-26T22:05:01.159Z",
+      "data": {
+        "nsuid": "70010000048000",
+        "sku": "7100048000",
+        "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+        "url": "https://www.nintendo.com/store/products/crisis-core-final-fantasy-vii-reunion-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 15422455808
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 15422455808
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "213639": {
       "slug": "my-hero-ultra-rumble",
-      "fetchedAt": "2026-08-26T13:23:22.547Z",
+      "fetchedAt": "2026-10-26T22:05:01.756Z",
       "data": {
         "nsuid": "70010000064912",
         "sku": "7100064912",
@@ -17350,11 +17754,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 6938427392
+            "bytes": 7190085632
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 6938427392
+            "bytes": 7190085632
           }
         ],
         "editions": [
@@ -17372,9 +17776,53 @@
         "salesStatus": "onsale"
       }
     },
+    "217550": {
+      "slug": "fire-emblem-engage",
+      "fetchedAt": "2026-10-26T22:05:02.412Z",
+      "data": {
+        "nsuid": "70010000058802",
+        "sku": "7100058802",
+        "name": "Fire Emblem™ Engage",
+        "url": "https://www.nintendo.com/store/products/fire-emblem-engage-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 17804820480
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 17804820480
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle",
+          "Special Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "217554": {
       "slug": "octopath-traveler-ii",
-      "fetchedAt": "2026-08-26T13:23:24.920Z",
+      "fetchedAt": "2026-10-26T22:05:03.185Z",
       "data": {
         "nsuid": "70010000058128",
         "sku": "7100058128",
@@ -17415,7 +17863,7 @@
     },
     "228525": {
       "slug": "hades-ii",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:03.897Z",
       "data": {
         "nsuid": "70010000105526",
         "sku": "7100105526",
@@ -17429,11 +17877,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 7492075520
+            "bytes": 7493124096
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 11610882048
+            "bytes": 14110687232
           }
         ],
         "editions": [
@@ -17452,9 +17900,51 @@
         "salesStatus": "onsale"
       }
     },
+    "236663": {
+      "slug": "metroid-prime-remastered",
+      "fetchedAt": "2026-10-26T22:05:05.228Z",
+      "data": {
+        "nsuid": "70010000063709",
+        "sku": "7100063709",
+        "name": "Metroid Prime™ Remastered",
+        "url": "https://www.nintendo.com/store/products/metroid-prime-remastered-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7268728832
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 7268728832
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "239392": {
       "slug": "mortal-kombat-1--1",
-      "fetchedAt": "2026-08-26T13:23:28.022Z",
+      "fetchedAt": "2026-10-26T22:05:07.833Z",
       "data": {
         "nsuid": "70010000053757",
         "sku": "7100053757",
@@ -17496,7 +17986,7 @@
     },
     "250621": {
       "slug": "neva",
-      "fetchedAt": "2026-08-26T13:23:29.882Z",
+      "fetchedAt": "2026-10-26T22:05:08.087Z",
       "data": {
         "nsuid": "70010000067708",
         "sku": "7100067708",
@@ -17538,7 +18028,7 @@
     },
     "251833": {
       "slug": "balatro",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:09.037Z",
       "data": {
         "nsuid": "70010000072051",
         "sku": "7100072051",
@@ -17570,16 +18060,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 14.99,
+        "price": 12.74,
         "regularPrice": 14.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "252476": {
       "slug": "prince-of-persia-the-lost-crown",
-      "fetchedAt": "2026-08-26T13:23:32.500Z",
+      "fetchedAt": "2026-10-26T22:05:10.254Z",
       "data": {
         "nsuid": "70010000057921",
         "sku": "7100057921",
@@ -17619,9 +18109,44 @@
         "salesStatus": "onsale"
       }
     },
+    "252647": {
+      "slug": "persona-3-reload",
+      "fetchedAt": "2026-10-26T22:05:10.745Z",
+      "data": {
+        "nsuid": "70010000100149",
+        "sku": "7100100149",
+        "name": "Persona 3 Reload",
+        "url": "https://www.nintendo.com/us/store/products/persona-3-reload-switch-2/",
+        "platform": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "compatibility": null,
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 23318233088
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "252827": {
       "slug": "star-wars-outlaws",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:11.573Z",
       "data": {
         "nsuid": "70010000095790",
         "sku": "7100095790",
@@ -17653,9 +18178,134 @@
         "salesStatus": "onsale"
       }
     },
+    "254327": {
+      "slug": "super-mario-rpg",
+      "fetchedAt": "2026-10-26T22:05:12.704Z",
+      "data": {
+        "nsuid": "70010000068683",
+        "sku": "7100068683",
+        "name": "Super Mario RPG™",
+        "url": "https://www.nintendo.com/store/products/super-mario-rpg-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 7014973440
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 7014973440
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "254328": {
+      "slug": "luigis-mansion-2-hd",
+      "fetchedAt": "2026-10-26T22:05:13.534Z",
+      "data": {
+        "nsuid": "70010000072954",
+        "sku": "7100072954",
+        "name": "Luigi's Mansion™ 2 HD",
+        "url": "https://www.nintendo.com/store/products/luigis-mansion-2-hd-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 3218079744
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 3218079744
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
+    "254337": {
+      "slug": "star-ocean-the-second-story-r",
+      "fetchedAt": "2026-10-26T22:05:16.685Z",
+      "data": {
+        "nsuid": "70010000062079",
+        "sku": "7100062079",
+        "name": "STAR OCEAN THE SECOND STORY R",
+        "url": "https://www.nintendo.com/store/products/star-ocean-the-second-story-r-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 12793675776
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 12793675776
+          }
+        ],
+        "editions": [
+          "Standard Edition"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 49.99,
+        "regularPrice": 49.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "254339": {
       "slug": "super-mario-bros-wonder",
-      "fetchedAt": "2026-08-26T13:23:34.195Z",
+      "fetchedAt": "2026-10-26T22:05:17.180Z",
       "data": {
         "nsuid": "70010000068688",
         "sku": "7100068688",
@@ -17695,15 +18345,57 @@
         "salesStatus": "onsale"
       }
     },
+    "254340": {
+      "slug": "princess-peach-showtime",
+      "fetchedAt": "2026-10-26T22:05:20.563Z",
+      "data": {
+        "nsuid": "70010000005022",
+        "sku": "7100005022",
+        "name": "Princess Peach™: Showtime!",
+        "url": "https://www.nintendo.com/store/products/princess-peach-showtime-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 5003804672
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 5003804672
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "256092": {
       "slug": "ea-sports-fc-24",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/store/products/ea-sports-fc-24-switch/",
-      "lastErrorAt": "2026-08-26T13:50:16.891Z"
+      "lastErrorAt": "2026-10-26T22:05:21.496Z"
     },
     "262529": {
       "slug": "little-nightmares-iii--1",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:23.405Z",
       "data": {
         "nsuid": "70010000062725",
         "sku": "7100062725",
@@ -17720,11 +18412,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 9702473728
+            "bytes": 11537481728
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 9702473728
+            "bytes": 11537481728
           }
         ],
         "editions": [
@@ -17745,7 +18437,7 @@
     },
     "262538": {
       "slug": "thank-goodness-youre-here",
-      "fetchedAt": "2026-08-26T13:23:37.681Z",
+      "fetchedAt": "2026-10-26T22:05:25.238Z",
       "data": {
         "nsuid": "70010000064959",
         "sku": "7100064959",
@@ -17784,9 +18476,51 @@
         "salesStatus": "onsale"
       }
     },
+    "272491": {
+      "slug": "mortal-kombat-1",
+      "fetchedAt": "2026-10-26T22:05:25.503Z",
+      "data": {
+        "nsuid": "70010000053757",
+        "sku": "7100053757",
+        "name": "Mortal Kombat™ 1",
+        "url": "https://www.nintendo.com/store/products/mortal-kombat-1-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 46056603648
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 46056603648
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "ROM Bundle"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 39.99,
+        "regularPrice": 39.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "275404": {
       "slug": "the-exit-8",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:26.184Z",
       "data": {
         "nsuid": "70010000079118",
         "sku": "7100079118",
@@ -17827,7 +18561,7 @@
     },
     "279634": {
       "slug": "dragon-ball-sparking-zero",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:29.566Z",
       "data": {
         "nsuid": "70010000102127",
         "sku": "7100102127",
@@ -17860,16 +18594,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 59.99,
+        "price": 35.99,
         "regularPrice": 59.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "288327": {
       "slug": "pokemon-legends-z-a",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:29.624Z",
       "data": {
         "nsuid": "70010000094234",
         "sku": "7100094234",
@@ -17896,7 +18630,8 @@
         "editions": [
           "Standard Edition",
           "ROM Bundle",
-          "Physical Edition - US"
+          "Physical Edition - US",
+          "Physical Edition + DLC - US"
         ],
         "playModes": [
           "TV mode",
@@ -17912,7 +18647,7 @@
     },
     "294661": {
       "slug": "content-warning",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:31.966Z",
       "data": {
         "nsuid": "70010000110768",
         "sku": "7100110768",
@@ -17941,16 +18676,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 9.99,
+        "price": 7.99,
         "regularPrice": 9.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "300976": {
       "slug": "assassins-creed-shadows",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:32.118Z",
       "data": {
         "nsuid": "70010000101043",
         "sku": "7100101043",
@@ -17985,7 +18720,7 @@
     },
     "305157": {
       "slug": "mixtape--1",
-      "fetchedAt": "2026-08-26T13:23:39.555Z",
+      "fetchedAt": "2026-10-26T22:05:32.941Z",
       "data": {
         "nsuid": "70010000113916",
         "sku": "7100113916",
@@ -18017,9 +18752,51 @@
         "salesStatus": "onsale"
       }
     },
+    "306148": {
+      "slug": "super-mario-party-jamboree",
+      "fetchedAt": "2026-10-26T22:05:33.991Z",
+      "data": {
+        "nsuid": "70010000084608",
+        "sku": "7100084608",
+        "name": "Super Mario Party™ Jamboree",
+        "url": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+        "platform": "Nintendo Switch",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "compatibility": {
+          "status": "PLAYABLE",
+          "caption": "Supported – Game behavior is consistent with Nintendo Switch."
+        },
+        "romSizes": [
+          {
+            "platform": "Nintendo Switch",
+            "bytes": 5762973696
+          },
+          {
+            "platform": "Nintendo Switch 2",
+            "bytes": 6118440960
+          }
+        ],
+        "editions": [
+          "Standard Edition",
+          "Physical Edition - US"
+        ],
+        "playModes": [
+          "TV mode",
+          "Tabletop mode",
+          "Handheld mode"
+        ],
+        "price": 59.99,
+        "regularPrice": 59.99,
+        "discounted": false,
+        "currency": "USD",
+        "salesStatus": "onsale"
+      }
+    },
     "306149": {
       "slug": "the-legend-of-zelda-echoes-of-wisdom",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:36.678Z",
       "data": {
         "nsuid": "70010000084618",
         "sku": "7100084618",
@@ -18063,16 +18840,16 @@
       "slug": "ea-sports-fc-25",
       "data": null,
       "lastError": "HTTP 404 for https://www.nintendo.com/us/store/products/ea-sports-fc-25-switch/",
-      "lastErrorAt": "2026-08-26T13:50:17.809Z"
+      "lastErrorAt": "2026-10-26T22:05:36.746Z"
     },
     "314246": {
       "slug": "borderlands-4",
-      "fetchedAt": "2026-08-26T13:23:40.679Z",
+      "fetchedAt": "2026-10-26T22:05:37.684Z",
       "data": null
     },
     "314265": {
       "slug": "reanimal",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:40.555Z",
       "data": {
         "nsuid": "70010000109876",
         "sku": "7100109876",
@@ -18100,16 +18877,16 @@
           "3002",
           "3003"
         ],
-        "price": 39.99,
+        "price": 31.99,
         "regularPrice": 39.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "320137": {
       "slug": "cronos-the-new-dawn",
-      "fetchedAt": "2026-08-26T13:23:43.634Z",
+      "fetchedAt": "2026-10-26T22:05:40.846Z",
       "data": {
         "nsuid": "70010000100072",
         "sku": "7100100072",
@@ -18134,16 +18911,16 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 59.99,
+        "price": 29.99,
         "regularPrice": 59.99,
-        "discounted": false,
+        "discounted": true,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "325594": {
       "slug": "split-fiction",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:42.838Z",
       "data": {
         "nsuid": "70010000097434",
         "sku": "7100097434",
@@ -18178,7 +18955,7 @@
     },
     "325609": {
       "slug": "dispatch--3",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:42.865Z",
       "data": {
         "nsuid": "70010000110051",
         "sku": "7100110051",
@@ -18192,11 +18969,11 @@
         "romSizes": [
           {
             "platform": "Nintendo Switch",
-            "bytes": 11762925568
+            "bytes": 13280215040
           },
           {
             "platform": "Nintendo Switch 2",
-            "bytes": 29461839872
+            "bytes": 31425822720
           }
         ],
         "editions": [
@@ -18208,26 +18985,26 @@
           "Tabletop mode",
           "Handheld mode"
         ],
-        "price": 23.99,
+        "price": 29.99,
         "regularPrice": 29.99,
-        "discounted": true,
+        "discounted": false,
         "currency": "USD",
         "salesStatus": "onsale"
       }
     },
     "338067": {
       "slug": "mario-kart-world",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:45.278Z",
       "data": null
     },
     "338106": {
       "slug": "donkey-kong-bananza",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:47.380Z",
       "data": null
     },
     "347668": {
       "slug": "resident-evil-requiem",
-      "fetchedAt": "2026-08-25T17:19:24.533Z",
+      "fetchedAt": "2026-10-26T22:05:50.683Z",
       "data": {
         "nsuid": "70010000101675",
         "sku": "7100101675",

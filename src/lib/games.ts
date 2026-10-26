@@ -97,7 +97,11 @@ function buildGame(igdb: IgdbGame): Game {
     patchIso: patch?.date ?? null,
     previousFps: patch?.previousFps ?? undefined,
     note: record?.note ?? undefined,
-    requested: record?.requested,
+    // "Highly requested" has to mean something, so it is derived here rather than read from
+    // the cached flag: a flagship console model documented at 30 FPS or below, with no
+    // frame-rate patch on record. That way it cannot drift from the entries it describes.
+    requested:
+      targets.some((t) => t.primary && t.fps > 0 && t.fps <= 30) && !patch,
     history: record ? buildHistory(record, igdb.releaseDate) : [],
     confidence: record ? strongest(targets.map((t) => t.confidence)) : "unknown",
     evidence: record?.evidence ?? [],
@@ -271,12 +275,27 @@ export function applyFilter(games: Game[], filter: FilterId, platform: PlatformI
   }
 }
 
-const byPopularity = (a: Game, b: Game) => b.popularity - a.popularity || b.ratingCount - a.ratingCount;
+/**
+ * The site's one definition of "popular": IGDB's "Playing" count, which tracks who is playing
+ * now, with the all-time rating count only as a tie-break. Exported so every list — rails,
+ * collections and the browse page — orders the same way instead of each picking a metric.
+ */
+export const byPopularity = (a: Game, b: Game) =>
+  b.popularity - a.popularity || b.ratingCount - a.ratingCount;
 
+/** Frame-rate-raising patches, newest patch first. An undated patch sorts last, not first. */
 export function recentlyUpgraded(platform: PlatformId) {
   return verifiedFor(platform)
     .filter((g) => g.previousFps && headlineFps(g, platform) > g.previousFps)
     .sort((a, b) => (b.patchIso ?? "").localeCompare(a.patchIso ?? ""));
+}
+
+/** How many of those patches landed within `months` — what "recently" can honestly claim. */
+export function upgradedWithin(platform: PlatformId, months = 12) {
+  const cutoff = new Date();
+  cutoff.setMonth(cutoff.getMonth() - months);
+  const iso = cutoff.toISOString().slice(0, 10);
+  return recentlyUpgraded(platform).filter((g) => (g.patchIso ?? "") >= iso);
 }
 
 export function popularAt(platform: PlatformId, fps: number) {
@@ -285,9 +304,14 @@ export function popularAt(platform: PlatformId, fps: number) {
     .sort(byPopularity);
 }
 
+/**
+ * Titles the "still waiting" rail is for: a documented flagship figure of 30 FPS or below and
+ * no frame-rate patch on record. Ordered by popularity, so the rail leads with the titles most
+ * people are actually asking about rather than whatever sorted first.
+ */
 export function stillLocked(platform: PlatformId) {
   return verifiedFor(platform)
-    .filter((g) => headlineFps(g, platform) <= 40)
+    .filter((g) => g.requested && headlineFps(g, platform) <= 40)
     .sort(byPopularity);
 }
 

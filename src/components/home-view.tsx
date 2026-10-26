@@ -19,6 +19,7 @@ import {
   recentlyUpgraded,
   searchGames,
   stillLocked,
+  upgradedWithin,
   verifiedFor,
 } from "@/lib/games";
 import { PLATFORM_LABEL } from "@/lib/types";
@@ -32,14 +33,19 @@ export function HomeView() {
 
   const data = useMemo(() => {
     const upgraded = recentlyUpgraded(platform);
+    const locked = stillLocked(platform);
+    const awaiting = awaitingVerification(platform);
     return {
       total: gamesFor(platform).length,
       verifiedCount: verifiedFor(platform).length,
       upgraded: upgraded.slice(0, RAIL),
       upgradedCount: upgraded.length,
+      upgradedRecentCount: upgradedWithin(platform, 12).length,
       popular: popularAt(platform, 60).slice(0, RAIL),
-      locked: stillLocked(platform).slice(0, RAIL),
-      awaiting: awaitingVerification(platform).slice(0, RAIL),
+      locked: locked.slice(0, RAIL),
+      lockedCount: locked.length,
+      awaiting: awaiting.slice(0, RAIL),
+      awaitingCount: awaiting.length,
       browse: mostPopular(platform).slice(0, 6),
     };
   }, [platform]);
@@ -129,7 +135,11 @@ export function HomeView() {
             <section>
               <SectionHeader
                 title={`Recently upgraded to 60 FPS`}
-                tag={`${data.upgradedCount} new patches`}
+                tag={
+                  data.upgradedRecentCount
+                    ? `${data.upgradedRecentCount} in the last 12 months`
+                    : `${data.upgradedCount} on record`
+                }
                 href="/patches"
               />
               <CardGrid>
@@ -149,7 +159,11 @@ export function HomeView() {
             </section>
 
             <section>
-              <SectionHeader title="Still 30 FPS" tag="Highly Requested" href="/browse?filter=30" />
+              <SectionHeader
+                title="Still 30 FPS"
+                tag={`${data.lockedCount} highly requested`}
+                href="/browse?filter=30"
+              />
               <CardGrid>
                 {data.locked.map((game) => (
                   <GameCard key={game.slug} game={game} platform={platform} />
@@ -160,7 +174,7 @@ export function HomeView() {
             <section>
               <SectionHeader
                 title="Awaiting verification"
-                tag={`${data.total - data.verifiedCount} titles`}
+                tag={`${data.awaitingCount} titles`}
                 href="/browse?filter=unverified"
               />
               <CardGrid>

@@ -47,27 +47,32 @@ targets per console model, quality/performance modes, patch version and date, pe
 notes and the URLs each figure was read from. It is assembled by `pnpm enrich` — see
 **How a frame rate gets verified** below — and hand-written entries always outrank it.
 
-Coverage from the last sync, out of 769 titles: Xbox 519, Game Pass 126, Nintendo 441,
-PlayStation 617, Steam 623, HowLongToBeat 0.
+Coverage from the last sync, across the 822 titles in the cache: Xbox 533, Game Pass 122,
+Nintendo 460, PlayStation 652, Steam 651, HowLongToBeat 0. 524 of those titles have a sourced
+frame rate and are the ones the site ships — see **What the site ships** below.
 
 Patch detection resolves a PlayStation title id for 598 of them and finds a patch history for
 **534** — 303 on PROSPEROPatches, 231 on ORBISPatches — of which 173 shipped an update in 2026
 and 223 carry changelog text the trackers expose for free.
 
-Verification currently stands at **487 verified titles / 737 console-model rows**: 37
-established by an official source, 165 by independent measurement, 285 by press. It has found
+Verification currently stands at **524 verified titles / 817 console-model rows**: 38
+established by an official source, 184 by independent measurement, 302 by press. It has found
 **34 patches that changed a frame rate**, including Assassin's Creed Unity's 1.6 update,
 sourced to Ubisoft's own page.
 
-115 of those titles were researched by hand rather than by the worker, after a pass over every
-title the pipeline had left undocumented — the popular end of that list is where published
-figures actually exist, so that is where hand research pays.
+163 of those titles were researched by hand rather than by the worker: first a pass over every
+title the pipeline had left undocumented, then a second pass that seeded ~60 new titles chosen
+because their console modes are documented in public sources — Spider-Man, Demon's Souls, the
+Resident Evil remakes, the Nintendo first-party remasters, Metal Gear Solid Delta and the rest.
+The popular end of the catalogue is where published figures actually exist, so that is where
+hand research pays.
 
-The remaining 282 titles came back with nothing established and render as "awaiting
-verification". That share grows as the catalogue reaches past the popular tail, because obscure
-games genuinely have no published frame rate figures, and inventing one is the failure this
-pipeline exists to avoid. A hand pass does not change that: a Switch puzzle game whose
-developer never stated a frame rate and that no outlet measured has no answer to find.
+The 292 cached titles that came back with nothing established are held out of the shipped
+catalogue rather than published as empty pages. They stay in `data/` so a later pass can bring
+them back, but obscure games genuinely have no published frame rate figures, and inventing one
+is the failure this pipeline exists to avoid. A hand pass does not change that: a Switch puzzle
+game whose developer never stated a frame rate and that no outlet measured has no answer to
+find.
 
 Platform availability is a merge, not a copy. IGDB's platform list misses consoles a
 storefront confirms — 42 titles are sold on Series X\|S with IGDB listing only Xbox One —
@@ -155,6 +160,27 @@ So a storefront that changes shape or goes down degrades that field for that gam
 nothing else — the remaining sources still run, the build still succeeds, and the site
 serves the last values that synced. Nothing is fetched during a page request: the app
 imports only the generated TypeScript.
+
+### What the site ships
+
+`pnpm generate` ships only the titles with at least one sourced frame rate figure. The cache
+keeps every title discovery ever found, so a later pass that verifies one brings it back
+automatically, but a page whose only answer is "awaiting verification" is not published. Per
+console the rails still say "awaiting verification", because a title verified on PS5 can be
+undocumented on Switch, and that gap is worth stating.
+
+The ordering behind each list is meant to be checkable rather than decorative:
+
+- **Recently upgraded to 60 FPS** — titles whose record carries both a previous figure and the
+  patch that raised it, newest patch date first, undated last. The count beside it is the
+  number within the last 12 months, not the all-time total.
+- **Popular** — IGDB's "Playing" count, with the all-time rating count only as a tie-break.
+  One comparator (`byPopularity`) is shared by the rails, the collections and the browse page,
+  so "most popular" means the same thing everywhere.
+- **Still 30 FPS / highly requested** — a flagship console model documented at 30 FPS or below
+  with no frame-rate patch on record, derived from the entries on every build rather than read
+  from a stored flag.
+- **Recently patched** (browse) — sorts on the patch's ISO date, not its "Mon YYYY" label.
 
 Page fetches are cached for 30 days; prices refresh on every run (Xbox in batches of 20,
 Nintendo through one batched price call across all NSUIDs).

@@ -120,6 +120,23 @@ function render(header, imports, body) {
  * empty rows — a title with no verified figure is simply absent, and renders as awaiting
  * verification.
  */
+/**
+ * Slugs with at least one sourced frame rate figure — the catalogue the site ships.
+ *
+ * A title nothing documents used to render as "awaiting verification" on its own page, which
+ * put hundreds of pages in the index that answered nobody's question. The cache still holds
+ * them, so a later pass that verifies one brings it straight back.
+ */
+async function verifiedSlugs() {
+  const table = await readSource("fpsRecords");
+  return new Set(
+    Object.values(table.entries)
+      .map((entry) => entry.data)
+      .filter((record) => record?.slug && record.entries.some((e) => e.fps > 0))
+      .map((record) => record.slug),
+  );
+}
+
 async function writeFpsRecords() {
   const table = await readSource("fpsRecords");
   const records = Object.values(table.entries)
@@ -148,8 +165,12 @@ async function writeFpsRecords() {
 
 export async function generate() {
   const igdb = await readSource("igdb");
-  const records = Object.values(igdb.entries).map((e) => e.data).filter(Boolean);
-  if (records.length === 0) throw new Error("data/igdb.json is empty — run `pnpm sync` first");
+  const cached = Object.values(igdb.entries).map((e) => e.data).filter(Boolean);
+  if (cached.length === 0) throw new Error("data/igdb.json is empty — run `pnpm sync` first");
+
+  const verified = await verifiedSlugs();
+  const records = cached.filter((r) => verified.has(r.index.slug));
+  const dropped = cached.length - records.length;
 
   const [xbox, gamePass, nintendo, playstation, hltb, steam, crawlora] = await Promise.all([
     loadData("xboxStore"),
@@ -234,6 +255,17 @@ export async function generate() {
 
   const fps = await writeFpsRecords();
   console.log(`  wrote ${index.length} titles — ${sources}`);
+  console.log(`  held back ${dropped} cached titles with no sourced figure`);
+
+  // IGDB occasionally renames a title, which changes its slug while its id stays put. The
+  // records join on slug, so an unmatched one is a record the site will never show.
+  const slugs = new Set(cached.map((r) => r.index.slug));
+  const orphans = [...verified].filter((slug) => !slugs.has(slug));
+  if (orphans.length > 0) {
+    console.warn(
+      `  ! ${orphans.length} verified record(s) have no catalogue entry: ${orphans.join(", ")}`,
+    );
+  }
   console.log(`  wrote ${fps.count} frame rate records — ${fps.verified} with a verified figure`);
 }
 
