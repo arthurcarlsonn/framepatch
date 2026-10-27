@@ -1,6 +1,6 @@
 {
   "source": "bcFrames",
-  "syncedAt": "2026-10-26T14:12:31.942Z",
+  "syncedAt": "2026-10-27T12:56:37.989Z",
   "entries": {
     "154": {
       "slug": "star-wars-episode-i-racer",
@@ -698,6 +698,27 @@
       "slug": "kingdom-come-deliverance",
       "fetchedAt": "2026-08-27T16:20:58.659Z",
       "data": null
+    },
+    "4847": {
+      "slug": "lords-of-the-fallen",
+      "fetchedAt": "2026-10-27T12:56:35.590Z",
+      "data": {
+        "url": "https://www.backwards-compatible.com/games/lords-of-the-fallen/",
+        "slug": "lords-of-the-fallen",
+        "title": "Lords of the Fallen - PS4 & PS5",
+        "prose": "Lords of the Fallen (PS4) is backwards compatible with the PlayStation 5 , offering a single graphics display mode running 1080p resolution at Locked 30 FPS.",
+        "body": "Is Lords of the Fallen compatible with PlayStation 5? Lords of the Fallen is a Action role-playing game for PS4, developed by Deck13 Interactive and published by City Interactive. Lords of the Fallen (PS4) is backwards compatible with the PlayStation 5 , offering a single graphics display mode running 1080p resolution at Locked 30 FPS.\n\nBC Performance Information Playstation 5 Resolution Frame rate 1080p Locked 30 FPS Playstation 4 Pro Resolution Frame rate 1080p 30 FPS Target Playstation 4 Resolution Frame rate 1080p 20-30 FPS",
+        "modes": [
+          {
+            "name": "Default",
+            "resolution": "1080p",
+            "targetFps": 30,
+            "unlocked": false,
+            "appType": "backcompat",
+            "quote": "1080p Locked 30 FPS"
+          }
+        ]
+      }
     },
     "5503": {
       "slug": "batman-arkham-knight",
@@ -1638,6 +1659,27 @@
             "unlocked": false,
             "appType": "backcompat",
             "quote": "2688x1512 (Performance) 120 FPS"
+          }
+        ]
+      }
+    },
+    "11208": {
+      "slug": "nier-automata",
+      "fetchedAt": "2026-10-27T12:56:36.194Z",
+      "data": {
+        "url": "https://www.backwards-compatible.com/games/nier-automata/",
+        "slug": "nier-automata",
+        "title": "NieR: Automata - PS4 & PS5",
+        "prose": null,
+        "body": "BC Performance Information Playstation 5 Resolution Frame rate 1080p 60 FPS Playstation 4 Pro Resolution Frame rate 1080p 60 FPS Target Playstation 4 Resolution Frame rate 900p 60 FPS Target BC Performance Notes Some cut scenes are 900p/30 FPS",
+        "modes": [
+          {
+            "name": "Default",
+            "resolution": "1080p",
+            "targetFps": 60,
+            "unlocked": false,
+            "appType": "backcompat",
+            "quote": "1080p 60 FPS"
           }
         ]
       }
@@ -2733,6 +2775,27 @@
         ]
       }
     },
+    "27421": {
+      "slug": "middle-earth-shadow-of-war",
+      "fetchedAt": "2026-10-27T12:56:36.786Z",
+      "data": {
+        "url": "https://www.backwards-compatible.com/games/middle-earth-shadow-of-war/",
+        "slug": "middle-earth-shadow-of-war",
+        "title": "Middle-Earth: Shadow of War - PS4 & PS5",
+        "prose": null,
+        "body": "BC Performance Information Playstation 5 Resolution Frame rate Dynamic 2160p (2160p) (Quality) Dynamic 2160p (2160p) (Performance) Locked 30 FPS Locked 30 FPS Improvements Ambient Occlusion '>AO Draw Distance Level of Detail '>LOD Playstation 4 Pro Resolution Frame rate Dynamic 2160p (1660p) (Quality) Dynamic 2160p (1620p) (Performance) 30 FPS 30 FPS Improvements Ambient Occlusion '>AO Draw Distance Level of Detail '>LOD Playstation 4 Resolution Frame rate 1080p 30 FPS Target BC Performance Notes Draw Distance & LOD improvements available only on Visual Quality mode",
+        "modes": [
+          {
+            "name": "2160p",
+            "resolution": "Dynamic 2160p (Performance)",
+            "targetFps": 30,
+            "unlocked": false,
+            "appType": "backcompat",
+            "quote": "Dynamic 2160p (2160p) (Performance) Locked 30 FPS"
+          }
+        ]
+      }
+    },
     "27433": {
       "slug": "steamworld-dig-2",
       "fetchedAt": "2026-08-27T16:21:53.191Z",
@@ -3068,6 +3131,35 @@
             "unlocked": false,
             "appType": "backcompat",
             "quote": "1620p Locked 60 FPS"
+          }
+        ]
+      }
+    },
+    "36926": {
+      "slug": "monster-hunter-world",
+      "fetchedAt": "2026-10-27T12:56:37.619Z",
+      "data": {
+        "url": "https://www.backwards-compatible.com/games/monster-hunter-world/",
+        "slug": "monster-hunter-world",
+        "title": "Monster Hunter World - PS4 & PS5",
+        "prose": "Monster Hunter World (PS4) is backwards compatible with the PlayStation 5 , offering multiple display modes to select from. The available options and their performance on PS5, PS4 Pro and PS4 is listed below.",
+        "body": "Is Monster Hunter World compatible with PlayStation 5? Monster Hunter World is a Action role-playing game for PS4, developed by Capcom and published by Capcom. Monster Hunter World (PS4) is backwards compatible with the PlayStation 5 , offering multiple display modes to select from. The available options and their performance on PS5, PS4 Pro and PS4 is listed below.\n\nBC Performance Information Playstation 5 Resolution Frame rate 1800c (Resolution Mode) 60 FPS 1080t (Quality) 1080t (Performance) Locked 60 FPS Locked 60 FPS Improvements Draw Distance Level of Detail '>LOD Shadows Playstation 4 Pro Resolution Frame rate 1800c (Resolution Mode) 30-45 FPS 1080t (Quality) 30-40 FPS 1080t (Performance) 35-55 FPS Improvements Draw Distance Level of Detail '>LOD Shadows Playstation 4 Resolution Frame rate 1080t 25-40 FPS BC Performance Notes Visual improvements apply to Quality (Graphics) mode on PS5/PS4 Pro",
+        "modes": [
+          {
+            "name": "Resolution Mode",
+            "resolution": "1800c",
+            "targetFps": 60,
+            "unlocked": false,
+            "appType": "backcompat",
+            "quote": "1800c (Resolution Mode) 60 FPS"
+          },
+          {
+            "name": "Performance",
+            "resolution": "1080t",
+            "targetFps": 60,
+            "unlocked": false,
+            "appType": "backcompat",
+            "quote": "1080t (Performance) Locked 60 FPS"
           }
         ]
       }
@@ -3597,6 +3689,51 @@
             "unlocked": false,
             "appType": "backcompat",
             "quote": "Dynamic 2160t (1440p) 30 FPS"
+          }
+        ]
+      }
+    },
+    "103330": {
+      "slug": "nioh-2",
+      "fetchedAt": "2026-10-27T12:56:37.989Z",
+      "data": {
+        "url": "https://www.backwards-compatible.com/games/nioh-2/",
+        "slug": "nioh-2",
+        "title": "Nioh 2 - PS4 & PS5",
+        "prose": null,
+        "body": "Free PS5 Version Upgrade This game comes with a free update to the PlayStation 5 native version. If you own the digital version, you can download the PS5 edition from the PlayStation Store. If you own the disc version, you can download the PS5 edition but will need to insert the disc each time you play.\n\nPlayStation 5 Version Performance Playstation 5 Native Resolution Frame rate 2160p (4K Mode) 60 FPS Target Dynamic 1080p (120Hz Mode) 120 FPS Target 2160c (PS5 Mode) Locked 60 FPS Improvements Shadows Reflections Level of Detail '>LOD Draw Distance PS5 Performance Notes Visual improvements mainly apply to PS5 mode, however there are some more subtle visual improvements in 4K mode. 120 FPS mode has reduced visual quality for shadows and textures.\n\nPlayStation 4 BC Performance Information Playstation 5 Resolution Frame rate Dynamic 2160t (2160p) (Quality) Dynamic 1080p (1080p) (Performance) Locked 60 FPS Locked 60 FPS Improvements Anisotropic filtering '>AF Geometry Shadows Playstation 4 Pro Resolution Frame rate Dynamic 2160t (1800p) (Quality) 25-45 FPS Dynamic 1080p (1080p) (Performance) Locked 60 FPS Improvements Anisotropic filtering '>AF Geometry Shadows Playstation 4 Resolution Frame rate Dynamic 1080p (972p) (Quality) 40-55 FPS Dynamic 1080p (720p) (Performance) 55-60 FPS BC Performance Notes Visual improvements apply to Quality (Graphics) mode on PS5/PS4 Pro",
+        "modes": [
+          {
+            "name": "4K Mode",
+            "resolution": "2160p",
+            "targetFps": 60,
+            "unlocked": false,
+            "appType": "native",
+            "quote": "2160p (4K Mode) 60 FPS Target"
+          },
+          {
+            "name": "120Hz Mode",
+            "resolution": "Dynamic 1080p",
+            "targetFps": 120,
+            "unlocked": false,
+            "appType": "native",
+            "quote": "Dynamic 1080p (120Hz Mode) 120 FPS Target"
+          },
+          {
+            "name": "PS5 Mode",
+            "resolution": "2160c",
+            "targetFps": 60,
+            "unlocked": false,
+            "appType": "native",
+            "quote": "2160c (PS5 Mode) Locked 60 FPS"
+          },
+          {
+            "name": "1080p",
+            "resolution": "Dynamic 1080p (Performance)",
+            "targetFps": 60,
+            "unlocked": false,
+            "appType": "backcompat",
+            "quote": "Dynamic 1080p (1080p) (Performance) Locked 60 FPS"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-10-26T14:12:27.896Z",
+  "syncedAt": "2026-10-27T12:56:30.428Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -770,6 +770,36 @@
         ]
       }
     },
+    "880": {
+      "slug": "resident-evil-2",
+      "fetchedAt": "2026-10-27T12:54:55.338Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA07813",
+        "url": "https://prosperopatches.com/PPSA07813",
+        "latestVersion": "01.000.001",
+        "latestDate": "2025-11-11",
+        "patches": [
+          {
+            "version": "01.000.001",
+            "date": "2025-11-11",
+            "isLatest": true,
+            "sizeLabel": "4 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.000",
+            "date": "2025-08-19",
+            "isLatest": false,
+            "sizeLabel": "4 GB",
+            "requiredFirmware": "11.40.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "885": {
       "slug": "super-meat-boy",
       "fetchedAt": "2026-10-26T13:48:49.342Z",
@@ -1395,6 +1425,28 @@
             "sizeLabel": "235.4MB",
             "requiredFirmware": "8.03",
             "changelogPreview": "Bug Fixes:\n ● Fixed several bugs."
+          }
+        ]
+      }
+    },
+    "1384": {
+      "slug": "hotline-miami",
+      "fetchedAt": "2026-10-27T12:54:58.333Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA09682",
+        "url": "https://prosperopatches.com/PPSA09682",
+        "latestVersion": "01.000.002",
+        "latestDate": "2024-07-04",
+        "patches": [
+          {
+            "version": "01.000.002",
+            "date": "2024-07-04",
+            "isLatest": true,
+            "sizeLabel": "344.9 MB",
+            "requiredFirmware": "08.20.00.06",
+            "changelogPreview": null
           }
         ]
       }
@@ -3703,6 +3755,36 @@
         ]
       }
     },
+    "4847": {
+      "slug": "lords-of-the-fallen",
+      "fetchedAt": "2026-10-27T12:54:59.930Z",
+      "data": {
+        "tracker": "ORBISPatches",
+        "console": "PS4",
+        "titleId": "CUSA00369",
+        "url": "https://orbispatches.com/CUSA00369",
+        "latestVersion": "01.03",
+        "latestDate": "2015-02-06",
+        "patches": [
+          {
+            "version": "01.03",
+            "date": "2015-02-06",
+            "isLatest": true,
+            "sizeLabel": "5.1GB",
+            "requiredFirmware": "1.75",
+            "changelogPreview": "-\tMana regeneration issue fixed\n-\tImproper Infiltrator&#039;s behaviour (Boss does not attack the player) fixed.\n-\tThe c"
+          },
+          {
+            "version": "01.01",
+            "date": "2014-10-12",
+            "isLatest": false,
+            "sizeLabel": "4.4GB",
+            "requiredFirmware": "1.76",
+            "changelogPreview": "General:\n-\tGeneral improvements in difficulty balance\n-\tText &amp; voiceover fixes and improvements\n-\tIncorrect despawn"
+          }
+        ]
+      }
+    },
     "4848": {
       "slug": "max-the-curse-of-brotherhood",
       "fetchedAt": "2026-10-26T13:50:37.685Z",
@@ -4759,6 +4841,36 @@
       "fetchedAt": "2026-10-26T13:51:41.359Z",
       "data": null
     },
+    "7603": {
+      "slug": "hellblade-senuas-sacrifice",
+      "fetchedAt": "2026-10-27T12:55:01.511Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA27581",
+        "url": "https://prosperopatches.com/PPSA27581",
+        "latestVersion": "01.003.000",
+        "latestDate": "2025-12-18",
+        "patches": [
+          {
+            "version": "01.003.000",
+            "date": "2025-12-18",
+            "isLatest": true,
+            "sizeLabel": "11.7 GB",
+            "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.000",
+            "date": "2025-08-08",
+            "isLatest": false,
+            "sizeLabel": "11.6 GB",
+            "requiredFirmware": "11.40.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "7605": {
       "slug": "s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat",
       "fetchedAt": "2026-10-26T13:51:44.311Z",
@@ -5704,6 +5816,11 @@
         ]
       }
     },
+    "8794": {
+      "slug": "a-bird-story",
+      "fetchedAt": "2026-10-27T12:55:03.024Z",
+      "data": null
+    },
     "8965": {
       "slug": "darkest-dungeon",
       "fetchedAt": "2026-10-26T13:52:25.226Z",
@@ -6542,6 +6659,28 @@
             "sizeLabel": "2.8GB",
             "requiredFirmware": "4.73",
             "changelogPreview": "Updates and bug fixes."
+          }
+        ]
+      }
+    },
+    "10032": {
+      "slug": "ancestors-the-humankind-odyssey",
+      "fetchedAt": "2026-10-27T12:55:04.669Z",
+      "data": {
+        "tracker": "ORBISPatches",
+        "console": "PS4",
+        "titleId": "CUSA13252",
+        "url": "https://orbispatches.com/CUSA13252",
+        "latestVersion": "01.01",
+        "latestDate": "2020-03-17",
+        "patches": [
+          {
+            "version": "01.01",
+            "date": "2020-03-17",
+            "isLatest": true,
+            "sizeLabel": "3.1GB",
+            "requiredFirmware": "7.02",
+            "changelogPreview": "Patch Highlights\n•\tController vibration support: gameplay actions will now be accompanied by a vibration.  \n•\tNew visual"
           }
         ]
       }
@@ -7595,6 +7734,68 @@
         ]
       }
     },
+    "11169": {
+      "slug": "final-fantasy-vii-remake",
+      "fetchedAt": "2026-10-27T12:55:06.251Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01903",
+        "url": "https://prosperopatches.com/PPSA01903",
+        "latestVersion": "01.005.000",
+        "latestDate": "2026-02-18",
+        "patches": [
+          {
+            "version": "01.005.000",
+            "date": "2026-02-18",
+            "isLatest": true,
+            "sizeLabel": "83.4 GB",
+            "requiredFirmware": "12.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.004.000",
+            "date": "2026-01-22",
+            "isLatest": false,
+            "sizeLabel": "83.4 GB",
+            "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.003.000",
+            "date": "2024-12-24",
+            "isLatest": false,
+            "sizeLabel": "76.1 GB",
+            "requiredFirmware": "10.40.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.000",
+            "date": "2024-12-13",
+            "isLatest": false,
+            "sizeLabel": "76.1 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.000",
+            "date": "2024-02-26",
+            "isLatest": false,
+            "sizeLabel": "76.1 GB",
+            "requiredFirmware": "08.60.00.04",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.000",
+            "date": "2021-06-04",
+            "isLatest": false,
+            "sizeLabel": "75.8 GB",
+            "requiredFirmware": "03.00.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "11171": {
       "slug": "tom-clancys-ghost-recon-wildlands",
       "fetchedAt": "2026-10-26T13:53:42.513Z",
@@ -8079,6 +8280,52 @@
             "sizeLabel": "39.9GB",
             "requiredFirmware": "13.02",
             "changelogPreview": "-Various Bug Fixes"
+          }
+        ]
+      }
+    },
+    "11208": {
+      "slug": "nier-automata",
+      "fetchedAt": "2026-10-27T12:55:07.833Z",
+      "data": {
+        "tracker": "ORBISPatches",
+        "console": "PS4",
+        "titleId": "CUSA04551",
+        "url": "https://orbispatches.com/CUSA04551",
+        "latestVersion": "01.07",
+        "latestDate": "2024-06-14",
+        "patches": [
+          {
+            "version": "01.07",
+            "date": "2024-06-14",
+            "isLatest": true,
+            "sizeLabel": "3.4GB",
+            "requiredFirmware": "11.50",
+            "changelogPreview": "- Fixed various bugs."
+          },
+          {
+            "version": "01.06",
+            "date": "2017-04-25",
+            "isLatest": false,
+            "sizeLabel": "3.4GB",
+            "requiredFirmware": "4.55",
+            "changelogPreview": "- Fixed various bugs."
+          },
+          {
+            "version": "01.04",
+            "date": "2017-04-04",
+            "isLatest": false,
+            "sizeLabel": "3.1GB",
+            "requiredFirmware": "4.50",
+            "changelogPreview": "- Fixed various bugs."
+          },
+          {
+            "version": "01.02",
+            "date": "2017-03-01",
+            "isLatest": false,
+            "sizeLabel": "2.8GB",
+            "requiredFirmware": "4.07",
+            "changelogPreview": "- Fixed a bug causing some treasure chests to be open when starting a New Game.\n\t- Fixed a bug causing other players’ bo"
           }
         ]
       }
@@ -9691,6 +9938,11 @@
     "17032": {
       "slug": "darkwood",
       "fetchedAt": "2026-10-26T13:55:19.050Z",
+      "data": null
+    },
+    "17131": {
+      "slug": "beamng-dot-drive",
+      "fetchedAt": "2026-10-27T12:55:07.929Z",
       "data": null
     },
     "17269": {
@@ -12175,6 +12427,52 @@
         ]
       }
     },
+    "23248": {
+      "slug": "frostpunk",
+      "fetchedAt": "2026-10-27T12:55:10.833Z",
+      "data": {
+        "tracker": "ORBISPatches",
+        "console": "PS4",
+        "titleId": "CUSA15716",
+        "url": "https://orbispatches.com/CUSA15716",
+        "latestVersion": "01.05",
+        "latestDate": "2021-08-30",
+        "patches": [
+          {
+            "version": "01.05",
+            "date": "2021-08-30",
+            "isLatest": true,
+            "sizeLabel": "5.6GB",
+            "requiredFirmware": "9.00",
+            "changelogPreview": "Minor bugfixes"
+          },
+          {
+            "version": "01.04",
+            "date": "2021-06-23",
+            "isLatest": false,
+            "sizeLabel": "5.6GB",
+            "requiredFirmware": "8.52",
+            "changelogPreview": "Minor bugfixes"
+          },
+          {
+            "version": "01.02",
+            "date": "2019-11-14",
+            "isLatest": false,
+            "sizeLabel": "3GB",
+            "requiredFirmware": "7.00",
+            "changelogPreview": "Fixed the issue with incorrect UI scaling\n      Increased prompts visibility\n      Improved the presentation of recently"
+          },
+          {
+            "version": "01.01",
+            "date": "2019-09-18",
+            "isLatest": false,
+            "sizeLabel": "3GB",
+            "requiredFirmware": "6.72",
+            "changelogPreview": "Increased number of save slots\n      Fixed numerous graphical glitches\n      Eliminated small freezes during timelapse a"
+          }
+        ]
+      }
+    },
     "23733": {
       "slug": "tunic",
       "fetchedAt": "2026-10-26T13:57:03.438Z",
@@ -13859,6 +14157,108 @@
             "sizeLabel": "370.1MB",
             "requiredFirmware": "6.71",
             "changelogPreview": "Following features are added.\n\t  - Added DLC support\n\t  - Performance improvements"
+          }
+        ]
+      }
+    },
+    "27421": {
+      "slug": "middle-earth-shadow-of-war",
+      "fetchedAt": "2026-10-27T12:55:13.835Z",
+      "data": {
+        "tracker": "ORBISPatches",
+        "console": "PS4",
+        "titleId": "CUSA04408",
+        "url": "https://orbispatches.com/CUSA04408",
+        "latestVersion": "01.18",
+        "latestDate": "2018-08-23",
+        "patches": [
+          {
+            "version": "01.18",
+            "date": "2018-08-23",
+            "isLatest": true,
+            "sizeLabel": "16.4GB",
+            "requiredFirmware": "5.55",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.17",
+            "date": "2018-08-03",
+            "isLatest": false,
+            "sizeLabel": "16.4GB",
+            "requiredFirmware": "5.55",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.16",
+            "date": "2018-06-30",
+            "isLatest": false,
+            "sizeLabel": "16.4GB",
+            "requiredFirmware": "5.55",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.15",
+            "date": "2018-05-24",
+            "isLatest": false,
+            "sizeLabel": "16GB",
+            "requiredFirmware": "5.55",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.14",
+            "date": "2018-05-11",
+            "isLatest": false,
+            "sizeLabel": "15.4GB",
+            "requiredFirmware": "5.53",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.13",
+            "date": "2018-04-28",
+            "isLatest": false,
+            "sizeLabel": "15.4GB",
+            "requiredFirmware": "5.53",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.12",
+            "date": "2018-04-17",
+            "isLatest": false,
+            "sizeLabel": "15.2GB",
+            "requiredFirmware": "5.53",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.11",
+            "date": "2018-02-15",
+            "isLatest": false,
+            "sizeLabel": "9.1GB",
+            "requiredFirmware": "5.05",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.05",
+            "date": "2017-11-04",
+            "isLatest": false,
+            "sizeLabel": "4.1GB",
+            "requiredFirmware": "5.01",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.04",
+            "date": "2017-10-12",
+            "isLatest": false,
+            "sizeLabel": "1.2GB",
+            "requiredFirmware": "5.00",
+            "changelogPreview": "Bug fixes."
+          },
+          {
+            "version": "01.03",
+            "date": "2017-09-29",
+            "isLatest": false,
+            "sizeLabel": "1.2GB",
+            "requiredFirmware": "4.73",
+            "changelogPreview": "Bug fixes."
           }
         ]
       }
@@ -15939,6 +16339,140 @@
         ]
       }
     },
+    "36926": {
+      "slug": "monster-hunter-world",
+      "fetchedAt": "2026-10-27T12:55:16.840Z",
+      "data": {
+        "tracker": "ORBISPatches",
+        "console": "PS4",
+        "titleId": "CUSA07713",
+        "url": "https://orbispatches.com/CUSA07713",
+        "latestVersion": "15.23",
+        "latestDate": "2024-08-30",
+        "patches": [
+          {
+            "version": "15.23",
+            "date": "2024-08-30",
+            "isLatest": true,
+            "sizeLabel": "41.2GB",
+            "requiredFirmware": "11.52",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.22",
+            "date": "2024-05-16",
+            "isLatest": false,
+            "sizeLabel": "41.2GB",
+            "requiredFirmware": "11.50",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.21",
+            "date": "2023-11-02",
+            "isLatest": false,
+            "sizeLabel": "41.2GB",
+            "requiredFirmware": "11.00",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.20",
+            "date": "2023-07-12",
+            "isLatest": false,
+            "sizeLabel": "41.2GB",
+            "requiredFirmware": "10.70",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.11",
+            "date": "2020-12-21",
+            "isLatest": false,
+            "sizeLabel": "41.2GB",
+            "requiredFirmware": "8.03",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.10",
+            "date": "2020-10-29",
+            "isLatest": false,
+            "sizeLabel": "41.2GB",
+            "requiredFirmware": "8.00",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.02",
+            "date": "2020-10-02",
+            "isLatest": false,
+            "sizeLabel": "40.7GB",
+            "requiredFirmware": "7.55",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "15.01",
+            "date": "2020-09-15",
+            "isLatest": false,
+            "sizeLabel": "40.7GB",
+            "requiredFirmware": "7.55",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "14.02",
+            "date": "2020-07-29",
+            "isLatest": false,
+            "sizeLabel": "38.5GB",
+            "requiredFirmware": "7.51",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "14.01",
+            "date": "2020-07-06",
+            "isLatest": false,
+            "sizeLabel": "38.5GB",
+            "requiredFirmware": "7.51",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "14.00",
+            "date": "2020-06-18",
+            "isLatest": false,
+            "sizeLabel": "38.5GB",
+            "requiredFirmware": "7.51",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "13.50",
+            "date": "2020-03-28",
+            "isLatest": false,
+            "sizeLabel": "37.4GB",
+            "requiredFirmware": "7.02",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "13.01",
+            "date": "2020-03-26",
+            "isLatest": false,
+            "sizeLabel": "37.1GB",
+            "requiredFirmware": "7.02",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "13.00",
+            "date": "2020-02-25",
+            "isLatest": false,
+            "sizeLabel": "37.1GB",
+            "requiredFirmware": "7.02",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          },
+          {
+            "version": "12.11",
+            "date": "2020-02-14",
+            "isLatest": false,
+            "sizeLabel": "36GB",
+            "requiredFirmware": "7.02",
+            "changelogPreview": "Update details will be available later on the site listed below.\nNote: certain details will be posted in English.\nhttps:"
+          }
+        ]
+      }
+    },
     "36929": {
       "slug": "pathfinder-kingmaker",
       "fetchedAt": "2026-10-26T13:59:41.691Z",
@@ -16342,6 +16876,11 @@
     "51528": {
       "slug": "telling-lies",
       "fetchedAt": "2026-10-26T13:59:55.788Z",
+      "data": null
+    },
+    "52189": {
+      "slug": "grand-theft-auto-vi",
+      "fetchedAt": "2026-10-27T12:55:16.960Z",
       "data": null
     },
     "54486": {
@@ -19278,6 +19817,44 @@
         ]
       }
     },
+    "103330": {
+      "slug": "nioh-2",
+      "fetchedAt": "2026-10-27T12:55:19.946Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA02487",
+        "url": "https://prosperopatches.com/PPSA02487",
+        "latestVersion": "01.027.001",
+        "latestDate": "2021-03-29",
+        "patches": [
+          {
+            "version": "01.027.001",
+            "date": "2021-03-29",
+            "isLatest": true,
+            "sizeLabel": "47.9 GB",
+            "requiredFirmware": "02.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.027.000",
+            "date": "2021-03-08",
+            "isLatest": false,
+            "sizeLabel": "47.9 GB",
+            "requiredFirmware": "02.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.026.000",
+            "date": "2021-02-20",
+            "isLatest": false,
+            "sizeLabel": "47.9 GB",
+            "requiredFirmware": "02.50.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "103341": {
       "slug": "overcooked-2",
       "fetchedAt": "2026-10-26T14:01:42.690Z",
@@ -19445,6 +20022,36 @@
             "isLatest": false,
             "sizeLabel": "955.1MB",
             "requiredFirmware": "12.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "104967": {
+      "slug": "valheim",
+      "fetchedAt": "2026-10-27T12:55:22.947Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA28824",
+        "url": "https://prosperopatches.com/PPSA28824",
+        "latestVersion": "01.000.020",
+        "latestDate": "2026-10-15",
+        "patches": [
+          {
+            "version": "01.000.020",
+            "date": "2026-10-15",
+            "isLatest": true,
+            "sizeLabel": "4.3 GB",
+            "requiredFirmware": "14.10.00.03",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.017",
+            "date": "2026-10-10",
+            "isLatest": false,
+            "sizeLabel": "4.3 GB",
+            "requiredFirmware": "14.00.00.39",
             "changelogPreview": null
           }
         ]
@@ -21432,6 +22039,60 @@
             "isLatest": false,
             "sizeLabel": "60 GB",
             "requiredFirmware": "09.20.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "115115": {
+      "slug": "resident-evil-3",
+      "fetchedAt": "2026-10-27T12:55:25.950Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA03952",
+        "url": "https://prosperopatches.com/PPSA03952",
+        "latestVersion": "01.000.004",
+        "latestDate": "2023-09-25",
+        "patches": [
+          {
+            "version": "01.000.004",
+            "date": "2023-09-25",
+            "isLatest": true,
+            "sizeLabel": "19.1 GB",
+            "requiredFirmware": "07.61.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.003",
+            "date": "2022-11-02",
+            "isLatest": false,
+            "sizeLabel": "19.1 GB",
+            "requiredFirmware": "06.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.002",
+            "date": "2022-08-30",
+            "isLatest": false,
+            "sizeLabel": "19.1 GB",
+            "requiredFirmware": "05.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.001",
+            "date": "2022-06-14",
+            "isLatest": false,
+            "sizeLabel": "19.1 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.000",
+            "date": "2022-06-08",
+            "isLatest": false,
+            "sizeLabel": "19.1 GB",
+            "requiredFirmware": "04.03.00.00",
             "changelogPreview": null
           }
         ]
@@ -26107,6 +26768,132 @@
         ]
       }
     },
+    "134581": {
+      "slug": "marvels-spider-man-miles-morales",
+      "fetchedAt": "2026-10-27T12:55:28.933Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01411",
+        "url": "https://prosperopatches.com/PPSA01411",
+        "latestVersion": "01.015.001",
+        "latestDate": "2024-11-07",
+        "patches": [
+          {
+            "version": "01.015.001",
+            "date": "2024-11-07",
+            "isLatest": true,
+            "sizeLabel": "50.7 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.015.000",
+            "date": "2024-11-05",
+            "isLatest": false,
+            "sizeLabel": "50.7 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.014.000",
+            "date": "2022-10-15",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "06.00.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.013.002",
+            "date": "2022-05-06",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.013.001",
+            "date": "2022-04-29",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.013.000",
+            "date": "2022-04-25",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.012.000",
+            "date": "2022-02-23",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "04.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.011.000",
+            "date": "2021-08-07",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "03.21.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.010.000",
+            "date": "2021-06-29",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "03.20.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.009.008",
+            "date": "2021-03-30",
+            "isLatest": false,
+            "sizeLabel": "50.6 GB",
+            "requiredFirmware": "02.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.000",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "50.5 GB",
+            "requiredFirmware": "02.30.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.001",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "50.5 GB",
+            "requiredFirmware": "02.26.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.006.002",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "50.5 GB",
+            "requiredFirmware": "02.26.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.005.001",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "50.5 GB",
+            "requiredFirmware": "02.25.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "134582": {
       "slug": "ratchet-and-clank-rift-apart",
       "fetchedAt": "2026-10-26T14:05:29.163Z",
@@ -26928,6 +27715,52 @@
             "isLatest": false,
             "sizeLabel": "7.6 GB",
             "requiredFirmware": "02.25.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "134606": {
+      "slug": "demons-souls",
+      "fetchedAt": "2026-10-27T12:55:31.930Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01342",
+        "url": "https://prosperopatches.com/PPSA01342",
+        "latestVersion": "01.007.000",
+        "latestDate": "2025-10-16",
+        "patches": [
+          {
+            "version": "01.007.000",
+            "date": "2025-10-16",
+            "isLatest": true,
+            "sizeLabel": "50.1 GB",
+            "requiredFirmware": "12.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.005.000",
+            "date": "2024-10-22",
+            "isLatest": false,
+            "sizeLabel": "50.1 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.004.000",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "50 GB",
+            "requiredFirmware": "02.26.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.003.000",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "49.3 GB",
+            "requiredFirmware": "02.20.00.00",
             "changelogPreview": null
           }
         ]
@@ -27868,6 +28701,116 @@
         ]
       }
     },
+    "138949": {
+      "slug": "marvels-spider-man-remastered",
+      "fetchedAt": "2026-10-27T12:55:34.951Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01467",
+        "url": "https://prosperopatches.com/PPSA01467",
+        "latestVersion": "01.008.001",
+        "latestDate": "2024-11-08",
+        "patches": [
+          {
+            "version": "01.008.001",
+            "date": "2024-11-08",
+            "isLatest": true,
+            "sizeLabel": "66.6 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.000",
+            "date": "2024-11-05",
+            "isLatest": false,
+            "sizeLabel": "66.6 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.003",
+            "date": "2022-06-03",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "05.10.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.002",
+            "date": "2022-05-06",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.001",
+            "date": "2022-04-29",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.000",
+            "date": "2022-04-25",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "05.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.006.000",
+            "date": "2021-12-10",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "04.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.005.000",
+            "date": "2021-08-21",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "03.21.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.004.000",
+            "date": "2021-02-17",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "02.50.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.003.000",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "02.30.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.000",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "02.26.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.000",
+            "date": "2021-02-01",
+            "isLatest": false,
+            "sizeLabel": "66.2 GB",
+            "requiredFirmware": "02.20.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "138950": {
       "slug": "monster-hunter-rise",
       "fetchedAt": "2026-10-26T14:06:29.580Z",
@@ -28430,6 +29373,11 @@
         ]
       }
     },
+    "143610": {
+      "slug": "triangle-strategy",
+      "fetchedAt": "2026-10-27T12:55:36.424Z",
+      "data": null
+    },
     "143612": {
       "slug": "neon-white",
       "fetchedAt": "2026-10-26T14:07:02.577Z",
@@ -28899,6 +29847,36 @@
             "isLatest": false,
             "sizeLabel": "805.9 MB",
             "requiredFirmware": "04.00.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "145937": {
+      "slug": "little-kitty-big-city",
+      "fetchedAt": "2026-10-27T12:55:39.420Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA13211",
+        "url": "https://prosperopatches.com/PPSA13211",
+        "latestVersion": "01.100.000",
+        "latestDate": "2026-07-28",
+        "patches": [
+          {
+            "version": "01.100.000",
+            "date": "2026-07-28",
+            "isLatest": true,
+            "sizeLabel": "870.4 MB",
+            "requiredFirmware": "13.42.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.090.000",
+            "date": "2026-05-30",
+            "isLatest": false,
+            "sizeLabel": "870.5 MB",
+            "requiredFirmware": "13.20.00.06",
             "changelogPreview": null
           }
         ]
@@ -29554,6 +30532,68 @@
         ]
       }
     },
+    "152063": {
+      "slug": "death-stranding-directors-cut",
+      "fetchedAt": "2026-10-27T12:55:42.424Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01969",
+        "url": "https://prosperopatches.com/PPSA01969",
+        "latestVersion": "01.005.000",
+        "latestDate": "2025-10-21",
+        "patches": [
+          {
+            "version": "01.005.000",
+            "date": "2025-10-21",
+            "isLatest": true,
+            "sizeLabel": "63.7 GB",
+            "requiredFirmware": "12.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.004.000",
+            "date": "2021-11-22",
+            "isLatest": false,
+            "sizeLabel": "64.2 GB",
+            "requiredFirmware": "04.03.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.003.000",
+            "date": "2021-10-26",
+            "isLatest": false,
+            "sizeLabel": "64.2 GB",
+            "requiredFirmware": "04.00.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.000",
+            "date": "2021-09-22",
+            "isLatest": false,
+            "sizeLabel": "64.1 GB",
+            "requiredFirmware": "04.00.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.000",
+            "date": "2021-08-17",
+            "isLatest": false,
+            "sizeLabel": "64 GB",
+            "requiredFirmware": "03.20.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.000",
+            "date": "2021-08-11",
+            "isLatest": false,
+            "sizeLabel": "63.9 GB",
+            "requiredFirmware": "03.00.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "152071": {
       "slug": "planet-of-lana",
       "fetchedAt": "2026-10-26T14:07:45.391Z",
@@ -29606,6 +30646,100 @@
             "isLatest": false,
             "sizeLabel": "2.8 GB",
             "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "152202": {
+      "slug": "avatar-frontiers-of-pandora",
+      "fetchedAt": "2026-10-27T12:55:45.424Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01576",
+        "url": "https://prosperopatches.com/PPSA01576",
+        "latestVersion": "01.020.000",
+        "latestDate": "2026-03-24",
+        "patches": [
+          {
+            "version": "01.020.000",
+            "date": "2026-03-24",
+            "isLatest": true,
+            "sizeLabel": "94.9 GB",
+            "requiredFirmware": "12.70.00.01",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.019.000",
+            "date": "2026-01-22",
+            "isLatest": false,
+            "sizeLabel": "93.2 GB",
+            "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.018.000",
+            "date": "2025-12-19",
+            "isLatest": false,
+            "sizeLabel": "91.4 GB",
+            "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.016.000",
+            "date": "2025-12-05",
+            "isLatest": false,
+            "sizeLabel": "85.1 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.015.000",
+            "date": "2025-09-23",
+            "isLatest": false,
+            "sizeLabel": "99.9 GB",
+            "requiredFirmware": "11.40.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.014.000",
+            "date": "2025-04-15",
+            "isLatest": false,
+            "sizeLabel": "99 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.013.000",
+            "date": "2024-12-12",
+            "isLatest": false,
+            "sizeLabel": "98.5 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.012.000",
+            "date": "2024-11-28",
+            "isLatest": false,
+            "sizeLabel": "97.3 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.011.000",
+            "date": "2024-10-29",
+            "isLatest": false,
+            "sizeLabel": "86.7 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.010.000",
+            "date": "2024-10-23",
+            "isLatest": false,
+            "sizeLabel": "85.3 GB",
+            "requiredFirmware": "09.40.00.08",
             "changelogPreview": null
           }
         ]
@@ -31746,6 +32880,52 @@
         ]
       }
     },
+    "204350": {
+      "slug": "the-last-of-us-part-i",
+      "fetchedAt": "2026-10-27T12:55:48.427Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA03396",
+        "url": "https://prosperopatches.com/PPSA03396",
+        "latestVersion": "02.002.000",
+        "latestDate": "2024-11-26",
+        "patches": [
+          {
+            "version": "02.002.000",
+            "date": "2024-11-26",
+            "isLatest": true,
+            "sizeLabel": "74.7 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "02.001.000",
+            "date": "2024-11-07",
+            "isLatest": false,
+            "sizeLabel": "74.7 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "02.000.000",
+            "date": "2024-10-21",
+            "isLatest": false,
+            "sizeLabel": "74.7 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.003.000",
+            "date": "2023-08-30",
+            "isLatest": false,
+            "sizeLabel": "71.7 GB",
+            "requiredFirmware": "07.01.01.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "204538": {
       "slug": "once-human",
       "fetchedAt": "2026-10-26T14:09:38.464Z",
@@ -32017,6 +33197,28 @@
             "isLatest": false,
             "sizeLabel": "49.9 GB",
             "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "205201": {
+      "slug": "crisis-core-final-fantasy-vii-reunion",
+      "fetchedAt": "2026-10-27T12:55:51.420Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA07809",
+        "url": "https://prosperopatches.com/PPSA07809",
+        "latestVersion": "01.004.000",
+        "latestDate": "2024-01-03",
+        "patches": [
+          {
+            "version": "01.004.000",
+            "date": "2024-01-03",
+            "isLatest": true,
+            "sizeLabel": "19.6 GB",
+            "requiredFirmware": "07.01.00.00",
             "changelogPreview": null
           }
         ]
@@ -32939,6 +34141,52 @@
         ]
       }
     },
+    "217594": {
+      "slug": "rise-of-the-ronin",
+      "fetchedAt": "2026-10-27T12:55:54.422Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA04539",
+        "url": "https://prosperopatches.com/PPSA04539",
+        "latestVersion": "01.009.000",
+        "latestDate": "2025-03-11",
+        "patches": [
+          {
+            "version": "01.009.000",
+            "date": "2025-03-11",
+            "isLatest": true,
+            "sizeLabel": "96.7 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.001",
+            "date": "2024-11-14",
+            "isLatest": false,
+            "sizeLabel": "96.7 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.000",
+            "date": "2024-10-27",
+            "isLatest": false,
+            "sizeLabel": "96.7 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.000",
+            "date": "2024-09-10",
+            "isLatest": false,
+            "sizeLabel": "96.5 GB",
+            "requiredFirmware": "09.40.00.08",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "217623": {
       "slug": "like-a-dragon-infinite-wealth",
       "fetchedAt": "2026-10-26T14:10:18.739Z",
@@ -33649,6 +34897,140 @@
         ]
       }
     },
+    "233571": {
+      "slug": "hitman-world-of-assassination",
+      "fetchedAt": "2026-10-27T12:55:57.425Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA01768",
+        "url": "https://prosperopatches.com/PPSA01768",
+        "latestVersion": "01.041.000",
+        "latestDate": "2026-08-27",
+        "patches": [
+          {
+            "version": "01.041.000",
+            "date": "2026-08-27",
+            "isLatest": true,
+            "sizeLabel": "78.2 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.040.000",
+            "date": "2026-06-12",
+            "isLatest": false,
+            "sizeLabel": "77.4 GB",
+            "requiredFirmware": "13.40.00.02",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.039.000",
+            "date": "2026-06-06",
+            "isLatest": false,
+            "sizeLabel": "77.4 GB",
+            "requiredFirmware": "13.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.038.000",
+            "date": "2026-02-25",
+            "isLatest": false,
+            "sizeLabel": "77 GB",
+            "requiredFirmware": "12.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.037.000",
+            "date": "2025-12-01",
+            "isLatest": false,
+            "sizeLabel": "76.3 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.036.000",
+            "date": "2025-10-30",
+            "isLatest": false,
+            "sizeLabel": "76 GB",
+            "requiredFirmware": "12.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.033.000",
+            "date": "2025-09-25",
+            "isLatest": false,
+            "sizeLabel": "75.9 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.031.000",
+            "date": "2025-08-25",
+            "isLatest": false,
+            "sizeLabel": "75.5 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.030.000",
+            "date": "2025-06-07",
+            "isLatest": false,
+            "sizeLabel": "75.5 GB",
+            "requiredFirmware": "11.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.029.000",
+            "date": "2025-04-23",
+            "isLatest": false,
+            "sizeLabel": "75.2 GB",
+            "requiredFirmware": "11.00.00.43",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.028.000",
+            "date": "2025-04-10",
+            "isLatest": false,
+            "sizeLabel": "75.2 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.027.000",
+            "date": "2025-03-27",
+            "isLatest": false,
+            "sizeLabel": "75.2 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.026.000",
+            "date": "2024-12-20",
+            "isLatest": false,
+            "sizeLabel": "73.3 GB",
+            "requiredFirmware": "10.40.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.025.000",
+            "date": "2024-12-12",
+            "isLatest": false,
+            "sizeLabel": "73.6 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.023.000",
+            "date": "2024-09-12",
+            "isLatest": false,
+            "sizeLabel": "73.1 GB",
+            "requiredFirmware": "09.60.00.04",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "233585": {
       "slug": "hi-fi-rush",
       "fetchedAt": "2026-10-26T14:10:42.902Z",
@@ -33666,6 +35048,140 @@
             "isLatest": true,
             "sizeLabel": "14.7 GB",
             "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "234256": {
+      "slug": "the-crew-motorfest",
+      "fetchedAt": "2026-10-27T12:56:00.454Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA02838",
+        "url": "https://prosperopatches.com/PPSA02838",
+        "latestVersion": "01.025.000",
+        "latestDate": "2026-10-07",
+        "patches": [
+          {
+            "version": "01.025.000",
+            "date": "2026-10-07",
+            "isLatest": true,
+            "sizeLabel": "78.1 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.024.000",
+            "date": "2026-07-22",
+            "isLatest": false,
+            "sizeLabel": "71.7 GB",
+            "requiredFirmware": "13.42.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.023.000",
+            "date": "2026-07-01",
+            "isLatest": false,
+            "sizeLabel": "71.7 GB",
+            "requiredFirmware": "13.40.00.02",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.021.000",
+            "date": "2026-03-04",
+            "isLatest": false,
+            "sizeLabel": "66.4 GB",
+            "requiredFirmware": "12.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.019.000",
+            "date": "2025-12-03",
+            "isLatest": false,
+            "sizeLabel": "60.6 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.018.000",
+            "date": "2025-11-08",
+            "isLatest": false,
+            "sizeLabel": "60.6 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.017.000",
+            "date": "2025-11-05",
+            "isLatest": false,
+            "sizeLabel": "60.6 GB",
+            "requiredFirmware": "12.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.016.000",
+            "date": "2025-08-27",
+            "isLatest": false,
+            "sizeLabel": "55.7 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.015.000",
+            "date": "2025-07-02",
+            "isLatest": false,
+            "sizeLabel": "55.7 GB",
+            "requiredFirmware": "11.40.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.014.000",
+            "date": "2025-04-02",
+            "isLatest": false,
+            "sizeLabel": "51 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.013.000",
+            "date": "2025-03-05",
+            "isLatest": false,
+            "sizeLabel": "50.9 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.012.000",
+            "date": "2025-01-08",
+            "isLatest": false,
+            "sizeLabel": "47.5 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.011.000",
+            "date": "2024-11-06",
+            "isLatest": false,
+            "sizeLabel": "47.5 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.010.000",
+            "date": "2024-08-21",
+            "isLatest": false,
+            "sizeLabel": "42.7 GB",
+            "requiredFirmware": "09.40.00.08",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.009.000",
+            "date": "2024-07-03",
+            "isLatest": false,
+            "sizeLabel": "42.7 GB",
+            "requiredFirmware": "09.40.00.08",
             "changelogPreview": null
           }
         ]
@@ -34119,6 +35635,76 @@
         ]
       }
     },
+    "250634": {
+      "slug": "metal-gear-solid-delta-snake-eater",
+      "fetchedAt": "2026-10-27T12:56:03.425Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA15304",
+        "url": "https://prosperopatches.com/PPSA15304",
+        "latestVersion": "01.002.004",
+        "latestDate": "2026-01-26",
+        "patches": [
+          {
+            "version": "01.002.004",
+            "date": "2026-01-26",
+            "isLatest": true,
+            "sizeLabel": "99.3 GB",
+            "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.003",
+            "date": "2025-11-20",
+            "isLatest": false,
+            "sizeLabel": "98.9 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.002",
+            "date": "2025-11-13",
+            "isLatest": false,
+            "sizeLabel": "98.9 GB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.001",
+            "date": "2025-10-30",
+            "isLatest": false,
+            "sizeLabel": "98.9 GB",
+            "requiredFirmware": "12.02.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.004",
+            "date": "2025-09-25",
+            "isLatest": false,
+            "sizeLabel": "76.7 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.003",
+            "date": "2025-09-05",
+            "isLatest": false,
+            "sizeLabel": "76.9 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.002",
+            "date": "2025-09-02",
+            "isLatest": false,
+            "sizeLabel": "76.8 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "251833": {
       "slug": "balatro",
       "fetchedAt": "2026-10-26T14:10:57.896Z",
@@ -34181,6 +35767,52 @@
             "date": "2024-10-23",
             "isLatest": false,
             "sizeLabel": "21.4 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "252647": {
+      "slug": "persona-3-reload",
+      "fetchedAt": "2026-10-27T12:56:06.426Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA10872",
+        "url": "https://prosperopatches.com/PPSA10872",
+        "latestVersion": "01.011.000",
+        "latestDate": "2025-10-22",
+        "patches": [
+          {
+            "version": "01.011.000",
+            "date": "2025-10-22",
+            "isLatest": true,
+            "sizeLabel": "28.8 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.010.000",
+            "date": "2025-04-16",
+            "isLatest": false,
+            "sizeLabel": "28.7 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.009.000",
+            "date": "2025-03-12",
+            "isLatest": false,
+            "sizeLabel": "28.7 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.000",
+            "date": "2024-12-25",
+            "isLatest": false,
+            "sizeLabel": "28.7 GB",
             "requiredFirmware": "10.01.00.00",
             "changelogPreview": null
           }
@@ -34263,6 +35895,68 @@
         ]
       }
     },
+    "252830": {
+      "slug": "microsoft-flight-simulator-2024",
+      "fetchedAt": "2026-10-27T12:56:09.420Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA23943",
+        "url": "https://prosperopatches.com/PPSA23943",
+        "latestVersion": "01.009.021",
+        "latestDate": "2026-10-23",
+        "patches": [
+          {
+            "version": "01.009.021",
+            "date": "2026-10-23",
+            "isLatest": true,
+            "sizeLabel": "7.1 GB",
+            "requiredFirmware": "14.10.00.03",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.009.018",
+            "date": "2026-10-13",
+            "isLatest": false,
+            "sizeLabel": "7.1 GB",
+            "requiredFirmware": "14.10.00.03",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.016",
+            "date": "2026-08-27",
+            "isLatest": false,
+            "sizeLabel": "6.9 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.014",
+            "date": "2026-08-13",
+            "isLatest": false,
+            "sizeLabel": "6.8 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.035",
+            "date": "2026-06-30",
+            "isLatest": false,
+            "sizeLabel": "6.5 GB",
+            "requiredFirmware": "13.40.00.02",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.007.027",
+            "date": "2026-06-02",
+            "isLatest": false,
+            "sizeLabel": "6.4 GB",
+            "requiredFirmware": "13.00.00.40",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "252836": {
       "slug": "jusant",
       "fetchedAt": "2026-10-26T14:11:09.897Z",
@@ -34326,6 +36020,28 @@
             "isLatest": false,
             "sizeLabel": "8.1 GB",
             "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "254337": {
+      "slug": "star-ocean-the-second-story-r",
+      "fetchedAt": "2026-10-27T12:56:12.425Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA13715",
+        "url": "https://prosperopatches.com/PPSA13715",
+        "latestVersion": "01.010.000",
+        "latestDate": "2026-08-07",
+        "patches": [
+          {
+            "version": "01.010.000",
+            "date": "2026-08-07",
+            "isLatest": true,
+            "sizeLabel": "14.9 GB",
+            "requiredFirmware": "08.60.00.04",
             "changelogPreview": null
           }
         ]
@@ -34542,6 +36258,108 @@
             "isLatest": false,
             "sizeLabel": "1.1 GB",
             "requiredFirmware": "09.60.00.04",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "277143": {
+      "slug": "the-last-of-us-part-ii-remastered",
+      "fetchedAt": "2026-10-27T12:56:15.421Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA10662",
+        "url": "https://prosperopatches.com/PPSA10662",
+        "latestVersion": "02.001.010",
+        "latestDate": "2025-08-05",
+        "patches": [
+          {
+            "version": "02.001.010",
+            "date": "2025-08-05",
+            "isLatest": true,
+            "sizeLabel": "86.8 GB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "02.001.000",
+            "date": "2025-07-08",
+            "isLatest": false,
+            "sizeLabel": "86.7 GB",
+            "requiredFirmware": "11.40.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "02.000.010",
+            "date": "2025-04-04",
+            "isLatest": false,
+            "sizeLabel": "86.6 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "02.000.000",
+            "date": "2025-04-03",
+            "isLatest": false,
+            "sizeLabel": "86.6 GB",
+            "requiredFirmware": "10.60.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.000",
+            "date": "2024-10-21",
+            "isLatest": false,
+            "sizeLabel": "86 GB",
+            "requiredFirmware": "10.01.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.030",
+            "date": "2024-04-09",
+            "isLatest": false,
+            "sizeLabel": "85.7 GB",
+            "requiredFirmware": "09.00.00.45",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.020",
+            "date": "2024-03-15",
+            "isLatest": false,
+            "sizeLabel": "85.7 GB",
+            "requiredFirmware": "08.60.00.04",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.010",
+            "date": "2024-02-13",
+            "isLatest": false,
+            "sizeLabel": "85.7 GB",
+            "requiredFirmware": "08.60.00.04",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.001.000",
+            "date": "2024-02-02",
+            "isLatest": false,
+            "sizeLabel": "85.7 GB",
+            "requiredFirmware": "08.40.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.050",
+            "date": "2024-01-24",
+            "isLatest": false,
+            "sizeLabel": "77 GB",
+            "requiredFirmware": "08.40.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.040",
+            "date": "2024-01-23",
+            "isLatest": false,
+            "sizeLabel": "77 GB",
+            "requiredFirmware": "08.40.00.05",
             "changelogPreview": null
           }
         ]
@@ -34807,6 +36625,60 @@
         ]
       }
     },
+    "282831": {
+      "slug": "the-blood-of-dawnwalker",
+      "fetchedAt": "2026-10-27T12:56:18.429Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA28000",
+        "url": "https://prosperopatches.com/PPSA28000",
+        "latestVersion": "01.006.000",
+        "latestDate": "2026-10-22",
+        "patches": [
+          {
+            "version": "01.006.000",
+            "date": "2026-10-22",
+            "isLatest": true,
+            "sizeLabel": "48.2 GB",
+            "requiredFirmware": "14.10.00.03",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.005.000",
+            "date": "2026-09-09",
+            "isLatest": false,
+            "sizeLabel": "48.1 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.004.000",
+            "date": "2026-09-04",
+            "isLatest": false,
+            "sizeLabel": "48.1 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.003.000",
+            "date": "2026-08-31",
+            "isLatest": false,
+            "sizeLabel": "48 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.002.000",
+            "date": "2026-08-25",
+            "isLatest": false,
+            "sizeLabel": "47.8 GB",
+            "requiredFirmware": "13.60.00.07",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "290911": {
       "slug": "nobody-wants-to-die",
       "fetchedAt": "2026-10-26T14:11:32.403Z",
@@ -34941,6 +36813,28 @@
             "isLatest": false,
             "sizeLabel": "66.5 GB",
             "requiredFirmware": "13.42.00.00",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
+    "294453": {
+      "slug": "a-quiet-place-the-road-ahead",
+      "fetchedAt": "2026-10-27T12:56:21.425Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA19006",
+        "url": "https://prosperopatches.com/PPSA19006",
+        "latestVersion": "01.006.000",
+        "latestDate": "2024-12-17",
+        "patches": [
+          {
+            "version": "01.006.000",
+            "date": "2024-12-17",
+            "isLatest": true,
+            "sizeLabel": "29.2 GB",
+            "requiredFirmware": "10.20.00.06",
             "changelogPreview": null
           }
         ]
@@ -35955,6 +37849,36 @@
         ]
       }
     },
+    "317103": {
+      "slug": "horizon-zero-dawn-remastered",
+      "fetchedAt": "2026-10-27T12:56:24.419Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA13428",
+        "url": "https://prosperopatches.com/PPSA13428",
+        "latestVersion": "01.009.000",
+        "latestDate": "2026-07-23",
+        "patches": [
+          {
+            "version": "01.009.000",
+            "date": "2026-07-23",
+            "isLatest": true,
+            "sizeLabel": "79.7 GB",
+            "requiredFirmware": "13.42.00.00",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.008.001",
+            "date": "2024-12-24",
+            "isLatest": false,
+            "sizeLabel": "79.4 GB",
+            "requiredFirmware": "10.20.00.06",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "317407": {
       "slug": "battlefield-6",
       "fetchedAt": "2026-10-26T14:12:09.952Z",
@@ -36535,6 +38459,68 @@
         ]
       }
     },
+    "346035": {
+      "slug": "ball-x-pit",
+      "fetchedAt": "2026-10-27T12:56:27.429Z",
+      "data": {
+        "tracker": "PROSPEROPatches",
+        "console": "PS5",
+        "titleId": "PPSA31872",
+        "url": "https://prosperopatches.com/PPSA31872",
+        "latestVersion": "01.301.000",
+        "latestDate": "2026-08-06",
+        "patches": [
+          {
+            "version": "01.301.000",
+            "date": "2026-08-06",
+            "isLatest": true,
+            "sizeLabel": "376.5 MB",
+            "requiredFirmware": "13.20.00.06",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.293.000",
+            "date": "2026-04-27",
+            "isLatest": false,
+            "sizeLabel": "375.7 MB",
+            "requiredFirmware": "13.00.00.40",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.287.000",
+            "date": "2026-01-26",
+            "isLatest": false,
+            "sizeLabel": "373 MB",
+            "requiredFirmware": "12.40.00.09",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.278.000",
+            "date": "2025-11-11",
+            "isLatest": false,
+            "sizeLabel": "387.9 MB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.277.000",
+            "date": "2025-11-05",
+            "isLatest": false,
+            "sizeLabel": "387.2 MB",
+            "requiredFirmware": "12.20.00.05",
+            "changelogPreview": null
+          },
+          {
+            "version": "01.000.000",
+            "date": "2025-10-17",
+            "isLatest": false,
+            "sizeLabel": "384.6 MB",
+            "requiredFirmware": "11.60.00.05",
+            "changelogPreview": null
+          }
+        ]
+      }
+    },
     "347668": {
       "slug": "resident-evil-requiem",
       "fetchedAt": "2026-10-26T14:12:27.896Z",
@@ -36596,6 +38582,16 @@
           }
         ]
       }
+    },
+    "348330": {
+      "slug": "forza-horizon-6",
+      "fetchedAt": "2026-10-27T12:56:28.927Z",
+      "data": null
+    },
+    "349524": {
+      "slug": "peak--1",
+      "fetchedAt": "2026-10-27T12:56:30.428Z",
+      "data": null
     }
   }
 }
