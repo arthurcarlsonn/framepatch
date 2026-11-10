@@ -1,6 +1,6 @@
 {
   "source": "psPatches",
-  "syncedAt": "2026-11-09T18:03:04.050Z",
+  "syncedAt": "2026-11-10T15:21:48.207Z",
   "entries": {
     "79": {
       "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
@@ -10767,7 +10767,7 @@
     },
     "18918": {
       "slug": "northgard",
-      "fetchedAt": "2026-11-08T11:55:29.437Z",
+      "fetchedAt": "2026-11-10T15:21:43.662Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -10825,9 +10825,7 @@
             "changelogPreview": "Improved font readability\n      Rare bugs fixes"
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-11-09T17:15:16.503Z"
+      }
     },
     "18927": {
       "slug": "hue",
@@ -23537,7 +23535,7 @@
     },
     "119304": {
       "slug": "spiritfarer",
-      "fetchedAt": "2026-11-08T12:03:12.973Z",
+      "fetchedAt": "2026-11-10T15:21:46.622Z",
       "data": {
         "tracker": "ORBISPatches",
         "console": "PS4",
@@ -23651,9 +23649,7 @@
             "changelogPreview": "- Bug fixes\n- Improve performance"
           }
         ]
-      },
-      "lastError": "HTTP 522 for https://orbispatches.com/CUSA20182",
-      "lastErrorAt": "2026-11-09T17:38:07.067Z"
+      }
     },
     "119305": {
       "slug": "lego-star-wars-the-skywalker-saga",
@@ -23759,7 +23755,7 @@
     },
     "119308": {
       "slug": "ghostwire-tokyo",
-      "fetchedAt": "2026-11-08T12:03:17.496Z",
+      "fetchedAt": "2026-11-10T15:21:48.207Z",
       "data": {
         "tracker": "PROSPEROPatches",
         "console": "PS5",
@@ -23849,9 +23845,7 @@
             "changelogPreview": null
           }
         ]
-      },
-      "lastError": "This operation was aborted",
-      "lastErrorAt": "2026-11-09T17:43:12.703Z"
+      }
     },
     "119357": {
       "slug": "immortals-fenyx-rising",
